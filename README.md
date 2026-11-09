@@ -65,7 +65,12 @@ PC 부품의 가격을 한곳에서 비교하는 서비스를 통해 사용자�
   <br />
 
 # 5. 요구사항 명세서
+| [Issue 확인](https://github.com/ddarahakit2024/mlo-03-p1-team0/issues?q=is%3Aissue+state%3Aclosed) |
+
+
 # 6. ERD
+<img src="./docs/ERD.png" >
+
 # 7. 주요 프로시저
 <img src="./docs/시스템아키텍처.png" >
 

@@ -1,0 +1,73 @@
+{
+  "base_url": "https://www.mlops.kro.kr/",
+  "action_weights": {
+    "home": 4, "category": 14, "search": 14, "products": 10, "detail": 18, "compare": 8,
+    "scroll": 12, "scroll_back": 4, "stay_on_page": 5, "back": 5,
+    "change_sort": 6, "filter_brand": 4, "filter_price": 5, "toggle_trend_filter": 4,
+    "clear_filters": 4, "next_product_page": 5, "refine_search": 5,
+    "read_section": 6, "view_specs": 9, "view_reviews": 8, "view_price_history": 7,
+    "change_price_period": 4, "view_store_prices": 5,
+    "browse_same_category": 7, "add_to_compare": 6, "open_compared_product": 7,
+    "find_more_alternatives": 5, "open_recommendation": 5, "revisit_product": 4,
+    "add_to_cart": 7, "quick_add_to_cart": 4, "view_cart": 5, "open_cart_product": 5,
+    "change_cart_quantity": 3, "remove_cart_item": 2, "continue_shopping": 5,
+    "buy_now": 2, "checkout": 4, "view_orders": 2, "open_order": 4, "request_return": 0.6,
+    "write_review": 3, "set_price_alert": 3, "request_price_match": 1.5,
+    "visit_community": 3, "open_board": 5, "read_post": 7, "search_board": 2,
+    "write_post": 1.2, "request_build_quote": 0.8, "write_comment": 2.5, "send_quote": 1.5,
+    "add_quote_to_cart": 1.5, "visit_questions": 2.5, "read_question": 6, "ask_question": 1,
+    "answer_question": 2, "accept_answer": 4,
+    "view_mypage": 1.5, "check_notifications": 2, "view_alerts": 1.5, "view_my_posts": 1.5,
+    "login": 2, "logout": 0.3,
+    "finish": 1.5, "abandon_shopping": 1
+  },
+  "goal_weights": {
+    "browse": 22, "research": 18, "purchase": 14, "community": 10,
+    "build_quote": 6, "qna": 8, "after_purchase": 14, "price_watch": 8
+  },
+  "login_mode_weights": {"remembered": 4, "login": 4, "guest": 2},
+  "logout_probability": 0.3,
+  "account": {"email_domain": "sim.moa.test"},
+  "product_types": {
+    "cpu": {"label": "CPU", "weight": 10, "search_terms": ["라이젠", "라이젠5", "라이젠7", "코어 i5", "코어 i7", "AMD", "인텔", "X3D"]},
+    "mainboard": {"label": "메인보드", "weight": 7, "search_terms": ["B650", "B760", "B850", "X870", "Z790", "A620", "ASUS", "MSI", "박격포", "토마호크"]},
+    "memory": {"label": "메모리", "weight": 10, "search_terms": ["DDR5", "DDR4", "16GB", "32GB", "DDR5-6000", "Trident", "CL30", "메모리"]},
+    "gpu": {"label": "그래픽카드", "weight": 10, "search_terms": ["RTX", "RTX 5070", "RTX 5060", "RTX 5080", "지포스", "라데온", "RX 9070", "그래픽카드"]},
+    "storage": {"label": "저장장치", "weight": 8, "search_terms": ["NVMe", "1TB", "2TB", "M.2", "990 PRO", "990 EVO", "SATA", "SSD"]},
+    "psu": {"label": "파워", "weight": 5, "search_terms": ["750W", "850W", "1000W", "80PLUS", "GOLD", "풀모듈러", "SFX", "파워"]},
+    "case": {"label": "케이스", "weight": 5, "search_terms": ["미들타워", "미니타워", "빅타워", "LANCOOL", "O11", "화이트", "케이스"]},
+    "cooler": {"label": "쿨러", "weight": 5, "search_terms": ["쿨러", "CPU 쿨러", "수랭", "듀얼타워", "싱글타워", "360", "로우프로파일"]}
+  },
+  "delay_seconds": {"min": 1.5, "max": 5},
+  "visit_gap_seconds": {"min": 5, "max": 15},
+  "page_dwell_seconds": {
+    "home": {"min": 3, "max": 10},
+    "catalog": {"min": 8, "max": 25},
+    "detail": {"min": 15, "max": 45},
+    "compare": {"min": 20, "max": 60},
+    "cart": {"min": 8, "max": 25},
+    "checkout": {"min": 10, "max": 30},
+    "orders": {"min": 5, "max": 15},
+    "order": {"min": 8, "max": 25},
+    "login": {"min": 2, "max": 6},
+    "my": {"min": 5, "max": 15},
+    "community": {"min": 5, "max": 15},
+    "board": {"min": 6, "max": 20},
+    "post": {"min": 15, "max": 45},
+    "editor": {"min": 3, "max": 10},
+    "other": {"min": 3, "max": 10}
+  },
+  "max_actions": 40,
+  "navigation_timeout_ms": 20000,
+  "concurrency": 3,
+  "output_dir": "shop_results",
+  "network": {
+    "enabled": true,
+    "ip_ranges": "ip_ranges.csv",
+    "pool_sizes": {"office": 20, "wifi": 30, "mobile": 12},
+    "office_probability": 0.85,
+    "away_probability": {"laptop": 0.3, "mixed": 0.15, "desktop": 0.0, "unknown": 0.1},
+    "mobile_share": 0.4,
+    "home_ip_change_probability": 0.03
+  }
+}
