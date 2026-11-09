@@ -22,7 +22,7 @@ PC 부품의 가격을 한곳에서 비교하는 서비스를 통해 사용자�
 ### 프로젝트 목표
 
 **1) PC 부품 가격 비교 서비스 구현·배포**
-
+- AI를 활용하여 실제 서비스를 구현
 - 다양한 상품을 서비스로 제공(8개의 카테고리 400개의 상품)
 - 판매처별 가격 비교, 가격 변동 그래프, 1년 최저가, 가성비 지수 제공
 - 회원가입·소셜 로그인, 장바구니·결제(PortOne)·반품, 리뷰, 커뮤니티(질문·자유·견적 게시판) 기능
@@ -65,14 +65,18 @@ PC 부품의 가격을 한곳에서 비교하는 서비스를 통해 사용자�
   <br />
 
 # 5. 요구사항 명세서
-| [Issue 확인](https://github.com/ddarahakit2024/mlo-03-p1-team0/issues?q=is%3Aissue+state%3Aclosed) |
+| Issue 확인(https://github.com/ddarahakit2024/mlo-03-p1-team0/issues?q=is%3Aissue+state%3Aclosed) |
 
 
 # 6. ERD
 <img src="./docs/ERD.png" >
 
+[ERD 테이블·속성 설명 (Wiki)](https://github.com/ddarahakit2024/mlo-03-p1-team0/wiki/ERD)
+
 # 7. 주요 프로시저
 <img src="./docs/시스템아키텍처.png" >
+
+[데이터 흐름 설명: DB 저장, 이벤트 MongoDB 저장, 가상 사용자 동시 실행 (Wiki)](https://github.com/ddarahakit2024/mlo-03-p1-team0/wiki/%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80)
 
 # 8. 수행결과(테스트/시연 페이지)
 - ### 서비스 이용 자동화
