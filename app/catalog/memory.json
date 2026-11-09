@@ -1,0 +1,3352 @@
+[
+  {
+    "name": "DDR5-5600 32GB (16GB x2)",
+    "brand": "삼성전자",
+    "category": "memory",
+    "model_code": "M323R2GA3DB0-CWM",
+    "series": "Samsung DDR5 UDIMM",
+    "released_on": "2023-02-01",
+    "summary": "안정성이 검증된 DDR5 데스크톱 메모리 2개 묶음",
+    "description": "듀얼 채널 구성을 위한 16GB 모듈 2개입니다. 방열판이 없는 기본형으로, 1.1V JEDEC 표준 속도라 대부분의 DDR5 메인보드에서 바로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 704000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 703980,
+          "title": "삼성전자 삼성 DDR5 PC5-44800 16GB, 1개 (낱개 2개 가격)",
+          "url": "https://cr.shopping.naver.com/adcr?x=HCrfd5F1j8A%2Fk7ZKvgIBGv%2F%2F%2Fw%3D%3DsETxTsmALUQhmj6feaYhnuZc94jiE8urLfegM%2FGKZPLQTLmXUhZhsvbCrcWfzg%2BVnhkkSqejvTh7YAOxe1JuyHiClegHBXfjKSAKUEaVjP%2Bdsgskcii7BtbMbAtiG%2FQLnS5nuRcOmjawFXBdI30LtNeeYxdaBAC3mqpAUA5GwCwDffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy3bZ88FM%2FyRcjVQaBk5J9nGSWkIe9Duvd4V0wmKs1XmSVVKnbONbHOCULbN8miHq%2FdpjRX5ZvXXW8HIjpET8NRKVdzHMvl%2FKTtFo1spkBZ7lPWArAWFeeWWgqqfex3sIAQlffNBsS082ZOfWfHe5e9DDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqiLvvFJNJPmx%2BJ0ktvIxKo09Z0SeMqENQcl4GV2BeGrFpQBdpennd4Dq30zXMoJthIY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj8%2FNSz4XFiFgwdHA8NrIRgjMZ2LV2X5imgbZxfVdNGLAae3z85rrp%2BEU98rU2pNPlXrOGK9hc5fEZKd3nVeBZXXYHd84zstxP6c%2BFQnL7%2B%2BM6i%2BerTisBOuof41w2OFD4eplBHQ7B1UWKiI3Q9l%2FW7qh1bAtCT22O1NTctmKBJJtEaThcwm2jOjlPe7qD4n462uFNqYg5UzBSabxuV%2BuhVoQK52d%2BhLu9pOZIcIRrKliaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=52204540637&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "삼성전자 DDR5-5600 16GB",
+    "image": {
+      "file": "samsung-ddr5-5600-32gb.webp",
+      "source_url": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/pf_module/ddr5/spec-module-ddr5-udimm-pc.png"
+    }
+  },
+  {
+    "name": "Trident Z5 RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3040F16GX2-TZ5RK",
+    "series": "Trident Z5 RGB",
+    "released_on": "2022-04-06",
+    "summary": "인텔 XMP 3.0 을 지원하는 저지연 RGB 메모리",
+    "description": "6000MT/s CL30 저지연 메모리로, RGB 조명이 들어간 방열판을 갖췄습니다. 인텔 XMP 3.0 프로파일을 켜면 정격 속도로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-40-40-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 982500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 982470,
+          "title": "지스킬 DDR5 PC5-48000 CL30 TRIDENT Z5 RGB J 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=iJbGS%2Be%2Fo7B4mc%2FPJ77icv%2F%2F%2Fw%3D%3DsoDt%2B4y3EBkIvwfDqRBgugiTqpl4Na7ujUn3ydW8l54PofpHbu7%2FFPd45rG93JvjJ5h3xlUJuiQ7ZD%2By1kzXhyKKaU0A6GBUn7%2BptZdTGbyxUyjA2WLco2S%2BiccVNHi9X0nezDNglNRbMLangWJj2p1QECZtcos3FRxFNRMSdPcA1t%2FE%2BzTB5ELdfqBnpPkAX7wg0sZq9zXMBF%2BihhxLtqB4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnMMF7MFIUjZMxJk5czV%2FelPz262rbJE%2FSJ8XvDiT1HMSvxYD608K2mfdBPmQDNFp4WAZREdf6aBJEvtVmvwklyS%2F0SmF7lSQAoatCXG09kZiLT6VuBNyX13SuPuqx%2FooAABMI6U1WGds3SbvQPSbq3vPOeJMuqt1K7AsbIyYggCc7cUAVRi1Y3x7Jz7awk%2BfMWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5uWuUmsrzj0EMbaLEoZHi8unP0Q%2BXsstacktK81%2BbvNpPVBDMIut42nyyM8MGNK2LElON%2F77Tr2l1Up8jCE%2FfWgzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7ttCO2co9I6a%2FWHqFGP0PYxu6%2BzuO6rCq2z%2BHmPhazXmaWB1q%2BR1wXdW7kgLXxcR53vn2sbdoXYN3oMDHOSKX95Qb7BTAKJEojQDeNQ5ffP%2B7WOXOtFXZQC81NIfY3t6xrnX4d6oPIwh8LHSgtxoGJ1rMz9pjDrUQWwFVorTZaZClWde7hgE0FyCacQnSYOSTY%2BgtF15PMkmjkNDmi88yMRdVez6qZAzEA4W9R5yUpDZMPZ4AKUu8qzzZXNqgQcRJ0hWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=52251476618&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Trident Z5 RGB DDR5-6000 CL30 32GB F5-6000J3040F16GX2-TZ5RK",
+    "image": {
+      "file": "gskill-trident-z5-rgb-ddr5-6000.webp",
+      "source_url": "https://www.gskill.com/_upload/images/164923516113.png"
+    }
+  },
+  {
+    "name": "DDR5-5600 32GB",
+    "brand": "삼성전자",
+    "category": "memory",
+    "model_code": "M323R4GA3DB0-CWM",
+    "series": "Samsung DDR5 UDIMM",
+    "released_on": "2023-06-01",
+    "summary": "모듈 하나로 32GB 를 채우는 삼성 DDR5-5600 표준 메모리",
+    "description": "방열판이 없는 JEDEC 표준 DDR5 UDIMM 32GB 모듈입니다. 두 개를 꽂으면 64GB 듀얼 채널이 되어 작업용 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 803000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 803000,
+          "title": "삼성전자 삼성 DDR5 PC5-44800 32GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=QcBtezhlb9xs4s%2FuHq%2BC4v%2F%2F%2Fw%3D%3DsAXNarR7cWTwdRLTh0NfYgTrnmE4srA7KZh60pLCkJ06LsDYMMIg3xU1SD54szSHCZfkK%2BO1N9srwM0hQtTa8GHTlebT7%2FGhjBt9C0YT9VeRrtUMoKarUFO3EQb1n8dXgikgMY%2Bu5zRTzZCsdXTLnbN4uOpiw3Cg9wiEelnLKpQ3L%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCoywv%2F3JLkahfA3xq8EQu7vhG%2BAWwXWMaAGiKfGakSHsHUnv5JA5e3a0s4614bilCb3tYYJhdq5HjP0PKCq%2BjqpYcrCSZi0XfT8vp6Xlcd63xBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FX2Oe%2Bf9UQyesj5kWxkgw0wVjQCpIk5kx4sJW2hrRfnKF3wpUjQ%2FD1l8RR1P0VIMi35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAMx3mU6%2FLGGzUsqG3c3ts7FzVtOsmcs9dXMHQ3xuZLacbI3%2FBVIGWlM4hwoHgxhKHJRrv4MsDoY2Lc7UzZVXHajRw06Jp2rsRX1tJ2NyNdVIKgNPYLhThSZPW9plQCuBcu%2BTtOuxSVqs%2BrgFYMu550FkqNCN2o0JkvQqEJu1eHiV%2BgtF15PMkmjkNDmi88yMRbQNkyfBUOioZiOJYTksMvDH5LzwfaDLb1xRihyM8niGhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=52204543625&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "삼성전자 DDR5-5600 32GB",
+    "image": {
+      "file": "samsung-ddr5-5600-32gb-single.webp",
+      "source_url": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/pf_module/ddr5/spec-module-ddr5-udimm-pc.png"
+    }
+  },
+  {
+    "name": "DDR5-5600 8GB",
+    "brand": "삼성전자",
+    "category": "memory",
+    "model_code": "M323R1GB4DB0-CWM",
+    "series": "Samsung DDR5 UDIMM",
+    "released_on": "2023-02-01",
+    "summary": "사무용·입문용 PC 에 알맞은 삼성 DDR5-5600 8GB 모듈",
+    "description": "가장 작은 용량의 삼성 DDR5 표준 메모리입니다. 게임용이라면 두 개를 꽂아 듀얼 채널 16GB 이상으로 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "8GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 8,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 179000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 179000,
+          "title": "삼성전자 데스크탑 8GB DDR5 5600 (PC5-44800) 메모리 PC용 (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=wTkQR5RunmqNJcwxZlOhmv%2F%2F%2Fw%3D%3DsOBRBduUDXBnQ9iRok6DhAzT7t3YJXgDW3uizUy6z0ccSNdTlJT%2FoSOEDc%2B9B6FjV8DIaRM%2BPG2NrR1K%2FsKAldhudXDGRLK1MH%2FH3A09PhOmJku3CtnlMmHI8hW0jBqSmtn%2BUtjSY9WwYum6o6C1qD4DoYfcb3uwRQ1sK1w6sa%2F82kmZ8vtTIEnyRuaHE0UDY9ayL7mz9v%2FjRdrE0WNoRFe9s5iznTi7FY9pGWCutAYPDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8VuZgd7JWu7vrIiRkSYIGOwVZF0ROX5KU8sS2PftUdjx%2FlLnJwMa7Bt8R2%2FUDqQrCS1LI9S8q6zRKwT31X3ugFdhB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2Bp%2FBWDjY%2BDDIxWTIr7ULazUGk2yJ%2BOS2u9amyL3yPCxrrrwLhsu2W5KMza%2BIr41TSdLITh05qt%2BuFX8SvhhOVYJW7PzG67Pwc02WpRsOU5zfwB2LCzOqRfmfORCSO3e5w36lZGcm5wDafGeqHAzAGBpcjN0hX3n4lnaWp%2BxJC9KGcOKNmphDPP%2FhVtAzc8dwhk6IwHKNUdI7rXgoYwW2gzUGtY0vFGtYcImi51jMcKK8YOOzSchSL1FH%2BXnW%2BbcAFI9yXp3vmxsC32yhBQIV9D9ongSAxJPZJhsIjnECI8CVPLVWGr8fvvH1mWvUgXPK6j&nvMid=91279371247&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "삼성전자 DDR5-5600 8GB",
+    "image": {
+      "file": "samsung-ddr5-5600-8gb.webp",
+      "source_url": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/pf_module/ddr5/spec-module-ddr5-udimm-pc.png"
+    }
+  },
+  {
+    "name": "DDR5-4800 16GB",
+    "brand": "삼성전자",
+    "category": "memory",
+    "model_code": "M323R2GA3BB0-CQK",
+    "series": "Samsung DDR5 UDIMM",
+    "released_on": "2021-11-01",
+    "summary": "DDR5 첫 세대의 삼성 DDR5-4800 16GB 표준 메모리",
+    "description": "인텔 12세대와 함께 나온 첫 세대 삼성 DDR5 UDIMM 입니다. JEDEC 표준 속도라 호환성이 좋고, 방열판 없이 1.1V 로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "4800MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL40"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 4800,
+      "cas_latency": 40,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 339800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 339810,
+          "title": "삼성전자 DDR5-4800 (16GB) 병행수입 PC5-38400",
+          "url": "https://cr.shopping.naver.com/adcr?x=GT7hA2KoI3PgKlZcBfiUbP%2F%2F%2Fw%3D%3DsviVbrnbLHjdX8Jcs26oGzWTMDaiDWrupSXxqpfe1pZyLsDYMMIg3xU1SD54szSHCT32FoFmHXv0Gehwg4uDXJQbd5fplw70QBB6GJFD4SmeDjJOf6QfDOOYtV94%2FeSSrEP4%2BKEiy5jb2cx9M7Bq%2BUNSPlLQlP%2F4IRLXP1AYGYtXFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDXAlmLwjKZJ9ubs0utWTb2873MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMY1pqqpigZG4B99AIRvR6IgkcKc%2FsClVXovxuoUSDpFt4evX6UWx2xdGk%2BzFj9URLNmVT8W3IaPa8P8P%2B1Xu%2FolsvdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPhWFeXH5kK3ScVTyvfcmZgsm3EZ2rR6S9DB3%2Bti%2FnRYWunM3c8FEkwx%2FvwtHi5ZIfH0XxYEGhu2iIhSZncHFeKA8d8OMRXFhXEPjc7JsVIVcQOOrFVtTSmuSTPggkKPWw1G7AQxJEMG5u%2FIKddELVgGBRVGdA6FVIVJOS%2BD3FLDNMgfKjv82yXmLYOyaw3MNSV%2FSpcCxn4sFQm%2FoLWtbTpdxkJifOkTa5QXqIyEbU7SIu5VZx6%2FcorXjzgOC3ABppxyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=91015205123&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "삼성전자 DDR5-4800 16GB",
+    "image": {
+      "file": "samsung-ddr5-4800-16gb.webp",
+      "source_url": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/pf_module/ddr5/spec-module-ddr5-udimm-pc.png"
+    }
+  },
+  {
+    "name": "DDR5-6400 CUDIMM 16GB",
+    "brand": "삼성전자",
+    "category": "memory",
+    "model_code": "M333R2GA3PB1-CCP",
+    "series": "Samsung DDR5 CUDIMM",
+    "released_on": "2026-03-01",
+    "summary": "클럭 드라이버를 넣은 삼성 DDR5-6400 CUDIMM 16GB",
+    "description": "모듈에 클럭 드라이버(CKD)를 넣어 고속에서도 신호가 안정적인 CUDIMM 입니다. 인텔 코어 울트라 200S(Z890 등)에서 6400MT/s 로 동작하며, 이전 플랫폼에서는 속도가 낮아질 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 CUDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL52"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 6400,
+      "cas_latency": 52,
+      "rgb": false,
+      "cudimm": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 364600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 364630,
+          "title": "삼성전자 삼성전자 DDR5-6400 CL52 CUDIMM (16GB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=PQz1DziAOMm9iJDV1gB1Zv%2F%2F%2Fw%3D%3Ds5TCor2xKkpHtIJoQivOl6D61nnfFgWNRe0PcaRmzwvoTLmXUhZhsvbCrcWfzg%2BVnx%2FLM3aIvWwML1YyhAA9Rgl5%2B6qoIv%2FVhPHMMM9%2BCwIZEciZhDl582Cv1dDBvw653U4MsiT1KqA0Nb7t8sglO9SwJuj7jaLXgCtez6A4rHHjJVctS9eyis3HlZKC2Vyq3NoKsg0Ezr9Z9fi7RS4nPnCvndKVuLQeCOm1tvb8ch40heLWO%2BJKaf4GU%2FxooXiPCRGkG8jDv2uzC07MqmhwEu4eNf5P7d9Qjf4x4%2FrMrDcYhdUHoE0pbMk3h6ziYVXFjEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2Oprda%2B%2FxHXb9t2B8xqQlw8e9j9TM33g7MivnAbc9%2BIAlON%2F77Tr2l1Up8jCE%2FfWgzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9COuw1S35OYQ2i7%2B3FmmH%2B2KfsHY4iGGXrLnQ4QUl2XfTNpkujD3dPMqh1bZI7WoCcoEtbsuNgqe4AxPpbP%2B1uJCOxfMjGhwRXE02z%2BQ0oTET5cY18Q9iwLxRMERGuqRH7onUte8h%2BqfPYI%2BQ45198r7wBS5uKxU%2BbUOIKTE5ikbIF8CXl251OpmWizflz2KEWcFoywMRSPrCYP%2B94lYd5%2BlvItn%2B4Ngi4R1r%2FfS0T4fmXNjqh%2FZemCCOboDhnweAmG&nvMid=60872691173&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "삼성전자 DDR5-6400 CUDIMM 16GB",
+    "image": {
+      "file": "samsung-ddr5-6400-cudimm-16gb.webp",
+      "source_url": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/pf_module/ddr5/spec-module-ddr5-udimm-pc.png"
+    }
+  },
+  {
+    "name": "DDR5-4800 16GB M다이",
+    "brand": "SK하이닉스",
+    "category": "memory",
+    "model_code": "HMCG78MEBUA081N",
+    "series": "SK hynix DDR5 UDIMM",
+    "released_on": "2022-03-01",
+    "summary": "SK하이닉스 첫 세대 DDR5-4800 16GB 표준 메모리",
+    "description": "16Gb M다이를 쓴 JEDEC 표준 DDR5 UDIMM 입니다. 방열판 없는 기본형으로 1.1V 에서 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "4800MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL40-39-39"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 4800,
+      "cas_latency": 40,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 375000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 375000,
+          "title": "SK하이닉스 데스크탑 DDR5-4800 38400 (16GB) 램 RAM 메모리",
+          "url": "https://cr.shopping.naver.com/adcr?x=cd4igdZ82rOnp2ScR90AeP%2F%2F%2Fw%3D%3DsG00lLDIER2EWTYxpbdC78wiCXgqEi%2FZ3nRZDsalgAnEkkShzx5DdPDONGSbI5wKwXARQKiKuBy5WvjbU%2Fq3akpdgXoJLhM8K5VLy%2B9DDphJR7vyj81Ea%2FDcZuU5VzQRqLzogCneQWEH3h1zyk3bwOCu8Xp3D%2B%2BZs9%2BhKl0VEzFLJrHFGbgfwdxgOLQHcHeJCZ9BPu5bC%2FF3Pycy%2BFcIoXUjoMwgwUyogXXIUm5TQyg4WaPuOCz8CaX3cPkeGF%2BoQhRklcRSf6Q9IljjQx8Mx%2FH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUNRVrwkjHhypcIBGR04xnCHw%2BQZ7mSFxdUpsWGdPsS7RdrU9gBvTOY8XVxGgpGxxdGMlTAH06BbcIise3iKSbXwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLgFgtY00rD217LhMf1kv87iPfsyCK5CPme%2FHz9kP5c24W7QdYUnQ%2FGPJi%2FslU1niMpJ7vwYd6EfCxhavGwt4XbxpJYhtERGfLwgW268eq3a2JgSBbHjokiKjobmyuuABtzdWs6HZJIMrSQMOXC5hbFRPF2QErpXJVQ5YU3xmNC41nBeRT%2FRqgBBRf2wVgKmUDSk3Vg6pMYAnmXQsJRoND7uqebQMaIiFIILKCCNLUMlnKf0F2A1fXSqMEvJJV3aqGiVgp8BOWxGN%2BpxKButV%2FLAGruH08DlKshetxY8KUEZb&nvMid=91174152541&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 DDR5-4800 16GB",
+    "image": {
+      "file": "skhynix-ddr5-4800-16gb.webp",
+      "source_url": "https://mis-prod-koce-producthomepage-cdn-01-ep.azureedge.net/images/promotion/products/dram/3_4depth/module/images/Module_Depth3_Thumbnail_3_220324.png"
+    }
+  },
+  {
+    "name": "DDR5-5600 16GB A다이",
+    "brand": "SK하이닉스",
+    "category": "memory",
+    "model_code": "HMCG78AGBUA081N",
+    "series": "SK hynix DDR5 UDIMM",
+    "released_on": "2023-01-01",
+    "summary": "국내에서 많이 쓰이는 SK하이닉스 A다이 DDR5-5600 16GB",
+    "description": "16Gb A다이를 쓴 JEDEC 표준 DDR5 UDIMM 입니다. 기본 5600MT/s 로 동작하며, 메인보드에서 수동으로 속도를 올려 쓰는 사용자도 많습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 370500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 370510,
+          "title": "SK하이닉스 DDR5 PC5-44800 CL46 파인인포 RAM 16GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=1XR9gc%2F8v%2B0OXH4l3Klzg%2F%2F%2F%2Fw%3D%3DsHArvuAleg8yru5Ezyfdzs28%2F12bnt61NCqBUusEiuMgkkShzx5DdPDONGSbI5wKwnyFyPDTfdnneHw4r5grp2vjYil0IyEZm1gvtV%2B35uL%2BawvsEeWF3oCIDsNU6V2B1N7J3Rv2sQxs45ru8T0VJve0NBMqtPktdSPKGcF3AEdSGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0PMdR4f%2BWJCC0L9eQ9akN%2FeaFMYHwVUXJPBqxAFYJffJKQiDdfsq%2FekPJoy1l4Y3k5burX2Z7sXi0pK1IOYqksnyHiAYbQf1n%2Fp3VRNcDCL6wziqJFpNnaqCC9H4hFGPXcljstJGctv4j9sgS%2FfL16qrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPO4N5aG0Lwe7YgdTODs%2FTHozx9Byjgitp5Viav4kop4xwgHDG444D6ea0KNY%2BYz503KUGdwUrnZJ8gg8IW7yBNToagc8iPXZxAGy5qqstm%2FRzokFlcvgKMqhxjiJuk6GOcF%2BIucAiYHhk2O4%2Bv3w9fHOQd85Q9c6hso8bl2tbztw%2Fd81seoBFnAeZaeGTXfJ5sjUHQVxPkU3K9WdGHKxqoARMBmZArzwTzzWiT%2BHEacwWj2RaicQZeeubUQ9zR3QWj82BCUKJgiFOwYZBzvLwJDDGPYxbeX2vgbEVivMDQP3Ly1MYnQq0PtDLLeW9dwCTL6GwQPkCmsEuMsFcdsbb4wIN8V%2BJL3TYw0vmZINmfwU7LV0IwSdTURkEhvmkWmUKOnXCUlHj8A5yhxQPBfrqdgdHI8FZtQVGFZJxOyBDKc%2B&nvMid=58525255480&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 DDR5-5600 16GB",
+    "image": {
+      "file": "skhynix-ddr5-5600-16gb.webp",
+      "source_url": "https://mis-prod-koce-producthomepage-cdn-01-ep.azureedge.net/images/promotion/products/dram/3_4depth/module/images/Module_Depth3_Thumbnail_3_220324.png"
+    }
+  },
+  {
+    "name": "DDR5-5600 32GB A다이",
+    "brand": "SK하이닉스",
+    "category": "memory",
+    "model_code": "HMCG88AGBUA081N",
+    "series": "SK hynix DDR5 UDIMM",
+    "released_on": "2023-01-01",
+    "summary": "듀얼 랭크 32GB 모듈인 SK하이닉스 DDR5-5600",
+    "description": "16Gb A다이 칩을 양면에 단 32GB JEDEC 표준 DDR5 UDIMM 입니다. 두 개로 64GB 를 구성하기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB"
+      },
+      {
+        "label": "CAS 레이턴시",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 822000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 822000,
+          "title": "SK하이닉스 DDR5 PC5-44800 CL46 파인인포 RAM 32GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=r3cPlf0HXEXWi9nZTZ9nPf%2F%2F%2Fw%3D%3DsImT1wwG1KSyVhVM6DsZSwr2wYj0IHspY6IBwIIOxXrRWWkM3t2kSoasXDuHbiZjRO4XYr8%2BcH%2BVS3aDLnrJFAD4f%2BqRDh9z7WtJjxBvoedfz%2F2ihPuOmMos%2Fx8NePGV8VqBDsIbUabljR3CBJJK5xCnAOsbYEUOPiS8E0uVTyczffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy0ONiuHaDI0WMxa07occsXQFNajUw4nQ%2Bh2yp5pTus40%2B16y18Mdol2c3uQRpU5BqPrkaqDgJ7jGAC9JlekGutV%2FRL2oph8PnAkNAGpKIYft8854ky6q3UrsCxsjJiCAJ3MZMP%2FjXMfq%2B7K%2FfYLD9%2FhD4P%2Bj2CVvS6QkrpszyaIoCuwrUM2Vi5bq9fxYHuPhKdEovxxj%2Bx4kM37zTI%2BAe3JoKCCrHNKTQTNT32sYCXsdZXjt%2FWpisEnoAZABexr1ZYBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRQ3NKv6eOibTVavvTqtecs2orZQmiOjpTXAoEDHWdwi5AByjwDYhrtQvd8LmtU7b5l1usaotzADdXUBSPQO9UyQiIwWNQhdB%2BC%2BlcXRfEUCvxd%2BnivtE6FifQFBC5LXFHPgjbtei5HX2iN%2BjX41NC1g%2FzDIekluklBnwlvSZFGjxtiqMjzoIBRUY2GrPlg1ctk%2Fg8w8cKe509NmMZFQPeJTbsD%2FL1ZzPsRTvY%2FPoQQY9G9HMzKEbwlyUMOHSa2pDUpy8sARekz3cqx4uaUskJFYNUJgJp6CUXauCvW7Y5AjN&nvMid=58525255976&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 DDR5-5600 32GB",
+    "image": {
+      "file": "skhynix-ddr5-5600-32gb.webp",
+      "source_url": "https://mis-prod-koce-producthomepage-cdn-01-ep.azureedge.net/images/promotion/products/dram/3_4depth/module/images/Module_Depth3_Thumbnail_3_220324.png"
+    }
+  },
+  {
+    "name": "DDR5-4800 CL40 16GB",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CT16G48C40U5",
+    "series": "Crucial DDR5",
+    "released_on": "2021-10-27",
+    "summary": "Crucial 의 첫 세대 DDR5-4800 16GB 데스크톱 메모리",
+    "description": "인텔 12세대 출시에 맞춰 나온 JEDEC 표준 DDR5 UDIMM 입니다. 방열판이 없고 1.1V 에서 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "4800MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL40-39-39"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 4800,
+      "cas_latency": 40,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 323000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 323000,
+          "title": "마이크론 Crucial 데스크탑 DDR5-4800 38400 CL40 (16GB) 램 RAM 메모리",
+          "url": "https://cr.shopping.naver.com/adcr?x=WpzCnzRso7XQa70ZYQ0A%2Bf%2F%2F%2Fw%3D%3Ds9i7PlfLdKAe0OFmXZu%2BR3OSEakRmKAZwMMTvfGgg6txjRUrezh7CrFl7ruxe33389eDdFCWBVyaP8qjvhjjvLbrNAcZ1UbgoFKKLMSDMYGXm7OcRIu59Ez2laZc42AWTv5swVUSzzmIIzroQ3pzNwOspwp%2B7k7zY1tnmRN7LnliwwmS13pH9oICOMpRBrVTjvODkui2Jtlaz3oVo5bv6d44%2FShgVuvWRA99Hg9g1xpDyhh%2FwxNlbIk%2B%2Fg%2FCeM4KYPWArAWFeeWWgqqfex3sIAecs5Fm%2F2OtMjUhqExrmahR%2BLGBChkBl7CNt0uFnesGdJV03cukp%2F9sq6JmLvPVclEIyI%2F%2FZJ2T0keASihA4nHRq95z9DbaNjJoTtN70BkZCx72P1MzfeDsyK%2BcBtz34gCU43%2FvtOvaXVSnyMIT99aDNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRraiynVfCTJlkCrUjsxjQDbynj8IAZU%2BEKDL6b1FKYCzmHN1vHyAvxPkzGFj%2Bbl17yEe3HoJO47g9OTP0RKjCOdUmUKCO0TrtiJDqO3JzYW6PHA69z3G0LyzPF8CBDbLI5TYBWxkApaE5BYIbb4jvou0nZW3D5ki%2BABR89kyfYhgu1G7AQxJEMG5u%2FIKddELVgN%2F0q5CxOEVFNLtWhk3Ks2KjrgWQ%2F0JBsjHud4pzo5y1hxlyzDEbmxYF7DMCUQYWmfGWDJbx6Q3FeiKGe8awyRteQAULtQkpfmMVQ3kQOPfV5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=90602065052&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial DDR5-4800 CL40 16GB",
+    "image": {
+      "file": "crucial-ddr5-4800-16gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:10781863-41f2-495a-9613-96e8f995614f/renditions/transformpng-640-640.png/as/crucial-ddr5-UDIMM-iso-3.png"
+    }
+  },
+  {
+    "name": "DDR5-5600 CL46 16GB",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CT16G56C46U5",
+    "series": "Crucial DDR5",
+    "released_on": "2022-12-01",
+    "summary": "XMP·EXPO 프로파일을 함께 담은 Crucial DDR5-5600 16GB",
+    "description": "JEDEC 5600MT/s 기본에 인텔 XMP 3.0 과 AMD EXPO 프로파일을 담은 표준 메모리입니다. 방열판이 없어 쿨러 간섭 걱정이 적습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46-45-45"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC, Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 368000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 368000,
+          "title": "마이크론 Crucial 데스크탑 DDR5-5600 CL46 (16GB) 벌크 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZFjOqf1ZiRF9xiczVoKkyf%2F%2F%2Fw%3D%3DsOvS7psWFOd0WicHqWZiGwB%2Bo7EF70g1BTqquWVsyid0zAA9tj84unEiNIU%2FNN1BJLyYkIAOu0CiD76ONXu%2F2F36h2eJeyLiytE7WDILV3%2BAIRTHxuGOszu2EKyohzhDjEJ6UUZlmefvhV%2F2%2F9MSG8diq6Qrh6DSNziCsDmeIXtlsrRFwEDXs%2BgEK12Eg7q%2FXu5XDcZ1oMC%2FENKMLdye3Zn%2Fbaaz5bxOJBA3P84cwwUWHVdOjmhT1pZzfvA0hsLNS8854ky6q3UrsCxsjJiCAJztxQBVGLVjfHsnPtrCT58xZ0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m3cLW7DFEDtaO4lSnnaqt8H1labrsd5N%2BqKjhfB2FsCsjkligKThxQ%2BB1I%2FdLbmXm6FqP5w8aXUqdjDhGTWc0zkuX1NJx8OaIgQbqbj6r7LJwN22jiEhH%2F2KINWjISnhdF5%2FsdMnvP1CxKhC0yXEgIdG0kYzPTrXW8Qnmm9d0Y57SrRmtBzdj4ZWt6o1YwtBHZ6ut5s5uJ1PVrWGQTmtvyOYBanVkR93zw6p%2F90uqREcRixd5CbnxXpo6BE3KohZReJ34hHD4BiRoKPsFRxysFX1mZGtH45UZMR0eETDuXgDxpM%2BbRHMOBaUC8kDXmS3RtvT79EHEKVRmkP2jJuNW7WKFz9bCRMtaVBK5%2BNW0Z3dKTdWDqkxgCeZdCwlGg0Pu3ppZm7s1SCAS2fzkMbKjoRS4S7nOrAZMPSrejBbNZYgG9bGnW0ig4O781sZuZRENwau4fTwOUqyF63FjwpQRls%3D&nvMid=89588037616&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial DDR5-5600 CL46 16GB",
+    "image": {
+      "file": "crucial-ddr5-5600-16gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:10781863-41f2-495a-9613-96e8f995614f/renditions/transformpng-640-640.png/as/crucial-ddr5-UDIMM-iso-3.png"
+    }
+  },
+  {
+    "name": "Pro DDR5-5600 CL46 32GB (16GB x2)",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP2K16G56C46U5",
+    "series": "Crucial Pro",
+    "released_on": "2023-05-30",
+    "summary": "방열판을 두른 Crucial Pro DDR5-5600 32GB 키트",
+    "description": "꽂기만 하면 5600MT/s 로 동작하는 플러그 앤 플레이 메모리입니다. 검은 방열판을 달았고 XMP 3.0·EXPO 를 모두 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46-45-45"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 780000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 780000,
+          "title": "마이크론 Crucial DDR5-5600 CL46 PRO 대원씨티에스 (32GB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=rajEPfwIPMu33qtLf%2FnAP%2F%2F%2F%2Fw%3D%3Ds%2ByoxUKmL%2Fvaqc6SAWtwx0DPGkl8Ci6ELXjoGnzg3w1BjRUrezh7CrFl7ruxe3338wV6jOa0TUZv8h3ARDKpbIwBEOr4CBr%2BuGmic%2B29spYlI%2FWq1M5jFXDw6NZbyD%2FBenxMWB7XkxUxRO1b22rqscGZsnidc2hBiBdi%2Fz93H6Ibe%2FYtn5n%2FPkEcbwZYebsiWnbxqlC87wiNIpcBEAwP9iea0O2TX7GIDZW3de8vjU8y5u%2BLaMbRR7j4zS2m81Tn%2F8bZqh%2BP1WTJGB3TpUuZLv8QS306tF3S%2F11r9aHq8GsiIoLNCMZeFeW0dT4I%2FYgmA334rL%2BbR36BhYe0R%2FrUmjgBSTS1sRv49oBHxm%2Bxq6Hgzmxf4ADFFzGIc6vU1owQfnbS8Ubpa9xDezl7qjlTHDVd%2BqILAG09hjAR1K3qLYkBM%2F0Gp3p6xNxq1s7tYgfcfnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbWnERDwqTFAmOmfIa3%2Be18VevW%2BFxkkZzZAPlzPimrUQ3zdN1HUC%2BfMMDfMjYRzKO5TkjPcasYK2wWfB2MnP6UQZMC1XPZAmiohYdGEcQW5lBwR6nxPc%2BxH36IswV%2BKnVsas6tBl2MwkRsP7GugawQN1G7AQxJEMG5u%2FIKddELVgD%2BO6G0BjBGM9UesrCtKynejrgWQ%2F0JBsjHud4pzo5y1dCS9DcCThhRTHlshobjMjKv%2FnjmbGrNn1WLruo6hu0hG4GrqH0oVq5zUywjsWzME5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=90213446008&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial Pro DDR5-5600 32GB CP2K16G56C46U5",
+    "image": {
+      "file": "crucial-pro-ddr5-5600-32gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:835a69f3-ac69-45ab-8fc1-2d5c14cefb8c/renditions/transformpng-640-640.png/as/crucial-ddr5-pro-udimm-kit-front.png"
+    }
+  },
+  {
+    "name": "Pro OC DDR5-6000 CL36 32GB (16GB x2)",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP2K16G60C36U5B",
+    "series": "Crucial Pro Overclocking",
+    "released_on": "2024-02-20",
+    "summary": "마이크론 칩으로 6000MT/s CL36 을 내는 Crucial Pro 오버클럭 키트",
+    "description": "Crucial Pro 라인의 오버클럭용 DDR5 키트입니다. XMP 3.0·EXPO 프로파일을 켜야 6000MT/s CL36 정격 속도로 동작하며, 방열판은 검은색입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-38-38-80"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 760000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 760000,
+          "title": "마이크론 Crucial DDR5-6000 CL36 PRO Overclocking White 패키지 아스크텍 32GB(16Gx2)",
+          "url": "https://cr.shopping.naver.com/adcr?x=Ozsn7lmFuv8m2t8dLSf5x%2F%2F%2F%2Fw%3D%3DsAEUAAj9VWrpsG66j7jTSC7HvBRXoJ6RsBNl7Zd4SqCCViB85AXi%2BcvjiZ7AU3zWX44%2Fmqd2136rb3oTXQNQ8cVk0gybCDTA%2BbZb18DUxkGQxUaDkMo8B4jZxmLHjW83Rz3DJYDsku3psIKl2iLcQX9ZiFwrm4ZNmmRGkQ22eHtqAKQoPhcTEUw%2BYJs9x4Dd32hOl313ZHdD80C7mItmd5ruVw3GdaDAvxDSjC3cnt2Z%2F22ms%2BW8TiQQNz%2FOHMMFF3qq9xaToa28rE99Yq5Wv1PPOeJMuqt1K7AsbIyYggCc7cUAVRi1Y3x7Jz7awk%2BfMWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5vbUpeEYPYPm9jpI9JZf0JGi%2Fr2FzmHwz71GEtnQ4WV04akL8Jkf6pU9I0LjWzj68JAfChgFenY6E%2BmTWFcksGZh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8nlQ%2FRuCxra5zVrVJjr8PYmZW47FVcUvDENI2HuIbVP4%2BUyFvpQA%2BGar%2FTx%2F2An0yJu2x7l4NaFbzeRAj71NMXHL90rWDdttwyGKO%2BU%2BH3h2io0omtxJDgTIbMlwg3imPXcI8RZHB7I%2BC%2F04gqmDGBOIgLieQADwvIF7Q6rOIvGJhrWG5HAWEABZeW0xj4TvAXzgmzWZaYBCGP9Y19PAyfvjeUjArHLSDIRbLW%2BMt1bhnOBEqtcBVLcHW%2FusU1gtKefRckN7FiXaFzdNtHpebijocllCCMjxVKVs7VHzzMnYNUJgJp6CUXauCvW7Y5AjN&nvMid=88284511147&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial Pro DDR5-6000 CL36 32GB CP2K16G60C36U5B",
+    "image": {
+      "file": "crucial-pro-oc-ddr5-6000-32gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:db957370-be53-44b6-888e-5070f5b21972/renditions/transformpng-640-640.png/as/crucial-ddr5-pro-overclocking-kit-dynamic-right-view.png"
+    }
+  },
+  {
+    "name": "Pro OC DDR5-6400 CL38 32GB (16GB x2)",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP2K16G64C38U5B",
+    "series": "Crucial Pro Overclocking",
+    "released_on": "2024-10-29",
+    "summary": "6400MT/s 로 속도를 올린 Crucial Pro 오버클럭 DDR5 키트",
+    "description": "1-beta 공정 마이크론 칩을 쓴 DDR5-6400 CL38 키트입니다. XMP 3.0·EXPO 를 켜야 정격 속도가 나오며 방열판은 검은색입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL38-40-40-84"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6400,
+      "cas_latency": 38,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 730000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 730000,
+          "title": "마이크론 크루셜 DDR5 PC5-51200 CL38 PRO Overclocking RAM 16GB, 2개, 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=QBq0Jof4PIKJp%2BW%2Fis9hZv%2F%2F%2Fw%3D%3Ds4wesvb8olurqB%2FOeaIEJCb2Z7CdZbw6G0PEp5CHdtpEzAA9tj84unEiNIU%2FNN1BJONRDTixiOlZ2bq7x37xm8AP6arzQVFg8sMl3xvsMkWd0T6h1vmKcPFAQZ0oDcTxKIomfC5W4zW5%2BEJcZS263Sme59cwBIgu9LApklslOCZq1bH5hq12DDRR67H%2BGGYRKBKpABd%2BvwMLLCpbanGDAh0gAn8lD2%2BxrgblrBqYwPdWug%2B9sjA7rHdeMLkY%2BwIMUOBcrCJvDFpK31cJ5ZSPXidavqsyUe3gFhsyNg%2Fid5f0jVIACdg1BORy%2BmFvl7fg%2FHTXfrxW49ZHw74tmC7RVjPvGFuWB2yNsm90LyaQ6UNYkGV7EiGCe5koUsxjnA75NAw91nlydg2ZsAsVh2ocW9MucZuHz1o96ilXdXPIdDUSDLUVC5nats27RG7eq4e6MJFmA3LrDOo%2FhXweBpbw22sv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYyPVlCLFf3%2BLWehrAoz6V%2Fr3TceI6wZCoSLrekpYx2IkevX6UWx2xdGk%2BzFj9URLNmVT8W3IaPa8P8P%2B1Xu%2FolsvdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRP3anPqyeWRNsGHi4UHUl8T5r1fdNybdkuKZW8DUYRKgfd1tQBrmfvqXturou3XNkmiO33LybCmBDPC25DEMA3JGUB31O3XNDidKCLQr7m9GOE%2BgnFBXN2IObDTc6lkRWzZSvI19xUsrrqtlKElJiBDw6nOMssXsc6gvFq9Y9R9qsu71iPUUYE8Kujlsnw0zJQ1hu6QCPToQ8xHPAV1DhMIL%2BGBoyQkiFtSLwcV09cBveQ5Qes4UEskjYMLB2xFM6JrxL48jZujmwpLIXIlkwx6Q4SwcLvxUEucVmH%2BcOht40%3D&nvMid=61236998452&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial Pro DDR5-6400 CL38 32GB CP2K16G64C38U5B",
+    "image": {
+      "file": "crucial-pro-oc-ddr5-6400-32gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:db957370-be53-44b6-888e-5070f5b21972/renditions/transformpng-640-640.png/as/crucial-ddr5-pro-overclocking-kit-dynamic-right-view.png"
+    }
+  },
+  {
+    "name": "Pro DDR4-3200 CL22 32GB (16GB x2)",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP2K16G4DFRA32A",
+    "series": "Crucial Pro",
+    "released_on": "2023-05-30",
+    "summary": "DDR4 PC 업그레이드용 Crucial Pro DDR4-3200 32GB 키트",
+    "description": "DDR4 메인보드(AMD AM4, 인텔 DDR4 보드)를 쓰는 PC 의 용량을 늘리기 좋은 키트입니다. 방열판이 있고 1.2V 로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR4 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "3200MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL22-22-22"
+      },
+      {
+        "label": "전압",
+        "value": "1.2V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC, Intel XMP 2.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR4",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 3200,
+      "cas_latency": 22,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 384800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 384800,
+          "title": "Crucial Pro 32GB (2 x 16GB) 288핀 PC RAM DDR4 3200 (PC4 25600) 데스크탑 메모리 모델 CP2K16G4DFRA32A",
+          "url": "https://cr.shopping.naver.com/adcr?x=NDWOrJRXMt9ACqLtfkEWgv%2F%2F%2Fw%3D%3DsvbrvnboPn9OPcdlFiGIHBSGc9ZBWHPqwLG8IXSAA3temrkTXvgmpJHZqMvlYAXNDLDLAgFXuu28UHTAcWvC805eCOyZefyvsJKvEnEDafTVMBDMS6OLaRORrCA7P6obTYgtG77Z3%2Fk0Ns7u3pi61UrD%2Bsaro28rZgvPKzR362ZociSxa4FaJCai0KxQlCGzDUrQ80Do%2Bv%2BI0MccvPk7DTi93dFPEqGS%2FfV9mS3Sl2ezWBlB9HOluhlx79I5eKPwcDt6%2BiJrvqYRQyME8RMasMfNTHO5UHhv%2FoLitIbUSJ80sFAYouS1DD87A5c01vlSWa91abxfYVAtT%2BCG7VjkW%2B8Y1x%2B2vLeJ6U2Yy4YGpreRI%2BDfanwWpJdclBKSNXXuwa%2B0jEPwku629tuS4IQEHZPfVDgIGVqachrerp4%2FK9qbDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8ktT1lak81NRryT9yxhRE3dMQh8xZpou1dRNLWHafBSfHvY%2FUzN94OzIr5wG3PfiAJTjf%2B%2B069pdVKfIwhP31oM0GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtgzTgFwF6SMnCBa2L7wvQjpoRj6r1QS%2B2tVwSLML%2Bzc%2FoYcC1BWH25gJ20ueooYgtlkzaQDIRtyfuv6FbS8%2BmYh3QeH3NA%2FVkaX2X2cLUPUT%2FM6CXUCTEsmqgtiSyhgNhMFho%2B1TiBIjPwk97%2FH5vCf9dRf5uX6nwZCcA5qiku0OHYwqzJng5do0ZEGO6KUnOwpHdgqUP2oYCXqBf0e9k7viShn%2BctiapaDMvIb5lzdmWo7n5PXIvfgw3Cj2JAIjgV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=60703256146&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial Pro DDR4-3200 32GB CP2K16G4DFRA32A",
+    "image": {
+      "file": "crucial-pro-ddr4-3200-32gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:106d29f7-1968-4ae4-9879-378b062df495/renditions/transformpng-640-640.png/as/crucial-ddr4-pro-udimm-kit-front.png"
+    }
+  },
+  {
+    "name": "DDR5-6400 CL52 CUDIMM 16GB",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CT16G64C52CU5",
+    "series": "Crucial DDR5 CUDIMM",
+    "released_on": "2024-10-15",
+    "summary": "인텔 코어 울트라 200S 용 Crucial DDR5-6400 CUDIMM 16GB",
+    "description": "클럭 드라이버를 넣은 CUDIMM 으로 Z890 등 최신 인텔 플랫폼에서 6400MT/s 로 동작합니다. 14세대 이하 인텔 CPU 에서는 5600MT/s 이하로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 CUDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL52-52-52-103"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 6400,
+      "cas_latency": 52,
+      "rgb": false,
+      "cudimm": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 354300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 354300,
+          "title": "마이크론 Crucial DDR5-6400 CL52 CUDIMM 대원씨티에스 (16GB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=sL0is00hTnbinjcJP5zCnP%2F%2F%2Fw%3D%3DsTlsjNDN0BJaMyRc4ZYNGDNC1EXUeFqNpRgBmpy2tTH8zAA9tj84unEiNIU%2FNN1BJcVqRBNRDn%2BOcFOrXln3vv7UY5wbXAmId1WKKaj5I1SEw%2BDcw70X%2FenpFWDfuU4KnH%2FAYbevyhioGD2AZHAsIcNFG4dzfPnHvpBmuxnvKuolGbq0Witzh2OYE30n6wT4ZgJKxLe00d6dwh7zNrIzHwzwNg3pDiJ45pokF%2F16%2FeOWdYHMMdB7iPq%2FIciyalRjcGPlga7fZmHQj6w%2FwA3IHYRZo%2B44LPwJpfdw%2BR4YX6hCWpy7jKULu%2FleLbiyzMrZw6t43okw%2F7aCYuQ0UvizWLmvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7%2FV949sM%2B4eRKW4viVM8497MqY6056B4yr%2FmykWKTJs8XfClSND8PWXxFHU%2FRUgyLfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4ATbsaQyEfTNttrNbZ4fQvYnNW06yZyz11cwdDfG5ktpyYOnC1RnrAoJTvjScehjhp2MdgQxkuzSsZGrTgG1ovHYN5XQiStlGv6fzVzfii88dsbslGTjZCCCJ2jTo6w1XP6EMfsZd86gDx9Ox9vx8952ZZpbwCAE0amADwoRTVfIc3HXeS2tGMfc%2FbhMqc8k%2FNdH0g2z1mnGI56RXn%2BRsxcaMvG80tkV37VolsnQniKMJovLoYRqdB2czqSmzHz14gVoWd0jB03C5aYq3HUc1IKtSSLJQZncWk8e8Ttfjz6Fs%3D&nvMid=57360071434&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial DDR5-6400 CUDIMM 16GB CT16G64C52CU5",
+    "image": {
+      "file": "crucial-ddr5-6400-cudimm-16gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:1041d5c6-8f5a-4b3d-a556-342d9f8a8160/renditions/transformpng-640-640.png/as/crucial-ddr5-cudimm-single-front-view.png"
+    }
+  },
+  {
+    "name": "Pro DDR5-5600 CL46 128GB (64GB x2)",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP2K64G56C46U5",
+    "series": "Crucial Pro",
+    "released_on": "2025-01-07",
+    "summary": "64GB 모듈 두 개로 128GB 를 채우는 Crucial Pro 대용량 키트",
+    "description": "32Gb 칩을 쓴 64GB 모듈 두 개짜리 키트로, 슬롯 두 개만으로 128GB 를 만들 수 있습니다. AI·영상 편집처럼 메모리를 많이 쓰는 작업에 알맞습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "128GB (64GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46-45-45"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 128,
+      "modules": 2,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 4410000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 4410000,
+          "title": "마이크론 Crucial 데스크탑 DDR5-5600 CL46 PRO 패키지 (128GB(64Gx2))",
+          "url": "https://cr.shopping.naver.com/adcr?x=lQa3SoRQV73RB85vGtoRPf%2F%2F%2Fw%3D%3DsXHjoC2TMR%2FQkCP4sYOCyCWQw4DMA4KztbNo7o1FLoYZddnHBpQh%2BCbH%2FKy%2FX%2FwLVV5ENixwnCTMWquZM1zNfILirntc5gSu%2B8JZKZw9pZOjG8TuipetfgvasMQRB18oi6Girqd85%2BlX4RMJW6E9iTSevhaHwo4kFlHo5ouE%2FCM3hbxkfsT0gpFZSZ8virle5y7WsjvL6fGBruqRzbSMBoQdLXoybizBOVFY0bnGAXBt%2FyYdmzB5zb7rjT5%2FHjmULPcjzJSD8RG%2FFwV3ggr%2FS7%2FdAUEVuT%2BOYxty2cEhUQG0QKYOE6b7G8gOaYCYA7Gtvw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6oVJT285Tx7XyuxqbxrbnQy8Zb6j0u1d4Zwit6MewGTs2V47f1qYrBJ6AGQAXsa9WWAXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUWlA3KswJ1n%2F81J8gs3XZwFYs9H%2BDwLADqB2q26yi5hLhEegrq%2FOCwv9Tik8LwFimqdsrMZhQpRVrR79DfO5hDvB06rw3oZxszQyorSLLy0gLeb4iovQTLVzsIpgD9Gu7lqmZZjxZmyXpujSc%2BEH5hLyo7spl1eG%2FS65gAai4%2FxWNUYsnGSSjfJMTX%2BqJjcAjZAuHGyYSZtKy4KLtj9x%2F1GD%2B1GzYyCQAVsDO6ulMSblhCpwrnfOB6qrwC751wRuMhEdlQ6rpiA3G8%2FyMaowgBy6PC6YdFv5OcQ20uQV11Ms4KoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=91355321102&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial Pro DDR5-5600 128GB CP2K64G56C46U5",
+    "image": {
+      "file": "crucial-pro-ddr5-5600-128gb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:835a69f3-ac69-45ab-8fc1-2d5c14cefb8c/renditions/transformpng-640-640.png/as/crucial-ddr5-pro-udimm-kit-front.png"
+    }
+  },
+  {
+    "name": "FURY Beast DDR5-5600 CL36 32GB (16GB x2)",
+    "brand": "Kingston",
+    "category": "memory",
+    "model_code": "KF556C36BBEK2-32",
+    "series": "FURY Beast DDR5",
+    "released_on": "2022-09-14",
+    "summary": "AMD EXPO·인텔 XMP 3.0 을 모두 지원하는 FURY Beast DDR5-5600 키트",
+    "description": "낮은 방열판으로 큰 공랭 쿨러와도 잘 어울리는 게이밍 메모리입니다. 프로파일을 켜면 5600MT/s CL36 으로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-38-38"
+      },
+      {
+        "label": "전압",
+        "value": "1.25V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 5600,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 790000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 790000,
+          "title": "킹스톤 FURY DDR5-5600 32G CL36 Beast 블랙 병행수입",
+          "url": "https://cr.shopping.naver.com/adcr?x=YJjq11S7hOqsJQiZYU0H7v%2F%2F%2Fw%3D%3DsZ3RYaZjPBLAPQW%2FIMdEzgF7ATUfF2TbPWAxhdt4d%2FbYsfZ3RljwkiWEsEhy8WKw93Iax0VWRX5GUuf9QoTIEP5U7QtzKfV%2F%2BN3B6w6YlOICBNc0Gb72tekwO6w3HQkn3fzQ3JZKuEdcAbhr82QDQNlMVgZxOyGMt0GJgxVaANCVowwvPgHc4Q93F6whBF2SW%2FHcxREIYAvrsMu17pPEM60S%2BortKzfQDWBF5GV%2FKfqEhJv3ljJo79VVIpj6%2Fm3WOZRE6DhoQcgArtGbbKs1yZF6C8%2Fe0%2F%2FfVKEjfB0B%2F2G6Qj2gWW3P1drZqx0OU9RtQ21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4VEOnKSk6pZmBmpZwGZXBEN0a4OxaSM1IYrmAQTI46h0Lum1v8ELrmo6d3iM2uxIjehaj%2BcPGl1KnYw4Rk1nNM5Ll9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICH8O34QFI56wXX7LinfyH4ykq0ZrQc3Y%2BGVreqNWMLQR00EXu1PdJ90%2Fc6LpEE3Of07xhfAhmdql5%2FB%2FOANLUyRRFk1UuvwlpcwJyN9B18MQGg6EKmSAsG0ETfh7JMhl4ggCia28ZF11Me2izvvLM57XWfXUg7VQcGAcUC5RKOcYx1JWVaAw2aV3l9GCQ6ug%2BfdH0g2z1mnGI56RXn%2BRsxcSlGcFyd68oAe%2FFpXkygKMmV%2BRZf7z5FLFGtIUkEManRhFBOYBQFXszDwMSQqOITIA4SwcLvxUEucVmH%2BcOht40%3D&nvMid=91103336106&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Beast DDR5-5600 CL36 32GB KF556C36BBEK2-32",
+    "image": {
+      "file": "kingston-fury-beast-ddr5-5600-32gb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_EXPO_DDR5_2-lg.jpg"
+    }
+  },
+  {
+    "name": "FURY Beast DDR4-3200 CL16 16GB",
+    "brand": "Kingston",
+    "category": "memory",
+    "model_code": "KF432C16BB/16",
+    "series": "FURY Beast DDR4",
+    "released_on": "2021-07-19",
+    "summary": "DDR4 PC 에 무난한 FURY Beast DDR4-3200 CL16 16GB",
+    "description": "HyperX 에서 FURY 로 이름을 바꾼 킹스톤의 DDR4 게이밍 메모리입니다. XMP 프로파일을 켜면 3200MT/s CL16 으로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR4 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "3200MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL16-20-20"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 2.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR4",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 3200,
+      "cas_latency": 16,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 292000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 292040,
+          "title": "Kingston FURY Beast DDR4 3200MHz 16GB 데스크톱 램 단일 모듈 고성능 블랙 KF432C16BB16",
+          "url": "https://cr.shopping.naver.com/adcr?x=WOH1lAUKSnb9O73gYCpjOP%2F%2F%2Fw%3D%3DslyeDVXzh9JxuidE6EW6PsBFWWY0q1umK22xJvCHabQJ4AnWRLOOxoqtpI1s8F5UVmUTc01tQFyjye8lWMhDrTZ%2Fn%2FmqS%2FtCYpKpDyhtKWqy8ofBD1UpfgBoBzfHts0jgt7Zq5A%2FlTSxMIklZLVxUwvpfy4aYtre0CbWveN3xv%2BQRGPwOr4ZNPGeis%2Fj90j7oMBbAUTLhEczrfo6o%2BFCYJ9koDZhZTyE2PqJzLGA4wO69xVV5wiOilcopNAeVNJ9%2F%2Bhu7sC7Vugbe%2B5EewbNKSYMtRULmdq2zbtEbt6rh7owkWYDcusM6j%2BFfB4GlvDbay%2F6MHZ6u%2F5n6uuzlUc6JNEuUiTS4CHUtVxQrWeRhExiKVtk4dJhkTx49%2BGQY6DnFeUB2WSczXn%2F5mGue5wVwP9MnPssEsxiLl4Eai5xKG2rdg1lT55pZKRiX1VS2D6%2B0gY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXxZropexeJr%2Fs%2Bkwo%2BPLskklHJ5E6H9Srt8sab7W%2FadpLUEOKsgstXbyXaBfWRDCRncGl7T1A25gNaS9t0wtO83iIpGuLO6USiODsAZsVyMRySsJBy3IzaYzjcsNb0g%2FWBl9iIVSFoe7har7noAm8oZ8u4%2B3Oc6f0auYTC19cILZouLOlmMIn8YpHq2IS4yyADMAZXpUriOmS7ySA05%2FupBH8%2BLLDPGdk%2BuMLGnDFpKqtLBvokdrsSZNy2PwEFkVmNJWmMs%2F9Sm3nvlK%2BNJwFUjeMEUAA9lzYhwqRmS8wEAgwE0KAaGcmhjIDxXiPYBFw0NUJgJp6CUXauCvW7Y5AjN&nvMid=90638159978&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Beast DDR4-3200 CL16 16GB KF432C16BB/16",
+    "image": {
+      "file": "kingston-fury-beast-ddr4-3200-16gb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_DDR4_1-lg.jpg"
+    }
+  },
+  {
+    "name": "CRAS V RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "KLEVV",
+    "category": "memory",
+    "model_code": "KD5AGUA80-60A300G",
+    "series": "CRAS V RGB",
+    "released_on": "2023-04-26",
+    "summary": "RGB 조명을 단 KLEVV CRAS V DDR5-6000 CL30 키트",
+    "description": "XMP 3.0 과 EXPO 를 모두 지원하는 저지연 게이밍 메모리입니다. 검은 방열판 위 RGB 조명은 메인보드 조명 프로그램으로 맞출 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 895000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 895000,
+          "title": "에센코어 클레브 DDR5 PC5-48000 CL30 CRAS V RGB WHITE 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=qYblDzlAHu7ejzw%2BeTq8PP%2F%2F%2Fw%3D%3Dso8HHcGQrgSQrCUPA7xA%2Bdb%2FnAuoAAuEVuy%2FSZ9KNeNPTsV1ToeQO5DfkCZOdUu1eqQ5ycOgXDiFtAz8yG3SBqAUPUzivVeklrnX76edSWG34iNh07AdQQVqumKX%2BCwMeBu6UTVj3Z6KrrGLFUjnKcMa%2BIWZMxxIVLyaJ08tRCf9TSWSlB6ZOb5JC70fCfBA2HinNrx5sg4hc%2Bs%2BwYZL3l6Tq%2FbD2MGowZHhNOyBhpCfcsQ2Omsz%2FmF0oXiM6ukKoak0vBLu%2FkBBLhBerm2dtlJJPraSa%2FYN8sYwjIiAT9s%2BVfs%2BTqnWO5Tc99BHqO3mhtFTlYWlxQ1bD03qpVvydMgNdnSPIZbAhblEwN8AF%2B%2FVwYhNK1MYxal9FfL9UUdWPD06ZBWNRJLtOKg5Pqstaye%2BkUrFrRQY5zrAUIdEvQAU9QCUWja%2FLF6IMad0IRvWYueCfFDuywxl3T1PQ6PKMjF5qtMG%2FJ0PUtQjclakIAMgQ6s50zeBni7GuT%2B1Xgm2qs2i6N2KI17kCTL3WmfiP8m4oUci5CvqEMh0afGzgRzSlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDC9NOcqwOC7%2BegvmLa8ZayQ4ylxvrvFazI2BKyfFSlLw%2FrZyIGKxoeIAWxIPy%2BWpuLdlT%2B0E1erxMqJh3CVSaxvKSo%2BxOyvBNpFGkBVpiFK0s3qY7efYPlPXN4UolgrEnvwkWNbzZvsqar1bog3E3z09E7khsL3Bbn68nFZSOd5scKPgvn0I1AiFzdvOYgbFTOdSlPOZBN6V54TTL6u%2FzFsgRdPIqXIo0eXpoMfA4BjmAm50GprqduWbFqvEh0Ej4pWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=52206797620&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "에센코어 KLEVV CRAS V RGB DDR5-6000 CL30 32GB",
+    "image": {
+      "file": "klevv-cras-v-rgb-ddr5-6000-32gb.webp",
+      "source_url": "https://www.klevv.com/kimg/prd_details/memory/CrasVRGB/CrasVRGB_banner_pic01.png"
+    }
+  },
+  {
+    "name": "BOLT V DDR5-6000 CL28 32GB (16GB x2)",
+    "brand": "KLEVV",
+    "category": "memory",
+    "model_code": "KD5AGUA80-60B280H",
+    "series": "BOLT V",
+    "released_on": "2025-03-25",
+    "summary": "CL28 로 지연시간을 줄인 KLEVV BOLT V DDR5-6000 키트",
+    "description": "RGB 없는 낮은 방열판의 저지연 DDR5 메모리입니다. 라이젠 시스템에서 EXPO 프로파일로 6000MT/s CL28 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL28-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35~1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 28,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 788500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 788470,
+          "title": "에센코어 클레브 DDR5 PC5-48000 CL28 BOLT V WHITE 패키지 서린 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=VwndwmNWcl%2Fa%2Fs8CaNxrFP%2F%2F%2Fw%3D%3DsK6h8Gu40aGrWV5%2BoD1S42E53V4LjrpVxUTZpKZorgWi0lEl%2Bu4r%2BiwQUdobqrk2UAZlxWo2LQhsJYUPM95dyX%2BsqZseSv47EaJOCuxJJUhdJbj8UOSJDZff6BZNMP5mKsmo2cNZ1Tqamykd04jdLPUx9xtNWz6R8vhnWx7WUqox5D88%2B83rU9EvoQ786iiT8hmeWtJmvw8M90EK%2Bzy5a114nEdwofithSFzlLG8az9DGFJAChXl%2BKaMUx8vQ4D7MyoiGJDsFHG2xj2HrE8mYu4ugNtb5VlUAZgtc1GpUBf9b3ERzQk3FyB6EGDPPzv%2BIRtsGGNKJFsP0Y%2BL4ByuMXCrGfwvOXy7p2Ou1Rq6IS6ZtK3g%2F4juwcwsQAy08mMN4gy1FQuZ2rbNu0Ru3quHujCRZgNy6wzqP4V8HgaW8NtrL%2Fowdnq7%2Fmfq67OVRzok0S5SJNLgIdS1XFCtZ5GETGCBYqHBLiA9oX6zCAEbsr%2FgncNvTLYFqI8oCr%2FwqYPU9ZXjt%2FWpisEnoAZABexr1ZYBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRaUJQCEitb5E4UADTXn7a7TfBQECT99z%2B%2FqidOTk5ZmDAByjwDYhrtQvd8LmtU7b5tKygeE3BpU9dxoacFHfhY%2BtdNhgbeOa6x3D%2ByGdxNLGL8ABBNW42%2FPA9qucoCYdqN7sKLk68gd5aeZ7XhnVhvVu1bJYJigJiBMhDOhoCTXlhtnatawB5ZskdnOUAWFaSDFtKCdXs5IwIovxIfcZGeidSlPOZBN6V54TTL6u%2FzFswVD31briW%2FLQHG1mADh1ayMYothwaJErBxY3lnrcEDhWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=55131348639&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "에센코어 KLEVV BOLT V DDR5-6000 CL28 32GB",
+    "image": {
+      "file": "klevv-bolt-v-ddr5-6000-cl28-32gb.webp",
+      "source_url": "https://www.klevv.com/kimg/product_list/memory/bolt_v_pic.png"
+    }
+  },
+  {
+    "name": "Trident Z5 Neo RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3038F16GX2-TZ5NR",
+    "series": "Trident Z5 Neo RGB",
+    "released_on": "2022-08-30",
+    "summary": "AMD EXPO 에 맞춰 나온 Trident Z5 Neo RGB DDR5-6000 CL30 키트",
+    "description": "라이젠 7000 시리즈 출시에 맞춰 나온 AMD 최적화 메모리로, EXPO 프로파일로 6000MT/s CL30 에 동작합니다. 현재 제품은 인텔 XMP 3.0 도 함께 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-38-38-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1070000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1070000,
+          "title": "지스킬 DDR5 PC5-48000 CL30 TRIDENT Z5 NEO RGB J 패키지 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=Cm%2FhyLWOLvhYZtDdS2UtCP%2F%2F%2Fw%3D%3DsnTDcGmdGdkCf4B8oKenFXXq89D35hrxUOsXrmaF0eAFElINtPjeCHmhC%2Fm4pSj0TzZl%2FR5PjkjN6uRaXPz6gv9rS7B%2FVvF1MCPjNTEeja%2FetsbF5kP%2BA8lvXGv05mTfkgJdrNC9ohTBxkkRDrvpmWXyv1mJxG6JNvLrZ166v3%2FRHWAbvyHvNHP9oRMMgZo0NmPt2WwY0LhK3ZNpcX7Mn%2B4Ce%2F59jGVymWDcZbpgfqBnL%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCie7Zk6a933KE0i7d%2BYkhZwrFdjEyWACiMb1BfHsCVAxBv81%2F%2BeITfSQ3YuEy3RjO5xiP4ZkdkAM9rXmfIEGwtnHKkMYLy4xSkf9TkXtXE95vhWrf1Ju8tP0Dge%2FKVznoE0LcDJtZ9sWa43YRUNHegnEEt9OrRd0v9da%2FWh6vBrIiKCzQjGXhXltHU%2BCP2IJgN9%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4EuUxlDowQoCUtsgs%2FkfuRCnSEV7YYKGJ21rD4sS1PrDCAcMbjjgPp5rQo1j5jPnTcpQZ3BSudknyCDwhbvIE1OhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5LmZYEEyVmGekZ4aSkVUb%2BA%2F9y3IK3NM3yba2UxSB5E793zWx6gEWcB5lp4ZNd8nmyNQdBXE%2BRTcr1Z0YcrGqgNrsMYHicyjqA%2BUAMTlWCCtiFjev9hlk0t9Uww0znIQa8P6yJ5hHQAYkv13F036VyTpN6jNffYo5H%2FPLhQoSXo%2F3uK7V9oIuOLybPL%2BDLyWdVFLRG1kwHkZxxF2n9P02S5TL3ruaVJreZl%2BplMuLoOpFyvXkq3Lh%2BYbEHalJowl1AM88QhH7JxrF64yApUv9TAhxPgPJrIhm4RuFtD8lBfZB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=52378361631&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Trident Z5 Neo RGB DDR5-6000 CL30 32GB F5-6000J3038F16GX2-TZ5NR",
+    "image": {
+      "file": "gskill-trident-z5-neo-rgb-ddr5-6000-cl30-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/2208251639490.png"
+    }
+  },
+  {
+    "name": "Trident Z5 Neo RGB DDR5-6000 CL30 64GB (32GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3040G32GX2-TZ5NR",
+    "series": "Trident Z5 Neo RGB",
+    "released_on": "2022-10-06",
+    "summary": "32GB 모듈 두 개로 64GB 를 구성한 Trident Z5 Neo RGB 키트",
+    "description": "영상 편집이나 가상 머신처럼 메모리를 많이 쓰는 라이젠 PC 에 알맞은 64GB 키트입니다. EXPO 프로파일로 6000MT/s CL30 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "64GB (32GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-40-40-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 64,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 2350000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2350000,
+          "title": "지스킬 DDR5 PC5-48000 CL30 TRIDENT Z5 NEO RGB J 패키지 32GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=enHY4yqmBE8F3sLHYb4YJP%2F%2F%2Fw%3D%3DsSSy%2BzqqxZLuDPfFCD2KIlvAdApDVix3Sr5XitwhHVJ1ElINtPjeCHmhC%2Fm4pSj0TzZl%2FR5PjkjN6uRaXPz6gv4B%2FI4tcJnYlq1UYK4RbeWY9qWKaNor1r7jJcFTlhponE3fRa8a74vdI3lArMm1PgLekdYRJgWuPjNQngJnTXZfoJXVodaSOUKmX3QiGS0WW8ZLeUytVspyHji4VYOHWyGL6Q8qcUgjL%2BquT0gD4R13L%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCqp18kXPQSVqO%2FYqV3RlgOkrFdjEyWACiMb1BfHsCVAxBv81%2F%2BeITfSQ3YuEy3RjO5xiP4ZkdkAM9rXmfIEGwtka7JIIz%2FBYQI7krwaFND8LiGn4TP2paZglrkvifd%2BsO00LcDJtZ9sWa43YRUNHegnEEt9OrRd0v9da%2FWh6vBrIiKCzQjGXhXltHU%2BCP2IJgN9%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4Be%2FBevtRa7IswemebOAxvqRI5pFJfFqJkSjugl1ub5rCAcMbjjgPp5rQo1j5jPnTcpQZ3BSudknyCDwhbvIE1OhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5LmZYEEyVmGekZ4aSkVUb%2BCivVLrQfBtNOr%2FNWxzxw7D93zWx6gEWcB5lp4ZNd8nmyNQdBXE%2BRTcr1Z0YcrGqgNrsMYHicyjqA%2BUAMTlWCCtiFjev9hlk0t9Uww0znIQau2ZD%2FsYoZmIn9eOLXsr9IDpN6jNffYo5H%2FPLhQoSXo%2F3uK7V9oIuOLybPL%2BDLyWdMamzKs7SZZCzp%2F2xJzSTpJTL3ruaVJreZl%2BplMuLoOq2k%2BBBQEGhvEplrOhVpAiGiEJkPTG09NLmFrDqxwa5%2BgoPoWEH2kH688UEr0KgmnFB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=52378380630&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Trident Z5 Neo RGB DDR5-6000 CL30 64GB F5-6000J3040G32GX2-TZ5NR",
+    "image": {
+      "file": "gskill-trident-z5-neo-rgb-ddr5-6000-cl30-64gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/166502086500.png"
+    }
+  },
+  {
+    "name": "Trident Z5 RGB DDR5-6400 CL32 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6400J3239G16GX2-TZ5RK",
+    "series": "Trident Z5 RGB",
+    "released_on": "2022-01-27",
+    "summary": "인텔 플랫폼용 고클럭 Trident Z5 RGB DDR5-6400 CL32 키트",
+    "description": "인텔 XMP 3.0 프로파일로 6400MT/s CL32 에 동작하는 RGB 메모리입니다. 높은 클럭이라 메인보드 메모리 호환 목록(QVL)을 확인하는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL32-39-39-102"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6400,
+      "cas_latency": 32,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1073600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1073600,
+          "title": "지스킬 DDR5 PC5-51200 CL32 TRIDENT Z5 RGB J 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=EB%2BX%2BZbgHKjSvT5kt7%2BXj%2F%2F%2F%2Fw%3D%3Ds%2B54mysZOEsyqHTFoKMhDe4NCeMZqNIzpDdesoGIkzonofpHbu7%2FFPd45rG93JvjJlH%2FUoR4eDnW7Qs20gW34nQO4sRNRemyxAFRWo0pV8ijjIjUGWFFvKFkatz4d%2FOMPD5p35XhpEuykq2%2F%2FPkEksD%2BAN5bO%2Fz%2BZ28Zmm02qATCBEV9MCT8UN3m05NKUz6Te4kbqbOkImAcBOYvke%2BokgR4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnHf6F%2BrX2VnMRA5uFEAeOUsq7x1e1Yx%2Bz%2BimF5UzQi6KvxYD608K2mfdBPmQDNFp4WAZREdf6aBJEvtVmvwklyVZJS4DWXCnYDLiQ4EhmcfpOUAuWGt8eJHXgTi5Pk8juu9w%2F7pClKgyEe0aZ%2FLo9J%2FPOeJMuqt1K7AsbIyYggCc7cUAVRi1Y3x7Jz7awk%2BfMWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5vGuuCHbXuRMVyJC770lbb8XvPy2pZ8ad5aViK7AianyfVBDMIut42nyyM8MGNK2LElON%2F77Tr2l1Up8jCE%2FfWgzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7tEOAHUQhGQRGGkmd3oLMwCO6%2BzuO6rCq2z%2BHmPhazXmaWB1q%2BR1wXdW7kgLXxcR53Mmu4fhEfJ84cI263zcUd%2Fgb7BTAKJEojQDeNQ5ffP%2B434Q5W44%2Fq6eIGmwCCg%2Fz%2FUpRmthLkdUQuQKym%2BBZLElaXdRcRsckdSfAvBqLDnwx4lgPXWnUS669hUVjDH5Bhjr%2Fvhuz%2FM2bOeEg7k3nONTfCfBAdELeue8h139qDbQOrBEpn1IW6tLNnXW1PktCTy1Vhq%2FH77x9Zlr1IFzyuow%3D%3D&nvMid=52248292662&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Trident Z5 RGB DDR5-6400 CL32 32GB F5-6400J3239G16GX2-TZ5RK",
+    "image": {
+      "file": "gskill-trident-z5-rgb-ddr5-6400-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/164206469900.png"
+    }
+  },
+  {
+    "name": "Flare X5 DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3038F16GX2-FX5",
+    "series": "Flare X5",
+    "released_on": "2023-01-12",
+    "summary": "RGB 없는 낮은 방열판의 Flare X5 DDR5-6000 CL30 키트",
+    "description": "높이 33mm 의 낮은 방열판이라 큰 공랭 쿨러와 간섭이 적은 EXPO 메모리입니다. 라이젠 7000·9000 시리즈에서 6000MT/s CL30 으로 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-38-38-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1050000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1050000,
+          "title": "지스킬 DDR5 6000 CL30 FLARE X5 J패키지 32GB(16Gx2)",
+          "url": "https://cr.shopping.naver.com/adcr?x=A5JQjTLGJeW56unDbI3z7f%2F%2F%2Fw%3D%3DszYosIJFT4%2FSQnW9oZk1w5hL0d2vhY0LXZix2rJLqMgUlJjuCC9ZS2n8%2FtdRbE3rQzHQw6a9icuXVL6yfVvSTULwz8Aykt9lqiwRq5Ef3MSrrjAuPDx7R1dVFAgK%2FX%2F2bBycxKkacuhIXqbaIOio602956mchMNFu%2BZ1DKWTfKKXkH2E475LMR5Dgn%2FNF3wViYkAozyhc%2FyxcpjFhcoZrpaAV4gY3CUETWj%2B%2FzqgubjnuRzRroGqD1SC2RKWvX6u5y%2FTWU9a04q2o58CIcoV3l1tkCBDkkpfW8jUHrRnX5%2BzlDGlfAsagee%2FN0cvi0zog90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdGW6JMC8J%2F0Lem%2BNBntVyjTgNIZulOGnRrJh6sXh8VztF3wpUjQ%2FD1l8RR1P0VIMi35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAEGevnzy2CMqTBjx0tmDWs1zVtOsmcs9dXMHQ3xuZLac6BDrdHD1EF5yy0E0ARZ1dH5ySKQnq6XwZjVaemy2V5hhSn3lNlOtNRB%2BqW2JTGuEpFuVGoTVE4C%2BhcIou65rIHm04pcIMDYMIjSHujzPcHusgo9OnQpU57ZLixRbUQCRNiFgIp6Q8IO9tMwX%2FAlCl1X2q4llWyhs%2FOG4zbQwnYHgUabhzYwOwA7EOpnRq0noHBFr4QHJ1k%2BS4757VLsPwAau4fTwOUqyF63FjwpQRls%3D&nvMid=61991925615&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Flare X5 DDR5-6000 CL30 32GB F5-6000J3038F16GX2-FX5",
+    "image": {
+      "file": "gskill-flare-x5-ddr5-6000-cl30-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/167349124200.png"
+    }
+  },
+  {
+    "name": "Flare X5 DDR5-6000 CL36 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3636F16GX2-FX5",
+    "series": "Flare X5",
+    "released_on": "2022-09-08",
+    "summary": "합리적인 값의 Flare X5 DDR5-6000 CL36 키트",
+    "description": "라이젠 7000 시리즈 출시 초기에 나온 보급형 EXPO 메모리입니다. 낮은 방열판에 RGB 가 없어 깔끔한 빌드에 어울립니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-36-36-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 745800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 745770,
+          "title": "G.SKILL Flare X5 시리즈 AMD EXPO 32GB (2 x 16GB) 288핀 PC RAM DDR5 6000 데스크탑 메모리 모델 F5-6000J3636F16GX2-F",
+          "url": "https://cr.shopping.naver.com/adcr?x=1B%2FVhkTyBUFdO%2BWayeRM0%2F%2F%2F%2Fw%3D%3Ds2C3ITe%2BZpOh3lWllAxwBwmz%2FMy1znxblV%2BuMUP6v4KElJjuCC9ZS2n8%2FtdRbE3rQzHQw6a9icuXVL6yfVvSTUNOHwkEhMnJPo0XgkCUkG1bAtwfDtUnK93oZrAljh4d0QfnS6k9Kg8HhEfU6VgiaXxn%2Ff%2FDl4laYdeLaTKhjmJEECx4%2FOdL9YkSzu%2F4pji2t9VuuXKUpAaAHqx3bDQq7u25Ipdj0L%2F1DNSMlwusQsCGUkGhyzHuiM9%2Bo%2FKvt7Zkj7zjJm%2F%2FfCmtjdolrSF%2B9QS%2FdDJ1urosfy%2BQfAnvYw%2Fhy%2F8yFeqodk3oAeZXyeanjfqUzPtZwJSiuGGD3x9lGyME41PkPqYb5XpzmZeaie3PEfier%2F05Hol4sNucEZrTgRHodfBRwn%2FTLmJqH%2FKSksHrryvnTjRy6osvYBhG6Gu2K4S0yIiGlcHl65jkcOyXjw%2FQDYLzG14ZguSJqb8DddL6VC2jVu%2FvCLtZhDqKFzurvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4WfieQpmudmiocQkuvyGwKIiJi6YpECC3%2F4oXY4FrJzqGFktALUnN5Xs8%2F61fbkokOhaj%2BcPGl1KnYw4Rk1nNM5Ll9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICH5EYdZATeu6stAKzIHOnvf0q0ZrQc3Y%2BGVreqNWMLQR1aF3IBnigcpKXHMcjn3OIrfbs3aaKAq0km1fdVe6lu653gSxijtCDaosT5ow25sEu39lN6489rfQoviblMvNN2WwQYg4%2ByN8fXUDIeaRQvdz6PWENmP280Q5AP%2BCwm7vsHeGX9si3uBj26nxjkV6BAGiG0%2BMD09kVauJJ3YSFa1Jy2eTruhUDiKHkfTD4M5XndkyFes3Gkv7H6NfT%2FGBrMhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=60703248952&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Flare X5 DDR5-6000 CL36 32GB F5-6000J3636F16GX2-FX5",
+    "image": {
+      "file": "gskill-flare-x5-ddr5-6000-cl36-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/166262266400.png"
+    }
+  },
+  {
+    "name": "Ripjaws S5 DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3040F16GX2-RS5K",
+    "series": "Ripjaws S5",
+    "released_on": "2022-04-06",
+    "summary": "낮은 방열판의 인텔용 Ripjaws S5 DDR5-6000 CL30 키트",
+    "description": "높이 33mm 방열판을 단 RGB 없는 DDR5 메모리로, 인텔 XMP 3.0 프로파일로 6000MT/s CL30 에 동작합니다. 대형 공랭 쿨러와 함께 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-40-40-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1301800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1301760,
+          "title": "G.SKILL G.Skill Ripjaws S5 / F5-6000J3040F16GX2-RS5K Memory Module 32GB 2x16GB DDR5",
+          "url": "https://cr.shopping.naver.com/adcr?x=0tM%2BPIHWq02wqcysgyfoRf%2F%2F%2Fw%3D%3DsN0icx2g%2BYBrTRKh9Jg4X1Q41LU5o%2BFGGjq697Kx6KLa3CVXMIt%2FRmMhsR%2BYPCw9thrMCY2Hg6IFpkWbuX0yKcH9QWpU1F8Hg0H44U64%2FZO6wqmoJkTdgAC2s5%2FBTaH095FkHPLmDVwO%2FbFr9voyyzu6Z193yrItNUJ4oi9C7VdqsVE34szXIkCvvyTKOZB65Vq8WhBmKgdA0HOBXo0FYDi5SG0%2Ff%2BVdylYUJQkjDNNtUnp0%2B%2BVH78g39Bx1erOEhIXVB6BNKWzJN4es4mFVxYxDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27BW36r4QZshREfg%2B3vq7RNmPIV26jWPfonLn21fmqaIOX27hb2wwgFjX2xsPnVxEZ0CtySWoMfyo3X%2FsCG06pWn5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAMEp6MuZypmgNXoSiL%2FDaZJzVtOsmcs9dXMHQ3xuZLac8hb%2BN2R5G1R2H%2Frj%2BPdYOWqpnHYL%2BQVAANq4iUmkmOrIefK7w4fPE%2FeY7iV14hXdLRc%2FcVPw9H0dVBxDpjyANHBT35z67%2FDdp2XTV44TIRXbJey6tMrPwXnweZwFkyqra%2FIoTtXpgxvtgmPx5ysxFOwEDLvGJnwju1at413XvS2DZ5hyewyrgiX44kwP6aih41bdqUuPFR1Frfty1X5cYm9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=90558218606&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Ripjaws S5 DDR5-6000 CL30 32GB F5-6000J3040F16GX2-RS5K",
+    "image": {
+      "file": "gskill-ripjaws-s5-ddr5-6000-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/164923479700.png"
+    }
+  },
+  {
+    "name": "Ripjaws M5 RGB DDR5-6400 CL32 64GB (32GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6400J3239G32GX2-RM5RK",
+    "series": "Ripjaws M5 RGB",
+    "released_on": "2024-05-16",
+    "summary": "RGB 를 단 Ripjaws M5 DDR5-6400 CL32 64GB 키트",
+    "description": "2024년에 새로 나온 Ripjaws M5 RGB 라인의 32GB 모듈 두 개짜리 키트입니다. 인텔 XMP 3.0 으로 6400MT/s CL32 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "64GB (32GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL32-39-39-102"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 64,
+      "modules": 2,
+      "speed_mts": 6400,
+      "cas_latency": 32,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 2013200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2013150,
+          "title": "지스킬 DDR5 PC5-51200 CL32 RIPJAWS M5 RGB 블랙 패키지 32GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=FPHjB%2FHwQVtRJiLBG5FV7P%2F%2F%2Fw%3D%3DsxZIWeOcQqedjUkboLeouZfWg%2BKIXZkd9Y0Dtwx%2BJYt%2FWtraOinakEABWpzUcJYkSsoStKqAJ%2BvQwrgdzvk%2BRCkgBEyk1mfdpC%2BxTR%2BJO4VHuUUnwwRRo96zCnxKlMdeC%2BpyZdaK1XJwIDfZNT9ZzEVtZBVE09mrb2j3vhtQRpMm%2BTKkVtwFIPsLPiyYoQmzVBB6INolLHzRGuA%2BHiX5UAW94TxhQnqR0GKfYI33OVfi54J8UO7LDGXdPU9Do8oyM0FmIAOorjLCN37cjoHcekv6jMC4lVFHFmNQkzAKn%2FE9QwhckF3dLjmw8C4NZrBlMV1rQcWQoMIPnNrqAlxjwIcGHhsEJsqtBe9o85xIGxtf8X8EofPszzqw3Jj8%2FM6ngC3QCP%2FTRUxoAHkJ%2BQ%2B8%2FccM4qiRaTZ2qggvR%2BIRRj12QeD%2F5KpgkZOrrsUYcLovtEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2TZeHE%2Bstp%2Fanxo0BICsor9RC%2BzwYer6Ps69Q2%2FK%2BLLEABBi%2BpgZ2Kgor%2FqAQlFZnBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopZmk56sEkAuAvOwZJt1m%2BnC2NGsVJEkgy5kggTAnCOVm7qHs9DXzhMxiCuWv9PLZaHcsXEjSe9%2BjwljX4a13Ix%2FAAMZ4ZyVLKcgQJvLYSDoKqN9IF3UMvQbE9qRp8uCwAhWjeWat4%2FuLDZHfOMHgH8xSV0GxYKvp6Bi7HPzp8qrRADB%2F9GXHRNc5golIwIzIy0nT8c0%2B9PRD03C1aI%2FsRiBGk4XMJtozo5T3u6g%2BJ%2BOtDhHapreiQqt9Wk51h1L4o3jMu3XcxUwOWCu1ZrMrgDc2OqH9l6YII5ugOGfB4CYY%3D&nvMid=52575905608&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Ripjaws M5 RGB DDR5-6400 CL32 64GB F5-6400J3239G32GX2-RM5RK",
+    "image": {
+      "file": "gskill-ripjaws-m5-rgb-ddr5-6400-64gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/171688725500.png"
+    }
+  },
+  {
+    "name": "Trident Z5 NeoX RGB DDR5-6000 CL26 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000A2636H16GX2-TZ5NXRK",
+    "series": "Trident Z5 NeoX RGB",
+    "released_on": "2026-07-03",
+    "summary": "AMD EXPO ULL 프로파일로 CL26 을 내는 2026년형 Trident Z5 NeoX RGB",
+    "description": "AMD 의 새 초저지연(EXPO ULL) 프로파일을 담은 DDR5-6000 CL26 키트입니다. ULL 프로파일은 AGESA 1.3.0.1b 이상 BIOS 가 필요하고, 일반 EXPO 프로파일도 함께 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL26-36-36-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.45V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO ULL, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 26,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 2190000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2190000,
+          "title": "G.SKILL DDR5 32GB PC5-48000 CL26 TRIDENT Z5 NeoX RGB for AMD ULL 매트화이트 패키지 메모리 (16Gx2/6000MHz)",
+          "url": "https://cr.shopping.naver.com/adcr?x=SfNJS2HSkLgKiEp32gzKb%2F%2F%2F%2Fw%3D%3Ds%2Fj%2FqfR2mGlFFO0bbP%2Fh66IplESJdGRXlyrqGrd59E75ElINtPjeCHmhC%2Fm4pSj0TU%2Ftm%2BJnThJaM8frvdejj8EnzacDq9bJ1%2F5zDcKmvdUsv46WAoPVZqxCy5MoPFHUtlH0w7AHcgZ2DADJaWA9YesQC0EQTLnNQ%2FCoAJg%2FNS2tgaBdF%2FEs%2FFQLtZJnzedO%2BGm0R0w4K3UNiWiOJ1xjkrnHtgCqwiPpBTrf0ibnn9H82kmZ8vtTIEnyRuaHE0UDY9ayL7mz9v%2FjRdrE0WNoRFZcXWJePefo6IDYB8%2FpEakrDOKokWk2dqoIL0fiEUY9dkHg%2F%2BSqYJGTq67FGHC6L7RDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27BW36r4QZshREfg%2B3vq7RNmW53l91l0wecMLsVerGVGP9OkN%2BCRzGjJZd91drT0MBoWo%2FnDxpdSp2MOEZNZzTOS5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh6XiFxApvwXEoI74q9V98dhKtGa0HN2Phla3qjVjC0EdT%2Bg225dObYSAn3hq9WpLDfxpsGuOALofwQSSa%2BylLi7MefDYSgaf47mX1WdFUgKr3qm7szvPgTKRhqolFwzZrGprR%2B2FbGj5nzD6RtPDbg7%2BB7Bh5Mblv6bA0vjsqVcj1hu6QCPToQ8xHPAV1DhMIBt%2BfbkS2U7vjkZtf3x%2Fllj2TT7ccXNQlVwnyku67GwmiH84CASn10kUeThJCmIl1VaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=91264393193&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Trident Z5 NeoX RGB DDR5-6000 CL26 32GB F5-6000A2636H16GX2-TZ5NXRK",
+    "image": {
+      "file": "gskill-trident-z5-neox-rgb-ddr5-6000-cl26-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/178305796700.png"
+    }
+  },
+  {
+    "name": "Flare X5X DDR5-6000 CL36 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000A3636F16GX2-FX5XK",
+    "series": "Flare X5X",
+    "released_on": "2026-08-31",
+    "summary": "AMD EXPO ULL 프로파일을 담은 2026년형 Flare X5X DDR5-6000 키트",
+    "description": "Flare X5 의 후속으로, AMD 의 새 초저지연(EXPO ULL) 프로파일과 일반 EXPO 프로파일을 함께 담았습니다. RGB 없는 낮은 방열판이라 대형 공랭 쿨러와도 잘 맞습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO ULL, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 809000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 809000,
+          "title": "지스킬 DDR5 PC5-48000 CL36 FLARE X5 J 패키지 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=lcMNDlHkl1lscFu2rR0xLf%2F%2F%2Fw%3D%3DstNjqhtAn9UVr5MMuFi4xiw7LHu3xoBBzpiSWi2JmIVS7oHP%2FsVb%2FIUYetXxW2Uij%2BYvAmuN%2FUu%2FpWv1OMocBOwZzFio3kKWx5o8Ze%2BFvuBS4hmrXhYNnlJ7cpIcoDwQ4dxgv3xkXj8SdykYcUvmh%2BZFJ%2FlnXP2sCmof5F7bjbV4BlGcq0uFhIkVkVnj8Pv%2FuGEWWKMQIYyaJahec1ATUQ9yGaSr%2B0dRu37W7MMIB4NFk9Io6iZoAfEBQfsbkhBMBnZ%2Fe1H94cIHIgQ6BIZ3xQ5k2J6d9S40jhM8qt9AbrGMMv5uYosd5bemn9LkcxBU%2B9ytVuXf8NhPyyNKqomQlstJE9V8Pq24GK%2FsasDXAgwmM8geMY%2Fn%2B%2BQb2W7pU91lsJVsYy3IwD0JgNvlrtGjt2%2B%2BkUrFrRQY5zrAUIdEvQAU9QCUWja%2FLF6IMad0IRvWYueCfFDuywxl3T1PQ6PKMjF5qtMG%2FJ0PUtQjclakIAMh0uSpuufH2vLX75jw9bG7Ps2i6N2KI17kCTL3WmfiP8m4oUci5CvqEMh0afGzgRzSlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDD26%2B2K7wCdcFX9jjBVTYaBSklUdw03hVjJQnOh9m9OK%2FrZyIGKxoeIAWxIPy%2BWpuLdlT%2B0E1erxMqJh3CVSaxvdYVnnereYJyWVIo0T%2BWsf%2FD%2BsieYR0AGJL9dxdN%2Blcl9dEG56717Q6s6K0zBHEdUfuD3FO%2BH%2BMIvhAXS5FDmcxxbozjIM%2BsUbp8x2bb5EXjC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpdzRUEsVRzASYaK5XuAFyRM34Yo%2B0lDKSZGiiSHGWDV%2FtBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=52112877621&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "G.SKILL Flare X5X DDR5-6000 CL36 32GB F5-6000A3636F16GX2-FX5XK",
+    "image": {
+      "file": "gskill-flare-x5x-ddr5-6000-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/179204980800.png"
+    }
+  },
+  {
+    "name": "VENGEANCE DDR5-5600 CL36 32GB (16GB x2)",
+    "brand": "Corsair",
+    "category": "memory",
+    "model_code": "CMK32GX5M2B5600C36",
+    "series": "VENGEANCE DDR5",
+    "released_on": "2021-12-08",
+    "summary": "낮은 방열판의 커세어 VENGEANCE DDR5-5600 CL36 키트",
+    "description": "RGB 없는 낮은 알루미늄 방열판을 단 기본형 게이밍 메모리입니다. 인텔 XMP 3.0 프로파일로 5600MT/s CL36 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.25V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 5600,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1086900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1086870,
+          "title": "Corsair Vengeance 32GB2 x 16GB DDR5 5600PC5 44800 데스크탑 메모리 모델 CMK",
+          "url": "https://cr.shopping.naver.com/adcr?x=P7IIZ2meLA9NxNyu4w3Qxv%2F%2F%2Fw%3D%3DsuVEDvXqLLrnkDBrDOlr9Lf6k4%2FH07WWp%2BWeurlukvaG5zJ6Zr3NBaSNZXe30RNAPa9kWuKl9Pu%2FtZyFRqKbas%2BcwH9SMX1Wi7lA1QxfIpQ%2FqgK0Y9Ije7M8SL0d8X%2B8YF9RjjD4h19lN4Iga%2FHK%2B%2F%2Bx3KsHCr8cF2Z%2BOl3NXIRg8P4RW2a9AuxguH9GoOu8ArtCt3z9esMyPsgPkNt%2FTUZa8Y%2F0nv2J2yLTL2oF5KlLetFQ%2BYJeyia44ZuCKxz%2BmEB%2BQCd6PXMdIAPQyqip1UKK%2BwB%2BQYASCmrp6arUCd934yT1V0RLCQ0rYmJteN9CLXoLz97T%2F99UoSN8HQH%2FYboooYshoapRSDVGgOpYm9g%2Fffisv5tHfoGFh7RH%2BtSaOAFJNLWxG%2Fj2gEfGb7GroeCa9zD6sb6GLiZZSgWe5mqpgphd8WVCZLJ6sBwdk0QZY0yc%2BywSzGIuXgRqLnEobat2DWVPnmlkpGJfVVLYPr7SBjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfCk7QX29bF%2FqZrotYqy6aG%2FPdW5j%2F39Tb%2BJUt3Ixuv4vdMDlRtxGtjIz7Tc12oeHGsv4Upd6nJl0AVZMT6XzGuDuXvR4RfH0%2FjEPV5juwyMCZMLncMZtPrAQie1l10gUfXsTR3TA%2B8ORpxrKisCFkRb6tDPhABC4jBw4R3dA%2BP9MGsgZvnQJRCbzIJGPCDJdo6GnydLXKxnlOcf9neONYYzCkd2CpQ%2FahgJeoF%2FR72Tu%2Bh3bGsuUAHTi5Pzr0E1EyvCU5YJI%2BeQxERWtjLlwp%2BRXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=62077196646&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "Corsair VENGEANCE DDR5-5600 CL36 32GB CMK32GX5M2B5600C36",
+    "image": {
+      "file": "corsair-vengeance-ddr5-5600-32gb.webp",
+      "source_url": "https://res.cloudinary.com/corsair-pwa/image/upload/c_scale%2Cq_auto%2Cw_1000/products/Memory/vengeance-ddr5-blk-config/Gallery/Vengeance-DDR5-2UP-16GB-BLACK_01.png"
+    }
+  },
+  {
+    "name": "VENGEANCE DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "Corsair",
+    "category": "memory",
+    "model_code": "CMK32GX5M2B6000C30",
+    "series": "VENGEANCE DDR5",
+    "released_on": "2023-08-04",
+    "summary": "커세어 VENGEANCE DDR5-6000 CL30 저지연 키트",
+    "description": "RGB 없는 낮은 방열판의 DDR5-6000 CL30 메모리로 인텔 XMP 3.0 을 지원합니다. AMD EXPO 버전은 모델명 끝이 Z30 인 별도 제품입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 890200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 890200,
+          "title": "커세어 DDR5-6000 CL30 VENGEANCE 32GB (16+16), 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2ByO%2ByHXzaQVVxZs7YvjzJf%2F%2F%2Fw%3D%3DswL7EWsXEF37pPsKyQ4mdiIa7%2F49M%2BexKjhEEcRBV1by5zJ6Zr3NBaSNZXe30RNAPfltdf7%2F6%2BDeEWxkDAKsUknkjsMHLFnIQsHTXfeb9n6gEJbFNtK%2BYYNIXiMzAFD1o3liXGlYbwo1KlE7FX7Bf%2Bp6DD5AxtbZUR7YKB4TvyFoQXeBI4h3rMmczIZKgPScrawuFrFdbRAWbsaQM4bjGFcOmY27ZGze0Q%2BtXRlM4OxsldH0fEU9RULpXO6R12DpxHqUe9LZobwapzMENbn5kFG%2FOcdW%2FuD7se4cQg%2FErFlV2qyaUL%2FCK8%2FD5%2Fv0oQrZTxypDGC8uMUpH%2FU5F7VxPeZcJIevHkwNXw9QtPKyuaF3Lh0eTx5LguDlaOGCxLyab76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFyztzjNAekfjhGYS%2FeS%2BjImyafBH4JeYGVk7EDEiorElkIptLkhleORsoGb3BUK6QGMlTAH06BbcIise3iKSbXwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLrA1tK7RqhjtTK2CpkUq%2F1CCQsYDMyaA6DZe%2FuzP0y45Ld25XrMX5nhSNUlSx7h5ZTlfKGaAYX8n580dADXsl2DqV2WdP0su4cAw2TYUHszFVFJjEGholuwNKLwGXsZuiflDY9kUzEk4tIMq1m0kN9nzsZ4NvZcGIyXMCHalRZmVuu6hWTQwEWHGZEUDU8GMKQg3xX4kvdNjDS%2BZkg2Z%2FBTH%2BvRfaQ5bXlezRquPWyv5%2BYXpgLjYG6yCEi6a3cYcbR0cjwVm1BUYVknE7IEMpz4%3D&nvMid=61347844417&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "Corsair VENGEANCE DDR5-6000 CL30 32GB CMK32GX5M2B6000C30",
+    "image": {
+      "file": "corsair-vengeance-ddr5-6000-32gb.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_limit,q_85,w_1600,h_1600/products/Memory/vengeance-ddr5-blk-config/Gallery/VENGEANCE_DDR5_BLK_01_2up.webp"
+    }
+  },
+  {
+    "name": "VENGEANCE RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "Corsair",
+    "category": "memory",
+    "model_code": "CMH32GX5M2B6000C30",
+    "series": "VENGEANCE RGB DDR5",
+    "released_on": "2023-08-04",
+    "summary": "10구역 RGB 를 단 커세어 VENGEANCE RGB DDR5-6000 CL30 키트",
+    "description": "iCUE 로 조명을 맞출 수 있는 10구역 RGB 라이트 바를 갖춘 게이밍 메모리입니다. 인텔 XMP 3.0 프로파일로 6000MT/s CL30 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 890200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 890200,
+          "title": "커세어 DDR5 PC5-48000 CL30 VENGEANCE RGB 패키지 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=7mgprvWBwcFQSB6lIXXedf%2F%2F%2Fw%3D%3DsAGj49FW%2B3owJGNAqKjrqiRGNeLGixtgxbouUbFoH8Ze5zJ6Zr3NBaSNZXe30RNAP1i7K6v%2BYAi43OdNnz%2BIyKSCjP%2FYi1mB9RsArMFoOo9PocuBxX5hRu7Ji8IfQ%2BPn4SXe131fHjBSxjTPwzaTlRJBMEFrnxhiCXogG0iB3p%2F8BQR%2B7%2FKhxzsu4y6MCEhjlHxM3il7Qq23lAIe1ybINeMi30QtKP1mA7BYZPpxeJLexWvZfe2todmJfmpbNrXnq%2BWVZHY%2BPwQrUGleh5OZ25VSAsiMEZw4VCEYq2t48RJa0jiMWmkQbXYuyIc1OtIkW9ytVuXf8NhPyyNKqomQlspxqb0%2BHiops80MtikVwYLyp9907m83ib%2BojYokPTIBx8854ky6q3UrsCxsjJiCAJztxQBVGLVjfHsnPtrCT58xZ0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m2qhsM2hbI9fLE9yVr9ggmQd6bCitC4LcO4XppPps4FX9UEMwi63jafLIzwwY0rYsSU43%2FvtOvaXVSnyMIT99aDNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrZzw8jHTzR%2F%2FF1uJw618Tu1cShv10nxhBpkwzMkSJ43Q7r7O47qsKrbP4eY%2BFrNeZpYHWr5HXBd1buSAtfFxHnd2EBYGhoiHWZxZ%2Fdxp9W%2FIwY%2BWVwlMPCy3bu3JANDM%2BELe0zCuyGE5Pu7MaK3KVBLh3ztD5qKqgMIwFVuUp%2FA1zO31JTecRSPslUGhXtnZH84cpOSncBOIhVnGCUmXcISdSlPOZBN6V54TTL6u%2FzFsoy8bzS2RXftWiWydCeIowke%2BCWQkUSCDH53H%2BHqSupBWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=52144755619&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "Corsair VENGEANCE RGB DDR5-6000 CL30 32GB CMH32GX5M2B6000C30",
+    "image": {
+      "file": "corsair-vengeance-rgb-ddr5-6000-32gb.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_limit,q_85,w_1600,h_1600/products/Memory/vengeance-rgb-ddr5-blk-config/Gallery/2up/VENGEANCE_RGB_DDR5_BLK_01.webp"
+    }
+  },
+  {
+    "name": "T-FORCE DELTA RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "TeamGroup",
+    "category": "memory",
+    "model_code": "FF3D532G6000HC30DC01",
+    "series": "T-FORCE DELTA RGB DDR5",
+    "released_on": "2022-07-01",
+    "summary": "120도 광각 RGB 를 단 T-FORCE DELTA RGB DDR5-6000 CL30 키트",
+    "description": "넓은 각도의 RGB 라이트 바가 특징인 팀그룹 게이밍 메모리입니다. 현재 제품은 인텔 XMP 3.0 과 AMD EXPO 를 모두 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 880000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 880000,
+          "title": "팀그룹 T-Force DDR5 PC5-48000 CL30 Delta RGB 화이트 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=uFQYoHv7Aj73xd%2FkYyLkYP%2F%2F%2Fw%3D%3DsggZcEnrSJSNbXKkqqg6pDzlVOpC83Vv%2BCW8427ACihLqnNGOmlG4wic043MnXGQy4AyWmG49S3XfHMjtQ8CrLSZNzmTNELeaCL2DllqssNrBhkk%2F7huLL%2Bk1Si8gyvg519quJ4vpFtlGzyVzaMBYTqGCdvSlXfpN7pO7rxNesXnpZ9ikT1u46phm8DWlCDgRw1I%2B%2BWWagFmaGVT665Sf60ls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YywGBNjftyRsVeT5%2FRwv823criC%2FxaJTdGXe7O1n33hlPAD3j%2FAwPMezBv1Y97%2FeYKPctSm88zdk1vF2IG9hm0fVxmYfCRj8oMOCPrY8ruEKOnINvbz4vI%2FdiIGyzZvA0g0b8rY2wNI8UCSC5x48%2BpmfPOeJMuqt1K7AsbIyYggCc7cUAVRi1Y3x7Jz7awk%2BfMWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5tNmBaotUfOl%2FHjAXKPuE%2BuY15KfufuTwkmeiEcEEkBO0qNGnYP2mQGFwl2o9AJeRNLUsj1LyrrNErBPfVfe6AV2EHvaFVVJ31%2BA3%2BHAk85NF2WJVdWo6qM%2FTOgav71z6lQapgZWmatkCAFrt%2BSUAqol145Snww9Zkw%2FHS3APvkoKcnMCqzyjudMYMF5Q%2Fmq2tSfT22P84QGX8fCV6Zs88Z3ZU%2FtBNXq8TKiYdwlUmsb5SnlT5gMsj285QzFSImOq1djmSI0U5NAxHh6k6NB2a0cPbk8%2BlkURpvaS4hTG8oiMA90HlYv%2BaC%2FVudHq86KharUCTlxx%2BTDrIbEFOSXweDT%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7wZZ%2FU1cHu35Y5xhJwVqrxKWsl5%2Bg4luaQ7gEP1gxuYzQ1QmAmnoJRdq4K9btjkCM0%3D&nvMid=52323134626&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "TeamGroup T-FORCE DELTA RGB DDR5-6000 CL30 32GB FF3D532G6000HC30DC01",
+    "image": {
+      "file": "teamgroup-tforce-delta-rgb-ddr5-6000-32gb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/delta-rgb/black/dual_01.jpg"
+    }
+  },
+  {
+    "name": "T-CREATE EXPERT DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "TeamGroup",
+    "category": "memory",
+    "model_code": "CTCED532G6000HC30DC01",
+    "series": "T-CREATE EXPERT DDR5",
+    "released_on": "2023-02-01",
+    "summary": "크리에이터용 T-CREATE EXPERT DDR5-6000 CL30 키트",
+    "description": "RGB 없는 일체형 알루미늄 방열판을 단 작업용 메모리입니다. XMP 3.0 과 EXPO 를 모두 지원해 인텔·AMD 시스템 어디에나 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 899000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 899000,
+          "title": "팀그룹 T-CREATE DDR5-6000 CL30 EXPERT 블랙 패키지 32GB(16Gx2)",
+          "url": "https://cr.shopping.naver.com/adcr?x=FoqMv4wmtQSkTtgisXO19P%2F%2F%2Fw%3D%3DsuDDRfYeekVMcm1ytFKTS0V4ElmL8WaPxkLWsDeTro0%2Fc%2FKrXpCp3nEObI59OKxYy8qnkA7ZHyKb%2FqPX8zryqzoypzF7795Nr6MMMfai8ZXy2fJ76BpBcY0BEmWhv78jrjt%2BY4C8VSJ4G%2Fki2mB35D0uDDZ%2FX7D0UwzBgrK8gcXw4Yr%2FxjQaLZarNyE2yqZFud42AbG7DCTOzT4%2FRluD2%2Fres8B4glp0Shk%2Bth%2FAzGxskxmfeF7IkFBbCneNET%2FYAtuADlS9318%2FlB8LChDRRtT9FTCpgpZMtobbmoWVOvAErpAkbo6hk6J1ed5Z5roM4XoLz97T%2F99UoSN8HQH%2FYbpCPaBZbc%2FV2tmrHQ5T1G1DbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhXK%2BIS5f06DbC1Go8S%2Ff5Li8MxMUJX5QLo16CAnuhGuST5VW%2FMGSBkp0BKHxHFYnBwAEGL6mBnYqCiv%2BoBCUVmcGeo7MLb2Y6XfS%2Fw97ypcEGjknALtUeizEszgRv2reWaRQA1EP4tYIvqt%2BrReCSik3oD6Gspj4mY5U9mtAFQ%2FjLY0axUkSSDLmSCBMCcI5WUBIHh5OVRoQU2tQL2tH6LeyEOdx8kibDNEfSbEN54fRG2SP6xTVWeSbYEuDQHShFDxiBPXf7%2FW43v9UFjBI%2Fi%2FDC0c0se7psV63yCjBSJ4%2BIzC6Qt5khWx3%2F4K5UqCZoMM3ReMVlSs4%2FF7EQLWc8BtlNzdJFgkoR1MOL3Zb6EWFvJAucQ%2F0WvYEijR5faxPde3x0AZQ8wTNDlAxAQq9Wjbke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=62085243813&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "TeamGroup T-CREATE EXPERT DDR5-6000 CL30 32GB CTCED532G6000HC30DC01",
+    "image": {
+      "file": "teamgroup-tcreate-expert-ddr5-6000-32gb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/expert/black/dual_01.jpg"
+    }
+  },
+  {
+    "name": "ELITE DDR5-5600 CL46 16GB",
+    "brand": "TeamGroup",
+    "category": "memory",
+    "model_code": "TED516G5600C4601",
+    "series": "TEAMGROUP ELITE DDR5",
+    "released_on": "2022-07-01",
+    "summary": "팀그룹 ELITE DDR5-5600 16GB 표준 메모리",
+    "description": "방열판 없는 JEDEC 표준 DDR5 UDIMM 입니다. 1.1V 로 동작해 사무용·일반 PC 의 기본 메모리로 무난합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46-46-46-90"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 348000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 348000,
+          "title": "팀그룹 DDR5 PC5-44800 CL46 Elite 서린 16GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=vSFrwtiXF9hfanFIVcmanP%2F%2F%2Fw%3D%3DsN0ETenBo80xkcYvqDj5%2FDtyirC3oCdQPt96Bh34xMAWKyGNMA30R%2Ff7GVIz1aRmUiz1DgCV7vMQQ9HsTLMAQ3M69d2U4er5dmMAkBqcStUkBsjxg8Q4pgNQNfd2tV1ASjhH7i09h%2FQJ5cqD7ag5S6AgxFD2YQDUeXIV8AQtai2aLDK1KoRXAxc3haT5MaDB3S8adrKUpznAgJi6YLcDi%2FIBsJjzV%2F3vl5Lmd9HbkUGJTIQ7vYaPRgjBnpxZEPezqHahn1gIJY0BwcldlTcrsQNyHhSKq4nIfhQFpBwFRxYeWWwoY9Mnp22PWY60FORLaMzWZIR46GzBFtvSzdTxJRfQkfAI2bozI%2Bxapb8jQP33zzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpLKe8Tq%2BQ0VUZPzftIzm4wnalrRVjYmHFFaT%2FR5bDOHDTJz7LBLMYi5eBGoucShtq3YNZU%2BeaWSkYl9VUtg%2BvtIGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8SOBef%2FL0MPY%2Ba%2Fo%2BnOgpCPhblG%2F7NyT7ksLNxVS0RP9ND7bO4ojDNe0KSiQZP8tDO%2Fjmjv1EmyoM63GRuF%2FS52NG%2BLEhnoMXw23xKuGAdfFPhfHYrWEJqmE3AdAVkqeinooFF9Xfq9TfQaVAuBV5zq6JxC%2Fvy3yTKtl3YjapqLALSXffl0DDyjKTqYC0kxF0AYTYOqTv%2FsOm0kcFv3bjpKkulbovb9HMQZ2rLPtLEzjPyEVIaZG%2BXzWKsZS15PGpA35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=52208004627&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "TeamGroup ELITE DDR5-5600 CL46 16GB TED516G5600C4601",
+    "image": {
+      "file": "teamgroup-elite-ddr5-5600-16gb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/elite/01.jpg"
+    }
+  },
+  {
+    "name": "T-FORCE XTREEM DDR5-8000 CL38 48GB (24GB x2)",
+    "brand": "TeamGroup",
+    "category": "memory",
+    "model_code": "FFXD548G8000HC38EDC01",
+    "series": "T-FORCE XTREEM DDR5",
+    "released_on": "2023-10-03",
+    "summary": "8000MT/s 로 동작하는 T-FORCE XTREEM DDR5 48GB 키트",
+    "description": "2mm 두께 알루미늄 방열판을 단 팀그룹 고클럭 메모리입니다. 8000MT/s 는 메인보드와 CPU 를 타므로 메모리 호환 목록을 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "8000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "48GB (24GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL38-49-49-84"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 48,
+      "modules": 2,
+      "speed_mts": 8000,
+      "cas_latency": 38,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 906000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 906000,
+          "title": "팀그룹 인텔 XMP 3.0 및 AMD 엑스포 호환 블랙 FFXD548G8000HC38EDC01용 T-Force XTREEM DDR5 램 48GB(2x24GB) 8000MHz PC5",
+          "url": "https://cr.shopping.naver.com/adcr?x=oIg6jiGDlaS1%2BJ%2BGF05qwv%2F%2F%2Fw%3D%3DsS4Zt7D4%2F98Jfg6tFoXXWbhhsx8E%2B77fpZuzDT4xzuOG%2BW7KJV86dr03e2O2syhm2OPxM77D6pFDmfdwx6vhWQadrfrGKkECY7k8WCbYBnTSJvXnSH9qf5eBVBBAJImzeMxbenXKeTaNRvZSPVHIGFT8BRhByoUjNvO8Bj9gTtaTgn1q8VzUniTOLwmC8N6A6UltOr24cOcT6JEDHdr3%2B0TAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDu5IuSkhQ87W6MDyGxMcaRG6RWlMRBRoc0RNo%2BXo8zfTyDLUVC5nats27RG7eq4e6MJFmA3LrDOo%2FhXweBpbw22sv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYWb6i8NHGYn%2BpSS6XAQ9Ez78g1Vtia%2BLZocw9yAb%2B0kpXfqiCwBtPYYwEdSt6i2JATP9Bqd6esTcatbO7WIH3H546BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1RTSZ%2Fu3u83ndGTXPGk9JYPF%2F43Yipq61FfAJveYNv2zDwxejvw3sIrrCNqERPaxHZl3i8ry%2Fg%2FqGjkUCPaquT2BfcsRBbrfBJ2sb1zgvHp4%2FLVaAeR6it%2BvIEyx6cBG1ea6z6xSnPCIXwEx1XIaSuE2jZvy%2F0B68xUiBufipZkO%2BkbcY1LxGOD%2F7nT6l70%2Fui1xbFSj8xBvu1Bo2Fc8XInE6hKD5byN%2BQg5%2BlK5YeVpZ8CzcwGOWDGOfAtvAjEfa%2BL6N0uj%2F%2FAeNUxboh0y1kSzfbMUdC2Rb5Nuvd0sVpy77WtCWibXEzBoncsjTyKcqQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=90678910838&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "TeamGroup T-FORCE XTREEM DDR5-8000 CL38 48GB FFXD548G8000HC38EDC01",
+    "image": {
+      "file": "teamgroup-tforce-xtreem-ddr5-8000-48gb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/xtreem/black/dual_01.jpg"
+    }
+  },
+  {
+    "name": "XPG LANCER BLADE RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "ADATA",
+    "category": "memory",
+    "model_code": "AX5U6000C3016G-DTLABRBK",
+    "series": "XPG LANCER BLADE RGB DDR5",
+    "released_on": "2023-07-13",
+    "summary": "얇은 방열판의 XPG LANCER BLADE RGB DDR5-6000 CL30 키트",
+    "description": "높이를 낮춘 방열판에 RGB 조명을 단 게이밍 메모리입니다. 인텔 XMP 3.0 과 AMD EXPO 를 모두 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-40-40-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 780000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 780000,
+          "title": "ADATA XPG DDR5 PC5-48000 CL30 LANCER RGB 블랙 패키지 서린 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=ztQjQIJGXf55wFM9OGJO7f%2F%2F%2Fw%3D%3DsOc6uAh%2FQcLHw831af28AqZZ02mQ6oHbgteH25%2Btce8Qd%2FZZQmoh6xxsWVutkroCfvWoL%2FSiwoELJe0sOcXtY9oypzF7795Nr6MMMfai8ZXwYHMHWC45PK3k8Q3bbqcntbIcB5Sk4zel8HWD5ASaLdOnByJFIOSzqIRDGsiunuhU0ABKrInADCdp3PAMZhYiux2I0K3aDSjCDT%2BBw4WXCumedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorZhV4E5DHKWVZiUexwBWIrk6xUVqZK8x3%2Bb0UqAUE0eslRD%2FGrKG0OlOyGm8r%2BNmlaF2%2Bb3RuG8CCrIj4EY3cJNLSaUjtTWR1MkpeJ3ZgseCQn6Px4NS1hAD136KcefKEtlJYwT675ZkCFz6mkRT%2BZoe2QsB%2F7zlp1H6uWDOsI6bvpFKxa0UGOc6wFCHRL0AFPUAlFo2vyxeiDGndCEb1mLngnxQ7ssMZd09T0OjyjIxearTBvydD1LUI3JWpCADIMcIRVvp%2B84KEYq0geUZlPmovNxFWzA781dOsDXmXgY1oUk53QkM48WdkrQxep%2Bb9%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFtZEik7H4rHcDnFnbdfavCUO7bCAH0tMUJxiPm9exLC1FKg5JI4eAyJwK66GUUY0iXEPDUIUiiJv07yOFCtYVwmyBh4En5zCvxGtUWIBsrXPRPMcPi7SciDxTwm6jM%2BU%2B3uwouTryB3lp5nteGdWG9a3AjX50057VzIgeLvRFa28R5xe9SYNPdyJ6DwtGkW60ULxivecsErs7xZbWY5Zh0Z1KU85kE3pXnhNMvq7%2FMWyhtKY0y%2Bsk%2B%2BaN7Xr6mrXP9aVnZQuUh5IhenMgivWJzFaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=52265779618&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "ADATA XPG LANCER BLADE RGB DDR5-6000 CL30 32GB AX5U6000C3016G-DTLABRBK",
+    "image": {
+      "file": "adata-xpg-lancer-blade-rgb-ddr5-6000-32gb.webp",
+      "source_url": "https://webapi3.adata.com/storage/product/01_p_lancer_blade_rgb_2000x2000_01.png"
+    }
+  },
+  {
+    "name": "FURY Beast RGB DDR5-6000 CL30 32GB (16GB x2)",
+    "brand": "Kingston",
+    "category": "memory",
+    "model_code": "KF560C30BBEAK2-32",
+    "series": "FURY Beast DDR5 RGB",
+    "released_on": "2024-03-22",
+    "summary": "RGB 조명을 단 FURY Beast DDR5-6000 CL30 저지연 키트",
+    "description": "라이젠 7000·9000 시리즈에서 많이 쓰는 6000MT/s 를 CL30 으로 맞춘 RGB 게이밍 메모리입니다. AMD EXPO 와 인텔 XMP 3.0 프로파일을 모두 지원하고, 적외선 동기화로 여러 모듈의 조명이 고르게 맞춰집니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1030000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1030000,
+          "title": "킹스톤 FURY DDR5 6000 CL30 Beast RGB 32GB(16GBx2) 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=EvvnI6thwEYI9ughfeGC5f%2F%2F%2Fw%3D%3DsInYjOC%2FiXRx7oDpOgiPIslnIczfbo3GGXCoqXWOZdLufhdw4qOT7ju4tn%2FoX5Zpcbdz2s64wUY73cfPeTfoQTqaeoBfu82C%2FiNa24m4ShY2GbmGBgeFYn%2FOCiZDEPa%2ButrkPGWVHNemEpogYKWsr63babHmp6XvrMTAZH8dqsxBvruIl6sxj4Soj0jyMSOClhliDAjZ%2BzjRdH8RGr8Y3J9Yrh%2BJXf3WHIps3ONNOY0j8%2BjV94utprUetJ6yx8d4V6kJNVQ5zGVO%2BCexK%2BAiEMy1YvvnMPtGwQtI%2BDFPCcStZd4ALK%2F%2F0ZKFV95e00DtYpOr9sPYwajBkeE07IGGkJ5SCPsmGKllbt0kl8XIxCXSt50yqkx690ACbdAUigsxH4R6E8jIbVxIwIlwZ0QGqd24oUci5CvqEMh0afGzgRzSlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDAu0UYii%2BAqJyZ9P87TNmN7mpkt5Wa9MpzTjkfd0EuysF6juh5zHk%2BMhUNYkuOqj9SnZixOeNfnCn%2Bvsb27SyrnTIr68mblCL9N7TeSPm1HnLWmeXjNQPXtzIINYht4PFPIeZXwTDP1uiso8Dx%2BLHPqymog%2F1DRbX0sF1m16A99g7QBIFAnk%2Bx0SZYXephYDlusGvSZZnJA2yQCVBBr3HxB2HHuCgVbCyyvVe3XcdAAA0LFLCLDrtJlduSaiEs44qf9%2BYw9vytttAGnj%2BezjdZQBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=89893436553&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY DDR5 6000 CL30 Beast RGB 32GB",
+    "image": {
+      "file": "kingston-fury-beast-rgb-ddr5-6000-cl30-32gb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_RGB_DDR5_2-lg.jpg"
+    }
+  },
+  {
+    "name": "FURY Beast DDR5-5600 CL36 16GB",
+    "brand": "Kingston",
+    "category": "memory",
+    "model_code": "KF556C36BBE-16",
+    "series": "FURY Beast DDR5",
+    "released_on": "2022-09-14",
+    "summary": "AMD EXPO·인텔 XMP 3.0 을 모두 지원하는 FURY Beast DDR5-5600 16GB",
+    "description": "높이 34.9mm 의 낮은 방열판을 단 16GB 단일 모듈로, 두 개를 맞춰 꽂으면 듀얼 채널로 쓸 수 있습니다. 프로파일을 켜면 5600MT/s CL36 으로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "16GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-38-38"
+      },
+      {
+        "label": "전압",
+        "value": "1.25V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 16,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 329000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 329000,
+          "title": "킹스톤 FURY DDR5 PC5-44800  CL36 Beast 블랙 코잇 RAM 16GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=TlH63zpD6Rd5HZxOk6wdOf%2F%2F%2Fw%3D%3Ds0BTlqd%2BbWk1baS9jBUzUn28B%2BqKwQZQ7YQ9gxIzDMH6fhdw4qOT7ju4tn%2FoX5ZpckOVJ1lQSCjgA3DzJi6a1wUcs4jeTIclVYiquQgA5TXOVrAVzrjtCXjSlhpb2RGtQQjmvhJ1UzQRoiLbOpRr2QHqTx083eVH8K6T8Ywprq%2F0VAHaTHTryjZpfaDUDsvzwRsCh5GS%2BklokEzA%2FJ0VszxCGSQdcrj%2BZJHLmJxgT%2FbtmpygRPmiaSu206tefktnUsKRNs1a0PgvSG7az6nq4jetcF6tfa2e4z86IxCRB9SwdOIymtz6%2BDt14vRFDuHyvWGWaCb3YQkA0dyw557pDYrlymvq33cNDUwRDRRmOgzkHETUn2Bq1NvdjNA%2FvdDAekasNaxoy2y00wqrLYR6R7%2B%2BkUrFrRQY5zrAUIdEvQAU9QCUWja%2FLF6IMad0IRvWYueCfFDuywxl3T1PQ6PKMjF5qtMG%2FJ0PUtQjclakIAMgQU4y%2Bqq7GE98gLJjfG%2F0Ds2i6N2KI17kCTL3WmfiP8m4oUci5CvqEMh0afGzgRzSlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDB9jbSVgRk11k8IYoTTohzdQxqbTpXihWh7tOqrCWINA%2FrZyIGKxoeIAWxIPy%2BWpuIEm9KkPWdqFLzi4l%2F6yurQTC48ysvrlbROedDvYA%2FHV4uoWQ4x8itoHvKxHMuf3Byl7xNWvo5N%2FCjaaMGIf03zSYG191cYJMF%2F5Y0%2FqNAayva%2BtLruxhrFM6sLM3XqAIMGoM8hbrJ1dmBVIFURgoXpYnHIcETcJifOE8sb44IMxfIE58cfQ4w8dMJz%2FzFianTssQta%2B2EInCDXFMmXUz7bxyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=57715914602&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY DDR5-5600 CL36 Beast 블랙 16GB",
+    "image": {
+      "file": "kingston-fury-beast-ddr5-5600-16gb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_EXPO_DDR5_1-lg.jpg"
+    }
+  },
+  {
+    "name": "VENGEANCE RGB PRO SL DDR4-3600 CL18 32GB (16GB x2)",
+    "brand": "Corsair",
+    "category": "memory",
+    "model_code": "CMH32GX4M2D3600C18",
+    "series": "VENGEANCE RGB PRO SL",
+    "released_on": "2021-01-21",
+    "summary": "높이 44mm 의 커세어 VENGEANCE RGB PRO SL DDR4-3600 CL18 키트",
+    "description": "10구역 RGB 조명을 단 DDR4 게이밍 메모리로, 높이가 44mm 라 공랭 쿨러와 간섭이 적습니다. 인텔 XMP 2.0 프로파일로 3600MT/s CL18 에 동작하며 DDR4 메인보드(AM4 등)용입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR4 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "3600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL18-22-22-42"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 2.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR4",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 3600,
+      "cas_latency": 18,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 417000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 417020,
+          "title": "CORSAIR Vengeance RGB Pro SL 32GB (2 x 16GB) 288핀 PC RAM DDR4 3600 (PC4 28800) 데스크탑 메모리 모델 CMH32GX4M",
+          "url": "https://cr.shopping.naver.com/adcr?x=buC%2Frs3rSeYE9DPduFiOyP%2F%2F%2Fw%3D%3DsLOjmjqqrWUq%2Fvyt6JWlkIu5U5HqDf7HjuhgrdcnhJutGCH0%2FcbtVRj7FrXIM7rQreIpg36l7AqByPCOK4elptlOI7bit2ZShG0fkBdEBNosiUiiL%2FNULJVcMZJgYbyxzr%2BK4y7TVDAZRwESmX0NFW9gHJ2966TwKp09Fz9zzli6L930U1a0vClGFI8m9%2BIv6yOKeOFKg02VDlbwCFtVAMz7Hx2tgaclT%2B75Y73YVPpKNMl1Xp4buzoN%2FPQc0Gr4NNgTcZW17yWq05tc6KGkwpfw8s%2BYz1%2FL5lgqHaTzFRAW8hzDgjf00gXC8dnumejp0m5x%2BEiosJahg0J23fFeJszTm0md86c9NHBcBIe01vkmaVsL%2BWgeVvawF%2FalPl31ewYn6cVDbw9rAcEW1%2BK95IUz0L24sR0LTvNsGt4VqD3gHM1mOvXmD29COAD6mtN2lVQSW%2BqRXuqBsHrW7wIR16TvcxoFytkWqoZzbK6B7dH%2F6%2FrN5lSUmlJL%2Blg5KictdMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6ome19SXtNBPNu4ur8c51m3%2F2VyJ2SrAOQxoJ26pki2PsHiudp4QPOixTk2qpKhSmdQABBi%2BpgZ2Kgor%2FqAQlFZnBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0Xgkop34KyILpP8WiLt%2F29SRZl5i2NGsVJEkgy5kggTAnCOVkpkN5oRa%2FLxto863py9vxWpfzt2Qi4JSSc%2B7xCcrK5l1X34EnMphZDSis83vU%2BD2DZwp8tzGgOwZibRuqALFI7FKbpcCwN8A6vYNH4yxiBPKW%2FEMOcRnb68XQFc2L7I4hrWNLxRrWHCJoudYzHCivGUlc87bFClN%2Bs7UgnRtqm0KDxFYOCRpCTCjMUyUfCd9ZvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=60703236359&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "커세어 VENGEANCE RGB PRO SL DDR4 3600 CL18 32GB",
+    "image": {
+      "file": "corsair-vengeance-rgb-pro-sl-ddr4-3600-32gb.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100/products/Memory/CMH32GX4M2D3600C18/Gallery/VENGEANCE_RGB_PRO_SL_BLACK_01.webp"
+    }
+  },
+  {
+    "name": "Pro DDR5-5600 CL46 32GB",
+    "brand": "Crucial",
+    "category": "memory",
+    "model_code": "CP32G56C46U5",
+    "series": "Crucial Pro",
+    "released_on": "2023-05-30",
+    "summary": "모듈 하나로 32GB 를 채우는 Crucial Pro DDR5-5600",
+    "description": "꽂기만 하면 5600MT/s 로 동작하는 플러그 앤 플레이 메모리로, 32GB 단일 모듈이라 나중에 같은 모듈을 더해 64GB 로 늘리기 쉽습니다. 검은 방열판을 달았고 XMP 3.0·EXPO 를 모두 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46-45-45"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 780000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 780000,
+          "title": "마이크론 Crucial DDR5-5600 CL46 PRO 대원씨티에스 (32GB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=uSHLoWWUu%2FCTbk%2Fl6%2F88kP%2F%2F%2Fw%3D%3DsVju7l94XyImyITPamHVFZX9WmtHz8LXiG5fUr36riA%2BViB85AXi%2BcvjiZ7AU3zWXMfRxi5g10tGH1anOqzHL4qN5uSRjY1yGuHd%2Fdp3Xj0q%2F7aFnL6mfaAxlYy5%2BoVEttb2siYmJQTIVRSl7npln0bNRj7%2FhTDqugMzOv9%2FgHCKedRQhDvxawFNzZycHTqEau5XDcZ1oMC%2FENKMLdye3Zn%2Fbaaz5bxOJBA3P84cwwUXK%2FlA6%2BYEWNJyi9vzvWvev8854ky6q3UrsCxsjJiCAJztxQBVGLVjfHsnPtrCT58xZ0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7mwiRrYUSZchL5JD4BgD%2FCa2XtXFO8SUItBLKnYE5DYkSXa1PYAb0zmPF1cRoKRscXRjJUwB9OgW3CIrHt4ikm18K28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi58hVGTDLf5pX0d96BPgnPpj37MgiuQj5nvx8%2FZD%2BXNuF12ccGlCH4Jsf8rL9f%2FAtV3iEYbd4kGMomV6ot01OwW8Xk3qtfO0pwPxwX8%2Br8KS%2FyMF3cY9BihkLzFSr9iLajdM0nYMIu162Jq8c7s4zzxR1GuUKC6cu2tKrTarlW6AQz%2FukRIYzBgWngyARGI6BiyWbAiRvbKyOE94uFIzBiTHGK5Lxtg19j6j6wOcPhfOGCJfmYl1f0J44yT9259tU4DfkLIyuldBS3f8m8e6nLmzUhNzs2VE%2B%2Bisqs3JAEppg%3D%3D&nvMid=90213446008&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial DDR5-5600 CL46 PRO 32GB",
+    "image": {
+      "file": "crucial-pro-ddr5-5600-32gb-single.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:835a69f3-ac69-45ab-8fc1-2d5c14cefb8c/renditions/transformpng-640-640.png/as/crucial-ddr5-pro-udimm-kit-front.png"
+    }
+  },
+  {
+    "name": "CRAS V RGB DDR5-6000 CL30 64GB (32GB x2)",
+    "brand": "KLEVV",
+    "category": "memory",
+    "model_code": "KD5BGUA80-60A300G",
+    "series": "CRAS V RGB",
+    "released_on": "2023-11-01",
+    "summary": "32GB 모듈 두 개로 64GB 를 채운 KLEVV CRAS V RGB DDR5-6000 CL30 키트",
+    "description": "XMP 3.0 과 EXPO 를 모두 지원하는 RGB 게이밍 메모리의 대용량 구성으로, 영상 편집·가상 머신처럼 메모리를 많이 쓰는 작업에 알맞습니다. 검은 방열판 위 RGB 조명은 메인보드 조명 프로그램으로 맞출 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "64GB (32GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-36-36-76"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 64,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 30,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1850000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1850000,
+          "title": "에센코어 클레브 DDR5 PC5-48000 CL30 CRAS V RGB WHITE 32GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=PSlYur%2BzPh%2BQ3dPrVgaNRv%2F%2F%2Fw%3D%3DsyDLHEPHxQW3wONg6WHM6jQsZxVho%2BPWq28SEexAtoQ6ExboVBDgTI4cgE0Ls4FMk6JCgFfMsF7k6HCQ9zHie9AEAtWH2JV84IZ4aVdIw5LjjcN6esiJjwUKoIAoWpi8GiHQbCg4yBATFyBGwMvcGnebG2zNRUM%2FgHZtCHXz0BKmevdNmXDg79RyJNQ7uAGBY3IZpKv7R1G7ftbswwgHg0WT0ijqJmgB8QFB%2BxuSEEwFB23XdN1y7XncGU0y5eyHtwvAeMYIwrVuBeg2JA7KiSTL7JpqPxDj8DvETqzuEpv9WRA1k7r63YGkbjkHNbqm4yTcX%2FtlzxU5llGFw3dfPQbcisacPPlKCM%2BFyTYvKFkMn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7pDCnN8NYthmY977UbnuGwlC8IvS%2BNPsEPJ7D6mlNi%2F6haj%2BcPGl1KnYw4Rk1nNM5Ll9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHpZuUzY3RaLFpn4aWebp8oEq0ZrQc3Y%2BGVreqNWMLQR2i%2Bn2DuuuoYgar1hnF9jP3AStdk4qXK1yyIzo6jBI7v6GQTNeVFKhL%2Fj76QC9w0P5Pzr3Z23mnkGmpBV2EIes20sti1M95SkB423%2BrJRzLQ%2Fw3n9XctrYU63CEN0gQcDETVArS4zjGIX09j5rD5SMHiA3%2FU2AzguC84AnoS7Lq%2BWoi5hX3laQb94l7sS3LVWQYzayKHiRFwNvigkiM5fie5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=52206832636&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "ESSENCORE KLEVV DDR5-6000 CL30 CRAS V RGB 64GB",
+    "image": {
+      "file": "klevv-cras-v-rgb-ddr5-6000-64gb.webp",
+      "source_url": "https://www.klevv.com/kimg/prd_details/memory/CrasVRGB/CrasVRGB_speed_product.png"
+    }
+  },
+  {
+    "name": "BOLT V DDR5-6400 CL30 32GB (16GB x2)",
+    "brand": "KLEVV",
+    "category": "memory",
+    "model_code": "KD5AGUA80-64B300H",
+    "series": "BOLT V",
+    "released_on": "2025-03-25",
+    "summary": "6400MT/s 를 CL30 으로 맞춘 KLEVV BOLT V 저지연 키트",
+    "description": "RGB 없이 높이 34mm 의 낮은 방열판을 단 DDR5 메모리로, 2025년 저지연 개편 때 추가된 모델입니다. XMP 3.0·EXPO 를 지원하며 6400MT/s 는 CPU·메인보드에 따라 다르므로 메모리 호환 목록(QVL)을 확인하는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL30-38-38-78"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6400,
+      "cas_latency": 30,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 879000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 879000,
+          "title": "에센코어 클레브 DDR5 PC5-51200 CL30 BOLT V BLACK 패키지 서린 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=ep4ljAKmavIWi90ong%2BF0P%2F%2F%2Fw%3D%3DsqNn1Kk7EkyorP3JJ2aM2x5IUtNIKqF%2FfxD6d6xH6D5%2FJ3EdHp6GBiN2WwBo8NRuzs23%2BIDqwxHrCyTAAF3%2FH0gZ8PAnyNUhlS9bj09RO%2Fz7Vw0qnp3WsflouIqu6GGai34UEXfapvsG3LaA%2FKjqPctOynvC6mYl52wkB78ccCPkIj%2FJEbrLiHUy95w279ij6Q%2BD%2Fo9glb0ukJK6bM8miKIj1pnJbiGEKCZyuxCFYZYZRHhIHmHqNHHeXmT8gm4a%2BynZsG%2Bd19OKu09VIjiYGUE4C%2FWJjisBKZDUf1aLTPwnGsZRrqSqjCFKZrQzHGMv4NIjq9BRWmtwDBbxjLYnT6sQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F0R%2F1H4ojcLmhFNlRMOEXOhs2i6N2KI17kCTL3WmfiP8m4oUci5CvqEMh0afGzgRzSlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDAbOdNiVxEr8eJ9SuwONkK4mpkt5Wa9MpzTjkfd0EuysPrZyIGKxoeIAWxIPy%2BWpuJp84MC9MQx0VbOJa8tpfnxdmufHafs5auR3MDwcjNetSVHejn1IlVA9PvVAazCFlOFRUATPeAy2U%2FpfO5yfRE1VlUsLjK%2FKgf8cU7mSqZWtCZag%2Frg1PMpRpNklNDJeNsVVkgUKpmeeUi9QFNvp9pZYnHIcETcJifOE8sb44IMxWCV%2Fs%2BGAam9BkPQFL7V2NqIDl8JewivOOLTosi9tCr0xyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=55782370663&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "ESSENCORE KLEVV DDR5-6400 CL30 BOLT V 32GB",
+    "image": {
+      "file": "klevv-bolt-v-ddr5-6400-cl30-32gb.webp",
+      "source_url": "https://www.klevv.com/kimg/product_list/memory/bolt_v_pic.png"
+    }
+  },
+  {
+    "name": "URBANE V RGB DDR5-6400 CL32 32GB (16GB x2)",
+    "brand": "KLEVV",
+    "category": "memory",
+    "model_code": "KD5AGUA80-64A320V",
+    "series": "URBANE V RGB",
+    "released_on": "2024-11-05",
+    "summary": "활 모양 방열판에 RGB 를 단 KLEVV URBANE V RGB DDR5-6400 키트",
+    "description": "2mm 두께 알루미늄 방열판과 10층 PCB 를 쓴 RGB 게이밍 메모리로 2024년 11월 출시됐습니다. XMP 3.0·EXPO 프로파일로 6400MT/s CL32 에 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6400MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL32-38-38-78"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6400,
+      "cas_latency": 32,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 884700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 884700,
+          "title": "에센코어 클레브 DDR5 PC5-51200 CL32 URBANE V RGB 패키지 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=yUpjHNie9Leub%2BQ%2BilijJP%2F%2F%2Fw%3D%3DsQ7me41RUOcdUmQwKELbhBhnXFDi2LHiSdms7b0fg8pW0lEl%2Bu4r%2BiwQUdobqrk2UJOtGqFurpvz40ArLf1SDYHXB7EObq6YboeZY3SmwQdijsnWIdn3nC%2F9rL6791ABe7lijz34tT1EnfCFlYq75ui62lnRz%2Fz%2BjmqmOzbvK2lQBmr6FGMqk5HWiD2MFEEozHinNrx5sg4hc%2Bs%2BwYZL3l6Tq%2FbD2MGowZHhNOyBhpCd5Fm2dUJI%2B7diiSauCDP3eCpOVAHHnrUYEzq8a9fhMvJJPraSa%2FYN8sYwjIiAT9s%2BVfs%2BTqnWO5Tc99BHqO3mhM6mjzjUEswAzO8YQrwIBoO3eGsyt2PtbmN9t3YByWJ8cYP6Go5%2B0bVgOVL9T5G%2FQTMXN4Jem8UYUtJ21ZiGFWSfrv7Jfwn9NxBaCtMU98TZ7sG4TmRPCXWCWbHo8GYO4VV3pn6Znl%2B9MAtsEE%2BZ8ouacYsA2T1ONC2M4R1%2F3Eb972ZuEVhjVhhsa9m0AUpNUISFv7n5uAItYPm5%2BaPBVoK2yV7RxjIyNmAhFBQk%2FoYoura0umyewG3sU16BCYUympo2Y27OMxChR1eZxI4CdAfL8xrzAm%2FP9XMd6rdMLdmfQDhzquFuSSQZegMxx2rWK%2BhMG%2BkUP5%2BC40sYew%2Fn2PzyZTBV7MtTPRLgcuIniXSmFW4V%2Bwy7skc4QRq04ky13Ns%2FjCsieeHy%2B0O0v5Twh%2BzAFuKmMpWFGIeJymz7FyzeHB%2F6yNp7N%2Fb%2FDMgadEALnHLkjE%2BTi3niRl%2FGXh%2FJ%2Bal9Vimlc8WhTYGj4iLlCcGpE9kp225KlyrGA35dX2mtjezdPirNIEhU3YcDKwV2g5JJBa6W4UCU6yyiRRrpK%2Fsy31csZo470vA6K%2ByAqqUtIgqgOvq6z5EpEI5N2xav1Mg%3D%3D&nvMid=52248003618&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "에센코어 KLEVV DDR5-6400 CL32 URBANE V RGB 32GB",
+    "image": {
+      "file": "klevv-urbane-v-rgb-ddr5-6400-32gb.webp",
+      "source_url": "https://www.klevv.com/kimg/prd_details/memory/UrbaneV/UrbaneV_banner_product_black.png"
+    }
+  },
+  {
+    "name": "ELITE DDR5-5600 CL46 8GB",
+    "brand": "TeamGroup",
+    "category": "memory",
+    "model_code": "TED58G5600C4601",
+    "series": "TEAMGROUP ELITE DDR5",
+    "released_on": "2022-07-01",
+    "summary": "팀그룹 ELITE DDR5-5600 8GB 표준 메모리",
+    "description": "방열판 없는 JEDEC 표준 DDR5 UDIMM 입니다. 1.1V 로 동작하며 사무용 PC 의 기본 메모리나 두 개를 맞춘 16GB 듀얼 채널 구성에 알맞습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "8GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL46"
+      },
+      {
+        "label": "전압",
+        "value": "1.1V"
+      },
+      {
+        "label": "방열판",
+        "value": "없음"
+      },
+      {
+        "label": "프로파일",
+        "value": "JEDEC 표준"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 8,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 46,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 182000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 182000,
+          "title": "팀그룹 DDR5 PC5-44800 CL46 Elite 서린 8GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=QdVc%2F%2FpeXCIV2Rm7BldAVv%2F%2F%2Fw%3D%3DsLdVmWIqnJSWAh5VOZ%2B8zBZ0YqS1Ef0oVFBrXw5mLkmNPFHtBgnD19f0qiTE7gbQP1dHOH8pYOUOUEk0irIeuMnaB%2BOgM5kUUicHDR23M7IO1HXSHqZSYvnGcwT%2F7kee1IREqCoW4vV3BerkJ2EsFUHfM%2BgHdLSVjl23HcUlQL60a1EKLKDNY%2FcRbgz4wrxDUVV3pn6Znl%2B9MAtsEE%2BZ8oi7fFcACin6L%2FKcq0ZVJgyPVSNY6ZF9VLwruINrIXHSnzT%2F3Ufn4drXPyPbiuphOouXtjdA1nVlaCPlfBDxuxezW4pNLRr6C6uPdwmx7J0TOVENXRC6n8hEh3wwLR2lhms5SPEGZvtE0JCNvgEX1c%2BfvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4VWmvk%2BKEMPn6BZwMOLM2QIBEml1tTF2Jdx059HiaNQ02Qim0uSGV45GygZvcFQrpAYyVMAfToFtwiKx7eIpJtfCtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4u47JMCQccHUzwdav990SeK4JCxgMzJoDoNl7%2B7M%2FTLjkeYnogbmV%2Bhs1mGuAmnj1Bu5SLOB3QbLkB87gAgY10VtSr7i3q6lioEz9EZwa13ULeYAgLI7jhFlDkqApQ0Sk8SqBOxZ%2BQeOaBhxadNuE91kBa0dDClrmwEQdXUmaN9P%2BUy967mlSa3mZfqZTLi6DqtpPgQUBBobxKZazoVaQIhnsWH4NXbKTplwUa6BIEGSaBt8sYR4FbFIiEUrdvyA9xQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=52207917632&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "팀그룹 DDR5 PC5-44800 CL46 Elite 8GB",
+    "image": {
+      "file": "teamgroup-elite-ddr5-5600-8gb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/memory/u-dimm/ddr5/elite/02.jpg"
+    }
+  },
+  {
+    "name": "Trident Z Neo DDR4-3600 CL16 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F4-3600C16D-32GTZNC",
+    "series": "Trident Z Neo",
+    "released_on": "2019-07-11",
+    "summary": "라이젠 DDR4 시스템에 맞춘 Trident Z Neo DDR4-3600 CL16 키트",
+    "description": "AMD 라이젠 3000 시리즈와 함께 나온 AMD 최적화 DDR4 메모리로, RGB 라이트 바를 갖췄습니다. XMP 2.0 프로파일로 3600MT/s CL16 에 동작해 AM4 메인보드에 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR4 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "3600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL16-19-19-39"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 2.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR4",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 3600,
+      "cas_latency": 16,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 460000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 460000,
+          "title": "지스킬 DDR4 PC4-28800 CL16 TRIDENT Z NEO C 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=FLBHIx2ourOD3LTk1S4oE%2F%2F%2F%2Fw%3D%3DsE79i12eY3%2F3NMGnSmGgQ1OY%2F%2BrHBJSsYF8WbDa1Lss%2BCi4tqktWjWLSXRCOMrKZuRJzfm%2BrrF2oFuaqk8iNNMqqUUYAXHGFVEO4SyjVppOT8w49sgRIqfSEpHBxDOWMORgKFVOWI%2FqY2b5eblzPWJB%2FkHLY%2BPCatVKdiLC7iXLvkCW8tWiJx6kyDRF7kj2v1hmeWtJmvw8M90EK%2Bzy5a114nEdwofithSFzlLG8az9BTRGAyCA%2BAiSsaTaZz%2FJEboSSLvMLVpQ0kptXPJsHfDrqcym2cqIi%2BBFaNZfwShd0VU5nS%2Ff7iKjTq18d4J%2FbCQm6LVCrOy0fKvi9rPmAuUsT2k7bOr4KIL%2FFsD5Z8CLTDOKokWk2dqoIL0fiEUY9dkHg%2F%2BSqYJGTq67FGHC6L7RDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27BW36r4QZshREfg%2B3vq7RNvpygSlArMV7jUBMFBpmqznUQvs8GHq%2Bj7OvUNvyviyxAAQYvqYGdioKK%2F6gEJRWZwZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKYOvPj3Ko4ZNqh2bbxP2XpwtjRrFSRJIMuZIIEwJwjlZUqWjJi%2Fb7krmIBjlJBx00eo1VIxdENsfOdIJeP9I3fCrpSU3qAlBUoMax7EeTAnFX7NVh1A9UF9lyC4zMTHtNAXVtNWGmRdbvqOZ4Nah4sNzd3LRUGwwGcyV0RMUNisGVkHs%2FtKFxbRD11%2B3W289SRLPHBVE1X9hF6ZkrnPWwITOLQEulxX3MVnlJCmErjmPQ7Q6KgVrlXrQdulL39%2BiMWhopkeKUdu5q4dSKA0zkoA%3D&nvMid=54326048044&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "지스킬 DDR4-3600 CL16 TRIDENT Z NEO 32GB",
+    "image": {
+      "file": "gskill-trident-z-neo-ddr4-3600-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/156284021100.png"
+    }
+  },
+  {
+    "name": "Trident Z5 RGB DDR5-6000 CL36 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-6000J3636F16GX2-TZ5RK",
+    "series": "Trident Z5 RGB",
+    "released_on": "2021-12-23",
+    "summary": "1.35V 로 동작하는 Trident Z5 RGB DDR5-6000 CL36 키트",
+    "description": "Trident Z5 RGB 의 기본형 6000MT/s 키트로, CL30 모델보다 타이밍이 느슨한 대신 값이 낮습니다. 인텔 XMP 3.0 과 AMD EXPO 를 모두 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "6000MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-36-36-96"
+      },
+      {
+        "label": "전압",
+        "value": "1.35V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0, AMD EXPO"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 6000,
+      "cas_latency": 36,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 858600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 858600,
+          "title": "지스킬 DDR5 PC5-48000 CL36 TRIDENT Z5 RGB J 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=ycwnFTHdmfyx3g93LYHA5v%2F%2F%2Fw%3D%3Ds9B4dL5xvLQ8HGuEjMHxmcx8Wvw%2F6w3rLrXxy9NL3%2FaKCi4tqktWjWLSXRCOMrKZu4%2FGj0acvNCOlh%2BwjCIwLjeHlfHoNzOEvyi5kG72ES0yS7YwrzvgGxRCxU2pssmvWRPfi60zDcEAzmj2p6LXeXVEpW%2FMj%2BTTl3DkUFj7BOyTJA%2F5lMNBEtp0SFcHy0J3lSACfyUPb7GuBuWsGpjA91a6D72yMDusd14wuRj7AgxTUxEE7ui11%2FI%2FacATTxv44CB2Pl%2FWfbp1%2Bl2d8zGTBNbEuvFwcXrJ3VDTKUIw9FCj%2BViOzvMQc8dX5tYB%2BDGRpSFbtrtwXn4zHCu8MUSdf%2FFIl9vOdin5iThfxXhlSx0MbVFkZnbkqXvVWAXJsulXPLVi%2B%2Bcw%2B0bBC0j4MU8JxK1l3gAsr%2F%2FRkoVX3l7TQO1ik6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdJnTBTvWfhFPgOsa1XoY%2FxZqLzcRVswO%2FNXTrA15l4GNaFJOd0JDOPFnZK0MXqfm%2Ff8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hXEpmFDjRT32oLPxX%2FkZGMdDu2wgB9LTFCcYj5vXsSwtRSoOSSOHgMicCuuhlFGNIlxDw1CFIoib9O8jhQrWFcJCfBMdzrqNX1uvotESUjHEtmkNM1HF1eXiWCktVHj%2BcAD6kOi6BuE4S1iSkqDAO3oZ4dp3c%2Bg7%2BGTwn5V85qDHHyXOqZqR5MN%2B5ZHlzvtggogN%2F1NgM4LgvOAJ6Euy6vlK5GwOQz1c5AesUHuHHuRdWwmZMR9Be%2FApfkkv6PlhB%2BR79U%2F6Az3gE9mQ%2Flgn57E%3D&nvMid=52207913651&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "지스킬 DDR5-6000 CL36 TRIDENT Z5 RGB 32GB",
+    "image": {
+      "file": "gskill-trident-z5-rgb-ddr5-6000-cl36-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/164022975200.png"
+    }
+  },
+  {
+    "name": "Trident Z5 RGB DDR5-7600 CL36 32GB (16GB x2)",
+    "brand": "G.SKILL",
+    "category": "memory",
+    "model_code": "F5-7600J3646G16GX2-TZ5RS",
+    "series": "Trident Z5 RGB",
+    "released_on": "2022-10-13",
+    "summary": "인텔 고클럭용 Trident Z5 RGB DDR5-7600 CL36 키트",
+    "description": "은색 방열판에 RGB 라이트 바를 단 고클럭 DDR5 메모리로 인텔 XMP 3.0 프로파일만 지원합니다. 7600MT/s 는 CPU 와 메인보드를 많이 타므로 메인보드 메모리 호환 목록(QVL)을 꼭 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "7600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB (16GB x2)"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-46-46-121"
+      },
+      {
+        "label": "전압",
+        "value": "1.4V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음 (RGB, 실버)"
+      },
+      {
+        "label": "프로파일",
+        "value": "Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 2,
+      "speed_mts": 7600,
+      "cas_latency": 36,
+      "rgb": true,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 932600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 932570,
+          "title": "지스킬 DDR5 PC5-60800 CL36 TRIDENT Z5 RGB J 16GB, 2개",
+          "url": "https://cr.shopping.naver.com/adcr?x=GgvutLt50ozTQh%2Fq3N%2BcaP%2F%2F%2Fw%3D%3Dspg1%2Fbi9k9NaCBR3QcfmAokvcaKPSCw%2FzY35ck4aVMrAHiGM3joqqCVWnCPU1cLhDDhaNBJzfEHETBtqGjoCGjSiOOh9a%2BZhrDnGRrit8KTEACI5TZ6YwkT%2BqfI9isvQmlnpHVRslWGWt%2B%2ByktB1vne0RxL%2BBy7NaUG%2FCy6oi564E7Mke7Dg80q5l9mvNaEaZHinNrx5sg4hc%2Bs%2BwYZL3l6Tq%2FbD2MGowZHhNOyBhpCeuQ4lNDhYSiXJm8haTiC3renIi1wuIhfhHTut%2FjqlJbOOPrMP0uA5sCAVGq3wzlA7WENdHraRO%2FPmMInKB0HwWENOdm986bCJ3j7yg0oUa8%2BwmdbkC%2FYpAsvNTBM9oI2ysXovfrgxs3hujEw%2BTsfb5F9WPQ%2BcQv26%2BEl4VECv6KD1gKwFhXnlloKqn3sd7CAHnLORZv9jrTI1IahMa5moUfixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJS06hk3SuqfCn6l5B255Dpso2YNjCrBKRV0piZuNc9AyFd%2BqILAG09hjAR1K3qLYkBM%2F0Gp3p6xNxq1s7tYgfcfnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbWr%2FmkueCFT%2FQ%2FCdm8xvoqxv%2FwnrjGEiFm6ElkF7dRdztD9KGycXn62LBjwCdRif91ziUaWSBcokpWi9zwTWibzaJSjQtmni8uOqDuHkM9h6bzGQjWVL0vyJ9SSQ916%2BLpDqLMdRwriKw8hS2nEv8lJ1RXFBtLSa0nN9woezNy9YztBzXz3ZazqCOIIUuQlyjc2v8i0DO1MJ5z%2FomU1UQMnASIbJJHJxstflUn134TkkK6Kou3FY4hr9zXJHTte9ihsFuHDDfi9TVHKj0NX7YWoHRyPBWbUFRhWScTsgQynPg%3D%3D&nvMid=52145275618&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "지스킬 DDR5 PC5-60800 CL36 TRIDENT Z5 RGB 실버",
+    "image": {
+      "file": "gskill-trident-z5-rgb-ddr5-7600-32gb.webp",
+      "source_url": "https://www.gskill.com/_upload/images/166564481700.png"
+    }
+  },
+  {
+    "name": "FURY Beast DDR5-5600 CL36 32GB",
+    "brand": "Kingston",
+    "category": "memory",
+    "model_code": "KF556C36BBE-32",
+    "series": "FURY Beast DDR5",
+    "released_on": "2023-01-04",
+    "summary": "AMD EXPO·인텔 XMP 3.0 을 모두 지원하는 FURY Beast DDR5-5600 32GB 단일 모듈",
+    "description": "높이 34.9mm 의 낮은 방열판을 단 32GB 단일 모듈로, 한 개로 32GB 를 채우고 나중에 같은 모듈을 더해 64GB 듀얼 채널로 늘리기 좋습니다. 프로파일을 켜면 5600MT/s CL36 으로 동작합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "DDR5 UDIMM"
+      },
+      {
+        "label": "속도",
+        "value": "5600MT/s"
+      },
+      {
+        "label": "용량",
+        "value": "32GB"
+      },
+      {
+        "label": "타이밍",
+        "value": "CL36-38-38"
+      },
+      {
+        "label": "전압",
+        "value": "1.25V"
+      },
+      {
+        "label": "방열판",
+        "value": "있음"
+      },
+      {
+        "label": "프로파일",
+        "value": "AMD EXPO, Intel XMP 3.0"
+      }
+    ],
+    "attributes": {
+      "memory_type": "DDR5",
+      "capacity_gb": 32,
+      "modules": 1,
+      "speed_mts": 5600,
+      "cas_latency": 36,
+      "rgb": false,
+      "cudimm": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 764600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 764640,
+          "title": "킹스톤 FURY DDR5 PC5-44800  CL36 Beast 블랙 코잇 RAM 32GB, 1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=3W4ueTbtmf1Ypb4UnshPOv%2F%2F%2Fw%3D%3Ds7I3Jq4hZDDrsCkjDkxvOmMYyszUuvCrCXtBq31bVI9Wfhdw4qOT7ju4tn%2FoX5ZpckOVJ1lQSCjgA3DzJi6a1wRGDPdBjCaspjNcPiuR9a6tmCq5MsxjYqsijJlbfUFUi2vXl%2FdjRKPafYb8eDI8QpvF20iuhev5InKK%2B7ZWslSwUVM0jxhgOKZYjhZucjXU%2FRsCh5GS%2BklokEzA%2FJ0VszxCGSQdcrj%2BZJHLmJxgT%2FbtlZwzxSOV%2BFvQE4hoC55HUnwHMX8jkyF5pWhXOkYbDS%2BtcF6tfa2e4z86IxCRB9SwdOIymtz6%2BDt14vRFDuHyvWGWaCb3YQkA0dyw557pDYrlymvq33cNDUwRDRRmOgzn8RZho8yHhgdiW5pNi9fZ0D06ZBWNRJLtOKg5PqstaydjjGdLGhpysDqYvBgkxaCPbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhUQ6cpKTqlmYGalnAZlcEQ1JNFym9FxY8fqFldh%2BCfdDOiSHso0SSRvAEEo5QU4QSkB8KGAV6djoT6ZNYVySwZmHSSD6CHWHDjU5z8k4rV370kOHBt8ETLCcCqKWGT7DLOIwo9o2FPx9Epr35vJOaPzmQDN8T85Qos%2FuZ4vcbU8RLK0y6o2dz1RPCHxWbaCjCXhzJvNayNeSP%2BFDo6be%2BJ3QTN52vaAa%2FGXXack7D6abEWTVS6%2FCWlzAnI30HXwxAU3%2BW3kPdGAGl2%2FRxGapHf9MCu%2F7JVzy32RXY9%2FRQBb%2BB4aZYKuCbF2MeMpeFIRImudC57015YWZIvcCJZeKaE1EnK184Aqnpj1fEJ64Yigwv4YGjJCSIW1IvBxXT1wG9207jiJGMkc2HfRcBjjV7HhmG%2FhdSvoOj8vSN6Ie2qvpDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=57715929918&catId=50003101"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY DDR5-5600 CL36 Beast 블랙 32GB",
+    "image": {
+      "file": "kingston-fury-beast-ddr5-5600-32gb-single.webp",
+      "source_url": "https://media.kingston.com/kingston/product/FURY_Beast_Black_EXPO_DDR5_1-lg.jpg"
+    }
+  }
+]

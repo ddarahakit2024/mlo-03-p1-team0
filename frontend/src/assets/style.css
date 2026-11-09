@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'Pretendard Variable';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/PretendardVariable.woff2') format('woff2');
+}
+
+:root {
+  --font-body: 'Pretendard Variable', Pretendard, 'Malgun Gothic', sans-serif;
+  --font-numeric: var(--font-body);
+  --bg: #121417;
+  --surface: #1a1d22;
+  --surface-2: #20242a;
+  --surface-3: #2b3038;
+  --line: #2b3038;
+  --line-strong: #525b68;
+  --ink: #f3f4f6;
+  --muted: #a6adb8;
+  --brand: #ff7a1a;
+  --brand-strong: #ff913f;
+  --brand-ink: #121417;
+  --brand-soft: rgba(255, 122, 26, .1);
+  --brand-line: rgba(255, 122, 26, .48);
+  --focus: #ffae70;
+  --danger: #ff7b80;
+  --danger-soft: rgba(255, 123, 128, .1);
+  --success: #3ecf8e;
+  --success-soft: rgba(62, 207, 142, .1);
+  --warning: #f5c76b;
+  --warning-soft: rgba(245, 199, 107, .1);
+  --image-bg: #ffffff;
+  --shadow: 0 12px 32px rgba(0, 0, 0, .24);
+  --overlay: rgba(0, 0, 0, .68);
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --content-width: 1240px;
+  --text-xs: 12px;
+  --text-sm: 13px;
+  --text-body: 14px;
+  --text-section: 20px;
+  --text-title: clamp(24px, 2.2vw, 28px);
+  --motion-fast: 160ms;
+  font-family: var(--font-body);
+  color-scheme: dark;
+  color: var(--ink);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+}
+
+* { box-sizing: border-box; }
+html { scroll-padding-top: 88px; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: var(--bg); color: var(--ink); }
+button, input, select, textarea { font: inherit; }
+button { color: inherit; }
+button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+button, select { touch-action: manipulation; }
+button, a { transition: color var(--motion-fast) ease, background-color var(--motion-fast) ease, border-color var(--motion-fast) ease, transform var(--motion-fast) ease; }
+button:active:not(:disabled) { transform: translateY(1px); }
+:is(a, button, input, select, textarea, summary):focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+input, select, textarea { color-scheme: dark; }
+input::placeholder, textarea::placeholder { color: var(--muted); opacity: 1; }
+input[type='checkbox'], input[type='radio'] { accent-color: var(--brand); }
+h1, h2, h3 { min-width: 0; text-wrap: pretty; }
+img { max-width: 100%; }
+::selection { background: var(--brand-line); color: var(--ink); }
+.sr-only { position: absolute; overflow: hidden; width: 1px; height: 1px; clip: rect(0, 0, 0, 0); white-space: nowrap; }
+/* 화면이 열릴 때 살짝 떠오르며 나타난다(디자인의 페이지 전환). 화면 바깥 상자에 animation: moa-fade .25s ease 로 쓴다 */
+@keyframes moa-fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } }

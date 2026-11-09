@@ -1,0 +1,109 @@
+/* 질문 게시판에만 있는 모양(접두사 q-): 목록 줄(답변 수 알약·관련 부품·조회 수·채택 표시·첨부), 상세의 관련 부품 카드·답변 카드·채택 배지·답변 쓰기,
+   글쓰기의 관련 부품 검색·이미지 업로드. 게시판 공통 모양(카드·버튼·폼·쪽 이동)은 community.css 의 cm- 클래스를 쓴다.
+   색은 style.css 의 :root 토큰만 쓴다. 모양은 디자인 시안(MOA Parts "questions list"·"question detail")을 따른다. */
+
+/* 목록 줄: 답변 N | 제목 / 관련 부품 · 첨부 · 채택 | 글쓴이 | 조회 N | 날짜 */
+.q-board-row { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto auto; grid-template-areas: "pill title author views date" "pill sub author views date"; column-gap: 12px; row-gap: 2px; align-items: center; min-height: 60px; padding: 14px 18px; color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.q-board-row:hover { background: var(--surface-2); }
+.q-board-row__title { grid-area: title; min-width: 0; margin: 0; overflow: hidden; color: inherit; font-size: var(--text-body); font-weight: 600; line-height: 1.5; text-overflow: ellipsis; white-space: nowrap; }
+.q-board-row--waiting .q-board-row__title { color: color-mix(in srgb, var(--ink) 80%, var(--muted)); }
+.q-board-row__sub { grid-area: sub; display: flex; flex-wrap: wrap; align-items: center; gap: 2px 10px; min-width: 0; margin: 0; color: var(--muted); font-size: var(--text-xs); }
+.q-board-row__product { min-width: 0; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.q-board-row__product--none { opacity: .75; }
+.q-board-row__meta { display: contents; }
+.q-board-row__author { grid-area: author; max-width: 120px; overflow: hidden; color: var(--muted); font-size: var(--text-xs); text-overflow: ellipsis; white-space: nowrap; }
+.q-board-row__views, .q-board-row__date { color: var(--muted); font-size: var(--text-xs); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.q-board-row__views { grid-area: views; }
+.q-board-row__date { grid-area: date; }
+.q-answer-count { grid-area: pill; display: inline-flex; flex: none; align-items: center; justify-self: start; padding: 3px 9px; border: 1px solid var(--brand-line); border-radius: 999px; background: var(--brand-soft); color: var(--brand-strong); font-size: var(--text-xs); font-weight: 700; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.q-answer-count--empty { border-color: var(--line); background: transparent; color: var(--muted); }
+.q-image-count { display: inline-flex; align-items: center; gap: 3px; color: var(--muted); font-size: var(--text-xs); font-weight: 650; font-variant-numeric: tabular-nums; }
+.q-image-count svg { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linejoin: round; }
+.q-accepted-mark { display: inline-flex; align-items: center; gap: 3px; color: var(--success); font-size: var(--text-xs); font-weight: 700; }
+
+/* 상세: 관련 부품 카드 */
+.q-part { display: flex; align-items: center; gap: 12px; min-width: 0; padding: 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--bg); transition: border-color .18s ease; }
+.q-part:hover { border-color: var(--brand); }
+.q-part__photo { display: flex; flex: none; align-items: center; justify-content: center; width: 52px; height: 52px; padding: 3px; border-radius: var(--radius-sm); background: var(--image-bg); }
+.q-part__photo img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.q-part__copy { display: grid; flex: 1; gap: 2px; min-width: 0; }
+.q-part__label { color: var(--muted); font-size: var(--text-xs); }
+.q-part__name { overflow: hidden; color: var(--ink); font-size: var(--text-body); font-weight: 700; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
+.q-part__name:hover { color: var(--brand-strong); text-decoration: underline; text-underline-offset: 3px; }
+.q-part__price { display: grid; flex: none; justify-items: end; gap: 4px; }
+.q-part__price strong { color: var(--ink); font-size: 15px; font-weight: 800; font-variant-numeric: tabular-nums; }
+
+/* 상세: 첨부 이미지 */
+.q-attachments { margin: 0; }
+.q-attachments h2 { margin: 0; color: var(--ink); font-size: var(--text-body); font-weight: 700; }
+.q-attachments h2 > span { margin-left: 6px; color: var(--brand-strong); }
+.q-attachment { margin: 14px 0; }
+.q-attachment a { display: block; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--image-bg); }
+.q-attachment img { display: block; max-width: 100%; max-height: 700px; margin: auto; object-fit: contain; }
+.q-attachment figcaption { margin-top: 8px; color: var(--muted); font-size: var(--text-xs); overflow-wrap: anywhere; }
+.q-image-error { display: block; padding: 40px 20px; background: var(--surface-2); color: var(--brand-strong); font-size: var(--text-sm); text-align: center; }
+.q-attachments-help { margin: 0; color: var(--muted); font-size: var(--text-xs); line-height: 1.7; }
+
+/* 상세: 답변 카드(채택된 답변은 맨 위, 초록 테두리와 "채택된 답변" 배지) */
+.q-answers { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.q-answer-list { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; }
+.q-answer { display: flex; flex-direction: column; gap: 10px; min-width: 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.q-answer--accepted { border-color: color-mix(in srgb, var(--success) 35%, transparent); background: color-mix(in srgb, var(--success) 6%, var(--surface)); }
+.q-answer__head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; color: var(--muted); font-size: var(--text-xs); }
+.q-answer__author { color: var(--ink); font-size: var(--text-body); font-weight: 700; overflow-wrap: anywhere; }
+.q-accepted-badge { margin-left: auto; padding: 3px 9px; border-radius: 999px; background: var(--success-soft); color: var(--success); font-size: 11px; font-weight: 800; white-space: nowrap; }
+.q-answer__body { color: var(--ink); font-size: var(--text-body); line-height: 1.65; white-space: pre-wrap; overflow-wrap: anywhere; }
+.q-accept--do { border-color: color-mix(in srgb, var(--success) 50%, transparent); background: transparent; color: var(--success); font-weight: 700; }
+.q-accept--do:hover:not(:disabled) { border-color: var(--success); background: var(--success-soft); }
+
+/* 상세: 답변 쓰기(비로그인이면 입력 대신 안내 + 로그인) */
+.q-compose { display: flex; flex-direction: column; gap: 10px; min-width: 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.q-compose fieldset { min-width: 0; margin: 0; padding: 0; border: none; }
+.q-compose__title { margin: 0; color: var(--ink); font-size: var(--text-body); font-weight: 800; }
+.q-compose textarea { display: block; width: 100%; min-height: 84px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--ink); font-size: var(--text-body); line-height: 1.5; resize: vertical; }
+.q-compose textarea:focus { border-color: var(--brand); outline: none; }
+.q-compose__placeholder { margin: 0; padding: 12px 14px; min-height: 84px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--muted); font-size: var(--text-body); }
+.q-compose__foot { display: flex; justify-content: flex-end; }
+
+/* 글쓰기: 관련 부품 검색(결과 목록·고른 부품 칩) */
+.q-product-chip, .q-product-option { display: flex; align-items: center; gap: 12px; min-width: 0; padding: 10px 12px; border: 1px solid var(--brand-line); border-radius: 12px; background: var(--brand-soft); color: var(--ink); }
+.q-product-chip__photo { display: flex; flex: none; align-items: center; justify-content: center; width: 40px; height: 40px; padding: 3px; border-radius: 8px; background: var(--image-bg); }
+.q-product-chip__photo img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.q-product-chip__copy { display: grid; flex: 1; gap: 1px; min-width: 0; text-align: left; }
+.q-product-chip__copy span { color: var(--muted); font-size: var(--text-xs); }
+.q-product-chip__copy strong { overflow: hidden; color: var(--ink); font-size: var(--text-body); font-weight: 700; text-overflow: ellipsis; white-space: nowrap; }
+.q-product-chip__clear { min-width: 44px; min-height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--surface); color: var(--ink); font-size: var(--text-xs); font-weight: 700; cursor: pointer; }
+.q-product-chip__clear:hover { border-color: var(--brand); color: var(--brand-strong); }
+.q-product-status { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 12px; margin: 0; color: var(--muted); font-size: var(--text-xs); line-height: 1.6; }
+.q-product-status--error { padding: 10px 12px; border-radius: var(--radius-sm); background: var(--danger-soft); color: var(--danger); }
+.q-product-results { display: grid; gap: 6px; max-height: 360px; margin: 0; padding: 0; overflow-y: auto; list-style: none; }
+.q-product-option { width: 100%; border-color: var(--line); background: var(--bg); font: inherit; cursor: pointer; transition: border-color .18s ease, background-color .18s ease; }
+.q-product-option:hover, .q-product-option[aria-pressed="true"] { border-color: var(--brand); background: var(--surface-2); }
+.q-product-option__price { flex: none; color: var(--ink); font-size: var(--text-sm); font-weight: 800; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 글쓰기: 이미지 첨부 */
+.q-file-label { position: relative; display: inline-flex; align-items: center; justify-self: start; min-height: 40px; padding: 0 16px; border: 1px solid var(--brand-line); border-radius: var(--radius-sm); background: var(--brand-soft); color: var(--brand-strong); font-size: var(--text-sm); font-weight: 700; cursor: pointer; }
+.q-file-label:focus-within { outline: 3px solid var(--focus); outline-offset: 3px; }
+.q-file-label input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; }
+.q-error { margin: 0; color: var(--danger); font-size: var(--text-sm); line-height: 1.7; overflow-wrap: anywhere; }
+.q-error:empty { display: none; }
+.q-previews { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 4px 0 0; padding: 0; list-style: none; }
+.q-previews li { min-width: 0; }
+.q-previews img { display: block; width: 100%; height: 116px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--image-bg); object-fit: contain; }
+.q-previews li > div { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.q-previews li span { flex: 1; min-width: 0; overflow: hidden; color: var(--muted); font-size: var(--text-xs); text-overflow: ellipsis; white-space: nowrap; }
+.q-remove-image { min-width: 44px; min-height: 44px; padding: 5px; border: none; background: transparent; color: var(--danger); font-size: var(--text-xs); cursor: pointer; }
+.q-remove-image:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.q-existing-images { margin: 0; padding-left: 20px; font-size: var(--text-sm); line-height: 2; }
+.q-existing-images a { color: var(--brand-strong); overflow-wrap: anywhere; }
+
+@container cm-main (max-width: 620px) {
+  .q-board-row { grid-template-columns: auto minmax(0, 1fr); grid-template-areas: "title title" "sub sub" "pill meta"; row-gap: 6px; padding: 13px 16px; }
+  .q-board-row__title { white-space: normal; overflow-wrap: anywhere; }
+  .q-board-row__meta { grid-area: meta; display: flex; flex-wrap: wrap; align-items: center; min-width: 0; }
+  .q-board-row__meta > * + *::before { margin: 0 6px; content: '·'; }
+  .q-answer, .q-compose { padding: 14px 16px; }
+  .q-part { flex-wrap: wrap; }
+  .q-part__price { flex: 1 1 100%; grid-auto-flow: column; justify-content: space-between; align-items: center; }
+  .q-previews { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+}

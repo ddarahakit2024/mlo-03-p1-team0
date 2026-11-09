@@ -1,0 +1,3283 @@
+[
+  {
+    "name": "AK620 듀얼타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AK620-BKNNMT-G",
+    "series": "AK",
+    "released_on": "2021-09-14",
+    "summary": "히트파이프 6개와 120mm 팬 2개의 공랭 쿨러",
+    "description": "고성능 CPU 도 조용하게 식히는 듀얼타워 공랭 쿨러입니다. AM5·LGA1851 을 지원합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "높이",
+        "value": "160mm"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "260W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 160,
+      "radiator_mm": null,
+      "tdp_rating_w": 260
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 76100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 68250,
+          "title": "DEEPCOOL AK620 DIGITAL 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=CGbmYwY9EOpSsWYMTL027%2F%2F%2F%2Fw%3D%3DsodTVgCaGIG1e7%2FktoUmR1usQM9a%2BGLD%2FFNkKDbEOgkB1rFPW5vrjJb9zr%2BhkeA2Nb9IIeQeMG3aQhyr45td7dN3Sd59icO0EYawb1qHS4GsuDuwhmyLwjbbVqwfGWDoH0sFyxsVEnCIF5255IAOOA8i30QtKP1mA7BYZPpxeJLexWvZfe2todmJfmpbNrXnqNdqAnFzQrm0OpBXB0gYvoHwN0jNRAwdbrHo33irajRagx8%2B77HllDvpwZPmKDmBiarfS0f6TYNpvbHTJELkyK%2BT%2BqME3C1%2FhYXR9DHxPMiJVXemfpmeX70wC2wQT5nyi5pxiwDZPU40LYzhHX%2FcRv6c5nILLG75ne42fVaQBq0AhIW%2Fufm4Ai1g%2Bbn5o8FWg1%2BR7tqLiW2W0U14yMILq5y6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2ZyhqLgmvqTku%2Fn2h7K5ZfnFehD1XTExrEF1jLyU0cmW%2FPJlMFXsy1M9EuBy4ieJdKQezgfD5Tw60P2SD6bszznn1bdk%2B%2BdZcFp%2BZ%2FcZfJ%2BuwcwyXRRwXkgMt9OilLDKYe6664XUduzyj5o%2BG80NqlE%2FC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpd%2FwYqKBwxodSXm1SnfducG8uVn9yZGFgmUHXC3UtgjqkBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=52630292200&catId=50003134"
+        },
+        {
+          "site": "coupang",
+          "krw": 84000,
+          "title": "딥쿨 AK620 WH 화이트 CPU쿨러 컴퓨터 쿨러, 1개",
+          "url": "https://www.coupang.com/vp/products/7375270021?itemId=19034503317&vendorItemId=86158486401&q=%EB%94%A5%EC%BF%A8%20AK620&searchId=7a7c665e29440614&sourceType=search&rank=7&itemsCount=60&searchRank=7"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AK620",
+    "image": {
+      "file": "deepcool-ak620.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK620/Gallery/4000X4000/01.png"
+    }
+  },
+  {
+    "name": "Liquid Freezer III 360 수랭 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00136A",
+    "series": "Liquid Freezer III",
+    "released_on": "2024-02-20",
+    "summary": "360mm 라디에이터의 일체형 수랭 쿨러",
+    "description": "두꺼운 라디에이터와 VRM 팬으로 고발열 CPU 에 알맞은 일체형 수랭 쿨러입니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 119000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 119030,
+          "title": "ARCTIC Liquid Freezer III 360 A-RGB 서린 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=RLSxvrWU%2BwfN4ZDH0laP0v%2F%2F%2Fw%3D%3Ds3CZbmvJesiRk5Ieap6Z8Iz4%2FXpG%2FrJ8wXauyWHJC3wLbCxZ43lnH7awhPw7BMoVnOItCu2eJkWBIGkg4jfJGJGRQrivPwp2Q0soeq6CJVA6%2BQTaiY3FitFR0DEnDyNo3SPcojZAnVyRZtP7wZbNgk3UwtpJOfZtDxCkmeIsjpt%2BGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0GVOzb%2Fr8f%2BAp5xklmPwYgWj%2FwxUEBPxCsbPh%2F1QtYnYKYUE9ehpmFaMgKeP6F%2BZwaH9y8IooG7%2Ba7uBMKFydcJBaNVuXcJiemfhCJ1ZzOvFW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0kcIB1aXJGleGaDD2elGHA1C8IvS%2BNPsEPJ7D6mlNi%2F5zu9CrM1bqNKjYnKZHLmYhLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHx6D0jAqlgVsUKwEUFkmmYEq0ZrQc3Y%2BGVreqNWMLQR2tjPTNB7vmGqX%2FGljiJDbWwGiNolSfOehCczCXN%2FH7%2BKeI%2F%2Bs%2BiqiBGq0Ib0WQQ%2Fz%2FaZP7yHLlMx3gwXoFf8p8BYUi3FL86fTXU0K1tcY74HydNyAjWk68nbTJh7rC5oR087CYa3eJMLphP45aIRjpj%2FaM5nVf1rOXk0fVU4woW7iKIusBPoAquP7amGN3RcXZZkfELejSegQHHojDC4RIgqgOvq6z5EpEI5N2xav1Mg%3D%3D&nvMid=58627643184&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Liquid Freezer III 360",
+    "image": {
+      "file": "arctic-liquid-freezer-iii-360.webp",
+      "source_url": "https://www.arctic.de/media/e0/ab/b6/1707469622/Liquid_Freezer_III_360_Black_G02_2.jpg"
+    }
+  },
+  {
+    "name": "Peerless Assassin 120 SE 듀얼타워 CPU 쿨러",
+    "brand": "Thermalright",
+    "category": "cooler",
+    "model_code": "PA120 SE",
+    "series": "Peerless Assassin",
+    "released_on": "2022-01-11",
+    "summary": "히트파이프 6개와 120mm 팬 2개를 단 가성비 듀얼타워 공랭 쿨러",
+    "description": "낮은 가격에 듀얼타워급 냉각 성능을 내 국내에서 가장 많이 팔리는 공랭 쿨러 가운데 하나입니다. 높이가 155mm 라 대부분의 미들타워 케이스에 들어갑니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "155mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x6"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 155,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 37900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 35720,
+          "title": "써멀라이트 Peerless Assassin 120 SE 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=zwpCHZiLLeN7L4Y1GtZITP%2F%2F%2Fw%3D%3DsPXdZBBsakHYp5kfRMIUbXO1O5hXKa5YZlWw1l7mwhdm8TBkklmo0mO4N294KK1Ddd%2FmXonZ3Yys1mpzlXg0n6YiTRGeV0qBVJMzhc0NLHwqt1Az%2FtFPr5ThD2BRqoQ5mfhDdUiP4if4hb2QwiGPZI496rQ%2BqHaIhUVp9BwHzTcuTf1PfuUH%2FFGk9fdAAZrrnw6ZjbtkbN7RD61dGUzg7G8kR2qiTwxn15XNEV6Vnkxi1P%2BK1803KhlUyKCJk1JImfihnwfixI28SoYUR0smFdLX5ZOAdYe3PNMa0tf4WysncERsCSv894%2FK99VUfwxzr4p0NIpIvg4UPv2Ah%2BcdcZmDCPjOPPoZHKEtTyY9cvFhqt9LR%2FpNg2m9sdMkQuTIrA2Bs364bkoCGaGdH9H8whasJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8WsLOCMqB4fTiIjPmy9l9V74o9nsv%2F9hlUKco2HanDcTCAcMbjjgPp5rQo1j5jPnTBPzu9DnzejeLDmKkTp71HehqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5%2Bk54qpWgDkPTn8mfCKZonoT6HBjdhyLfEDOOs8sRRC393zWx6gEWcB5lp4ZNd8nm57btmXBc%2FqTpufFFnIDYNCKRohpZawzmHRlbbqfvsJ6S92i1DvifOQMAQkBsF6LVz3YmobOU%2FX%2BAz4P8d9dl4k8UCLAvJUCyRlgq8K%2BZdUPC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpdzc4Gw7U6IV5w4JvlGcdwQOwmh8fDw2yXQJBRISPR7XwBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=52266055624&catId=50003134"
+        },
+        {
+          "site": "coupang",
+          "krw": 40130,
+          "title": "Thermalright Thermalright Peerless Assassin 120 SE 서린",
+          "url": "https://www.coupang.com/vp/products/9766657048?itemId=29232158544&vendorItemId=85872448025&q=%EC%8D%A8%EB%A9%80%EB%9D%BC%EC%9D%B4%ED%8A%B8%20Peerless%20Assassin%20120%20SE&searchId=5fa77d6d39817005&sourceType=search&rank=10&itemsCount=59&searchRank=10"
+        }
+      ]
+    },
+    "search_query": "써멀라이트 Peerless Assassin 120 SE",
+    "image": {
+      "file": "thermalright-peerless-assassin-120-se.webp",
+      "source_url": "https://www.thermalright.com/wp-content/uploads/2026/08/peerless-assassin-120-se.png"
+    }
+  },
+  {
+    "name": "Peerless Assassin 120 SE V3 듀얼타워 CPU 쿨러",
+    "brand": "Thermalright",
+    "category": "cooler",
+    "model_code": "PA120SE-V3",
+    "series": "Peerless Assassin",
+    "released_on": "2026-06-26",
+    "summary": "새 TL-P12 팬과 방열핀 구조를 적용한 Peerless Assassin 120 SE 의 3세대 모델",
+    "description": "인기 듀얼타워 쿨러 PA120 SE 의 팬과 방열핀을 다시 다듬은 후속작입니다. 높이 155mm 로 기존 모델과 같은 케이스 호환성을 유지합니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "155mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2 (TL-P12)"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x6"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 155,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 71600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 71610,
+          "title": "써멀라이트 Peerless Assassin 120 SE V3 서린 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=49mpf3MfGxsMaESMyuS9cP%2F%2F%2Fw%3D%3Ds2e62iaiBZfplaiWjNAAe%2FB0eoSAwVUsMMlRhUPZnd2e8TBkklmo0mO4N294KK1Ddd%2FmXonZ3Yys1mpzlXg0n6d9IkZ%2BIn8Kt1fQDcAEJbIU3gXHrvtT0PPiw1h65kuAMKIRwJT4ehOyfRQKgxqbkWR%2FeBd0YpnqqBYFMXBlNqjIS55GgAEUEftpwG3FNEf%2BW334rL%2BbR36BhYe0R%2FrUmjkI1yUrC8vID%2FKz%2F8c89qMucf4f70NCexEgpRBu1SySr8M7CJQhaXSjHdKG3jnOlafGK3w6%2BZStrmZOI7gQ2E4ZY8CfQkm0RNzXQt03r5402puRuqjlPrGR8vsS9%2Fr%2BumMOEniRni%2BF4mEGPTtBEIuT9Hvz48VxItjb5ITr58rIZAm6Ga7o9vkDd%2B%2FVAu0W3op9I6a4%2Bp4cUtNY4n4q3w6c%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSeqiTETsO7m1FObf7RqRvQIxqLzcRVswO%2FNXTrA15l4GNvzciXe2VaNdORcrjaFYYfv8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54heEazEBjorH%2FhZgAq%2BzIpipDu2wgB9LTFCcYj5vXsSwtJEfO6DvFZcoek%2Fv9FVXx1QMDzEtK80tzPnqEtQ5UOiVZYsYR%2FheHFc7cAi9lCQ2tl1YCiAld9mFmuQTDfvHC5204e7ra%2BWaL2jZA9t6UtgPdri05WvXx8DDjccJE398xvobBA%2BQKawS4ywVx2xtvjFbUiTSKSwwdQz78F9452jLQe82alddcNkE3N06CBf805%2FbdpTnz7AF38f0V4URBwB0cjwVm1BUYVknE7IEMpz4%3D&nvMid=61112668706&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "써멀라이트 Peerless Assassin 120 SE V3",
+    "image": {
+      "file": "thermalright-peerless-assassin-120-se-v3.webp",
+      "source_url": "https://www.thermalright.com/wp-content/uploads/2026/08/peerless-assassin-120-se-v3.png"
+    }
+  },
+  {
+    "name": "Peerless Assassin 140 SE 듀얼타워 CPU 쿨러",
+    "brand": "Thermalright",
+    "category": "cooler",
+    "model_code": "PA140SE",
+    "series": "Peerless Assassin",
+    "released_on": "2026-06-26",
+    "summary": "140mm 팬과 120mm 팬을 함께 쓰는 높이 158mm 의 듀얼타워 공랭 쿨러",
+    "description": "넓은 방열판에 140mm 팬을 달아 같은 소음에서 더 많은 바람을 보냅니다. 높이가 158mm 라 160mm 높이 제한이 있는 케이스에도 들어갑니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "158mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x1 + 120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x6"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 158,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 63900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 63900,
+          "title": "서린씨앤아이 써멀라이트 Peerless Assassin 140 서린 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=XmBv7e7y%2B8Egav8iu86QUP%2F%2F%2Fw%3D%3DsqXAVA6NZLR5v1n7O4C2bdHkMgRU%2FIVK9Bj7Bg2qOEu28TBkklmo0mO4N294KK1Ddd%2FmXonZ3Yys1mpzlXg0n6W7wFwcm1sXx57sSsiZku0WISYVmFFvMeqOfQ9dm0DQ%2BsB3f5USVfwjMKP%2F2IwN%2BtfmtaynN%2BlfsOO%2BZbdogJp3F2Ku6l3q4If%2BmWZEUbVV9w6ZjbtkbN7RD61dGUzg7G8kR2qiTwxn15XNEV6VnkxiCDgnvmEeIHBd6HDR5crX0fihnwfixI28SoYUR0smFdLX5ZOAdYe3PNMa0tf4WysncERsCSv894%2FK99VUfwxzr4p0NIpIvg4UPv2Ah%2BcdcZjYS02COV0m%2FXsOuuW0fv6rDOKokWk2dqoIL0fiEUY9dkHg%2F%2BSqYJGTq67FGHC6L7RDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27ZC%2BSXUxwyLUckntucAABtcjDYyKHKWFi2Q9zFIH6BG06JIeyjRJJG8AQSjlBThBKohmh00KfNej%2BjMDgzzB%2BVIdJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FDxsZ4OFubF4m7SpnxUud2osrTLqjZ3PVE8IfFZtoKMJiqdSzQ7PMvtQcD4f%2FKhQSbtz0imidX%2F%2BWhmb2xUzlr0QaZRX7iyAEllxG%2FXx06xcMDgvKPCxx4gYkXIkcbf%2FVbU9o9k7denDe1Uw6%2FMgLGjIAOkxFqiSEICd8iHhVog4YnHIcETcJifOE8sb44IMxcBNBgavC%2Bt1iAiI%2BnbRTceTxzEhsI5dehzRjPoiV%2BCIxyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=52612924651&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "써멀라이트 Peerless Assassin 140 SE",
+    "image": {
+      "file": "thermalright-peerless-assassin-140-se.webp",
+      "source_url": "https://www.thermalright.com/product/peerless-assassin-140-se/"
+    }
+  },
+  {
+    "name": "Phantom Spirit 120 SE 듀얼타워 CPU 쿨러",
+    "brand": "Thermalright",
+    "category": "cooler",
+    "model_code": "PS120SE",
+    "series": "Phantom Spirit",
+    "released_on": "2022-11-22",
+    "summary": "히트파이프 7개를 쓴 고성능 가성비 듀얼타워 공랭 쿨러",
+    "description": "히트파이프를 7개로 늘려 고발열 CPU 도 안정적으로 식히는 듀얼타워 쿨러입니다. 높이 154mm 로 호환성이 좋고 서멀 그리스가 함께 들어 있습니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "154mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x7"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 154,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 67900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 67900,
+          "title": "써멀라이트 Phantom Spirit 120 SE 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=7Wf40NFs5VCJxrjg%2BMxVi%2F%2F%2F%2Fw%3D%3DswwTru3hqDEfVZSV3Jfxdmld0Dlkc21M%2FRzEDUcuujGK8TBkklmo0mO4N294KK1DdIWEJjA7ifuTe%2BQrlHMx3jygAxtCnoDQhxWqLAzPZTWnPq97YGPjAs2FkyhIf%2F2%2F%2F9pR07xgZD5MEL2dmvAujyEqnFBO8u72bz9G%2B%2Bi9yW7yndBkbixcQzPn6jEMNPQkPueCfFDuywxl3T1PQ6PKMjIPwa6ltPv%2BpYrXEaxzsO%2Bt7fdAWvA7lMorSRRCikvRuDY%2BhK4cS1tTAx6vsr634Vqy7dsWKtgSe38D2r4lBb71SKX0Go4C%2Fe32yGGW%2BtXTFjVEkWwFtVVzXoSfA%2BFLUVumPub1GLnSFqK%2BasX1dcoHEEt9OrRd0v9da%2FWh6vBrIiKCzQjGXhXltHU%2BCP2IJgN9%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4zSD%2B9yzjYTYvdZKzbX3U29Sdq4q8PJW4LbF1BTBjO8LTJz7LBLMYi5eBGoucShtq3bEsB%2BZuOqddlncZoT5Z54GO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8uAWbKH73mPCmxcDndw1nLIbWRiB5h7bxv5XO6Vd2oQNND7bO4ojDNe0KSiQZP8tDwM27e%2Buy9UDCAGPQd1plWdH1LtrRvvax3ckyV3VjNoTeE5lXxb%2BpD4kGQeBhK7vX%2F6YgYYcBhWqBvLWH2ADoWyQ356sT5%2B80h9TGlq6Q4qOdSlPOZBN6V54TTL6u%2FzFsfh%2FCn6c4vRWj1X7FnHzbcC1Eu1dfPxfWa3feQ20%2B2sNWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=52519399479&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "써멀라이트 Phantom Spirit 120 SE",
+    "image": {
+      "file": "thermalright-phantom-spirit-120-se.webp",
+      "source_url": "https://www.thermalright.com/wp-content/uploads/2026/08/phantom-spirit-120-se.png"
+    }
+  },
+  {
+    "name": "NH-U12A chromax.black 싱글타워 CPU 쿨러",
+    "brand": "Noctua",
+    "category": "cooler",
+    "model_code": "NH-U12A chromax.black",
+    "series": "NH-U12A",
+    "released_on": "2021-10-12",
+    "summary": "NF-A12x25 팬 2개를 단 올블랙 120mm 싱글타워 공랭 쿨러",
+    "description": "녹투아의 대표 120mm 쿨러를 검은색으로 마감한 chromax.black 버전입니다. 팬 두 개를 앞뒤로 달아 조용하면서도 듀얼타워에 가까운 성능을 냅니다. 녹투아는 TDP 대신 자체 지수(NSPR)를 쓰므로 TDP 수치가 없습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "158mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2 (NF-A12x25)"
+      },
+      {
+        "label": "히트파이프",
+        "value": "7개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 158,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 197500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 197500,
+          "title": "녹투아 NH-U12A Chromax.black 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=ao70SAhW77TtvuxgWVvE8v%2F%2F%2Fw%3D%3DsAfhcNr2h9YxXDcjiElU%2BuoWdtuQtzHW5X2I4jgvg4yUlzvKLW1SNcK8GqXRUuBolxfTk0%2FMOCQuEG7l4ApKGG%2BG%2BKvNmvFD3TiOSG7338KBZhq2pUvXEmK2cmjmCRUfLnyRwAvcYxGA8cQbY25WqAMSN3S2LihiKLp5acQbkAtNGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9uwSVJoW9lWSCt8I9Ta5L9ZkPALW%2FsKKKOg5ppzFPurM0GXL%2FbO3Zzel3ezfgNU8fbe7h8i0Q%2FTa3C4zC0bq41NFaYJ%2BdZcjtd9TJzXDxunTAwziqJFpNnaqCC9H4hFGPXcljstJGctv4j9sgS%2FfL16qrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPF1V%2Ffg4VTd9H%2B%2FTDEaE444YLYih44uxc9PrnIup4gQmV36ogsAbT2GMBHUreotiQM65ZsirSBfE4AHzTQ0kBG%2BeOgZKSO%2FpMwdXFLFxFaue%2B5dOl8KGueU5LEkS%2FF8ZtQtSkz%2BW4sgs%2BoDO6IW%2Fwdry1%2BOKqRF72X0hRtH%2BXH790P0obJxefrYsGPAJ1GJ%2F3faa8OF9ktBNQW5hqk5GIhvWjR2UeQWcClbLMysBISVj5742PSNmr25q%2BzXvF3ks7CcgVipgUC%2F2Kdx1MSXCBt8YEQBpyDE1gt%2FBpY3eBps6T%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7xSbFu28eVf8ewjeFi7iWEHATQoBoZyaGMgPFeI9gEXDQ1QmAmnoJRdq4K9btjkCM0%3D&nvMid=52270126618&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "녹투아 NH-U12A chromax.black",
+    "image": {
+      "file": "noctua-nh-u12a-chromax-black.webp",
+      "source_url": "https://www.noctua.at/en/products/nh-u12a-chromax-black"
+    }
+  },
+  {
+    "name": "NH-L9a-AM5 로우프로파일 CPU 쿨러",
+    "brand": "Noctua",
+    "category": "cooler",
+    "model_code": "NH-L9a-AM5",
+    "series": "NH-L9",
+    "released_on": "2023-01-24",
+    "summary": "높이 37mm 의 AM5 전용 초슬림 로우프로파일 CPU 쿨러",
+    "description": "미니 ITX·슬림 케이스용으로 만든 높이 37mm 의 AM5 전용 쿨러입니다. 발열이 낮은 65W 급 라이젠에 알맞고 고발열 CPU 나 오버클럭에는 맞지 않습니다. AM4·인텔 소켓은 지원하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 로우프로파일"
+      },
+      {
+        "label": "높이",
+        "value": "37mm"
+      },
+      {
+        "label": "팬",
+        "value": "92mm x1 (NF-A9x14)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5"
+      ],
+      "fan_count": 1,
+      "height_mm": 37,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 76900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 76880,
+          "title": "녹투아 NH-L9a-AM5 브라운",
+          "url": "https://cr.shopping.naver.com/adcr?x=6lP%2BwQyV0OC%2F6W0DCF%2Fbo%2F%2F%2F%2Fw%3D%3DsdRAN0mmGM8RjTyaNsEHbF3WeowX7rtv2UnUjHo20GPylIzOOxn7Z%2BIddimM30420Vhbq2TOKMToCMcau%2BCfA8pgdsE3TEdl7iKZ8ptDayz%2B2DpmWobrpqWCLc6hQtxxVC%2Fiuey8lspb%2FAAg89jkfB2edW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorb8f4ap7vTcHIaX7jTMzLX8x%2BeA%2FJ7d%2BEYYEQcsLwVabQUm44ssUKlttDROmf8N%2FPTQ80GCQ2GFeBlux6NAH87D9hFiJnDgZ90cMwc6TAIgcn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7KHihWrA8cQaYsbsbmP%2B5RNRC%2BzwYer6Ps69Q2%2FK%2BLLFFvSUmoKW0mk1ZhQuB47ozBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0Xgkoph6O8wuvBJcdPlxO6X27BzS2NGsVJEkgy5kggTAnCOVle2hJdKVA18GMWmueKV6VPFIx5XGIP1Lt6xdOgdz5bYvzDbXKFHzaTb4XtaYjRTOgx7ptpcRc1zx5xpYbXguWUGx24ds645GbdvoMl1R1XJRGk4XMJtozo5T3u6g%2BJ%2BOvt7YrVGkPSIsuMWIxI0hXoWQO5C6Ypg6k2ygUjgKejrM2OqH9l6YII5ugOGfB4CYY%3D&nvMid=52266113620&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "녹투아 NH-L9a-AM5",
+    "image": {
+      "file": "noctua-nh-l9a-am5.webp",
+      "source_url": "https://www.noctua.at/en/products/nh-l9a-am5"
+    }
+  },
+  {
+    "name": "NH-D15 G2 듀얼타워 CPU 쿨러",
+    "brand": "Noctua",
+    "category": "cooler",
+    "model_code": "NH-D15 G2",
+    "series": "NH-D15",
+    "released_on": "2024-07-02",
+    "summary": "140mm 팬 2개와 히트파이프 8개를 쓴 녹투아 2세대 플래그십 듀얼타워 쿨러",
+    "description": "NH-D15 를 새로 설계한 2세대 모델로 공랭 최고 수준의 냉각 성능을 냅니다. 높이가 168mm 라 케이스의 CPU 쿨러 높이 제한을 꼭 확인해야 합니다. 녹투아는 TDP 대신 자체 지수(NSPR)를 쓰므로 TDP 수치가 없습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "168mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2 (NF-A14x25r G2)"
+      },
+      {
+        "label": "히트파이프",
+        "value": "8개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 168,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 247500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 247500,
+          "title": "녹투아 NH-D15 G2 브라운",
+          "url": "https://cr.shopping.naver.com/adcr?x=yIpVTCxmsgaFl7Mmjx4yxv%2F%2F%2Fw%3D%3Dst%2BlCE%2BqGzy4Ta8b1PgPknGH4YIm1FPm6btJFUU2Ep8OzGl%2Fs%2F22bzw4cwEizeUaljnltn5T6A%2BdJH7a9e%2By%2FSwmtFrKv0kVDToyWarZccnFWMMV1RUhuymWn9N5MVDTY2u6C19XYq89fQMY1azGgWB4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQn0rAvdn7Ut0td%2F%2BQFZsrLzVgJMMF52lyXrJnuJkPSHGMbNvN9xANttRy0dYkA%2BeudI5OKkfLPFRU%2Bj6Nro6kAhr%2BHQVgUjQwDJaQvbDYn44Mn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7wvnzZjTX4fwbQ5ZHtB3eTNRC%2BzwYer6Ps69Q2%2FK%2BLLFFvSUmoKW0mk1ZhQuB47ozBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopF5Ab7v4r0wsZjPTiFWLbVy2NGsVJEkgy5kggTAnCOVm1%2B4q3KUIgcE7WC9Be%2B2k06IyKUPVB7Z2l1S%2BMuJtO9IffyFCWT7GJ4CWihy90xWZUasZXCJpCs7eEchUo4%2Bs27k1uYtSzOKC6AgE6BmqgKxGk4XMJtozo5T3u6g%2BJ%2BOv1Kc%2FmdLe5bvgaCgUm5Kp9b%2B%2BDYhYlrABHTT8A3hv5hM2OqH9l6YII5ugOGfB4CYY%3D&nvMid=52266362625&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "녹투아 NH-D15 G2",
+    "image": {
+      "file": "noctua-nh-d15-g2.webp",
+      "source_url": "https://www.noctua.at/en/products/nh-d15-g2"
+    }
+  },
+  {
+    "name": "NH-D15 G2 chromax.black 듀얼타워 CPU 쿨러",
+    "brand": "Noctua",
+    "category": "cooler",
+    "model_code": "NH-D15 G2 chromax.black",
+    "series": "NH-D15",
+    "released_on": "2025-11-19",
+    "summary": "NH-D15 G2 를 방열판과 팬까지 검은색으로 마감한 chromax.black 버전",
+    "description": "성능과 소음은 NH-D15 G2 와 같고 색만 올블랙으로 바꾼 모델입니다. 검은색 빌드에 어울리며 높이가 168mm 라 큰 케이스가 필요합니다. 녹투아는 TDP 대신 자체 지수(NSPR)를 쓰므로 TDP 수치가 없습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "168mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2 (NF-A14x25r G2)"
+      },
+      {
+        "label": "히트파이프",
+        "value": "8개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 168,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 267000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 267000,
+          "title": "[NOCTUA] NH-D15 G2 chromax.black [CPU쿨러]",
+          "url": "https://cr.shopping.naver.com/adcr?x=S0wdqnrQbPaaCkLtE1R1W%2F%2F%2F%2Fw%3D%3DstFVGU%2FqaaHHBxAi6YayNSbHsUQ954%2FU%2B%2F8qJ8IlYjMWzGl%2Fs%2F22bzw4cwEizeUal30a88zIt4IV0Ax3576u6y1177J8zlCHcfZSyYmvYJ8JYiYK4GwyjSEnzt7gxNn3n51U%2Br04bIzdazNsPyLPKVrIc3o0dbP6qzq34moujJnDVANr6db%2B%2FRxEb4tQyL%2FFvz7mkZ5DznxC3vtd4i0%2BKVIOORKDz0n46F6VPuli4bS%2FEQl7WwgSICmY6S%2BCGda6S1hdX%2B%2FiZPle3Ad30iIQN%2B8cZ8ye8sEoRMSTglmDeeAnEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9zFF3Pbsr%2Fk9nC2%2BimdIMV%2FPGSIjta20Rs7f1za110nvX5Hu2ouJbZbRTXjIwgurnLq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnkYEARafwuwQTZVRBYuaee2a2EcuALx448Gl9Iqy3O1xerxnWJkrlCvimKAn4iR1B9F9JstCmu%2FDZacectqJGsk3t8x8C%2F9YDKZNR0TziuA2Nle6UA6Bj8NdhPmD8Q3RbAKAKegGtDFlYjOEP0f%2Fo%2FzzUaLji1QUfW5FQpucBI9D0I3%2BKyVeUCuENrJ7Vsoh4ZGyQE6QeDvh2SKZ08FItwb0MFwrwYABhsE5UIRboBv2CqA6%2BrrPkSkQjk3bFq%2FUy&nvMid=58176880110&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "녹투아 NH-D15 G2 chromax.black",
+    "image": {
+      "file": "noctua-nh-d15-g2-chromax-black.webp",
+      "source_url": "https://www.noctua.at/en/products/nh-d15-g2-chromax-black"
+    }
+  },
+  {
+    "name": "NH-D12L chromax.black 듀얼타워 CPU 쿨러",
+    "brand": "Noctua",
+    "category": "cooler",
+    "model_code": "NH-D12L chromax.black",
+    "series": "NH-D12L",
+    "released_on": "2024-03-19",
+    "summary": "높이를 145mm 로 낮춘 올블랙 120mm 듀얼타워 공랭 쿨러",
+    "description": "일반 120mm 타워 쿨러보다 13mm 낮아 작은 케이스와 HTPC 에도 들어가는 듀얼타워 쿨러입니다. 팬과 방열판을 모두 검은색으로 마감했습니다. 녹투아는 TDP 대신 자체 지수(NSPR)를 쓰므로 TDP 수치가 없습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "145mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1 (NF-A12x25r)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 145,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 172200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 172230,
+          "title": "녹투아 NOCTUA NH-D12L Chromax.black 녹투아 쿨러",
+          "url": "https://cr.shopping.naver.com/adcr?x=8AGPeZGRUDeBJyZ8aJbDzP%2F%2F%2Fw%3D%3DsbFK2qyxQyGfposcB9UhllDRbCRvwcgk67%2BWnZkOIXFrkmvwrXBuupx5vBdAinloPqmKciz1JSUCMmYvae5qnLissoss08Slsn4d4Wz6stpzg9DIiZgNMmgMel1FLneI2TdwO9mjecDzJkHhZz%2FjNlaclWc2IrkefZ2roYef0iMoiknoumIKlMbA%2BIu57RoKkI18dgXI%2FdmBrq8p%2B46IpEuLleFldBKYmii1LQSyB9CnGsCFk1w%2BPfugOCEOstOV%2BRGkG8jDv2uzC07MqmhwEu2LRvvvxKL%2FwgMIsKCrhU37kVq6zdVX23haSw8X4urNJUYNvVXer0B8E1YcEgWLkz1nT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHub%2FWHYE29c2fBkD3QzTw2B3jrF2lM0Ak6U8VH6CBFTkM7CAcMbjjgPp5rQo1j5jPnTBPzu9DnzejeLDmKkTp71HehqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY56ZzPwIXDxSsdG5ufSgmpEA0VyTsgfEKWzk498I1DBi6%2BxYq2DHOPY6jdTW8KPIh8%2F9QTW0Gc1bA1RNifhU026X%2BIUDIX61loY6DzvNP6fJtFWr3nUr8iVWWPe4s2ILhu27h%2FooL0F%2BbX%2FFjcuJ7%2BBnD%2Bktb5sJllkdZP%2F7psAINlOghJ51Gpk3%2FRfOnle9RejwYpjw2cDrbWY3K8FHJWfUn09PnUvh2KaNgQpmJf8pAPlnUmSLXS19zpsjlTVlE7y1Vhq%2FH77x9Zlr1IFzyuow%3D%3D&nvMid=58901459944&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "녹투아 NH-D12L chromax.black",
+    "image": {
+      "file": "noctua-nh-d12l-chromax-black.webp",
+      "source_url": "https://www.noctua.at/en/products/nh-d12l-chromax-black"
+    }
+  },
+  {
+    "name": "AK400 싱글타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AK400-BKNNMN-G-1",
+    "series": "AK",
+    "released_on": "2022-04-15",
+    "summary": "히트파이프 4개와 120mm 팬 1개를 단 220W 급 가성비 싱글타워 쿨러",
+    "description": "보급형부터 중급 CPU 까지 무난하게 식히는 대표 가성비 싱글타워 쿨러입니다. 높이 155mm 로 대부분의 케이스에 들어가고 램 간섭이 적습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "155mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x4"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "220W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 155,
+      "radiator_mm": null,
+      "tdp_rating_w": 220
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 39500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 39500,
+          "title": "DEEPCOOL AK400 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=FcYhH%2FeSRqn3H1t9mikmf%2F%2F%2F%2Fw%3D%3DshWq%2BFjT0hzj9Dov9QAASpXVA%2BZ8ZqSCr6yq8H2lPQ%2B30zzWODhc3jE3tXkvOuTE6pLwz7QacyHnni9yR%2FLE9HciBc6y5NZmAFpt%2Brgi%2FOfHci55slcoTPYmNxczJr%2FRRTuM1B8KJDeNOf3Me1dWqgUgAn8lD2%2BxrgblrBqYwPdWug%2B9sjA7rHdeMLkY%2BwIMUqVE7SQ4y9bud0s9NAFxPFadi%2B15aIkCLHQ1YX6PUMFiS5JiTqQc5fruUhcKi6Q1Uaqw2jg7%2BQamqP6TcYV88z1vtJfrhBLLfdFLfVu2CEIAzKs188hB20tl4c%2FW%2FNsEoisext5K2yYkF868rsMDqidQlazRChNzK5RWZgUTEILncZcDpouJy2qIpACVSaHHO9UEMwi63jafLIzwwY0rYsRO3vPIkHlVWgxAZpvk1D2%2FNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrZzw8jHTzR%2F%2FF1uJw618Tu22n2U5c28j0WmjLESlLfWA7r7O47qsKrbP4eY%2BFrNeZvBFJSrYQ2%2BTQRusKQtpXOuP9XL4Tfl3%2BgTSwOLk2DEsEsgkvcDhgyXcirvp5BmKBYnEQok%2F7TFNQ%2FHQ8nlJ6P%2FC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpd37bC18A4%2BHniIdeYmL3HMGBx46Odn%2FWGaZc%2BuM9tHJtBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=52249068630&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AK400",
+    "image": {
+      "file": "deepcool-ak400.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK400/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "AK620 DIGITAL 듀얼타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AK620-BKADMN-G",
+    "series": "AK DIGITAL",
+    "released_on": "2023-07-18",
+    "summary": "상단 디스플레이로 CPU 온도와 사용률을 보여 주는 듀얼타워 공랭 쿨러",
+    "description": "AK620 에 CPU 상태를 표시하는 디지털 화면과 ARGB 조명을 더한 모델입니다. 높이가 162mm 라 케이스 쿨러 높이 제한을 확인해야 합니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "162mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x6"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 162,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 68200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 68250,
+          "title": "DEEPCOOL AK620 DIGITAL 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=3bHGrFqxzdH%2BHpyPy%2BKJsf%2F%2F%2Fw%3D%3Dsf0ez5LYxd0eklO1DMlTvPzSkOZpnS4E04eUDeo1RyCBsXKQL0%2F0GVWJvWyThk6eD8m7WNlHwHT2I4EYac2VZcRtK8cDHDd0u%2BG3GwYGR%2BQt9X0xeEtws%2BkSAX5lTto%2BV%2FAcp8xQGV7oXgs44oFl2UkvGnaylKc5wICYumC3A4vyAbCY81f975eS5nfR25FBibLivOLGRkyNMIdQFyJm5x8UByqviHbCBnzepJeTk0W0xC0dp51ozaQIR9AyTkQitn1zonVhPHMWqCCWqE6q0l4GAAAnn%2B3gZnwOcCy3Q14LvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4VEOnKSk6pZmBmpZwGZXBENVycuLw3MMyURFc0V17Efmjokh7KNEkkbwBBKOUFOEEqiGaHTQp816P6MwODPMH5Uh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8eQOCyklO7TMOSNooCc1j2SytMuqNnc9UTwh8Vm2gowmp9JPxunnOhLPEyAhwK3GkgzJ%2F0asc1Og09Z91ydGGNbqzJTRtNMoOq%2BKvHvQ6JYZ%2F4PzENFUghgm4IPJp6H6AzYY0o4jReKeWTuS5X9v38YgN%2F1NgM4LgvOAJ6Euy6vnaDMgAM%2B1a65%2FYFwEZRAGqKrOpjeNNzSnns54RJcnlVccgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=52630292200&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AK620 DIGITAL",
+    "image": {
+      "file": "deepcool-ak620-digital.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK620_DIGITAL/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "ASSASSIN IV 듀얼타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-ASN4-BKNNMT-G",
+    "series": "ASSASSIN",
+    "released_on": "2023-07-17",
+    "summary": "TDP 280W 의 딥쿨 플래그십 듀얼타워 공랭 쿨러",
+    "description": "자석식 상단 커버와 140mm·120mm 팬을 갖춘 딥쿨 최고급 공랭 쿨러입니다. 고발열 CPU 도 조용하게 식히지만 높이가 164mm 라 넓은 케이스가 필요합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "164mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x1 + 120mm x1"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "280W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 164,
+      "radiator_mm": null,
+      "tdp_rating_w": 280
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 404700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 404690,
+          "title": "DEEPCOOL ASSASSIN IV 7 히트 파이프 CPU 쿨러 280W 듀얼 모드 공랭식 라디에이터 LA1700 115X 20XX 1200 A",
+          "url": "https://cr.shopping.naver.com/adcr?x=kB3%2F7jbIcmVflw9LscXVGf%2F%2F%2Fw%3D%3DsPFJGgGjXQXI8hQZMIQYmUZqNv7eJzyIWkr7lB%2F18OCtl%2BeVqXpswdqNrI0k3GADB8EQOh%2BVVEQ7ruKPRrnexCmigda5odi8d0d%2F7cN5qk%2FJ3kBfHY51ZejgH2joiYMv9xvJhlfeOVs%2FU2Tddld0BwkgLBys5ZE3NkrswbIdg5xBZGCMlSBVkGsp2KmFtaDPm4QhWwq5FjWzaPW0MBmfPAkb9hwYpRkayy3XcFfYQjY4sBcHsnO0yFQ2ETxgmKDng9xCts%2BJZ2C6xP%2Bii3Um28Zt6l%2Fu1mzobyQTIc52qMQMn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7tFepkooCY%2BolynBW6ghvgse9j9TM33g7MivnAbc9%2BIATt7zyJB5VVoMQGab5NQ9vzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9COkkz5yQEJVm8mLsjU96hjq2dJ7%2FsyXP1%2Fcvs3nIzkZs9yhdhqe0phqKPKsL9Eza3QxRT0ntLDhRlx1BJv1oD6WPCCyK2pRDXjnBiroYkBgobV4HNRco2gY5cQ6MKjjWiwoqImBLlC1iinWl%2F0Fa%2FYEzsSTn%2FsC9RF%2BSdtH4UaECmcTZYQxK1shIirqqEe5un5WwIb%2B5EwZs%2Fdko7i4ZW68BmRwEfM9DTjC9A0k%2FLGe2DZlVYLDEJpnI8cF6CMPSIWWTZXxGy9RUNI6KQCqSMn8a5ehsyk263QbrTgaS4U5kYOEsHC78VBLnFZh%2FnDobeN&nvMid=61992105859&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 ASSASSIN IV",
+    "image": {
+      "file": "deepcool-assassin-iv.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/ASSASSIN_IV/Gallery/800X800/02.jpg"
+    }
+  },
+  {
+    "name": "AN600 로우프로파일 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AN600-BKNNMN-G",
+    "series": "AN",
+    "released_on": "2023-06-13",
+    "summary": "높이 67mm 에 히트파이프 6개를 넣은 탑플로우 로우프로파일 쿨러",
+    "description": "슬림·미니 ITX 케이스를 위한 높이 67mm 의 탑다운형 쿨러입니다. 제조사 기준 180W 까지 냉각할 수 있어 로우프로파일 쿨러 치고 여유가 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 로우프로파일"
+      },
+      {
+        "label": "높이",
+        "value": "67mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1 (15mm 두께)"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x6"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "180W (제조사 냉각 용량)"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 67,
+      "radiator_mm": null,
+      "tdp_rating_w": 180
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 62500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 62510,
+          "title": "DeepCool AN600 히트 파이프 쿨러 냉각 공기",
+          "url": "https://cr.shopping.naver.com/adcr?x=OQtIT2UVlaCVr7wYCkwW8%2F%2F%2F%2Fw%3D%3DsnU2AJZDpJqpFWZoH%2FnUyZaJHrLVSAvF4lj13turrgP4Qd%2BwmVSiYAXlQ3Oz7z6Ft3nD3zxHTt1BxD0Ypv8%2FTBEvm05F6P5Q5F4ZszzII6pr%2Fdqw0cisv5eFV%2BgxBp0V10vFt2DbJArv1M6%2ByF7dbuYZYgwI2fs40XR%2FERq%2FGNyfWK4fiV391hyKbNzjTTmNIrKcJj0YaX9bkesUa6APAw5505pN8cRDnG%2BJCFQYIx%2F5b7SX64QSy33RS31btghCAMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6onG2CDU3zTWf%2F1H2CLP3enoy8ON9KvssE9wtqbCrPzVB5P%2BofrmSy7GLABsdOWVGtyql8PBfsT747kAeO0dgJDKBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkoplyuTz3ezkJ5%2BEY8%2BuRnyRS2NGsVJEkgy5kggTAnCOVlAPsER5hqF6UAdch6AV7hYCLuj0CQb6yilx9x4COUCBSkwvXluLO66XBhpgAHf6jhs%2Bc485pKsUBvQCARrIkrvkAvHPPPeO41PaQ8DU77h%2FD61FFGQJlhj2Uz2XBEXH9NZ8CzcwGOWDGOfAtvAjEfaKRPwZ6MFgmApC2rEI1EF9FZfCV8o5a2RVfpObpscZryQyUM0MyrrwpmB4%2FRGGosEQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=90490050762&catId=50003148"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AN600",
+    "image": {
+      "file": "deepcool-an600.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AN600/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "AK620 G2 듀얼타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AK620G2-BKNNMN-GJD",
+    "series": "AK G2",
+    "released_on": "2025-11-04",
+    "summary": "AK620 을 다시 설계한 2세대 듀얼타워 공랭 쿨러",
+    "description": "새 팬과 CTT 2.0 접촉 기술로 다듬은 AK620 의 후속 모델로 높이를 159mm 로 낮췄습니다. 저부하에서 팬이 멈추는 0RPM 모드를 지원합니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "159mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "3년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 159,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 91600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 91600,
+          "title": "DEEPCOOL AK620 G2 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=yv48Ypdmv0EVI%2BKmZH6uPP%2F%2F%2Fw%3D%3DsZQoocYfYK2IkZIOTaij6Btb19ZHcUYz47YPsmqjTKsZsXKQL0%2F0GVWJvWyThk6eDo1kCmNmGR6yuXieawn7Rqh2MLA3IYG5LXXw0LmTdkabBV%2FA4hl9VYfTjA4X%2F1%2F%2BuZyybHsCYeOwmt9pFuR17K0bAoeRkvpJaJBMwPydFbM8QhkkHXK4%2FmSRy5icYE%2F27lfryg6ll3Moqbw2rnH97%2BWBURxAsYepkdUNhGIgJiEd89VsNpC11oD8dWHWlPK%2Bq2AqnC8u86cL1TTCCKLHyIsQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F3ncWP20PThL5wdNxBZWcywISFv7n5uAItYPm5%2BaPBVoNfke7ai4ltltFNeMjCC6ucura0umyewG3sU16BCYUympo2Y27OMxChR1eZxI4CdAfL8xrzAm%2FP9XMd6rdMLdmfAoRJG5Vn312JdKIu9hqvn4rLRRj0LqbY9uiDaWARVUTyZTBV7MtTPRLgcuIniXSluXorAuS1PCCCnFwTPDDbHxG6sd6h7BgdWr1rIHu%2BhUf8w8O5JjryWGeP7EnIMJLu85cgwwwf04ZtlaVAu0Pc2DWrhHEcp0p%2F%2FKKziu53PdAmzz2ycdjDgjGgUp11a%2B9oOeZIlrRrosfvNzZ%2BectYoV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=61047910076&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AK620 G2",
+    "image": {
+      "file": "deepcool-ak620-g2.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK620_G2/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "AK700 VC 싱글타워 CPU 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-AK700VC-BKNNMN-GJD",
+    "series": "AK",
+    "released_on": "2026-07-28",
+    "summary": "베이퍼 챔버 베이스와 히트파이프 7개로 TDP 300W 를 내는 싱글타워 쿨러",
+    "description": "베이퍼 챔버 2.0 베이스로 열을 빠르게 퍼뜨려 싱글타워로 듀얼타워급 성능을 노린 신제품입니다. 높이 157mm 에 팬이 하나라 램 간섭이 적습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "157mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x7 + 베이퍼 챔버"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "300W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 157,
+      "radiator_mm": null,
+      "tdp_rating_w": 300
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 97900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 97930,
+          "title": "DEEPCOOL AK700 VC 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=JapbkJTPx1DL1R4qnsBQd%2F%2F%2F%2Fw%3D%3DsUEPUlW%2FY2hiKyf5hiAKB4HctbpDVXK2S9i3h8Pw6v5RypG7HB4MbOFbM5ryK1qCXPxPbaIhpWbT99MaRSVen4iSEhG8osXOWlAThLOnNozaEcGkOZ9xEcNhKSKDzW0ZkuP93nsEe3jSmIDy72r%2BTeIZnlrSZr8PDPdBCvs8uWtdeJxHcKH4rYUhc5SxvGs%2FQgCy6d4BjXpxu%2BYSWe9tQ9lo9FKMakS%2FT%2Fkd9%2FQJKclACIwzqy1wr49lYmPQjgQNPlgkamXWfC7LcaiDVzoscySfrv7Jfwn9NxBaCtMU98TaYiI3nWOaESQ7yOTEwFMn8a%2BpHa6ewb0%2FDpcGez9%2B2Mmaf7oVVn%2BbTDsruUdhAA7tO9LFzkClnefhrA%2FCOVyGkOiSHso0SSRvAEEo5QU4QSqIZodNCnzXo%2FozA4M8wflSHSSD6CHWHDjU5z8k4rV370kOHBt8ETLCcCqKWGT7DLOIwo9o2FPx9Epr35vJOaPxsg0ECbPkr7d9ZqDUAYU%2BDLK0y6o2dz1RPCHxWbaCjCfPF0uHG%2FkacTje5fChoiZEzGap2dW1JrIIm5M9WRVVEZU%2B6DozGint23Y6Ghn8TJ52lZQwiqNsb3m62%2F%2FiOzOfbsFbipdkU6C%2BOxD6uEcph%2BgtF15PMkmjkNDmi88yMRRNYAKetJC7XhPhw%2Bui8dF2UVcTUPfWmBqO8ODxHClrchWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=61670627643&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 AK700 VC",
+    "image": {
+      "file": "deepcool-ak700-vc.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK700_VC/Gallery/1216X1520/01.jpg"
+    }
+  },
+  {
+    "name": "Freezer 36 싱글타워 CPU 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00121A",
+    "series": "Freezer",
+    "released_on": "2024-03-05",
+    "summary": "120mm 팬 2개를 푸시풀로 단 가성비 싱글타워 쿨러",
+    "description": "팬 두 개를 앞뒤로 달아 싱글타워로도 높은 냉각 성능을 내는 쿨러입니다. MX-6 서멀 그리스가 들어 있고 6년 보증을 제공합니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "159mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2 (푸시풀)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 159,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 65300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 65290,
+          "title": "ARCTIC Freezer 36-S - 인텔 및 AMD용 CPU 쿨러 싱글 타워",
+          "url": "https://cr.shopping.naver.com/adcr?x=x88yWqowUDHSFVfYMDLNrv%2F%2F%2Fw%3D%3Ds3WTi86AkVUmOgHDd00nzB%2BESOA2C1YsXQpJ2xrObnl%2BnKoFFADp9M9eBRYStsouR8QkI%2FlGf0%2BgoeT1MqJJfBFcpsBYsSQ4zE8Sq19z3KpCstnDWXEtkzq7FT4lYdaRKJpv%2FkI44sSHZ62xoRUBHf0%2FP82R6CJNJTd%2B5bG75gUq28FN0Ov4xXtRrN3ou87DsiuwR%2BJD5dvGHrlzyJHCXUYKSvt%2FD5zxTMPbqoPYF1o9gT%2Fjc7RGpwq97yvCFtJrs6DxPVvw18KgflINebIL3soMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnrP9NFzbf1Wgm9YyL6acBO6%2B2LCIbKDgH5gi4kY0NZttr83Il3tlWjXTkXK42hWGH7%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIUlRcUBUBPs6YgHBF2VUoYvQ7tsIAfS0xQnGI%2Bb17EsLVUn0NWvupKd%2BHW2B%2BoawvLjSIoSMfYmfUnG2FQyEJWJZ%2FRMBCFx6zfEZMKtJGDXPTmqH96ONcrs5hPDKA3d%2B4l4J2DT2%2Fb%2BPkbNIXZ09%2FH6y26xsHaW46jN%2Bd3poWFtw5RIkaLUDdqNdNCPd%2FRqgR2PBimPDZwOttZjcrwUclZ9CsuOYI4B1DI5UKcxGNTRg1rHMzmTH2N%2BKefzAMl9D7jLVWGr8fvvH1mWvUgXPK6j&nvMid=61094792479&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Freezer 36",
+    "image": {
+      "file": "arctic-freezer-36.webp",
+      "source_url": "https://www.arctic.de/en/Freezer-36/ACFRE00121A"
+    }
+  },
+  {
+    "name": "Freezer 36-S 싱글타워 CPU 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00194A",
+    "series": "Freezer",
+    "released_on": "2026-05-28",
+    "summary": "Freezer 36 을 팬 1개로 줄인 보급형 싱글타워 쿨러",
+    "description": "P12 Pro 팬 하나와 MX-7 서멀 그리스를 쓴 Freezer 36 의 저가형 모델입니다. 높이 156mm 로 보급형·중급 CPU 에 알맞습니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "156mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1 (P12 Pro)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 156,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 43500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 43520,
+          "title": "ARCTIC(아크틱) FREEZER36-BK ACFRE00123A",
+          "url": "https://cr.shopping.naver.com/adcr?x=ylzzY6FNB3wK8Q3uhPUl8v%2F%2F%2Fw%3D%3DsmOdUfWj7ppIg9iaLHXks82eT%2FwF4QRxLOEylz%2BkDD0bVWfXMsOXGsLa3YmGBL103ue3W3qq3U6aG6ufjCAe0TkKnpkv2gPYANf28uioY%2FaD4cvJK8Du1RwhSlTB8YaRJi%2FYo5lfgBbci8yTxRF4OqE%2FP82R6CJNJTd%2B5bG75gUq28FN0Ov4xXtRrN3ou87DsiuwR%2BJD5dvGHrlzyJHCXUdiEqtgWrVL7OVzvN3FXqeFMY%2F2k6C72j7IBTY7iWMp%2B6DxPVvw18KgflINebIL3soMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnr79S5edWU1QO2ZzWt0ngxpoQEhZukDEhxf1GjgNBDq8Agm2PMR6bbh%2BQDzMqaAMvYuX1NJx8OaIgQbqbj6r7LJwN22jiEhH%2F2KINWjISnhdF5%2FsdMnvP1CxKhC0yXEgIdHAwFtSKzZkQjKfyJ7oDLQSrRmtBzdj4ZWt6o1YwtBHfIwEg3%2F41nrMCR8FbSldq9pqa0uajczQcZrtrYboEkvNLo8uOos6Wb1u26IZh%2B6xfTgTOJj57SnWF09fWkgZe2Sj131TrPwKIvgta%2BhXLzjKYTOF5KsHq%2BigGAc1pAeZ8CuSL77lwUMgQ2TiviECLckNV2uMrGSJx3uku4lN4m3nLywBF6TPdyrHi5pSyQkVg1QmAmnoJRdq4K9btjkCM0%3D&nvMid=58177816353&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Freezer 36-S",
+    "image": {
+      "file": "arctic-freezer-36-s.webp",
+      "source_url": "https://www.arctic.de/en/Freezer-36-S/ACFRE00194A"
+    }
+  },
+  {
+    "name": "Dark Rock Pro 5 듀얼타워 CPU 쿨러",
+    "brand": "be quiet!",
+    "category": "cooler",
+    "model_code": "BK036",
+    "series": "Dark Rock",
+    "released_on": "2023-10-24",
+    "summary": "Silent Wings 팬 2개를 단 저소음 고성능 듀얼타워 쿨러",
+    "description": "조용함을 앞세운 be quiet! 의 고급 듀얼타워 쿨러로 TDP 270W 까지 대응합니다. 팬 속도 스위치로 정숙·성능 모드를 고를 수 있고 높이는 168mm 입니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "168mm"
+      },
+      {
+        "label": "팬",
+        "value": "135mm x1 + 120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "7개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "270W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 168,
+      "radiator_mm": null,
+      "tdp_rating_w": 270
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 155700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 155720,
+          "title": "be quiet [Dark Rock PRO 5] CPU BK036 TDP270W 135mm + 120mm 사이드 플로우 형 하이 엔드  멀티컬러  1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=2o5HaoNprAeqcm5HPz%2BrJ%2F%2F%2F%2Fw%3D%3DsFfFnHXm39oxsUiZKOJoGZiywU%2FjEn1AC6AD7G0ngmxqsJym9f48xrbihS%2Fr740Y%2F6tD79JhiEcoxEulYxIHfWSzKK2AqwmcU8qGyBlpLssg2rDKFIihVXkVBBVXrq%2Ba9Kva5I9rXNDI3caV63UJUtZZ2w%2FTjKFch6p%2FHqO4RtFptyc3l8ZEnU3nH1EeP70UI3fisI55hPJ5pLuMjYVoMIVTK4qRFuPhqaVnNCGsZxx00tGoyxxYo%2FW22qxarx6dK7vFxikKZVFl7YpnWY07HaSyStzbSI%2BRsxgqebZ7oKt%2FZCcgYzQ5I9ZsZfXUlC3dYQtKyt1UlAHIgCU7R2mFnMIfsEF6%2FZYyuXdiX9sW9jGCi5no397UTRyIoCo99FV2qUYNvVXer0B8E1YcEgWLkz1nT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubopQWaUz7oHsUaf4YcREHHu%2BfmCB%2Ba5G0G9HKUDp834pdrU9gBvTOY8XVxGgpGxxdZPf9jStH%2B5aNGjFMxxS6LgrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLmVId1aCRksajLkHc9Kc2eWPfsyCK5CPme%2FHz9kP5c24jZviK2jRytbGFDnMfFEnEqiNjq6rrAb22B18xASdmWorBAWbSaKWMaJIFlZRxMXowwCBPBJEn6cDc4wPXXI2MrX2j7tloIWDMAYs5%2BllVWrtOsLCuwy5kCb0CvXEqBQNJTDVHc0Hf6nQArCnDgHYivuUnqE0DxOxAAbwQVSSkDbbyy%2BwSs5JvUYj7kT6iR%2Bbq6QURIzX4eW7kBHy1plib4KoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=60223494711&catId=50003141"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Dark Rock Pro 5",
+    "image": {
+      "file": "bequiet-dark-rock-pro-5.webp",
+      "source_url": "https://www.bequiet.com/en/cpucooler/4466"
+    }
+  },
+  {
+    "name": "Dark Rock Elite 듀얼타워 CPU 쿨러",
+    "brand": "be quiet!",
+    "category": "cooler",
+    "model_code": "BK037",
+    "series": "Dark Rock",
+    "released_on": "2023-10-24",
+    "summary": "TDP 280W 에 ARGB 상단 조명을 갖춘 be quiet! 플래그십 듀얼타워 쿨러",
+    "description": "135mm Silent Wings 팬 두 개와 히트파이프 7개로 고발열 CPU 를 조용히 식힙니다. 팬 레일 구조라 램 간섭을 줄일 수 있지만 높이가 168mm 라 큰 케이스가 필요합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "168mm"
+      },
+      {
+        "label": "팬",
+        "value": "135mm x2"
+      },
+      {
+        "label": "히트파이프",
+        "value": "7개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "280W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 168,
+      "radiator_mm": null,
+      "tdp_rating_w": 280
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 148100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 148090,
+          "title": "be quiet! Dark Rock Elite - TDP 280W CPU 쿨러 - 공랭식 - 인텔 LGA 1851, 1700, 1200, 1150, 1151, 1155 - AMD",
+          "url": "https://cr.shopping.naver.com/adcr?x=B24PKURvHtdj9N%2F8SXXSc%2F%2F%2F%2Fw%3D%3DsBdspxqGl1EPWa5W0hU7YYU1vGB2uuDz5NUCXI%2FSU75J%2BEuf4eoKjM%2BxyqLHZ8MOhWGYZa7O82eVU4W%2BHcYC%2BMkvDmRcJ8EK%2BixNF4GVj6J87AcWymEYJHR6FSHb%2FV2HTZUI5Psyc5WHs%2F4PIsTPjYzP1tu1YmSFWlc3B4RzUcaluSKXY9C%2F9QzUjJcLrELAhlJBocsx7ojPfqPyr7e2ZI%2B84yZv%2F3wprY3aJa0hfvUFmJSc6i8Npd0jK0t%2FIbdcJAKjdckVGSDC9%2FGjAZEAaz36lMz7WcCUorhhg98fZRsjBONT5D6mG%2BV6c5mXmontzxH4nq%2F9OR6JeLDbnBGa04ER6HXwUcJ%2F0y5iah%2FykpLB668r5040cuqLL2AYRuhrtiuEtMiIhpXB5euY5HDsl48P0A2C8xteGYLkiam%2FA3XS%2BlQto1bv7wi7WYQ6ihc7q76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFNyUHN%2Bebwxe85nY5k4Dqdg97EeepfTIVQBrbD1tLhMFhZLQC1JzeV7PP%2BtX25KJDCCbY8xHptuH5APMypoAy9i5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh2hkLGZI4NDFAKkRNmebhgdKtGa0HN2Phla3qjVjC0Ed8F2KBAcEquwApa1Z9KUjXjCtfrPTpk2r21l1E9B4piZiqdQ%2FfM6VHVDUFlT5nHuKjIrngPWhONXJJG2cI6GyeCrM3lHDgz0ZJV%2B0%2BOx%2F92qucH7RgK6BANC4XjLpN71nHmb2mNHbA02o%2F0ZHrJZc%2FsKR3YKlD9qGAl6gX9HvZO5QXOREwOwRjtFdcQ1K7yXDI9VcituI09%2Bh2BbBIlgBEFdznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=60703258453&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Dark Rock Elite",
+    "image": {
+      "file": "bequiet-dark-rock-elite.webp",
+      "source_url": "https://www.bequiet.com/en/cpucooler/4468"
+    }
+  },
+  {
+    "name": "Dark Rock 5 싱글타워 CPU 쿨러",
+    "brand": "be quiet!",
+    "category": "cooler",
+    "model_code": "BK035",
+    "series": "Dark Rock",
+    "released_on": "2024-06-04",
+    "summary": "비대칭 설계로 램 간섭을 줄인 TDP 210W 싱글타워 쿨러",
+    "description": "Silent Wings 4 팬 하나와 히트파이프 6개를 쓴 컴팩트한 고급 싱글타워 쿨러입니다. 비대칭 구조라 높은 램과 VRM 방열판을 피하기 좋습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "161mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "210W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 161,
+      "radiator_mm": null,
+      "tdp_rating_w": 210
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 139000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 139000,
+          "title": "be quiet DARK ROCK 5",
+          "url": "https://cr.shopping.naver.com/adcr?x=U5jPc1lfOBrkD5Zgx5hjdf%2F%2F%2Fw%3D%3DsWsgp6BJMcWIlHcNyUU0OeRAKdNiZ8vngP%2BjoIXX6Ndn9K2jyZWV1CQ6w1rEH%2BvqKq93XYMRZ10kkMuKTfhdmWYTfK0eQRqwZgxFB%2BA51F%2FnA7YohpJ0PwEDFNBykZL8kAGbPM%2BwoEdSz%2FqwYXLPTuvajeUMgIL4JFqWUkyqWbLW7lcNxnWgwL8Q0owt3J7dmf9tprPlvE4kEDc%2FzhzDBRdyOh7Hi1cU45OdW1hLGfdzzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpWLIrs0N5ek5r6FGvBvYQ5iN9fiLdm310LCcdwSwMCbJXfqiCwBtPYYwEdSt6i2JAzrlmyKtIF8TgAfNNDSQEb546BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1B%2FAstaYOnsHB5hNkpbgxPTrWAyiDWW9WaHeKEyQBbszV97oOjoKJFBJgE85zx2ClbAWFNV6WQROvHUEhFzj%2B%2BW6VnZT%2BUDh%2FkrsJyXJ%2FO5o15yb258Vi6h9aiRY6PrNbPh742w3ba4K6i83qWlZrDbJZsCJG9srI4T3i4UjMGJMVezVAbIyYoHSm3KsypHQvycXoBJ4m10%2BwVWUr2V7kTwN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=88973735705&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Dark Rock 5",
+    "image": {
+      "file": "bequiet-dark-rock-5.webp",
+      "source_url": "https://www.bequiet.com/admin/ImageServer.php?ID=161d9a53586@be-quiet.net&omitPreview=true&width=1200"
+    }
+  },
+  {
+    "name": "Pure Rock 3 Black 싱글타워 CPU 쿨러",
+    "brand": "be quiet!",
+    "category": "cooler",
+    "model_code": "BK039",
+    "series": "Pure Rock",
+    "released_on": "2025-03-11",
+    "summary": "TDP 190W 의 조용한 보급형 싱글타워 쿨러",
+    "description": "Pure Wings 3 팬과 히트파이프 4개를 쓴 be quiet! 의 입문용 쿨러입니다. 높이 154mm 로 일반 미들타워 대부분에 들어갑니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "154mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x4"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "190W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 154,
+      "radiator_mm": null,
+      "tdp_rating_w": 190
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 61200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 61250,
+          "title": "be quiet PURE ROCK 3 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=vcvYKMSRpQWtrI9e1nePe%2F%2F%2F%2Fw%3D%3DsRX8oiV1Ijcd9%2F3AFXJnonprKdJJC1YvI6YO07CrofP3lHVg6qclPpcSHrxyXH52VtqU9y39vt8Oe1W7Cue%2BTTi3EJV%2FcAXPmdmlz77m1nVpb9DyAjsFq0p6PaFAo%2BEqUcgMBDSQLEN%2BMNFkrexdPSyt2du0KXl6PLhqJmP9Z0eIb%2Fsu1WLST70DM%2F22Mg4czX11eKEvUkmOmz%2BxHK2hpc6O7if8ZEkB5RDFahadc0bzz5l9A0uYZChbEqMA7wnyL%2FpLD4TqgK6hcnPbAvpy1khZo%2B44LPwJpfdw%2BR4YX6hCFGSVxFJ%2FpD0iWONDHwzH8fixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJRH5lLGOSDRj2Xh%2BwqtZyCnB%2BtNyLnGqn%2BYARuNhIEHodMnPssEsxiLl4Eai5xKG2rdsSwH5m46p12WdxmhPlnngY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXy23PIB0bT4ak2%2F78SIKROx5qT0zSxnvtbKfxZDHKQkXOC4%2BR%2FWrexdY4UATNTgtpiHQYcM82UALZBkVvUIjO3wh7WwX5PXSNYu%2BY3I0mwVzCjGqx2fBO%2FG382EyoN1N7iFuteZMOxwbGRUZLSVY70bfAl5dudTqZlos35c9ihFnGchJkTHazOYYUHJlECQCnsbp5rNLca%2BG8K0rpMmXrm5aGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=62170207325&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Pure Rock 3 Black",
+    "image": {
+      "file": "bequiet-pure-rock-3-black.webp",
+      "source_url": "https://www.bequiet.com/en/cpucooler/5591"
+    }
+  },
+  {
+    "name": "Hyper 212 Black 싱글타워 CPU 쿨러",
+    "brand": "Cooler Master",
+    "category": "cooler",
+    "model_code": "RR-S4KK-25SN-R1",
+    "series": "Hyper",
+    "released_on": "2023-10-19",
+    "summary": "스테디셀러 Hyper 212 를 새로 다듬은 블랙 싱글타워 쿨러",
+    "description": "SickleFlow 120 Edge 팬과 히트파이프 4개를 쓴 대중형 싱글타워 쿨러입니다. 높이 152mm 로 호환성이 좋습니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "152mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "4개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 152,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 26500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 26480,
+          "title": "쿨러마스터 Hyper 212 3DHP ARGB 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=F9T5R5%2FiiHiU8%2Bj%2FDDLKBv%2F%2F%2Fw%3D%3DsMkGl4p8vbLlElbXTGuMbD8xgLF3VvqaHiNqsDBtcJDAJxgPr4rZSMGFqf4P9X0sD9%2FXz0mE84n68tMXRJgkhUqlLHHExFR0sg%2F3R%2FrBMCGovyYnh7RjEGneia0Qf%2B2HCPSC6dQ3TGzPWfKtoxvF0sCZ2PWH0c%2B7ytc992JaZgYGGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0D446w%2F5lQO9vaIMNKJTPIGnWIeulxtlL4zBL4c4aQ7VU0KaCOYopDjdQvfbERRQ%2B395tpe1NVRvGV20UoUf%2BOxPmgjzOW5DqeikOc%2Bg%2FkXVZesD%2FlIzscIU8gCS6tMz28QS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F39ZWMBAImwy8t60ItwovvsFY0AqSJOZMeLCVtoa0X5ytrY%2FLjZMxSm667U8N7BH8d%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgBCNsGLT4KhB7W0wDo6%2BvzCc1bTrJnLPXVzB0N8bmS2nGJ8zbS%2Fic8tgEIGWQn56ho%2B4%2FJ0PRHiQNMyu%2F3bpT8LsKCNR6O78f8lFvbZAWWZn2TPgB8WtKZ7lMOc0QsOoSFjaeqGi5%2B6uTOWmW%2FY8WXXDFkFfYqlnWegTkgdU9XQwL%2BGBoyQkiFtSLwcV09cBveW9Z51CBA4M%2F4CThdKbb700SR656%2FPVWsRfllXrXvtTg4SwcLvxUEucVmH%2BcOht40%3D&nvMid=57753575667&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 Hyper 212 Black",
+    "image": {
+      "file": "coolermaster-hyper-212-black.webp",
+      "source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw219443ed/Assets/hyper-212-black/large/hyper-212-black-01-gallery-01.png"
+    }
+  },
+  {
+    "name": "Hyper 612 APEX 싱글타워 CPU 쿨러",
+    "brand": "Cooler Master",
+    "category": "cooler",
+    "model_code": "MAP-T6PN-225PK-R1",
+    "series": "Hyper",
+    "released_on": "2025-01-23",
+    "summary": "복합 히트파이프 6개와 120mm 팬 2개를 쓴 컴팩트 고성능 싱글타워 쿨러",
+    "description": "전작보다 30% 작아진 크기에 팬 두 개를 단 싱글타워 쿨러입니다. 높이는 159mm 입니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "159mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 159,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 79500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 79500,
+          "title": "쿨러마스터 HYPER 612 APEX CPU공랭쿨러",
+          "url": "https://cr.shopping.naver.com/adcr?x=ml8Q0jg87BsHmRkRCkwGEf%2F%2F%2Fw%3D%3DsaMSiGMnvMXLmGUrAZ41jhXg46ZgsIrFm2Tv2P%2B4G4MYJxgPr4rZSMGFqf4P9X0sDekkPdVTnsRJ8hF0rg%2BGF2PTjCncUCxRi0VkjvEhBtkPz8T3uhhXI3B2l0JAKNQVPRMC%2B56DTZSCFAtPSGGOo%2FHgbZ6FWrtuw3bxaouDA5uI2kmZ8vtTIEnyRuaHE0UDY9ayL7mz9v%2FjRdrE0WNoRFexfttZ5pcf5K1sVW6sC7ubDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8MVMCHHyqF8DzkTT06rXfXLDgnqtgDVfw5lXwhvV3ou7CAcMbjjgPp5rQo1j5jPnTBPzu9DnzejeLDmKkTp71HehqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5layrYsKm7IaSg9UghGbMSVkGY%2F%2FTiyPORhqOkg%2F6r4yzwKAbyL6ZIzaLKfKUK4VxctCD97i3c7ghyeQwXho0j2J7MJ9Waam7Ps5XBgHO4%2FukYWlKP%2Bp6jTlb7zUtI52crShz747z7Ix5%2BWagFHTcSJ8T2ZeiH%2BbiSC%2B3eJ%2FqsjexChwsQYZrTCyV4dzakWSt2V6BgJen1rwksUNwvU2hmovV0jF4%2F03d2uRWD4PQoOymS7UCWTEQYvei1YUfIZerhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=89261218334&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 Hyper 612 APEX",
+    "image": {
+      "file": "coolermaster-hyper-612-apex.webp",
+      "source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw46ae70f9/Assets/hyper-612-apex/large/gallary-01.png"
+    }
+  },
+  {
+    "name": "T120 싱글타워 CPU 쿨러",
+    "brand": "NZXT",
+    "category": "cooler",
+    "model_code": "RC-TN120-B1",
+    "series": "T120",
+    "released_on": "2022-10-27",
+    "summary": "깔끔한 디자인의 NZXT 120mm 싱글타워 쿨러",
+    "description": "히트파이프 4개와 120mm 팬을 쓴 군더더기 없는 외관의 싱글타워 쿨러입니다. 높이는 159mm 입니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "159mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "4개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 159,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 54600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 54600,
+          "title": "NZXT T120 프로세서용 쿨러 120mm 검은색 RC-TN120-B1 Non RGB black /",
+          "url": "https://cr.shopping.naver.com/adcr?x=360Pe%2BZ6M2Kc9wOSQVuXRf%2F%2F%2Fw%3D%3DsyyaXqbs89nLSbJXR0m98Xx0g5v%2BVQJzlY0HOlXsCQIt1gjODYVlynGI34xhxMzy7mOpXM8OpKEFAzs4qXM3StGBrxAJk1oZatmnV8EwfnnAtWcunI77ub0uTq81lg0EA2pFzjnTStL4SpBuNk15ZGicX2AUq8VPh3PK%2Fo8l8aTkQ30gwb0ZAWnfX3Zzr1ayRhKURs2cHCXWBv1OPXwHA6AOpqNGLZn3OGsqn5E%2BvCpbvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4UnvsFp7lq4vq3YpWmCSOrAXfL63M0D0KCBCvxt7h7gseDZ4Wwqi1Fhc1L%2BhDxepI8IJtjzEem24fkA8zKmgDL2Ll9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHXuoBANMNNGqhJ1RxG1AQz0q0ZrQc3Y%2BGVreqNWMLQR22lfLznLUSR1JH8sjbaeKmbGZ%2BTuF8OnLRCxwoS207qcbGjTQcmnLXXb3fzQGbG8Mu8wBpNTD4qqhRN2QepqHPLHOg4EDgXmNOnEVcR11%2BX2Ok4185OjhIfEa5%2BbRP448%2BOfFF6Gd6OLNbOgwHbIhqo64FkP9CQbIx7neKc6Octa7TkLNG7nQGN%2BHJZtuMhfgd0X10mt%2Fg9yNQ5eJeTzMcG3Gy5zwQ7pQeQYKlWGMkVVdznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=91304824928&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "NZXT T120",
+    "image": {
+      "file": "nzxt-t120.webp",
+      "source_url": "https://nzxt.com/products/t120"
+    }
+  },
+  {
+    "name": "A115 듀얼타워 CPU 쿨러",
+    "brand": "Corsair",
+    "category": "cooler",
+    "model_code": "CT-9010011-WW",
+    "series": "A Series",
+    "released_on": "2024-01-16",
+    "summary": "140mm 팬 2개를 단 커세어의 플래그십 듀얼타워 공랭 쿨러",
+    "description": "팬 레일을 위아래로 옮겨 높은 램과도 함께 쓸 수 있는 대형 듀얼타워 쿨러입니다. 높이가 약 165mm 라 넓은 케이스가 필요합니다. 제조사가 TDP 수치를 따로 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "164.8mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 165,
+      "radiator_mm": null,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 211900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 211920,
+          "title": "코르세어 A115 고성능 타워 CPU 에어쿨러 u2014 최대 270W TDP - 슬라이드 앤 락 팬 마운트 AF140 엘리트 2개 설치가 간편 사전 적용 열 페이스트 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=QmlhP0Bbo%2Foq4HCBnvGVp%2F%2F%2F%2Fw%3D%3DshDD7b58aWRVqAhzCvVjiqS3mpcUC6xSgHQV8EPImlSmF%2BUhx8HaCCWb5VmE2%2FfviQVptGU3L3AC%2FAkbyRyjR8JiLS6e%2FADO0s9JR%2FqG5HHOExg1Unrs6BwpV3XqjYfgguoR33Wq%2BUPnBT3QUgLdmtsmscUZuB%2FB3GA4tAdwd4kJn0E%2B7lsL8Xc%2FJzL4VwihdQ0xtlqcW03BKsdYPI1ea1xZo%2B44LPwJpfdw%2BR4YX6hCFGSVxFJ%2FpD0iWONDHwzH8fixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJT3zvuaVgi55Dtp5PsK7BsiRhACOJmmeBY2WRjveaDbKl2tT2AG9M5jxdXEaCkbHF3t%2F3j6y0of9ot5mKpOsDsCCtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4uaMH41FD1M2TYhZE9sQPvGo9%2BzIIrkI%2BZ78fP2Q%2FlzbjOd11JPLayOoDe1wCegKSiybmFKHhJG45t%2F8dYYZLi%2BUsYECG%2B%2F69PqZUuAX%2BlDt54r847q%2BdlCvj1I4xR0R11yUtBxtkqfPXX8tFqrC%2Fg0kGIljmupNdTSMtNQFfuhAGzoUnne2a7neFYBiL5yG7gvTS9U3pe8UT5BQFyjkg1v1jH9TYYqS2s1ywCl0lz88NHqkOHbOGaNYAdNluJiRCZsyo7PUkKo2Zdo52x3cOSE4g%2BkkI7NyicgjQNqoTm3ulYPb9AHVR643IXKiQV1EIkV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=90593200325&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "커세어 A115",
+    "image": {
+      "file": "corsair-a115.webp",
+      "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/ct-9010011-ww/a115-high-performance-tower-cpu-air-cooler-ct-9010011-ww"
+    }
+  },
+  {
+    "name": "CNPS13X DS BLACK 싱글타워 CPU 쿨러",
+    "brand": "ZALMAN",
+    "category": "cooler",
+    "model_code": "CNPS13X DS BLACK",
+    "series": "CNPS",
+    "released_on": "2024-07-30",
+    "summary": "CPU 온도를 보여 주는 디스플레이를 단 TDP 240W 싱글타워 쿨러",
+    "description": "히트파이프 5개를 쓴 잘만의 싱글타워 쿨러로 상단 화면에 CPU 온도를 표시합니다(전용 프로그램 필요). ARGB 조명을 지원합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 싱글타워"
+      },
+      {
+        "label": "높이",
+        "value": "159mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6mm x5"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "240W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 159,
+      "radiator_mm": null,
+      "tdp_rating_w": 240
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 57800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 57800,
+          "title": "잘만테크 잘만 CNPS13X DS 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=4ZSWitnk89W4x2CE2MYReP%2F%2F%2Fw%3D%3DsLV3Q1NBNcMjupDEt4yYwMFvXgrTniVC8mBkcywIvjMEdf7ZC%2FMz%2BPLF1dnWTWEu3iKrSGGg9xjm6Mab%2FH3hEoBPt%2ByRu7d36cGeCpvQLjGR51jCaQ6imVEdqo96SBHto3L%2BiuN6ObKQQbjwPBgXSgAQHBzNOlnLqAl%2B6qQO8SJ5VXemfpmeX70wC2wQT5nyiLt8VwAKKfov8pyrRlUmDI4kexxbC2T8ksFiJprYcwenSZ%2BjIYmbzNige%2Bi8oRKzkM742Ya48pTpPp4bKvd56B6ihVbkiZsCYw0A4lYVmvbLEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9102%2FQZW1lyGaoCfclvhup7NoujdiiNe5Aky91pn4j%2FIz2o3gkYSsT%2FKwdBRBny%2BspU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwPIYn%2BBYmwcwd8U9COEqdRh7qZlNZP5evY6ehAK6pM4z62ciBisaHiAFsSD8vlqbi3JGNteG6vT1kpdITDI7cI%2FUBlr76Km0GCTDKIZv4zuX0nw4WNW4aarHVudk24%2FiLmenjEu0aWE5u3yc%2BSIeSLJ1KU85kE3pXnhNMvq7%2FMWzRGwoZY3TA7SCUMEn5Zo4URgslMXD%2Fb%2FCLMS7sT7GKJFaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=52402487626&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "잘만 CNPS13X DS BLACK",
+    "image": {
+      "file": "zalman-cnps13x-ds-black.webp",
+      "source_url": "https://zalman.com/cmm/fms/getImage.do?atchFileId=FILE_000000000027061&fileSn=8"
+    }
+  },
+  {
+    "name": "IS-55 BLACK 로우프로파일 CPU 쿨러",
+    "brand": "ID-COOLING",
+    "category": "cooler",
+    "model_code": "IS-55 BLACK",
+    "series": "IS",
+    "released_on": "2022-09-19",
+    "summary": "높이 57mm 의 120mm 팬 로우프로파일 CPU 쿨러",
+    "description": "슬림 케이스와 미니 ITX 빌드를 위한 높이 57mm 의 로우프로파일 쿨러입니다. 제조사 기준 TDP 150W 로 중급 CPU 까지 쓸 수 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 로우프로파일"
+      },
+      {
+        "label": "높이",
+        "value": "57mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x1 (15mm 두께)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "150W"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 1,
+      "height_mm": 57,
+      "radiator_mm": null,
+      "tdp_rating_w": 150
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 50200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 50240,
+          "title": "ID-COOLING IS-55 BLACK 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=ruwE3fXQP6uzD2Q5ije1u%2F%2F%2F%2Fw%3D%3DsOIUDz0oEtc3rV6tcNGFojvFCP8K%2BRHViV4QJN3Kfl3tLHU19L%2Fb6DsPx8qy%2BjzXGRCOK7Dz3p6RZiOGEGWf7TqfNH1sown6wdvuHQoo%2FL7T6cjYJx8XPzJE6BaOXEkkuEeITJRg8Q0bBGau6ltkD5IDmf4j1%2BfiWkUFNpcEFI%2BuAbCY81f975eS5nfR25FBi0AouHxJYr0ktwaJpy92NDw2b1Xegy8Bxrixop%2FmvJ5u8lva8CCsVn4e1b%2FC9doRiuC87hIE8E2eNePw%2BsnOfzsQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F1GwEoKyPDw3GXdjFTTNWvOs2i6N2KI17kCTL3WmfiP8jPajeCRhKxP8rB0FEGfL6ylTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDCmG9fadiMvyfujvCWxnGv5QxqbTpXihWh7tOqrCWINA%2FrZyIGKxoeIAWxIPy%2BWpuKCqHrZFP%2B%2BbcOLJNReRaAb4%2FeDfLuvdPPv0Z7cM%2BQeyOhdY6itM%2Fhyw9h%2BeLt4GXOVc89sgw5PeIquch7weNEZAYTYOqTv%2FsOm0kcFv3bjpNs%2B7nwUHUA7fz23ojqZXcM4FIOTxpHi6Gf2n8zjLt1WA35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=58813639862&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "ID-COOLING IS-55 BLACK",
+    "image": {
+      "file": "idcooling-is-55-black.webp",
+      "source_url": "https://static.idcooling.com/file/image/20221004/20221004113124_13075.jpg"
+    }
+  },
+  {
+    "name": "Socoool RC1800 ARGB 듀얼타워 CPU 쿨러 (블랙)",
+    "brand": "3RSYS",
+    "category": "cooler",
+    "model_code": "RC1800 ARGB BLACK",
+    "series": "Socoool",
+    "released_on": "2022-11-15",
+    "summary": "130mm·120mm ARGB 팬을 단 TDP 270W 듀얼타워 공랭 쿨러",
+    "description": "국내 브랜드 쓰리알시스의 듀얼타워 쿨러로 히트파이프 6개를 썼습니다. 높이가 156mm 로 낮은 편이고 3년 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "공랭 듀얼타워"
+      },
+      {
+        "label": "높이",
+        "value": "156mm"
+      },
+      {
+        "label": "팬",
+        "value": "130mm x1 + 120mm x1"
+      },
+      {
+        "label": "히트파이프",
+        "value": "6개"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "270W"
+      },
+      {
+        "label": "보증",
+        "value": "3년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "air",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": 156,
+      "radiator_mm": null,
+      "tdp_rating_w": 270
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 71000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 71000,
+          "title": "3RSYS Socoool RC1800 Quiet ARGB 화이트 공랭 무저소음 CPU쿨러",
+          "url": "https://cr.shopping.naver.com/adcr?x=us59iSsNqtyJHhAXlVx1P%2F%2F%2F%2Fw%3D%3DswFOR8Xjbzc2aXI9VIGlgTzJwH5ewhWsP1MgOcoa5H%2BkVtp1KAhZ0XI8KW81OdvWV%2FfT5PmZ3Qt8ZrEj5Gko7lArmYHzEqC8oVLOunSUHGot8hgKLHJ2potx%2FnkoSd8jxhiT%2FPfqBDMffC3Yk7%2FNME6xUTfizNciQK%2B%2FJMo5kHrlWrxaEGYqB0DQc4FejQVgOxI%2Bb2mACTI33LrksFQaZNeqF4QDgLPlvdexz83bDdz7vpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4XdFUV2jDT%2BNmzcEM3aNwXWxrytxbTFpd7d6IikgXBAfm9nn%2Fq0t7PJtfv1Pcm5qHOiGaHTQp816P6MwODPMH5Uh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8nEiunswZmTyNIZJTROw8tWZW47FVcUvDENI2HuIbVP4eP8gSRSGQ73dIqX4gTkBG68x7Yp6OrwZWRagBLZCiWHFxdiA%2F%2BfIolLpxk6pLIkarmeNOq7HGSkVBs9wHaOYzSFmZzQieUcjo%2BME7JigPv0QmXgIS7AWs5VPmiz7eUSwYbSXRRgXdkPDsFFsxgJI4jFitzWGs8QMlvETLtFFBOrcpALgxIuZCRywi4VPOKijel21eHDt31wj0HSlRNr419h6RRv7tSzMEdJntUkMFG1dznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=86750408096&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "3RSYS RC1800 ARGB",
+    "image": {
+      "file": "3rsys-socoool-rc1800-argb.webp",
+      "source_url": "https://www.3rsys.com/shop/item.php?it_id=1664347506"
+    }
+  },
+  {
+    "name": "Liquid Freezer III 240 수랭 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00134A",
+    "series": "Liquid Freezer III",
+    "released_on": "2024-02-20",
+    "summary": "두꺼운 240mm 라디에이터와 VRM 팬을 갖춘 일체형 수랭 쿨러",
+    "description": "두께 38mm 라디에이터로 같은 크기 수랭보다 냉각 여유가 큰 가성비 모델입니다. 펌프 헤드의 작은 팬이 메인보드 전원부도 함께 식힙니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "240mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": null,
+      "radiator_mm": 240,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 139000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 139000,
+          "title": "ARCTIC Liquid Freezer III 240 서린",
+          "url": "https://cr.shopping.naver.com/adcr?x=EO2iXtJdrqZdqTObaF6bbf%2F%2F%2Fw%3D%3DsVxN0k62zDMqQqT1px3C078L%2FL10YaDV7Ks17LU8fzbmyQHRFi4QSjiK9zBhrmin1H02tVIEfKiHJ2Z4RYsI8eLH5ELs720cOxC1fRDlaxPGLJpK3WthmZMdeJmrnzLLq4aAo26EnHlbwJWUrEx6RWy6%2FgRP9Bj9XIcWsO8VYVxnaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUYf1Vda6Y%2F25XN0AubC47yOMtWw2d2oufUpwptoCT3M77cNlbdWaBtTCAztCt1uNOxSx8qspLuDkGAIrY%2FVQR6LzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpVRSG4ChX%2BF1iXzbqDvXl%2Bpa%2FYgLlZ%2FWSjQ5YE2d4lfbTJz7LBLMYi5eBGoucShtqNmh3UmOvS%2FNR1PoUrs0wj4GO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV83ZYuf%2FD5gfNyfOSzAQkFKZWimO4QuXW0MSBv%2FDsrjfVND7bO4ojDNe0KSiQZP8tD2b1EGqp8AganKLhmqiStfMO%2FLDWPq9GQVUJn%2BItxby%2BJ6J9E44%2Ftm993dhB9zi5idRrt64Xcv4MGpuHHXlPlsivfaSnac4LkOZNUdbfitfk%2BHvjbDdtrgrqLzepaVmsN%2BgtF15PMkmjkNDmi88yMRReIcU1C8mOaqFbrzIxiF2jQzCBeshuOw6Dz4GtWI5HUhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=46264646619&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Liquid Freezer III 240",
+    "image": {
+      "file": "arctic-liquid-freezer-iii-240.webp",
+      "source_url": "https://www.arctic.de/media/73/39/0a/1725362018/Liquid_Freezer_III_240_Black_G01_eha_3_awards.png"
+    }
+  },
+  {
+    "name": "Liquid Freezer III 280 수랭 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00135A",
+    "series": "Liquid Freezer III",
+    "released_on": "2024-02-20",
+    "summary": "140mm 팬 2개를 쓰는 280mm 일체형 수랭 쿨러",
+    "description": "140mm 팬으로 같은 소음에서 바람을 더 많이 보내는 280mm 모델입니다. 케이스 전면이나 상단에 280mm 라디에이터 자리가 있는지 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "280mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": null,
+      "radiator_mm": 280,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 135500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 135510,
+          "title": "ARCTIC Liquid Freezer III 280 서린",
+          "url": "https://cr.shopping.naver.com/adcr?x=zwe6KLj7c9oc8VjTYH4pg%2F%2F%2F%2Fw%3D%3DskwmN3qeYxEse7cU4r8m%2F6tXOs3Rmx8H6SZXfqhqWAHRP3N4NBOhbgTo0ZXkeIwdIz5pm86CmTQ5BgLgJprxL5guDuh0qLLy64r%2FUQbuMsHhZ1ZtVkhf7Q3W3UQf7WvAzwAF6Lcwb6HXNHC29pjKxRHYB2kiRgkj7zPUeb6VlZXrffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy18fmY1OX0p9OhPOVPx%2BsRmyMu80OSXXFo9NEbfuMzE7NEwJA1EE1JFui7sFOsFTudSz6D85jIuL9ol0TJb90qDEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v97oDxTOzyBEn%2BKUTZmSrn2RWNAKkiTmTHiwlbaGtF%2BcosnUrJYOvJD3t3MCPUy%2BU%2Bfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AawpHEyuj986Bj6zPbSfSKXNW06yZyz11cwdDfG5ktpwZDJx9M%2FbC10CHkV6Kv%2Fjj0nZsUTubbSfmjjOLo97J6zqrkOVcTGUA0EA0%2BfI3e7tWjTh0O1SKAfyul6XW49ERA24O7XcZcFl2YivUl9h3PUYvVwIkoJzjHrj2ZPsU3ztP4PMPHCnudPTZjGRUD3iURnRm%2B4ETj6EtlaSATui%2FvJuIC21Bv0hMnBjSNWIUm%2FRayXn6DiW5pDuAQ%2FWDG5jNDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=46243720618&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Liquid Freezer III 280",
+    "image": {
+      "file": "arctic-liquid-freezer-iii-280.webp",
+      "source_url": "https://www.arctic.de/media/12/fa/d4/1725366756/Liquid_Freezer_III_280_Black_G01_eha_3_awards.png"
+    }
+  },
+  {
+    "name": "Liquid Freezer III 420 수랭 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00137A",
+    "series": "Liquid Freezer III",
+    "released_on": "2024-02-20",
+    "summary": "140mm 팬 3개를 단 420mm 대형 일체형 수랭 쿨러",
+    "description": "라디에이터가 가장 큰 Liquid Freezer III 모델로 고발열 CPU 를 낮은 소음으로 식힙니다. 420mm 라디에이터를 지원하는 큰 케이스가 필요합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "420mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 420,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 135000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 135000,
+          "title": "ARCTIC Liquid Freezer III 420 A-RGB 서린씨앤아이, 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=E9KzseRu0W2FxZEexvWDHP%2F%2F%2Fw%3D%3DscFTWvz7SaZzm3P%2BRyV9HrlHH2Lnj34Q3o8krSO9hBjRP3N4NBOhbgTo0ZXkeIwdIureHr05TQEvjL%2FWQo1wAcQjnBvLIgLoJAVV0PK2ZHG7oxTjwBaCE4RbFuTYLzr4%2FqupvKVf%2Bp%2FT7Rjw3bPnD6fLsC2HHQ3HaEbUtHDzEIh7ffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy%2FJddC6t3nnBIip5gso7WMuyMu80OSXXFo9NEbfuMzE7NEwJA1EE1JFui7sFOsFTuVKY2fn9XQSm2B9NfVd8q5zEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9McObTGvdjXOOjsURXzaqLhWNAKkiTmTHiwlbaGtF%2BcosnUrJYOvJD3t3MCPUy%2BU%2Bfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4Ak2Ks6JyCb906QE3BB7AXvnNW06yZyz11cwdDfG5ktpwZDJx9M%2FbC10CHkV6Kv%2Fjj0nZsUTubbSfmjjOLo97J60qjx20eNHWMC%2FFg%2BBrRWPRRvgTXONl1GhHc67ND3DJD6eI0xiMTziJgDgasOqBAH%2FKg9op3Qfg%2FG435CWNHBaHn3kraGBE88QK4Qt9ct0jdlMveu5pUmt5mX6mUy4ug6qblpj1J%2BKJg7YXHfiYuRBqpjMnNUhzzK4w5JlWulOFtvPJvJkUyaNS4NEwKrysc9EHQIiXcF4qwUXZ2sX76wW8%3D&nvMid=59278008888&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Liquid Freezer III 420",
+    "image": {
+      "file": "arctic-liquid-freezer-iii-420.webp",
+      "source_url": "https://www.arctic.de/en/Liquid-Freezer-III-420/ACFRE00137A"
+    }
+  },
+  {
+    "name": "Liquid Freezer III Pro 360 수랭 쿨러",
+    "brand": "ARCTIC",
+    "category": "cooler",
+    "model_code": "ACFRE00180A",
+    "series": "Liquid Freezer III",
+    "released_on": "2025-03-28",
+    "summary": "팬과 펌프를 개선한 Liquid Freezer III 의 상위 360mm 모델",
+    "description": "Liquid Freezer III 의 두꺼운 라디에이터에 개선된 팬을 더한 Pro 버전입니다. VRM 팬과 오프셋 장착을 지원합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 159800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 159760,
+          "title": "ARCTIC Liquid Freezer III PRO 360 서린 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=C0neOPlg%2FOVCfpvMYy3h1P%2F%2F%2Fw%3D%3Ds4kJwVRWYh4Leps7ibE4QGrVTtnDRonO3sYM%2FKziuoATbCxZ43lnH7awhPw7BMoVnTO6m8sxtxmeoH%2FN7bBsYut4s%2FVJAZvprV2KJ7zaNsOnQ2aOvjI4%2BiB8IGM2xxFzSO4KtFL6rbGeDZvzZWboHMqEmp1ME98FmfSE75H22VUVGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9u70btOthcnm8vzx1oafwtMzYD2tl0cfSaVWX1VPbaMHiVh%2Fcjrnv%2FGKM9w3UpFRqhhI5Rf%2BSH2DGK4n1RVUIPLW2jiITWjC%2BM1Zkqp6d3SfUJ%2Bu%2Fsl%2FCf03EFoK0xT3xNpiIjedY5oRJDvI5MTAUyfxr6kdrp7BvT8OlwZ7P37YyZp%2FuhVWf5tMOyu5R2EADu2tXQgStUYd4wS4ROm3h8uPUQvs8GHq%2Bj7OvUNvyviyx%2FdhtzzKxh2YUA4%2BZKVMDbwZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKSrSnWkn0EdD7frJ3GwNRs4tjRrFSRJIMuZIIEwJwjlZtY73qkNOBt48tjlth%2B%2FGlmRrsKTbFmeigifByvwlakTqD75nS%2FRC30PkwWI6%2B%2FRzUak6HEjxOxyluIbl8S5ppw4p5u5juWFWBCIVsZ%2FJq7ZxUmtxC7bd1FwzilSZtMGmwtIYh35n85gCNF9XAudNitgCgu8TH6IETI9IR%2BJIKXfxXSKNnP1HIaWm1Rc%2BI72DgxueeJCXzxPklKfbVJtZEwau4fTwOUqyF63FjwpQRls%3D&nvMid=56927741029&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "ARCTIC Liquid Freezer III Pro 360",
+    "image": {
+      "file": "arctic-liquid-freezer-iii-pro-360.webp",
+      "source_url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-360/ACFRE00180A"
+    }
+  },
+  {
+    "name": "Kraken 360 RGB 수랭 쿨러",
+    "brand": "NZXT",
+    "category": "cooler",
+    "model_code": "RL-KR360-B1",
+    "series": "Kraken",
+    "released_on": "2023-04-19",
+    "summary": "1.54인치 LCD 펌프 헤드와 RGB 팬 3개를 단 360mm 수랭 쿨러",
+    "description": "펌프 헤드 화면에 CPU 온도나 원하는 이미지를 띄울 수 있는 NZXT 수랭 쿨러입니다. RGB 팬 3개를 기본으로 제공합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (RGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "디스플레이",
+        "value": "1.54인치 LCD"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 219900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 219900,
+          "title": "NZXT KRAKEN 360 RGB 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=NIdtI4BC9oXX3yFgYlP0m%2F%2F%2F%2Fw%3D%3DstoYf6AnEqnUcVJfP5FIjBHpNqxmGDTiolndqb0O9IRRERcoZqcHbndL8U95U2w3JUPssbmj1e69sfsTl5AEqom65kc1zjLhu5vl6xCohIw%2FyBQAMxLx2AjMPmahwWovLmy810SWNMpkV30rE9GYg%2FWedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDor3bn6mmHbImbY%2FWE6%2BBsRdhOwSfzn7PRY3ZNlRfSZyeFeo3S2nSU491cE9ho4%2BOt1l9152Vdc96H8uH9cdzRYIfqqzsHJLtsC73ySo4W1y7o9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqYpBoOuWuF6VW07u7DgOmLyEhb%2B5%2BbgCLWD5ufmjwVaBwOFQZbRJ6OjMJrJSW3nkELq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnUIMAvJC6FxAf%2BEeidLnpJrH7R0Vj5IqYyE7YApjSEF88mUwVezLUz0S4HLiJ4l0pYwIr49DSsnLFEmsCenFVYsZEyrZ23bVx1KxBITZ21Hj%2BaoGjRbbEgAPJJWwhYNNwqr3cdNKDDKfh6B%2FaINXNirruoVk0MBFhxmRFA1PBjCl%2B%2FiliTBXp7k8%2FDqh7Sf0AbHEETzEOMtICoLSy3OGdLGA8Pa%2FwnA1Be%2FdGJxj66FgdHI8FZtQVGFZJxOyBDKc%2B&nvMid=56864887169&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "NZXT 크라켄 360 RGB",
+    "image": {
+      "file": "nzxt-kraken-360-rgb.webp",
+      "source_url": "https://web.archive.org/web/20241203113924id_/https://www.datocms-assets.com/34299/1681508531-cooling_kraken-rgb_360_b_rgb-core_hero-1_rgb.png"
+    }
+  },
+  {
+    "name": "Kraken 240 수랭 쿨러",
+    "brand": "NZXT",
+    "category": "cooler",
+    "model_code": "RL-KN240-B1",
+    "series": "Kraken",
+    "released_on": "2023-04-19",
+    "summary": "1.54인치 LCD 펌프 헤드를 갖춘 240mm 수랭 쿨러",
+    "description": "작은 LCD 로 CPU 온도를 보여 주는 NZXT 의 240mm 수랭 쿨러입니다. 미들타워 상단이나 전면 240mm 자리에 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "240mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "디스플레이",
+        "value": "1.54인치 LCD"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": null,
+      "radiator_mm": 240,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 180000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 180000,
+          "title": "NZXT KRAKEN 240 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=RvtdrkZYp6ynhmgha%2BGsxf%2F%2F%2Fw%3D%3DskVD7cMy5z9cbZaFpvAsRgNixzGSK8QjxLNx7IWIGxEKtuyEJuD0DaT8Xd06AADNqURUqEyx4HUGPVO%2BouALo6I86vonKl%2FPgW1W7TsR4d%2BsNUCCCj%2FLCvayVRBYzevjOj3ZO0zoCseo2n4XALYEp1kgAn8lD2%2BxrgblrBqYwPdWug%2B9sjA7rHdeMLkY%2BwIMUvkmfePhtqczYXRtpjA4xdNowLui%2B1MJpVCAl5d9A5YPdUdKGEcz6Mr2mruZjdr9Jx8BovzdcEOkz0YogPRNATMM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jzWIusNl7i3Ml9CWCsAAZuErYdqoLwKPUNtQAGbHETPmJaBls3yzCZaXWKEL%2BOl0%2FiD3s%2FKqTgMX9YBLT%2BZfUx%2Fy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE%2Fjae2MUJwHRUgdvFtxQasKWfY1smEyEQmMzXtTGzP8EN3W1AGuZ%2B%2Bpe26ui7dc2SYMHoTcNX3ZkuzvWT0NJcWaZhbO63hCYCxnwHKX905XTb%2Bl%2B6aOuQcze0xFwmkj0MQ1VZmEOgEJQtgd91VYgxWBlMveu5pUmt5mX6mUy4ug6gfwiVbY0Wa0kKE7rNR%2FQ1wxfb3zuvo1c8Iryxpze9CgBKhyVF4vj96blIfh%2FrCYV0HQIiXcF4qwUXZ2sX76wW8%3D&nvMid=58255864017&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "NZXT 크라켄 240",
+    "image": {
+      "file": "nzxt-kraken-240.webp",
+      "source_url": "https://web.archive.org/web/20241203114924id_/https://www.datocms-assets.com/34299/1681859000-01_kraken_black_fp-fans_240.png"
+    }
+  },
+  {
+    "name": "Kraken Plus 360 RGB 수랭 쿨러",
+    "brand": "NZXT",
+    "category": "cooler",
+    "model_code": "RL-KR360-B2",
+    "series": "Kraken Plus",
+    "released_on": "2025-05-20",
+    "summary": "팬 3개를 한 프레임에 묶어 설치가 쉬운 2025년형 360mm 수랭 쿨러",
+    "description": "F360 RGB Core 일체형 팬으로 케이블과 설치를 단순하게 만든 Kraken 의 2025년 개편 모델입니다. 펌프 헤드 LCD 에 CPU 온도를 띄울 수 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (F360 RGB Core 일체형 프레임)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 232600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 232650,
+          "title": "NZXT Kraken Plus 360 RGB 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=Aiw%2BAb8HOoDy6Wf7aqzJ0v%2F%2F%2Fw%3D%3DsN1QenGXsjMlR1Rx0ifJ4u9I1xi2PGRZjJikIp2fQadXNyJu5P6rHpUFt4HFcVsfxNtQidl51yGkAwH8J%2FSGBNgJ%2BCdh%2Bapvpx0pcZMuRMncFwR3kQ7cKjDSpGzh9hOVZwF9%2BAO053svvIUDIhcLw5svqIdMbDufe87jPqq%2FwfU7It9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156rfRijE2N90APubkHfqUzeBBtLhZheurBGY%2Bm%2BPldFlnWhj2oeln4g8ZtvMzFJnisWjlr7e0OfgsCMOo45AV8FOdxgBmnwkOTVpUvj4QWUV%2FNOsIZUbU%2B0NnLSULuFcq%2FRtUWRmduSpe9VYBcmy6Vc8tWL75zD7RsELSPgxTwnErWXeACyv%2F9GShVfeXtNA7WKTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0LNhwTC4sJ36A01CmRggUpDokh7KNEkkbwBBKOUFOEEpr%2BT%2F5loK4%2B3NV4b3IeBdUh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8bNxAH4pO6PaUEa7wvXFuGyytMuqNnc9UTwh8Vm2gowkV0pUVcehA%2F8J2xelklAf59gYfSluvz9%2FoeqNBl9CK9WQnFxhpghyImaR8mzoe6Kqf%2BAPHBeEiNP7rtGKw0Wpdk9IIHCZuHMJkhUeYxfaXzZTL3ruaVJreZl%2BplMuLoOq2k%2BBBQEGhvEplrOhVpAiGlFUl5t7hCuwHAG1IxxnltYtpU63saJcqMgeKm5XsMzxB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=57024434681&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "NZXT 크라켄 플러스 360 RGB",
+    "image": {
+      "file": "nzxt-kraken-plus-360-rgb.webp",
+      "source_url": "https://nzxt.com/cdn/shop/files/kraken-plus-360-rgb_black_01_hero.png"
+    }
+  },
+  {
+    "name": "Kraken Plus 280 수랭 쿨러",
+    "brand": "NZXT",
+    "category": "cooler",
+    "model_code": "RL-KN280-B2",
+    "series": "Kraken Plus",
+    "released_on": "2025-05-20",
+    "summary": "140mm 팬 2개를 쓰는 2025년형 280mm 수랭 쿨러",
+    "description": "Kraken Plus 라인업의 280mm 모델로 140mm 팬 두 개가 조용하게 바람을 보냅니다. 펌프 헤드 LCD 로 시스템 정보를 표시합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "280mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": null,
+      "radiator_mm": 280,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 156400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 156410,
+          "title": "NZXT Kraken Plus 280 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=jWulNCO4Y1uYuJgYzBhf4P%2F%2F%2Fw%3D%3Dsq9JwgZ9uoW6CpC5b9nNYDd3smZ9coxFDI3UCmzfPviNERcoZqcHbndL8U95U2w3JoOAdZvKxjRmZDO0vuJB%2FIf1jgsBZ57bUWSgUoLX2o3ZkEo4i9k6K3Y06QKafre2zIE32UU5Rosm75tZkqsh%2FlhkNNtQR53lRrmFHj5VH9HJD4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhl4UJOzeKHRkCguIlx1agS3pKXbtNeFyRoXTbV9LB6ignOuTjXhYUhIwhLaiu33MVvsL4M8Q8NYPi65VMdPrReqdjW6FOtRb3EqO6F%2Bvlu2Sm0Uj3yd7qi%2BAYW3xuRas%2FcQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F3zn7j%2BltcLJ71PZ2wx2Uq5FY0AqSJOZMeLCVtoa0X5yiydSslg68kPe3cwI9TL5T5%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgB3FnJ1qEJwnrG%2FCBz5khhpc1bTrJnLPXVzB0N8bmS2nAQllRBh3Y2r0Ca9yNMZX2R2L3zjVmXfRQ2kU6hKLxf5lO8dYcqn2CKqQdywd7ULvOYG8bdra20QReOfz5u7hAko2D5771uruk1tM%2BPnP1Z2lMveu5pUmt5mX6mUy4ug6raT4EFAQaG8SmWs6FWkCIZx3VZqVuzGpSkMmYxVLCfJbDnd5higibk4FdcVvk%2F10UHQIiXcF4qwUXZ2sX76wW8%3D&nvMid=58277219233&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "NZXT 크라켄 플러스 280",
+    "image": {
+      "file": "nzxt-kraken-plus-280.webp",
+      "source_url": "https://nzxt.com/cdn/shop/files/01_KrakenPlus_nonRGB_280_black.png"
+    }
+  },
+  {
+    "name": "iCUE LINK H150i RGB 수랭 쿨러",
+    "brand": "Corsair",
+    "category": "cooler",
+    "model_code": "CW-9061003-WW",
+    "series": "iCUE LINK",
+    "released_on": "2023-06-28",
+    "summary": "케이블 하나로 팬을 이어 붙이는 iCUE LINK 방식의 360mm 수랭 쿨러",
+    "description": "QX120 RGB 팬과 iCUE LINK 시스템 허브가 함께 들어 있어 배선이 간단합니다. 커세어 iCUE 소프트웨어로 팬과 조명을 제어합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (QX120 RGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 188000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 187950,
+          "title": "[CORSAIR] iCUE LINK H150i RGB(WHITE)",
+          "url": "https://cr.shopping.naver.com/adcr?x=h7oZ4s0svQ%2FL5QFbdr8S7v%2F%2F%2Fw%3D%3DsXBBA23gNNhB0ytfOB3vippaVBUz4562BJcy9vp2nHPzcaevHccLy9D9KZ%2Bf02WoDODZFnlQWEnnv1gvj1gMAyVY3AvbN%2FsitqQMpnhsjJ4Hevk%2BH%2B7Q1notgtTPBMosHcE%2BzvZzbuVM%2BA8dJDICjitC5sBZeWLeuXsCE%2BfaUsWFXg5k7bok%2FzrH%2BpoWNFTZ%2FlJBocsx7ojPfqPyr7e2ZI%2B84yZv%2F3wprY3aJa0hfvUFgHG%2FFv7iPLvio0EfO7ovtkGTFzZ3RfqnlGYsYB1cMYRbD9IpkvSaWd9NNYHWfZTcPVCZ%2FaB76u5%2BkI7ubqIVDphdi87z38r2pQut7c%2BTY5eGEIQRMGp0le6HT%2F%2Ft7%2Bj38FmPRmYkTMNa5bddsPevYieJ%2B44345cm11w%2F%2Fpg3hWE2htrtFSz4%2BXODgugRzmL73nu8xjEvh8opK%2BrnlzH%2FNIXVB6BNKWzJN4es4mFVxYxDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27%2FhDyiXZ86Jo%2BZEQ64BV62TdyEkPh5I5E6EdT5emH0apmwpkNw5AK%2BuOa7uGc4yuvc7vQqzNW6jSo2JymRy5mIS5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh2C1yT5usq1tbCQCIaw40VZKtGa0HN2Phla3qjVjC0EdMQYFk2Bxkbbk9lr6LzfdKNnHrYOzdrEpEBw4HGJEJNIlpZP7jn2MOOhryC6LlhDq4XoeHQreMgJJdVg9gVDhgKI0VXJCb0QP2H5I7481A4HL07boOLwoxL6IajskM%2BfZidmkImHZCPu2srDOTXYuJKRrr4D107SNiUsy3MecbVdoaKZHilHbuauHUigNM5KA&nvMid=62086647585&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "커세어 iCUE LINK H150i RGB",
+    "image": {
+      "file": "corsair-icue-link-h150i-rgb.webp",
+      "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061003-ww/icue-link-h150i-rgb-aio-liquid-cpu-cooler-cw-9061003-ww"
+    }
+  },
+  {
+    "name": "iCUE LINK TITAN 360 RX RGB 수랭 쿨러",
+    "brand": "Corsair",
+    "category": "cooler",
+    "model_code": "CW-9061018-WW",
+    "series": "iCUE LINK TITAN RX",
+    "released_on": "2024-08-15",
+    "summary": "3상 모터 펌프를 쓴 커세어 상위 360mm 수랭 쿨러",
+    "description": "FlowDrive 펌프로 유량을 높인 커세어의 상위 수랭 쿨러입니다. 펌프 덮개를 바꿔 끼우는 CapSwap 모듈을 지원하고 6년 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (RX120 RGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 229500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 229500,
+          "title": "커세어 iCUE LINK TITAN 360 RX RGB 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=zpIpe8jnFvf1apH6M8wKU%2F%2F%2F%2Fw%3D%3Ds9%2BksAU5ZrHEABQWoAyOmyfNtQqjd%2FiuM2uG1qc9HIUhzdbtuuyexzYjERu0eFwJSYkDtk9mwDTUDgs%2FAaY1%2F7OmIc7eHu4sUdcnvh1upH8hydfdPm%2BruhLTUH9aRUPcGrzJkuHBFwVfmCtKk%2BVDonV3q%2F5x7wOHm%2F5d8uV44gRFG86fyc9uoYB8d21E4fuDRgGwmPNX%2Fe%2BXkuZ30duRQYnnpgdOsT6HwIDNgLxD7QmauekBcTXELQuZ8W9Kb6RYedMGDLC65XE87Xx3xgg0lREOKqDb4DfiiLJCBFliXUK4CTIASOrcFfxe03G3QeHcFfjf%2BsZ113dX1%2Foa0l0GqbhtUWRmduSpe9VYBcmy6Vc9b7SX64QSy33RS31btghCAMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6onwQ2fs7Wh1BdD%2BaO%2Bk%2Bsevn5uoItM%2BBzHjtuP7SSrI5fVBDMIut42nyyM8MGNK2LG8KzaRhaPuBfSpn616ASSozQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7ti2tmQuvB8DrwrrF8TPqLsO6%2BzuO6rCq2z%2BHmPhazXma9C2vVTE8Vt2O338mpICt%2Fhw6Qg4eybJiSJxSptGKJAYAruOctonvb4WhxqlwB6Tn7yOfZLUY%2BFmppUPZMzT1VYbHnukbmrQNcAnOOmnUnZF8LS4px6%2Bgi2GysSlv%2BUlWOv%2B%2BG7P8zZs54SDuTec41neWK5ElZm1K%2B6IlGc5vEoiXbVG2Av7BAFaJhC52FCqHLVWGr8fvvH1mWvUgXPK6j&nvMid=58259241142&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "커세어 iCUE LINK TITAN 360 RX RGB",
+    "image": {
+      "file": "corsair-icue-link-titan-360-rx-rgb.webp",
+      "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061018-ww/icue-link-titan-360-rx-rgb-aio-liquid-cpu-cooler-cw-9061018-ww"
+    }
+  },
+  {
+    "name": "NAUTILUS 360 RS ARGB 수랭 쿨러",
+    "brand": "Corsair",
+    "category": "cooler",
+    "model_code": "CW-9060093-WW",
+    "series": "NAUTILUS RS",
+    "released_on": "2024-10-24",
+    "summary": "별도 허브 없이 메인보드에 바로 연결하는 커세어 보급형 360mm 수랭 쿨러",
+    "description": "팬을 데이지 체인으로 이어 메인보드 헤더에 바로 꽂는 간단한 구조의 수랭 쿨러입니다. 가격을 낮춰 처음 수랭을 쓰는 사람에게 알맞습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (RS120 ARGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 123600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 123580,
+          "title": "커세어 NAUTILUS 360 RS 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=dSNJ9G9m9csiai5j6atY4f%2F%2F%2Fw%3D%3DszRxwW1FnGYERmjHGBJKQ1LNAYIlmTjTwDLbEsSWKAXE0hLzh59U%2BehmiFlw5OvHTnpfbthfRAOcQnqFJTrzhgIgAcxXSAkAxD%2B7k7UJqhrY3fSiWVfphvt6RaGjTn80NpSJ7q0oNVhItEZovIosB7fY3E7aNXAKtEBbRxSBwJhxIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFLLSQGuzNbZW9DCULmnZaAVFMheRhJC7DL%2Fsveg67qTBZQ7xA8Ct4dehzVAfDdhBlyh1U2y2eRuK64%2Fz%2BU80vRFhKuhYa4RlC2tg3jw78oVFwziqJFpNnaqCC9H4hFGPXcljstJGctv4j9sgS%2FfL16qrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPLKhdqMLlqWL%2BOu%2FPwp2S9nk5obrT9gPgbJ1gOcMFJBewgHDG444D6ea0KNY%2BYz50x9MF9kvh7606inHUKvlz4Xoagc8iPXZxAGy5qqstm%2FRzokFlcvgKMqhxjiJuk6GOZ7IxKoD22vmdjdB8URIbChvQgjoX83gRThuPXirU2Os%2Fd81seoBFnAeZaeGTXfJ5tbNcJsU2vTq2r5RrBPSl6zx%2BPvvsIP3MO5%2Btpw3tL0xublRo3B0ZGRPlFqJHSXqs2Vtutu8A6df%2B729Z%2F84jgI1To2sZPmFJv5GPCnBK0GZEaThcwm2jOjlPe7qD4n468RB2fVpwZJfGHnLYrKV2%2BLfqmP4H2M6bTiKMVovy6YMzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=56945631860&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "커세어 NAUTILUS 360 RS ARGB",
+    "image": {
+      "file": "corsair-nautilus-360-rs-argb.webp",
+      "source_url": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060093-ww/nautilus-360-rs-argb-liquid-cpu-cooler-black-cw-9060093-ww"
+    }
+  },
+  {
+    "name": "HydroShift LCD 360S 수랭 쿨러 (블랙)",
+    "brand": "Lian Li",
+    "category": "cooler",
+    "model_code": "G89.GHSLCD36SB.00",
+    "series": "HydroShift",
+    "released_on": "2024-06-28",
+    "summary": "튜브를 뒤로 숨기는 구조와 2.88인치 LCD 를 갖춘 360mm 수랭 쿨러",
+    "description": "튜브가 펌프 헤드 뒤쪽으로 빠져 메인보드 위가 깔끔해 보이는 리안리 수랭 쿨러입니다. 2.88인치 화면에 온도나 이미지를 띄울 수 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (28mm 두께)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "디스플레이",
+        "value": "2.88인치 LCD"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 265800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 265750,
+          "title": "리안리 Hydroshift LCD 360S 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=HiimlcjHi8ZIyHeKrqjXxP%2F%2F%2Fw%3D%3Dse0TTOoiWPM4KbMHjvyeA7dw%2Fpvqlk8fLCYk5PtNXAKL8RvJC0pJHP873mxr%2FI9Vymy5%2BTYeSeGmIS6xwskwnn7D3EOrNT9GEAMsEt8FrUKngJuSsDZVtfftW8EX7OQz%2B0dyT%2F6b9Aqn7kK3u11%2B1JOssrFifCnc9VePCmL2tkJraH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUX96IyXyuA7Q01eB%2BYGGrtu%2FEVL%2FavOSSQ0S0iARVb6nWS0A9jwxECynNJnasvjtKy2PNAdHFx0qAksAMU7iSOwgd9zP9W%2FD0ehE7rKbql8Z8854ky6q3UrsCxsjJiCAJ3MZMP%2FjXMfq%2B7K%2FfYLD9%2FhD4P%2Bj2CVvS6QkrpszyaIoCuwrUM2Vi5bq9fxYHuPhKbBm9q4ZEF72apEXvGYt9sVARVGH4SO7h%2BRYJeMogsB90yc%2BywSzGIuXgRqLnEobat2xLAfmbjqnXZZ3GaE%2BWeeBjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfCKXmXfp1aBIgLNaxysUQraKixf%2BpeN8dy6ghtHfPz6eTQ%2B2zuKIwzXtCkokGT%2FLQ9zTDv1OCfXaHVQX3M4D8Kv2L%2B0e6h6hHm7a69fIVIbBAz0WNfJlZYRMVvko0KYEkPrJ1A5suCUBWgHRFFJxpr2LyCNDppda%2FG9vadiuMX4VDWrhHEcp0p%2F%2FKKziu53PdLKPBbtj4Vixtq6TSJlUREZRhkxwA23XAxOcvU3E020Q5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=52594022050&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "리안리 HydroShift LCD 360S",
+    "image": {
+      "file": "lianli-hydroshift-lcd-360s.webp",
+      "source_url": "https://lian-li.com/product/hydroshift-aio/"
+    }
+  },
+  {
+    "name": "HydroShift II LCD-C 360CL 수랭 쿨러 (블랙)",
+    "brand": "Lian Li",
+    "category": "cooler",
+    "model_code": "GHS2LCD36RB",
+    "series": "HydroShift II",
+    "released_on": "2025-06-06",
+    "summary": "2.1인치 LCD 와 다이얼 컨트롤을 갖춘 HydroShift 2세대 360mm 수랭 쿨러",
+    "description": "라디에이터를 더 얇고 작게 줄인 HydroShift 2세대 모델입니다. 펌프 헤드 다이얼로 소프트웨어 없이 화면과 조명을 바꿀 수 있습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (UNI FAN CL)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 269000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 269000,
+          "title": "리안리 Hydroshift II LCD-C 360CL 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=7eXkPTVIpU2niiZAhP8w%2F%2F%2F%2F%2Fw%3D%3DsGGSHDXkkd%2Bi3JnKfsQH6gnJnx6HdiFRJQtpc9V9PoKXedIB2hu6cHqKgSK%2BJo0AP9xkIKWa0lgQ12YGHIwCzMuUZ4d%2FHITvLESpV%2FMUY7L6720RkeNmIwEVIXNJXBK46xPZ%2BPlSFlsGUG61XMqwG%2FBfrgdwaPwiMCoVNGwkXjTkeKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ0wRi6hrnh4s5BA%2Ft%2F3jw9SbnxgDSRLXkROxvDmOvdRHyNpatMDjB6CTv5jPapwXndrpLNebZvDIIy%2BT89SVm1Uq5AIq%2BPl2aKaFVlahdOp2NBf4%2B3AQo0%2BZeURKkNgQisQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F0v4t5zPXdlIuzsvS%2BH9joHs2i6N2KI17kCTL3WmfiP8pzWjlrTWY8sXrdvO%2B5gBoulTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDCywhSrFIkFR%2B5WbNyqJIJEujb1flSkdN%2B9DoWv9x8nCfrZyIGKxoeIAWxIPy%2BWpuJF7TzXHbtRhoPk1aDiUyyp2gJBFg9UZetoBK6crqJZjNYNYZVwA9vGOnueCv2HaXkUyP5QbidK4Um6DasFeGx84DDmyI8errK4Kyo6qeTgNp1KU85kE3pXnhNMvq7%2FMWx%2BH8Kfpzi9FaPVfsWcfNtwWCGd3Vxw6FRJ7jcPTI7vJ1aFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=57430828704&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "리안리 HydroShift II LCD-C 360CL",
+    "image": {
+      "file": "lianli-hydroshift-ii-lcd-c-360cl.webp",
+      "source_url": "https://lian-li.com/product/hydroshift-ii/"
+    }
+  },
+  {
+    "name": "HydroShift II OLED Curved 360TL 수랭 쿨러 (블랙)",
+    "brand": "Lian Li",
+    "category": "cooler",
+    "model_code": "GHS2OLDC36TB",
+    "series": "HydroShift II",
+    "released_on": "2026-05-22",
+    "summary": "모터로 각도가 움직이는 6.67인치 곡면 OLED 를 단 360mm 수랭 쿨러",
+    "description": "펌프 헤드 위에 2K 곡면 OLED 화면을 얹은 리안리 최신 수랭 쿨러입니다. 수랭 6년, OLED 화면 3년 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (UNI FAN TL FLEX)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "디스플레이",
+        "value": "6.67인치 곡면 OLED"
+      },
+      {
+        "label": "보증",
+        "value": "6년 (OLED 3년)"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 609000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 609000,
+          "title": "리안리 HydroShift II OLED Curved 360TL 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=eiehGZOoNO0RCnbgVrrC6f%2F%2F%2Fw%3D%3DsLynuqCpAgK23ST0Wvl0L513EZoNUvt9IwjJX5fR70un8RvJC0pJHP873mxr%2FI9Vy%2FnYcTXZsXABXJaQ8KS5ZpoCiEIXr1U%2FMn23FpRvYxMHLky2RMPNYeJuHwZUGYgyNaWHNyMN6FjAq2Ir9uE9LxCuXcnNy9qMslMQq7LuwRnL7xgY9ID%2FJ8%2BE3WQUBhNYny%2F6MHZ6u%2F5n6uuzlUc6JNCAYTv5lq0qN%2FmER%2FVdy2Qo%2B%2FuRwRqWdvdMJNRI1V8kgcaZjVtJeOoYIjLKmwOcpudTp31W%2FL61SR2Dqssa3B7ffBArqiV7QzQpBSMdreWi5W1BoPWm4jUA9lIEGyyzKQ7aOIhNaML4zVmSqnp3dJ9Qn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO78sTanDWs0Ka6nic5Nbw7W1C8IvS%2BNPsEPJ7D6mlNi%2F5zu9CrM1bqNKjYnKZHLmYhLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHQtDbEVYIkbv4JDHSA3FcgUq0ZrQc3Y%2BGVreqNWMLQR3%2ByGf2K4SIgEcfyvZUHfMTgSsxsgBoSi2FdQxfYW25%2BeTgM3XpAyV8xGTmA%2BlkAMxnuUpN9GL1ptAGV0tjwYI4DYE6Exnd5awLXpeXAWww35AXa6a0j1HDFnK4Ozk64NxP4PMPHCnudPTZjGRUD3iUHONNxfChUzyWuEvqKDLzcqJn%2FES%2FT%2FSJCXJ3rGukMUbLE3uyjB%2FdsGzNM4U1DG8JDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=60869756448&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "리안리 HydroShift II OLED Curved 360TL",
+    "image": {
+      "file": "lianli-hydroshift-ii-oled-curved-360tl.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2026/05/FF02.jpg"
+    }
+  },
+  {
+    "name": "LS720 수랭 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-LS720-BKAMNT-G-1",
+    "series": "LS",
+    "released_on": "2022-07-05",
+    "summary": "인피니티 미러 펌프 헤드를 단 딥쿨 360mm 수랭 쿨러",
+    "description": "3100RPM 펌프와 ARGB 팬 3개를 갖춘 딥쿨의 인기 360mm 수랭 쿨러입니다. 고성능 CPU 를 안정적으로 식힙니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (FC120 ARGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 118800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 118800,
+          "title": "DEEPCOOL LS720 ARGB (CPU쿨러/수랭) (BRAVOTEC)",
+          "url": "https://cr.shopping.naver.com/adcr?x=dzWecpqMTcv8dlN3fZaUf%2F%2F%2F%2Fw%3D%3Dsku2bk7aTd6cnTrajH%2B2BF9%2BGFLujuBe8abclrIS1sQo5IIPZs7gSeHHESTuxFoSBtdmDSq2Nqi8OmJutyE5fvF6Ptd01Mi0a8Dk3lyA0Tlt5R7zms%2FxfbzDzfTfweu1ml%2BHVqi%2BXTNiu7uG6QcuZfEBaLaRaZb4MDAe2kBzYEFauvp6AiqAAo0XO9avEb64wxZjnn6HW0KQvzwVbqrOz%2Bl6C8%2Fe0%2F%2FfVKEjfB0B%2F2G6KKGLIaGqUUg1RoDqWJvYP334rL%2BbR36BhYe0R%2FrUmjgBSTS1sRv49oBHxm%2Bxq6HheVhKJV5aLhz2sG1RdnDhdwimpPrdjeU5pFJziJ7ScWVd%2BqILAG09hjAR1K3qLYkCO45DEnrA5gT8mGTDNxfFqnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbWQBqn2MpvD5zhjhnrM5CCBajwkhTf%2F66h0HsamvJR3Eg7LikWF1zMuYCP7EzeL%2FPgm8KOxjkz9glEZ%2F4uZxyFk7OQ3NwtSiFiU0sTjGxC7iXrp1hQfwbL1KAPMus2Wxb3cYcB6rShPa8nmep6DWKuLWTMxmzP7iSx5uBWtGKNcl7EKHCxBhmtMLJXh3NqRZK3y0KfhboEwCOebqamV24Ms4VCs5Z1wgUfR59L4MigwGwN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=57650289370&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "딥쿨 LS720",
+    "image": {
+      "file": "deepcool-ls720.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LS720/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "LT720 수랭 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-LT720-BKAMNF-G-1",
+    "series": "LT",
+    "released_on": "2022-10-17",
+    "summary": "멀티 인피니티 미러 헤드를 쓴 딥쿨 프리미엄 360mm 수랭 쿨러",
+    "description": "FK120 팬 3개와 3100RPM 펌프로 고발열 CPU 를 겨냥한 딥쿨 상위 수랭 쿨러입니다. 입체감 있는 미러 조명 헤드가 특징입니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (FK120)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 119000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 119000,
+          "title": "DEEPCOOL LT720 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=ILq84sYEPSMqmZikdhBIov%2F%2F%2Fw%3D%3DshjTZpgWL6BDcmyA8rVQu9U1LfJh4%2BNZYSK20zGkuaUfFIzgScmXEhz1eRBOi3Z5Snhej%2F9nDtfXpb9S%2Fvl1mR60nFDmUCghXxETb%2BkM8%2FG5ouez%2BnCZxB%2BXHKARuDp3bKaGeisBT5b6uYTwD0Y2SFkPg%2F6PYJW9LpCSumzPJoiiI9aZyW4hhCgmcrsQhWGWGzxk2VN%2B6asRJb7mtWKPo5QqmiOl%2Bl4yu0S961CxdgZIEBLz2yLa7CHS4ugvh%2F0rN8854ky6q3UrsCxsjJiCAJ3MZMP%2FjXMfq%2B7K%2FfYLD9%2FhD4P%2Bj2CVvS6QkrpszyaIoCuwrUM2Vi5bq9fxYHuPhKTJcYsREUjZdRfARRHmWjpTJxazdOMMdW%2FhzVKqxe625GpqPXBHs8wbjIUOyFbGqSYBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRcYhCrypIw8XriL6TZ2lI2VHSzTaO%2BFxJzn9h0tAGqfvAByjwDYhrtQvd8LmtU7b5tr2JwD2DS9zmsS3Dbf%2B8LpbJ73uTszsZgKxyW9WIzHyJTvtGWdApLbC2K9zLQ7guoRsG2ZSkT17DPKYh94g%2BkUNauEcRynSn%2F8orOK7nc90CLBf6U%2B2fBtuD5XmMk%2BHi%2F0KyOLPfU6d3piPFCeME%2FdXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=52612925898&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "딥쿨 LT720",
+    "image": {
+      "file": "deepcool-lt720.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LT720/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "LE720 수랭 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-LE720-BKAMMN-G-1",
+    "series": "LE",
+    "released_on": "2023-05-23",
+    "summary": "TDP 250W 의 딥쿨 보급형 360mm 수랭 쿨러",
+    "description": "가격을 낮춘 딥쿨의 보급형 360mm 수랭 쿨러로 ARGB 팬 3개를 기본으로 제공합니다. 처음 수랭을 쓰는 사람에게 알맞습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3 (ARGB)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "250W"
+      },
+      {
+        "label": "보증",
+        "value": "3년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": 250
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 158300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 158290,
+          "title": "Deepcool LE720 360mm 라디에이터 탑재 ARGB 대응 간이 수냉 CPU 쿨러 R-LE720-BKAMMN-G-1 FN1918  1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=XZXxV1HMsL5dRdvD2z%2Fe8v%2F%2F%2Fw%3D%3Ds6eknN9%2FkppnbzTuKZ%2B%2FNuitLIj8f4N3h9D%2B2NllBOhp2%2BLf23m9eO7bFXUF7vNEDACdXUhqmQM5x9MW%2FBSqlnEA9VTUmGuBbwb5O4iQBai3x8s6QiUV%2BS7wtgPd2GD%2BemzItIABKdK8q%2Fo%2FDjNTJKhzWbUP4hsfkDiMh%2FeiprrdhOluJ1tWQQiXRTgst1zfMzKvNuImp1T%2BAFm%2BjdEWopslBF3Jc58N4FhBkcYPtXmhTRjluhBC6E5dGzmuRl%2Fz%2Bar5GCvpRAtnNG4Zm4e7TVZY2QiZtIIg6BEXo1aeAZTYesxYv6H%2B8szaUePG3OKWJ%2Bv1t5ZtAIex9lvCdAGqJxVzBBTtwzk3AMIefnoplAM5b7SX64QSy33RS31btghCAMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6ok%2FjjCJb3qp48t7g1i7FpccOkEdespuJ%2BpKhVyALe5yWMe9j9TM33g7MivnAbc9%2BIB62mXMoF903soz2Jkz6132zQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9CO%2FQPC99q5lQ2YAN7qnM8roGdJ7%2FsyXP1%2Fcvs3nIzkZs%2FKS1QfSzmSewwZ59YLdSj3VD%2B2ZtLBRAGkpGT873%2Bg0zMi9isCRtibTZkQrBIG00qsj%2B23xwCuaRFK06sWsSg1hWPbEWPI%2FHAL0bJxI8p9Tv4ctnPctd5GyAlEwklSHLHXMtc6Sle5DAkNwDkWyfk5L1P%2BTrfgrO569%2Fzl%2Fiq9VGtY0vFGtYcImi51jMcKK8ZFHRC7iYG%2BsSFocHrgrB3vXR901YjQxSqAo1naFg7T%2F29TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=61553663567&catId=50003141"
+        }
+      ]
+    },
+    "search_query": "딥쿨 LE720",
+    "image": {
+      "file": "deepcool-le720.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LE720/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "SPARTACUS 360 수랭 쿨러",
+    "brand": "DeepCool",
+    "category": "cooler",
+    "model_code": "R-SPT360-BKDSMP-G-1",
+    "series": "SPARTACUS",
+    "released_on": "2025-12-09",
+    "summary": "TDP 320W 에 꾸미기 기능을 더한 딥쿨 고급 360mm 수랭 쿨러",
+    "description": "320W 까지 대응하는 딥쿨의 6세대 고급 수랭 쿨러입니다. LGA1851 용 오프셋 브래킷을 제공하고 5년 보증을 지원합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      },
+      {
+        "label": "TDP",
+        "value": "320W"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": 320
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 191600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 191610,
+          "title": "DEEPCOOL SPARTACUS 360 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=SKo1doGZXnrwRPWMy8q1kP%2F%2F%2Fw%3D%3Ds9Iex9zIh4w7Ep7QGHeHE1N6tUC4QFVW3kzowxCUJioJzofXpSadBqdol72l%2BLU2Y7wSWH9PA2brvsyT2ukQ1IJjf3F13Y%2FCXiRxAv4OLQtbQjucgZQB34HdaU5Zu%2FnAcB%2BdAKgfbUbHJ7x3FbLBDxkls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YyBJktXPZ0pwruL8BFT0kcH0NfnAtFXV5RotJ04I75e1jdMt%2BMcEwLoHSkbfKhu00j6u2w%2B5PyVQVVfCjqN%2FZVrsM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jyEm%2BGdkh60J2DtKfNil9tvdPD5odtMSeRS7in%2FEc8g79MnPssEsxiLl4Eai5xKG2o2aHdSY69L81HU%2BhSuzTCPgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXx6ZRDK9eYd07PD6fyvfuMCllyjbUGzl6%2FIeJTOxRnb7E0Pts7iiMM17QpKJBk%2Fy0P6jfymWgsPM6nbnnkoWv5tFH%2BKe9KFhcT8G%2FDtuamR6Rg300Q3ntp8MVpnlqGRQk%2BbEnZQsnX1BmZLFcFxXZwhXZBY0zteG9xgI7nUnztY8voLRdeTzJJo5DQ5ovPMjEVHn8JSoufvSXGfY4pUZ4vmzBc1WK9tEV7r9jwHSblHeYVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=59844903600&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "딥쿨 SPARTACUS 360",
+    "image": {
+      "file": "deepcool-spartacus-360.webp",
+      "source_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/SPARTACUS_360/Gallery/800X800/01.jpg"
+    }
+  },
+  {
+    "name": "Silent Loop 3 420 수랭 쿨러",
+    "brand": "be quiet!",
+    "category": "cooler",
+    "model_code": "BW026",
+    "series": "Silent Loop",
+    "released_on": "2025-02-25",
+    "summary": "Silent Wings 4 팬 3개를 단 저소음 420mm 수랭 쿨러",
+    "description": "be quiet! 의 상위 수랭 라인으로 큰 420mm 라디에이터를 낮은 소음으로 식힙니다. 420mm 라디에이터를 지원하는 케이스가 필요합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "420mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x3 (Silent Wings 4)"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 420,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 339000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 338950,
+          "title": "be quiet CPU SILENT LOOP 3 420mm Intel 1851 1700 1200 1150 1151 1155 AMD AM4 AM5 TR4 TR5",
+          "url": "https://cr.shopping.naver.com/adcr?x=bFO96rwaK3mcIm5CvjSezP%2F%2F%2Fw%3D%3DsnjFGaKfMQ8k%2Fi4xzpJD71sqEPoKLwE2IY3M7GN0X%2BxqLxAWK3DegrCR2lyg8ZxKn1msgPrdpXtYSRShtBeCmR81CcdcIGc0Cwa2LN1DIec9vypIoj29smXGzYjvTzl7kTfMPmxp37Vd79trjN1ZBF2XGynxEDe95fwe36kgZ0N11CySR%2FjCqjMmlbvlHjt5utPvOVpkiiuS2NnSY3AoTBlmxiyh%2Bue%2F%2F2b9wkalcrOPU%2FeEM9ww%2FyqDbmHNLjHZp6bnC7BdS6ZP2T%2BooTql55siEuYKbRIAdWqDreARBIjGTIu2xUEexG15uZYHZgDqQVCu2XqOOLWzCmjEfHze%2B%2BXfOFjgg0P9%2F%2Fra3%2BY42SvGcBOB%2Fh%2F1RxpipjNeC0QeUIXVB6BNKWzJN4es4mFVxYxDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27ZC%2BSXUxwyLUckntucAABtd7Ob7FAQxZ2pWKR8HCYjb%2Ff5TRm4ebkeqR55xTMCpWj5FRN6ADHxjQkEyMdJNMSHAZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKTFb3Ci%2BDJsbceappobLEFgtjRrFSRJIMuZIIEwJwjlZ2Jllx7fR%2FVJ2eRbfeCCITfd4LY2HE9pToILP%2BImDqvxlcu3Zsso8ULqhu8oR0E7MGjOXw5x8lYN2Qn5JyDv4HqB5OlpalgasRwuskWGXhOxtT7T0VwdKPGuqvm6I3%2BBA%2FPFwhcn2amlgG%2BQem7gKeFz9rRTb8nOecaXS%2Bpyeuvur80BJe%2FQP2YKo6nfLtPuvlkIHLk2RaTQOlOei80B0U4KoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=62038847935&catId=50001615"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Silent Loop 3 420",
+    "image": {
+      "file": "bequiet-silent-loop-3-420.webp",
+      "source_url": "https://www.bequiet.com/en/watercooler/5397"
+    }
+  },
+  {
+    "name": "MasterLiquid 360 Atmos 수랭 쿨러",
+    "brand": "Cooler Master",
+    "category": "cooler",
+    "model_code": "MLX-D36M-A25PZ-R1",
+    "series": "MasterLiquid Atmos",
+    "released_on": "2023-05-30",
+    "summary": "듀얼 챔버 펌프를 쓴 쿨러마스터 360mm 수랭 쿨러",
+    "description": "쿨러마스터의 차세대 수랭 라인으로 펌프 성능을 높인 360mm 모델입니다. ARGB 팬 3개를 기본으로 제공합니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1851, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1851",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 165100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 165110,
+          "title": "쿨러마스터 MASTERLIQUID 360 ATMOS Stealth 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2B6dBPthSC9ble9xKVjgh9f%2F%2F%2Fw%3D%3DsC7da6YIpFVy1vY8dM8bHr7YqKFFPSxF90SJyD8p9MADpbzL25H1J3QE3ZKbf30b1hXxz5kb05YWwOefODGOUrEGo4FoF8zRmocfgPirU%2B4JND2jTGpWLr3nKWv1kio4QLLgpix5baShkRXxDBSAiRBzrc1NGGjN37QXQ9zLrYCYHcZPAhx65iPoYU0FChhsCw6ZjbtkbN7RD61dGUzg7G8kR2qiTwxn15XNEV6VnkxhqSEcBFhp3RaiJ4cPJZAu70jmvlsgjuM94purDXzr3TMNEz22%2FBD46Ztap68VUC0E9vAeMhgp6wcqmSix5J5KQELQ2sKH5irVcbpDEWFeuM2%2FvMvxxV0LgbjWjl48QACg9YCsBYV55ZaCqp97HewgB5yzkWb%2FY60yNSGoTGuZqFH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUzyuBXq%2FxWDh5xcQ%2FbGaQLEJsA7oKweMtsKwdAXBVv2hKjRp2D9pkBhcJdqPQCXkTHNp4Agm7gh2iP6q4SAasQ9hB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2BpA9GkoTMpuV74%2Fpln0nsRQGjX29GFfE%2B%2Bc%2F%2BGA243xAKnJzAqs8o7nTGDBeUP5qtrPQphnyXIR31n0A00%2BAKqnYJgF6yuH46ROyKBGWTWNWtmF4qGtyJFkk8vgSs%2FE%2BqDMgc%2FqGS3A30KTWfIIc9bv5DctnpxtLANvi%2B%2FhzYUg%2Bg1vKLFip1x3m0iO%2FJhASzfYnHIcETcJifOE8sb44IMxSXYeO28UmVAJn3k2CeRcxTr09tgu%2BYRW5IbY93c45kbzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=58241440768&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 MasterLiquid 360 Atmos",
+    "image": {
+      "file": "coolermaster-masterliquid-360-atmos.webp",
+      "source_url": "https://legacy.coolermaster.com/products/masterliquid-360-atmos"
+    }
+  },
+  {
+    "name": "ALPHA28 수랭 쿨러 (블랙)",
+    "brand": "ZALMAN",
+    "category": "cooler",
+    "model_code": "ALPHA28 BLACK",
+    "series": "ALPHA",
+    "released_on": "2021-01-01",
+    "summary": "140mm 팬 2개를 단 잘만의 280mm 일체형 수랭 쿨러",
+    "description": "국내 브랜드 잘만의 280mm 수랭 쿨러로 ARGB 펌프와 140mm 팬 두 개를 갖췄습니다. 제조사가 TDP 수치를 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "280mm"
+      },
+      {
+        "label": "팬",
+        "value": "140mm x2"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1700"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1700"
+      ],
+      "fan_count": 2,
+      "height_mm": null,
+      "radiator_mm": 280,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 129000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 129000,
+          "title": "잘만테크 잘만 Alpha28 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=AQnHxiQOe4dcdcgJ7fdns%2F%2F%2F%2Fw%3D%3Ds2iUuiQd7z9kdAc3qwuHD8hwAJpmaeu7zZzy7rcOt5uijKvr%2BWCdaO2PxKy1vdJ31%2B7AT4GdM%2BuNfHcxhCPtmajqqL0Xw7paN8TLwBfV92BwlBaobqvyFi%2BDslO7QYF0JMDvO1P1j6q3tOdW4YmMVkkls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37Yy6s%2FSDNDMPZmU7CHh2aUCM9YFF4BD1v3Mjw5LCzYA5an4LrPga3dSLIVGM%2B%2BtkEgO3BLECO4rq6%2FlcGBTxv%2F6jcM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jwtu1b6M9EDic7AzG38B4p7oe6oYwlnweqD90VIvExqANMnPssEsxiLl4Eai5xKG2rdsSwH5m46p12WdxmhPlnngY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXywaHlI1OLdJK3u8jyfk5Bm7RpJD%2F33lbDbBolNiKhPWE0Pts7iiMM17QpKJBk%2Fy0MTZFynRZwPuqDwN%2FrYcumckcGxaFXjmjcPGSE9DOXnfMT1UgcUuNkD2ud9ZSFdS5OKZ7ifaQjX5nBLu9JLNDbbT%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7yJ6dpwZ1UGABqjwgCKsQwyY7RBJx2aPv1bgiR77Jh46w1QmAmnoJRdq4K9btjkCM0%3D&nvMid=53099687781&catId=50003134"
+        }
+      ]
+    },
+    "search_query": "잘만 ALPHA28 BLACK",
+    "image": {
+      "file": "zalman-alpha28-black.webp",
+      "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1305"
+    }
+  },
+  {
+    "name": "Socoool 라니 XY 360 ARGB 수랭 쿨러 (블랙)",
+    "brand": "3RSYS",
+    "category": "cooler",
+    "model_code": "RANNI XY 360 ARGB BLACK",
+    "series": "Socoool",
+    "released_on": "2022-11-11",
+    "summary": "국내 브랜드 쓰리알시스의 360mm ARGB 일체형 수랭 쿨러",
+    "description": "AM5 브래킷이 함께 들어 있는 쓰리알시스의 360mm 수랭 쿨러로 6년 보증을 제공합니다. 제조사가 TDP 수치를 공개하지 않습니다.",
+    "specs": [
+      {
+        "label": "방식",
+        "value": "일체형 수랭"
+      },
+      {
+        "label": "라디에이터",
+        "value": "360mm"
+      },
+      {
+        "label": "팬",
+        "value": "120mm x3"
+      },
+      {
+        "label": "지원 소켓",
+        "value": "AM5, AM4, LGA1700"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "cooler_type": "liquid",
+      "sockets": [
+        "AM5",
+        "AM4",
+        "LGA1700"
+      ],
+      "fan_count": 3,
+      "height_mm": null,
+      "radiator_mm": 360,
+      "tdp_rating_w": null
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 243700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 243700,
+          "title": "3RSYS Socoool 라니 XY 360 ARGB 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=ve5pIkEQ9LKvZHndJTmnS%2F%2F%2F%2Fw%3D%3DssnNaePWROijf9EHjDVYJPXsVKCD9dnNeK%2BM22ac4IsUa87bLQrLOl8XpQibG9jEnhX1dPzpf8Vzvm3OrZJDiPg8xKNm7Y9IgxQM%2Flc3ydtATdvuIN2PITK4jzv8vSbWNg8kjKB%2BMB5KtgWkV%2BeT9DWhpLUeE6iUijwDUdeJsO1HDpmNu2Rs3tEPrV0ZTODsbyRHaqJPDGfXlc0RXpWeTGA130Rjr6CFEfVuYf6xZf6p6EWiFj1y8L2MCR%2BiXNl30ZEbTlN0dM6PD5gOAwzusjLWD64iqwkdTZRPDRy1EFybzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpQmzvUp3%2FBN%2FCbhGBdk%2Boh3jnLwOI%2B8qW9421MDPZOqCWgZbN8swmWl1ihC%2FjpdP4g97Pyqk4DF%2FWAS0%2FmX1Mf8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPn8mfA%2FRq4loKlfsnqcwc5QbHfS06SzrPp%2BinBzVnhprd1tQBrmfvqXturou3XNkmuZaAf86EC%2F1ZUKyjN1hPAAK%2FliNyv2g%2BG1lyIZoyI%2FXW%2FlQsb3Iq4fVVrEU5Z3kMdB2%2BBzhCOo5iF%2FCs7IsSWVe8IsthXzQyk9rUQCuDQLyUy967mlSa3mZfqZTLi6DqtpPgQUBBobxKZazoVaQIhlgHRIwYCi3E4dbWZ23fnJCOv71FWkGY2pirP5U8g%2BNLQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=56988724143&catId=50003139"
+        }
+      ]
+    },
+    "search_query": "3RSYS 라니 XY 360 ARGB",
+    "image": {
+      "file": "3rsys-socoool-ranni-xy-360-argb.webp",
+      "source_url": "https://3rsys.com/shop/item.php?it_id=1662609773"
+    }
+  }
+]

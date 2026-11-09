@@ -1,0 +1,3559 @@
+[
+  {
+    "name": "North 미들타워 (차콜 블랙)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-NOR1C-01",
+    "series": "North",
+    "released_on": "2022-12-07",
+    "summary": "원목 전면 패널과 메시로 통풍이 좋은 미들타워 케이스",
+    "description": "140mm 팬 2개가 기본으로 들어 있는 조용하고 깔끔한 디자인의 케이스입니다. 메시 측면의 팬 브래킷을 달면 CPU 쿨러 높이가 145mm 로 줄어듭니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "355mm (전면 360mm 라디에이터 장착 시 300mm)"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm (사이드 팬 브래킷 장착 시 145mm)"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 360mm, 상단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x2 (Aspect 14 PWM, 전면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 355,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 2
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 241600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 249000,
+          "title": "프렉탈디자인 North TG Dark Tint 차콜 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=K%2FJ6oM5mVca%2F6BUxMRTe8P%2F%2F%2Fw%3D%3DsnR6ThoZ1g0X6Hki%2B3kWAxdKHdxrEgYZfYqHijLXY0v%2FrQMzAWVUEDzRZy%2F9gn5UONp%2FQjS%2BCmFaZTipvWJJ5O0VtG5BrnIdm%2BDs%2BVamMzENCNP7cekhT5kQfcoTpMLIS8VY8D6D5rUFFKQV9%2B0SIaFLmjADjsCoskvMYiSyGQcgx%2FEqi%2BT%2Baj4HIOwZCrs%2BpvODkui2Jtlaz3oVo5bv6d44%2FShgVuvWRA99Hg9g1xpB6yS8Xujb9N4luJzD2L3oWgPPvFAGd2fbjgDxkLkns1HuwbhOZE8JdYJZsejwZg7hVXemfpmeX70wC2wQT5nyi5pxiwDZPU40LYzhHX%2FcRvzZYYReeUzDR67yF1ir%2BmEKrIBfifyrXeN6%2FJ9f%2F4ZLJup6We6n3ycw8rRUAYNW5XYBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRQNiA8cRBTtr1GvMnyu186F2E5AEygBX07PsPHHcJ%2ByPHYddZRSXon5c4lzlo0zeACN9IWr7fG7clxoVlAQaop%2BGPmsjwDr5tOcj4NOB%2F7oHjH5FYq7vY%2B1M9LK1iIm0o09zmUvWsWsbR1auKMaJc9qeHeXdaaa3EAV2652yHhyFKYTOF5KsHq%2BigGAc1pAeZ1zGXhmdxoxe9%2FTUHEo26TlA2vF8RTSskelru%2Bq%2BpdI%2FCCWpvpuehoeckdEoVrVgo2hopkeKUdu5q4dSKA0zkoA%3D&nvMid=85635878541&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 234170,
+          "title": "Fractal Design North Charcoal Black ATX PC FD-C-NOR1C-01 CS8439 목재 사용 내츄럴 디자인, 1개",
+          "url": "https://www.coupang.com/vp/products/7891107460?itemId=26433745383&vendorItemId=96170646880&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20North%20%EC%B0%A8%EC%BD%9C%20%EB%B8%94%EB%9E%99&searchId=b674984f39609826&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 North 차콜 블랙",
+    "image": {
+      "file": "fractal-north-charcoal.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/5f71adedf6253fc71df4f2257ee8a948395ddec3-2560x2560.jpg"
+    }
+  },
+  {
+    "name": "LANCOOL 216 RGB 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "LAN216RX",
+    "series": "Lancool",
+    "released_on": "2022-11-11",
+    "summary": "160mm 대형 ARGB 팬 2개로 공기 흐름이 좋은 가성비 미들타워",
+    "description": "전면 160mm ARGB 팬 2개와 후면 140mm 팬이 기본으로 들어 있습니다. 전면과 상단에 360mm 라디에이터를 달 수 있고, E-ATX(폭 280mm 미만)까지 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 미만)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "392mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 360mm, 하단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "160mm ARGB x2 (전면), 140mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 392,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 127500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 128000,
+          "title": "[브라보] 리안리 LANCOOL 216 RGB Black (미들타워)",
+          "url": "https://cr.shopping.naver.com/adcr?x=tI1cSaXgEf875zyxoV083v%2F%2F%2Fw%3D%3DsbiqJ1KFTIqzqCMV8HnZVRTSWwcwuQEg8YBxSwKlo93mTEV2h%2BGEyBln2GdDbM5SKB%2F%2FcIY2X4lyfPCQgf0Pi3fKH7SyYjCFj6xTL3ZJYFGUB5h4WqTvX5%2BmMKttn%2FHfm1yX13M61ahXbyVDMQKG%2BSvCwVnDK96Q9hOJ2LPdZK0fjplgHOJkpylnF3%2FXAPHv%2FWtfnLD9ajlGnGzyew9P4v7MEss4xjia0ZbqQ%2BwJtdmcWWiXPio4m8WmYuafuliOVvG4U9TTdmDECjpgdLm4TFgVe3tiFcEHHOhtKl0WQzQXUNXOgdok1d71JjspCV%2BAOITPDAMPSO%2FXAsQ8X64EQFMHLeVc68pJXOVyuGJZ27KUnn5OCudMOOkjU0tSyRrjWOt18I9wSQA4k1b09T2CanChDCEIMZ9DZtmZSJVrwYuUQ4xHcfU2I%2Bi125sdhIqFUEIZJB1yuP5kkcuYnGBP9uwVt%2Bq%2BEGbIURH4Pt76u0TaSsVMnUeqlYbNt91jeVNzwf5S5ycDGuwbfEdv1A6kKwi9Tw9tlGmEeWoIc75TMMhvYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqdDf9FOAzcZeOQ50KzISieD40sxaj5llTa7q6XLDpguAdLP338TTmV3YFoH1vPVA3rHX2PRIL%2B9jPDbiSrpXJsZtevD5IX3EwcJMhc8ix7z6hJYgfEmGaJ%2FEIH9H2b9HGwtThHH5JA%2FGQPQUzyEWVnxIUN4bx3J%2FKSrn%2FmnbFahEKMapV0sQCrweHvaHWsQEV2tY0vFGtYcImi51jMcKK8bjby9lVJ5aDuwLSI%2FnXeccu%2BFEOQUO4udpBhAHoTyGKG9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=61999246029&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 126970,
+          "title": "리안리 LANCOOL 216 RGB PC케이스 (Black)",
+          "url": "https://www.coupang.com/vp/products/7008955833?itemId=24630054746&vendorItemId=91641094421&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20LANCOOL%20216%20RGB&searchId=0544f59f6019336&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 LANCOOL 216 RGB",
+    "image": {
+      "file": "lianli-lancool-216-rgb.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2022/11/1007_136-b.jpg"
+    }
+  },
+  {
+    "name": "PC-O11 VISION 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11VX",
+    "series": "O11 Vision",
+    "released_on": "2023-11-16",
+    "summary": "기둥 없는 3면 강화유리로 내부가 훤히 보이는 듀얼 챔버 케이스",
+    "description": "앞·옆·위 세 면을 이음매 없는 강화유리로 둘러 부품을 보여 주는 쇼케이스형 케이스입니다. 360mm 라디에이터 2개와 240mm 1개까지 달 수 있지만 팬은 따로 준비해야 합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 미만)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "430mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "174mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "측면·하단 360mm, 후면 240mm (최대 360mm x2 + 240mm)"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 430,
+      "max_cpu_cooler_height_mm": 174,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 200800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "coupang",
+          "krw": 200840,
+          "title": "LIANLI 후면 커넥트 ATX 지원 미들타워 PC 케이스 O11 Vision Compact White 후면 커넥트 ATX/E-ATX(폭 280mm 이하) / ATX/Micro A, 1개",
+          "url": "https://www.coupang.com/vp/products/9777195878?itemId=29268995122&vendorItemId=96186269032&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20PC-O11%20VISION&searchId=3ecca2733874802&sourceType=search&rank=3&itemsCount=60&searchRank=3"
+        }
+      ]
+    },
+    "search_query": "리안리 PC-O11 VISION",
+    "image": {
+      "file": "lianli-o11-vision.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2023/11/O11_V_012.jpg"
+    }
+  },
+  {
+    "name": "PC-O11D EVO XL 빅타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11DEXL-X",
+    "series": "O11 Dynamic",
+    "released_on": "2023-09-07",
+    "summary": "420mm 라디에이터 3개까지 들어가는 O11 시리즈의 대형 케이스",
+    "description": "O11 Dynamic EVO 를 키운 풀타워로 460mm 그래픽카드와 420mm 라디에이터 3개를 품습니다. 커스텀 수랭이나 대형 시스템에 알맞으며 팬은 포함되지 않습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "460mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "167mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면·하단 각 420mm (최대 420mm x3)"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 460,
+      "max_cpu_cooler_height_mm": 167,
+      "max_radiator_mm": 420,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 342900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 416150,
+          "title": "리안리 PC-O11D EVO XL 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=TZdp8dgRIUtyp%2F9eDSoK9P%2F%2F%2Fw%3D%3Ds%2FEfTwg%2Fjtqp7DDyljzC2yXhri6fhAf5Rpt2bU%2FlP%2B3xEve9H5Onxn3XbiWpYk9vrYZBWTn8aITcAeKN3U768ZcvWKAaEeNWIWzHaR%2BI12O55fpV8u3am8HWDsn7JWfArNYGs3sAXmHOCMzpTujXlRCbKB1rn9wP51MVEDofjsw6AbCY81f975eS5nfR25FBiB%2B8dKAOtSP6hU65OUPeEr3BVfKf3IkEOS7%2BiY5bsTjscVE8QUA41ZofejbTD%2FSKt0P4nLND%2Fm0ecUDzoBDxQtDb5w070IBsye8WkWbPjn6Vqt9LR%2FpNg2m9sdMkQuTIr5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2F4OMhzdxGrbVRPHU3%2BfYRc7NoujdiiNe5Aky91pn4j%2FKYurpVE7sQl%2FaWUOAEHu2DpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQw5ECNNkwTkgILxQLADmanGrwH9N%2B27LYL8%2FEdwf%2BF%2BBr62ciBisaHiAFsSD8vlqbiQQUP5FnPdGpetN1BD3oSN5UFd14ovouPMWeuOutkLXsG8%2FG%2BnLQK6xvUey%2FrwmA2po%2B1eunfYSDJMynNEYkmVZTL3ruaVJreZl%2BplMuLoOq2k%2BBBQEGhvEplrOhVpAiG0kyvCBbeAPJ0zL1UWexbzDRWNSROuBPEcIDsVuC%2Bp4dB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=57263091729&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 269710,
+          "title": "리안리 PC-O11D EVO RGB (Black) PC케이스(ATX) (정품)",
+          "url": "https://www.coupang.com/vp/products/6716033643?itemId=21280936818&vendorItemId=91401732527&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20PC-O11D%20EVO%20XL&searchId=67e1196b5922593&sourceType=search&rank=4&itemsCount=60&searchRank=4"
+        }
+      ]
+    },
+    "search_query": "리안리 PC-O11D EVO XL",
+    "image": {
+      "file": "lianli-o11-dynamic-evo-xl.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2023/09/O11DEXLX-002.jpg"
+    }
+  },
+  {
+    "name": "A3-mATX 미니타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "A3-mATX-X",
+    "series": "A3",
+    "released_on": "2024-05-22",
+    "summary": "26.3L 작은 크기에 360mm 수랭과 4슬롯 그래픽카드가 들어가는 M-ATX 케이스",
+    "description": "DAN Cases 와 함께 만든 M-ATX 케이스로, 작은 부피에 415mm 길이의 4슬롯 그래픽카드를 담습니다. 상단이나 측면에 360mm 라디에이터를 달 수 있으며 팬은 포함되지 않습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "415mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "165mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 측면 360mm, 하단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 415,
+      "max_cpu_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 120200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 118800,
+          "title": "리안리 A3-mATX 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=A3FPphwxx%2Bwjhoff59xxXf%2F%2F%2Fw%3D%3Ds3GmgBmWCU0W8IiNC7r9ga4nzP7oqBa1GjgzlXPUmuwA8qXT3trlQZm4xE%2FSwt0iU8ySx9TqIVZGEeFs85BaLAxL14NEKjKWsJ9Wfrx6lSgibA6qyA3zb%2BSGHZay1x%2FvrISKVLNpFLWldYoM13Jk3MB4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQneyr2kpBnty1NBOAqUxFGpPvplb%2F%2FRpmKmTyRW0G5u5jI2lq0wOMHoJO%2FmM9qnBedRJhDKk0hcv8jRdNyHMmJy6W3xtSViyjpWbh7DEfRY%2FGTCJQf9DIWq7k4mhfNhtf9y%2F6MHZ6u%2F5n6uuzlUc6JNEuUiTS4CHUtVxQrWeRhExhAKLFbgNsrBoIORA75jOroGtyKPqWFmJICY1nBjATXisCfk%2BfN9NYxs%2BQPrKsoGGmZVPxbcho9rw%2Fw%2F7Ve7%2BiWy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE%2BfyZ8D9GriWgqV%2ByepzBzl5gg3%2FpXoaFQ%2Fhrp1RYg8id3W1AGuZ%2B%2Bpe26ui7dc2SYT5Kk3GdJFiidQfi8dItYXw%2F%2Bjq%2BW4DA95t9L2gimCJWLtyW3huHrukGHG6YQTldnTbqfuwguttnrrcZbMAQGxUTeuJgZvRvEK7gZCw3B0%2BpK%2BIwiC%2FMdnaO%2B9zQMKbiayfT3j7FZbro63sN5%2FtmcIb1NmOoRBMBsXNQGXzjfbC%2BFUQB%2FrDAzm2q1KHRsHkfE%3D&nvMid=56988721234&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 121500,
+          "title": "LIAN LI A3-mATX (블랙), ll00239, 1개",
+          "url": "https://www.coupang.com/vp/products/8225481660?itemId=23850733606&vendorItemId=96184839348&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20A3-mATX&searchId=0ac2c69a31724204&sourceType=search&rank=0&itemsCount=59&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 A3-mATX",
+    "image": {
+      "file": "lianli-a3-matx.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2024/05/a3-001.jpg"
+    }
+  },
+  {
+    "name": "LANCOOL 207 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "LAN207RX",
+    "series": "Lancool",
+    "released_on": "2024-10-04",
+    "summary": "파워를 앞쪽으로 옮겨 하단 팬 2개가 그래픽카드를 식히는 보급형 미들타워",
+    "description": "파워를 전면 아래에 두는 구조라 바닥의 120mm 팬 2개가 그래픽카드에 바로 바람을 보냅니다. 팬 4개가 기본 포함되며 표준 ATX(폭 244mm)까지 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX (ATX 폭 244mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "375mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm ARGB x2 (전면), 120mm x2 (하단)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 375,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 132600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 107000,
+          "title": "리안리 LANCOOL 207 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=sRkC%2BCQ0GnGYaPBLTqvvpv%2F%2F%2Fw%3D%3DsxHTncWy7TCwYXaz9Z%2FsjNtHIXiXxigOXBmrJihXxUR7CdB0V9rNRJHdC4RqnBakd4oVNpyJjxhFoDyT11Edbq%2BnbxNB8NZP6%2B6maXFzGVjfUbkQhEl8xUEbjtYdCc01OpFcrQiSWwxfAmZrLDcBeuR4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQny7NENXNJwY9NLhYu5B4eJsjelqYRcmU20kdKzrIHyzzI2lq0wOMHoJO%2FmM9qnBed7xzxA6t1RXvbEj0QrmsgIJbsqqUdqGKSm%2BT1X0A4HdtyBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5ubvDLqXe4I%2BNGJSf4THzIEKn2OKFPaIRZf2PSk28aen0qNGnYP2mQGFwl2o9AJeRMvU8PbZRphHlqCHO%2BUzDIb2EHvaFVVJ31%2BA3%2BHAk85NF2WJVdWo6qM%2FTOgav71z6mL0g0WJqvOs1%2FzF5gk94Fcxwan%2BM%2B9b9mqAx3iUCnpJacnMCqzyjudMYMF5Q%2Fmq2u8%2BBxOcXhXzGlPyUAgDZi0n37%2BZwc99RAOCfxmOhlJ4HRbY3nLEw1gbaBph%2FyYGVV%2BThsf8xBJfauSVrBoBE230tRLK2bJ31x%2F6os8Q8G%2F%2FI6%2F74bs%2FzNmznhIO5N5zjWOGRo3%2BcXHq%2BbZ6UR4Jwmmn1zlSFFUDMq2%2FaL9ykq2qMtVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=57977863437&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 158220,
+          "title": "리안리 LANCOOL 207 DIGITAL 블랙, 1개, ll00349",
+          "url": "https://www.coupang.com/vp/products/8918869163?itemId=26071261665&vendorItemId=93039095985&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20LANCOOL%20207&searchId=4032400a39612667&sourceType=search&rank=2&itemsCount=60&searchRank=2"
+        }
+      ]
+    },
+    "search_query": "리안리 LANCOOL 207",
+    "image": {
+      "file": "lianli-lancool-207.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2024/09/L207-0b-1.jpg"
+    }
+  },
+  {
+    "name": "LANCOOL 217 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "LAN217X",
+    "series": "Lancool",
+    "released_on": "2025-05-02",
+    "summary": "170mm 대형 팬 2개를 포함해 팬 5개가 기본인 LANCOOL 216 후속작",
+    "description": "전면 170mm 팬 2개와 하단 120mm 팬 2개, 후면 140mm 팬까지 5개가 들어 있습니다. 후면 커넥터 메인보드를 지원하며, 라디에이터는 상단에만 360mm 까지 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 이하, SSI-EEB 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "380mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "170mm x2 (전면), 120mm x2 (하단), 140mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 380,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 194200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 189050,
+          "title": "리안리 LANCOOL 217 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=g9PrYgIB9mM%2FIcMYBwFBT%2F%2F%2F%2Fw%3D%3DsW9T0GDxXYcrSNIDZGFfAZlDjR5JHFYHiDugDE1lAt9uTEV2h%2BGEyBln2GdDbM5SKsIYHE2bU5IctKiPWygeqh%2FbqWm81CpcVbltpuAjsJS9g0d8icEIm2NpvOFUMpCMwa7Rt4OHDr37KvDmywMuYICj8Ijeck3AjCXwPm1hZSj9VXemfpmeX70wC2wQT5nyiKsqLDH8WWUDlNm%2Bpo9vJMUPi5x96w3%2FDrcr7In3ER4eafEVf1L0KIAogAldXkk98SOnUnaI%2BOnfhr88yh6u2VIcJym7sTyd0Tl5oDpTsceRBaNVuXcJiemfhCJ1ZzOvFW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0LlBL8Sbnyyl%2BVR2SFR96oWovNxFWzA781dOsDXmXgY2Py9RDOr7rCZ9%2FuU8IsKKy%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFzCk9mbFgukTk97MHZiD1V0O7bCAH0tMUJxiPm9exLC0uMGaESCnKkUUkwwHqfGm7uj7rU2W7PXfRXkQl011xPFyI2JDWByZnWo0otYG4YTiiDCeC08mbWxFXfUIeM9JfsQWoswR%2BxvhlTVelR%2FN78Z1KU85kE3pXnhNMvq7%2FMWxZhuXFiP8GyNCVwO926aWwQUQ8oNQKXgNXVkYCsDBxo1dznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=61570240528&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 199440,
+          "title": "LIAN LI LANCOOL 217 (블랙), 1개, ll00326",
+          "url": "https://www.coupang.com/vp/products/8776247701?itemId=25537240222&vendorItemId=92611221251&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20LANCOOL%20217&searchId=af5888b65270905&sourceType=search&rank=0&itemsCount=59&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 LANCOOL 217",
+    "image": {
+      "file": "lianli-lancool-217.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2025/04/217_g001.jpg"
+    }
+  },
+  {
+    "name": "O11 VISION COMPACT 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11VPX",
+    "series": "O11 Vision",
+    "released_on": "2024-10-11",
+    "summary": "O11 VISION 을 57.4L 로 줄이고 후면 커넥터 보드를 지원하는 3면 유리 케이스",
+    "description": "O11 VISION 의 3면 강화유리 디자인을 더 작은 몸체에 담고 후면 커넥터 ATX 보드까지 지원합니다. 상단·측면·하단에 360mm 라디에이터를 달 수 있으며 팬은 포함되지 않습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 미만)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "408mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "167mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면·하단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 408,
+      "max_cpu_cooler_height_mm": 167,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 207900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 215020,
+          "title": "리안리 O11 VISION COMPACT 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=xe5wUCseLTCrVA9fO64T%2F%2F%2F%2F%2Fw%3D%3DsLvKFSqGCu3SMdYvNxPt1r6N2S6iY5%2F1Fo6dNJSpgbz9deIlvWlm7EAp8r5a9qZu2Z%2Bfso%2B0Qyw4j6arRvZ76OK5ZIOMYrs1qBCy91uKmv9qcM1XMKqvQF1mEcJeXo9W6Hufi9yTnj512wigYV8CFCqsHTcATfI3DR%2FkvVkJlsbXIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156utkK7N9yT98IeQDoC6VzsCDgJl3qmBir0PNdspc8bnZ0wiOYxwfLDXWEfMF8T8mUraBnKKCp6tTNsx%2BR0jGxvyv5eLiPeF%2FaYAPSW0NPMqzKEMIQgxn0Nm2ZlIlWvBi5RDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27ZC%2BSXUxwyLUckntucAABtZ%2FTLSizCGHChy54IySY%2Fdc6JIeyjRJJG8AQSjlBThBK7o1XhuiZ8%2FL4%2BNjo%2BZT0dYdJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FAdIfv2NUwARBQYay8AB1TQsrTLqjZ3PVE8IfFZtoKMJaYnfuScw64Kx%2F3RjEAKqvro4DC4CA84g6Dy4iWA7S%2BsBNmQMPUNlXk%2BTps%2Bf%2FqnYHhsYsXRG8zczlX7YLsV9%2FyngeSRvupp8fzzWP0ZNUULC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpd%2BQTFPCEZkETE8Dl4MZ0dNdlbTC%2Ffc6VDRy3ti9BFe8EBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=56798905344&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 200840,
+          "title": "LIANLI 후면 커넥트 ATX 지원 미들타워 PC 케이스 O11 Vision Compact White 후면 커넥트 ATX/E-ATX(폭 280mm 이하) / ATX/Micro A, 1개",
+          "url": "https://www.coupang.com/vp/products/9777195878?itemId=29268995122&vendorItemId=96186269032&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20O11%20VISION%20COMPACT&searchId=478db2de5826432&sourceType=search&rank=3&itemsCount=60&searchRank=3"
+        }
+      ]
+    },
+    "search_query": "리안리 O11 VISION COMPACT",
+    "image": {
+      "file": "lianli-o11-vision-compact.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2024/10/O11VP_X01.jpg"
+    }
+  },
+  {
+    "name": "Vector V100 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "V100X",
+    "series": "Vector",
+    "released_on": "2025-06-05",
+    "summary": "후면 커넥터 보드까지 지원하는 리안리의 입문형 강화유리 미들타워",
+    "description": "합리적인 가격에 420mm 그래픽카드와 178mm 공랭 쿨러를 수용하는 입문형 케이스입니다. 팬은 포함되지 않으므로 별도로 준비해야 하며, 팬 4개가 들어간 V100R 모델이 따로 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX (ATX·M-ATX 후면 커넥터 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "420mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "178mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm (두께 60mm 미만)"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 420,
+      "max_cpu_cooler_height_mm": 178,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 74000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 73970,
+          "title": "리안리 Vector V100 ARGB 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=4SbxbIxWbXDcJ3GGGX35Gf%2F%2F%2Fw%3D%3Dsjq5u0rjaEBmU4C7q5mHVP0XMG41GZmxxLdp8cABmj45rr%2B098RRAPodwreZrDItmMmdagYfgseQDoKIu3sa71XK%2F%2BoVABETNW2T87eEZM4T1%2B9VMnxTrBQWkFyepNZdcgB1RQ68ttr3LQ6Qa4qx2y2XIs5%2BIEntcFCR8c8kZR%2B254J8UO7LDGXdPU9Do8oyMP4g4LZeEHNHndvn22ktj9vAFG6of%2BFv0%2Fipqzm5qrwSoyhj6%2BWptyWXs%2Bg4GHYatvz72DkKS8y4A4ktnX0z%2BHQoMXQsUSqw3SW1l6olQQOQoQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbtkL5JdTHDItRySe25wAAG1voj6RsFXGhor89%2Fw6ZweEDokh7KNEkkbwBBKOUFOEErujVeG6Jnz8vj42Oj5lPR1h0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8CE%2BpraHXC4AtDp92sV%2BGxiytMuqNnc9UTwh8Vm2gowkET4uWXgSuPN1RvtUXtpMOT9zIjXVzcbiZI9ExiUWfx4LtDHgeYJxxQYaxP0tvXMxHgG3kYG%2Bgr3IN8Os8GVo3h2qk8lJ1gLAlhcIVNgpXRwGE2Dqk7%2F7DptJHBb9246SpLpW6L2%2FRzEGdqyz7SxM4BgZQJXSKfsVL3cpjoqm5ZFaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=58187561030&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 73970,
+          "title": "리안리 Vector V100 화이트, 1개, ll00330",
+          "url": "https://www.coupang.com/vp/products/8856833383?itemId=25892546496&vendorItemId=92833376786&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20Vector%20V100&searchId=e6c984466404765&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 Vector V100",
+    "image": {
+      "file": "lianli-vector-v100.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2025/06/V100_013.jpg"
+    }
+  },
+  {
+    "name": "O11 VISION-M 미니타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11VMX",
+    "series": "O11 Vision",
+    "released_on": "2026-05-21",
+    "summary": "3면 유리 O11 VISION 디자인을 M-ATX 듀얼 챔버로 줄인 케이스",
+    "description": "앞·옆·위가 유리로 된 O11 VISION 의 모습을 M-ATX 크기로 줄인 듀얼 챔버 케이스입니다. 상단에 360mm 라디에이터를 달 수 있고 140mm 팬 1개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "162mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x1 (두 번째 챔버 측면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 162,
+      "max_radiator_mm": 360,
+      "included_fans": 1
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 129100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 133000,
+          "title": "리안리 O11 VISION-M 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=rjU9FCpUlWlw9pUfMuxNQ%2F%2F%2F%2Fw%3D%3DsrtbqDfS9h9HRwr0qgABlD63TwSMWv6ZxjFh%2B5R0sdtL0yNgB5foL3cJaUv5czCYrx4isRUkED7XyXXaHaTa3Bp0QbtjBijwM8gjgOLkBmlHGCXfW52hYzkngaq9U1GeSCC6mqjOrf5w%2B8YjrUVQMh0KbgVb%2F0rEhvz7QUy91a8bDpmNu2Rs3tEPrV0ZTODsbJXR9HxFPUVC6Vzukddg6cf8UPwhahW92oSU3jIee8wcvyuLapboB9h18xqJOa%2BeadGbyHPELWkkvSpq%2Fy0Hh1LREwzhRvHhR2hDt1v23EZdM7LSj7v23UUX8jgJduk3KFI7RaSrblzUwN3IJREja9LngnxQ7ssMZd09T0OjyjIxearTBvydD1LUI3JWpCADIl0zoViOXqnUM7B%2B%2Fr14CBrNoujdiiNe5Aky91pn4j%2FKYurpVE7sQl%2FaWUOAEHu2DpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwERsIL8hToMHD0cevmy%2FqXAqUq1WvNuNnG6Hv%2B8WJT3%2F62ciBisaHiAFsSD8vlqbiIjAC%2Fh52%2FJsTruGOZv5i7u3cbVsYLSinbnC%2F5JxkXZ0xftsV463BEjrch7OrjDU1Clxr8nigGZrEbEKRkw3t2U%2Fg8w8cKe509NmMZFQPeJTbsD%2FL1ZzPsRTvY%2FPoQQY9NeSr2VxxsFNGwN%2BJFu4SINdUpF7z8QhS%2FTv6G3BE5FQNUJgJp6CUXauCvW7Y5AjN&nvMid=60187448138&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 125200,
+          "title": "리안리 O11 VISION-M (화이트), 1개",
+          "url": "https://www.coupang.com/vp/products/9568507085?itemId=28558015185&vendorItemId=95502672379&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20O11%20VISION-M&searchId=37f3b1d739665228&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 O11 VISION-M",
+    "image": {
+      "file": "lianli-o11-vision-m.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2026/05/011vm-001.jpg"
+    }
+  },
+  {
+    "name": "B4-mATX 미니타워 (블랙 메쉬)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "B4X",
+    "series": "B4",
+    "released_on": "2026-06-26",
+    "summary": "SFX 파워를 쓰면 측면에 360mm 수랭이 들어가는 슬림 M-ATX 케이스",
+    "description": "폭 191mm 의 슬림한 M-ATX 케이스로 상단에 15mm 두께 슬림 팬 2개가 들어 있습니다. SFX 파워를 쓰면 측면에 360mm 라디에이터를, ATX 파워를 쓰면 240mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "358mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "165mm (사이드 팬 브래킷 장착 시 159mm)"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "측면 360mm (SFX 파워 사용 시, ATX 파워는 240mm)"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm 슬림 x2 (상단)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 358,
+      "max_cpu_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "included_fans": 2
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 127600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 126200,
+          "title": "리안리 B4-mATX 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=5HgMCEaHHgPhICXOHKvHEv%2F%2F%2Fw%3D%3DsSMM0QR%2Be22lCgnE3zc95Q7REF6XrgBn5NikgAfr3I%2F9vmA2kjIAJlxzRVgMu%2BLWziLu63xlZdCHLX8iTHX%2FHZAN3AnlJ9Z09AH1wQDFTplwryZaGwizbmGmnxxJu76GRYCjlg37jNNJR%2BRgIXDqbXh4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnF4Dggz2aEqTEzCkeVhTYEEKJZsuc6B7%2F7dkZ001uZzPI2lq0wOMHoJO%2FmM9qnBedBDZXvsuaA53hfBs39539BqW3xtSViyjpWbh7DEfRY%2FGTCJQf9DIWq7k4mhfNhtf9y%2F6MHZ6u%2F5n6uuzlUc6JNEuUiTS4CHUtVxQrWeRhExihNh73rLzN8tSZvjIcy1ygrPw%2FiHaH%2FvqdtYlhiFw1XcCfk%2BfN9NYxs%2BQPrKsoGGmZVPxbcho9rw%2Fw%2F7Ve7%2BiWy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE%2Ft8ZeqGDBQDpL4Ia08OEVPTEmuythzLLmrNv3w0cRI4d3W1AGuZ%2B%2Bpe26ui7dc2SZYyIfHR8o6V%2BCrJOc1yua6erL6TJD%2BETDVzSc8I87JALFq46LahPcjWNSxqkyp6CRCYx%2F6XLF3Vo6o6eDYpAlqUTeuJgZvRvEK7gZCw3B0%2BpK%2BIwiC%2FMdnaO%2B9zQMKbiY9GLtUbwu9rlJWBbI6MTZMb1NmOoRBMBsXNQGXzjfbC%2BFUQB%2FrDAzm2q1KHRsHkfE%3D&nvMid=60859731246&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 129000,
+          "title": "리안리 B4-mATX 미니타워 PC케이스, 1개, B4-mATX 블랙",
+          "url": "https://www.coupang.com/vp/products/9658287775?itemId=28871598021&vendorItemId=96025704530&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20B4-mATX&searchId=9ac825d26415378&sourceType=search&rank=7&itemsCount=60&searchRank=7"
+        }
+      ]
+    },
+    "search_query": "리안리 B4-mATX",
+    "image": {
+      "file": "lianli-b4-matx.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2026/06/0006_2.jpg"
+    }
+  },
+  {
+    "name": "O11D MINI V2 FLOW 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11DMIV2FX",
+    "series": "O11 Dynamic",
+    "released_on": "2025-07-25",
+    "summary": "역방향 팬 5개를 기본으로 갖춘 작은 크기의 O11 듀얼 챔버 케이스",
+    "description": "O11D MINI 를 다듬은 2세대 모델로 ATX 와 후면 커넥터 ATX 보드까지 지원합니다. FLOW 모델은 측면 2개와 하단 3개의 역방향 120mm 팬이 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX (후면 커넥터 ATX 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "160mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 측면 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm 역방향 x5 (측면 2, 하단 3)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 160,
+      "max_radiator_mm": 360,
+      "included_fans": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 140100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 143000,
+          "title": "리안리 O11D MINI V2 FLOW 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=x%2FNZkfSnPVlPaV9nokyhOf%2F%2F%2Fw%3D%3Ds59MLdqNT0VrCfgob4bzFggK7IeE3R8751J9L2mlMVWX0yNgB5foL3cJaUv5czCYrLJFkoL5VdWqMj9uSoQvAC7Xy94Q5WQLKO08Py5DoO4ZPNHIND5%2B8Kp1pFP7Pp2Ns7M82TUSdiNMIosLcW4KDTQSQeFtBbaYaNVv7mYcKzk%2BGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0CSCuuW2aMoMaZ8g96F%2F3hZfUGJakz4uFL%2BVkdolTtEbgxivl9Ne6igVyb7jV5SRRaC2Lbd5%2BSmYnaW6yxpBKws7vwds9caob%2Bhvnv4%2B6ssbQWjVbl3CYnpn4QidWczrxVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdEA1cACQ6qfo3a1znw8chqtqLzcRVswO%2FNXTrA15l4GNj8vUQzq%2B6wmff7lPCLCisv8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hX%2BIz4pnaUjBCpRqhQ8nC3lDu2wgB9LTFCcYj5vXsSwtMCmC6qgG087xCI9BjcjC8spNT8cI7x14p%2BAv4lM2Q7%2BLUZ1XTuC3CGLePkwLllcuBnV0oo4rjQIHO4reE%2BkyCzufDPsEDAx%2FAGBvhLshvFG67qFZNDARYcZkRQNTwYwpVtSJNIpLDB1DPvwX3jnaMnqZ0JQ3fFxHrZWl6oFlpihuf5yc9DUbAAXa0dKZpWzeQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=56927312643&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 137160,
+          "title": "LIAN LI O11D MINI V2 화이트, 1개, ll00365",
+          "url": "https://www.coupang.com/vp/products/8960130516?itemId=26217585447&vendorItemId=93555747536&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20O11D%20MINI%20V2%20FLOW&searchId=fd9af7a54158076&sourceType=search&rank=8&itemsCount=60&searchRank=8"
+        }
+      ]
+    },
+    "search_query": "리안리 O11D MINI V2 FLOW",
+    "image": {
+      "file": "lianli-o11d-mini-v2-flow.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2025/07/o11dmini_005-1.jpg"
+    }
+  },
+  {
+    "name": "Meshify 2 Compact 미들타워 (블랙 TG 다크)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-MES2C-02",
+    "series": "Meshify",
+    "released_on": "2021-02-24",
+    "summary": "다이아몬드 패턴 메시 전면으로 통풍이 좋은 컴팩트 미들타워",
+    "description": "앵글 컷 메시 전면과 120mm 팬 3개로 기본 공기 흐름이 좋은 케이스입니다. 전면에 360mm 라디에이터를 달 수 있지만 그래픽카드는 341mm 까지만 들어갑니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "341mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "169mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 360mm, 상단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x3 (Dynamic X2 GP-12, 전면 2·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 341,
+      "max_cpu_cooler_height_mm": 169,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 185600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 185600,
+          "title": "프렉탈디자인 Meshify 2 Compact 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=IsPBbo46UKnlVR9Fk69NE%2F%2F%2F%2Fw%3D%3Ds24dCliAjRz9cPkZqw%2FT7GgEioSxOoKUuEHjSA7uwSnvrQMzAWVUEDzRZy%2F9gn5UOAArppz%2FvmOvppS%2BUU75jBlAwiNWdAM5ppKCAWG15YsSXp3k1C7DlwBfThOVClzEpuCC%2F2NGeCefBfOYma1kMNcDwuti5p8UQXMGL3TgVH7nh94oE3GnZNsKFgLTuYbaUgGwmPNX%2Fe%2BXkuZ30duRQYm2obKvPOk0evhe5Du8FsqrfCUZ%2BHI1ylQX0tn2bno3ghStpW8A8LaGJl1r3jNs54PpkvQPSK7tQvpbi1WkVR8%2BSRcKRspJvF5Bb1jXvhHfYognlYRoDT6U0D6FSDWCl5363zw5sTn%2BfyxXT%2BIxGCiZM7LSj7v23UUX8jgJduk3KvrCjgQr95ApeuMgsuCpKRUPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEp19l8ISVNhJtXJ9wXJ2ePaQZ3cnZs0abgx6L%2BpnFjTYN044xd93xbSyaWbaFcLMp2Zin%2ByMnjSG%2FPK8%2FuF1HuZYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8lbgeLRAYswjBiLon3ybTUkg%2Bg3bWd7HR5V%2BTDydDDl9ND7bO4ojDNe0KSiQZP8tD1GhyozYZcrLKz%2FJfSXZv4hDFk3LNlb2Q9QaJ1b8d0bH8eHEP2LlqCCqzI2BN2SuPNUFxJUB5xnoKC%2Foi8MijXxbRlzpyFoQpAWXg91IzQzhicchwRNwmJ84TyxvjggzF5VwlXR27aDyDpPpguPFwxlRaL3A9zI9u3UHfX2lbZTnHICEQpPL7Rm%2B2fyhjEhHR&nvMid=58186567555&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Meshify 2 Compact",
+    "image": {
+      "file": "fractal-meshify-2-compact.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/a7afa973def1999486b5dc177b076ca1993422bd-2560x3200.png"
+    }
+  },
+  {
+    "name": "Pop Mini Air RGB 미니타워 (블랙 TG)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-POR1M-06",
+    "series": "Pop",
+    "released_on": "2022-07-08",
+    "summary": "RGB 팬 3개를 기본으로 갖춘 M-ATX 메시 케이스",
+    "description": "벌집 모양 메시 전면과 RGB 팬 3개를 갖춘 M-ATX 케이스입니다. 라디에이터는 전면과 상단에 240mm 까지 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "365mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm RGB x3 (Aspect 12, 전면 2·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 365,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 240,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 161500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 157580,
+          "title": "프렉탈디자인 Pop Mini Air RGB Clear 강화유리 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=f5kNS81sRTIpccHqcPbP3f%2F%2F%2Fw%3D%3Ds63jTvX%2BPP2%2BIKK%2F4CF%2BAdKLny2%2FfvQixSUPSUnGj59DrQMzAWVUEDzRZy%2F9gn5UORkCOIOQ7SQ0RorHPixPmvPBot2xZHVZ%2Fa0ehMCbbze5BjfswzobmMns6hSlCgTqxX3Uc%2B28FxeL5%2B4IaF2YCboiuMoVnfhE0ObD3ofH%2FKWH%2BGmv79kvwtoP9EYp4%2FbxKueCfFDuywxl3T1PQ6PKMjLYFIBNYQKM6crny9A%2FVmjqTO3nH9MFp4Y0BS78WtjhGy3VqCVIxfLnFj0Oy1ifnkxuzf4hxV%2Bd%2BUFtqDw8kL9EpNabi65rx3fWAkBqy4rz2jrGjrxTEV2pgFKNX7dFSgW6Bm%2BtrPqjcp%2FHNw66qzq9M7LSj7v23UUX8jgJduk3KvrCjgQr95ApeuMgsuCpKRUPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpIhXba2SJHPS0boMmDTD2VQZWe3ckI57mFXnGgILms2R044xd93xbSyaWbaFcLMp2Zin%2ByMnjSG%2FPK8%2FuF1HuZYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8UGAjgW2MZBYjc%2B0itqdQuS2QGI2ks8bxdNQtbx3NWKtND7bO4ojDNe0KSiQZP8tDl5YZfZwxG8AOwwvPPh0y7%2BR7ympxuaVbXLRrLpolm3QEuC%2F7riL97qS7rzdfAo%2B9gkWgcnU5uHuytJVpirniHKlE6I3z0EVrWGxCj3xVBacVakjgF9DDfJw%2F06GSX6hvDWrhHEcp0p%2F%2FKKziu53PdIA8Is25eaO%2Fljz7h1dMwaZsDYv7ItPla5oG3h0AJbjQV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=57943373643&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 165500,
+          "title": "Fractal Design Pop Mini Air RGB Clear 강화유리 (White), 1개, 컴퓨터케이스",
+          "url": "https://www.coupang.com/vp/products/8785860790?itemId=25566707860&vendorItemId=95618644249&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20Pop%20Mini%20Air%20RGB&searchId=3db5baa93957748&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Pop Mini Air RGB",
+    "image": {
+      "file": "fractal-pop-mini-air-rgb.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/034a6c9f4867f95ec231907e10e56c70252050d5-2560x3200.png"
+    }
+  },
+  {
+    "name": "North XL 빅타워 (차콜 블랙 메쉬)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-NOR1X-01",
+    "series": "North",
+    "released_on": "2024-03-07",
+    "summary": "North 의 원목 디자인을 키워 E-ATX 와 420mm 수랭을 지원하는 케이스",
+    "description": "원목 전면 패널 디자인을 그대로 키운 큰 케이스로 E-ATX 보드와 185mm 공랭 쿨러가 들어갑니다. 전면에 420mm 라디에이터를 달면 그래픽카드 길이는 380mm 로 줄어듭니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "413mm (전면 라디에이터 장착 시 380mm)"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "185mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 420mm, 상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x3 (Aspect 14 PWM, 전면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 413,
+      "max_cpu_cooler_height_mm": 185,
+      "max_radiator_mm": 420,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 278100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 278070,
+          "title": "프렉탈디자인 North XL Clear 강화유리 초크 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=z8yf%2BNqWVqLbzI%2FWXjQCJv%2F%2F%2Fw%3D%3DsDtLb8LMQedopSRU72%2B6IED50T0uf7KWt8EUFfPswxz2cJ12GEd8Ke94xbeqkH%2FUgPi%2BWsKYGHYuYKM7fXfD4Ectx7oT7xRxPBq6MuclLiogjvmwKKd6Tnm%2FSEhP3iX2B9fbj9sNvyifFV71hQ8pzQkhOCJUl92gcVQvwUS%2FG%2B8bffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy2Nnok5UM2UG1j26eGrZWRiioR%2Bs8MDvxqHGQdwZfTcTodSVjk49syGFLah1xlH9%2BMYOXa6JbddnCvLfDWe4FawpvlWeVc2pBEq1sG%2BH9TE9QLP9fgu%2Ft%2Bu3fMRl5rmTh3IGkllvS%2B7BmSPOC3FvvB5Z0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m8BxI6ub1XY82ZRGyeEIQi2ecQHTm4A%2F6hU9cQ%2F2lj1F9UEMwi63jafLIzwwY0rYsa60KhjkmboEn9FsFbJG%2BbXNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrZzw8jHTzR%2F%2FF1uJw618Tu1KFOeeRCZrnxd3E8jP8OZp7r7O47qsKrbP4eY%2BFrNeZteR2fnHqSH2BMARgoPrFoIipatcY%2BI6IIobRJnTgeb6KgNJXr%2B58ZQlOtE5I1CBhrLxrGdwgu%2FIjSg%2FxmPNkgAVDcGWwl4wmJJvrNmmNzI4qJ5SUaiIY54TghADdoSolRLPHBVE1X9hF6ZkrnPWwIQ6%2F17Hf0JnLwFpDZOJuZteyFtJdUMa1PLbfZrBiwdT%2FmhopkeKUdu5q4dSKA0zkoA%3D&nvMid=56908977928&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 278070,
+          "title": "[FRACTAL DESIGN] North XL Clear 강화유리 [빅타워] [초크 화이트], 1개",
+          "url": "https://www.coupang.com/vp/products/7950306591?itemId=25945533230&vendorItemId=92928710478&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20North%20XL&searchId=0e9503695884499&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 North XL",
+    "image": {
+      "file": "fractal-north-xl-charcoal.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/fdcd418da7f7a4913e0f57199488c3f4588cf76e-2560x3200.png"
+    }
+  },
+  {
+    "name": "Terra 미니ITX 케이스 (그래파이트)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-TER1N-01",
+    "series": "Terra",
+    "released_on": "2023-05-31",
+    "summary": "원목 상판과 알루미늄 패널로 꾸민 10.4L 미니ITX 케이스",
+    "description": "메인보드 판(스파인)을 7단계로 옮겨 CPU 쿨러 높이와 그래픽카드 두께를 맞추는 소형 케이스입니다. SFX 파워를 쓰며 팬은 포함되지 않습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니ITX (10.4L)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "322mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "48~77mm (스파인 위치에 따라)"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "측면 120mm (장착 시 그래픽카드 200mm 까지)"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니ITX",
+      "motherboard_support": [
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 322,
+      "max_cpu_cooler_height_mm": 77,
+      "max_radiator_mm": 120,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 327400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 315920,
+          "title": "프렉탈디자인 Terra 그라파이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=uXIuttS081bKc%2FI%2BT%2FyLkP%2F%2F%2Fw%3D%3DsfAbGcFWEhJFKdGjwlfYluyzYmRO7zef3tDaabLow%2FLgAIHfEnqM9xoJL5BxADY4CXtnzopRb564Z7lm%2FK8XwT8ifFKE%2BR31ETbqx2bDfDpM8xxIzF8GxYNUHlvtabuJwwJuPRUPDeuNy6iTLjlFojKKuac59t3ZNH6TwhP36vrCAbCY81f975eS5nfR25FBij73DlTdSF0sWxOeL12arEksyKIbUX1r5vd5bF31YGFGFK2lbwDwtoYmXWveM2zng%2BmS9A9Iru1C%2BluLVaRVHz5JFwpGykm8XkFvWNe%2BEd9i6c6qvwopv57KIlswzLo%2FhTOy0o%2B79t1FF%2FI4CXbpNyhSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyJ1RU5nFdSiSM2oltsVEe39qLzcRVswO%2FNXTrA15l4GNj8vUQzq%2B6wmff7lPCLCisv8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hebU2dN8QnwY%2BEuehmGEQ4tDu2wgB9LTFCcYj5vXsSwtTsBW5PYrnz%2FLjYbagX0Xl044cLxgm062WIVM5cwm0U91hXaerf1sNOU7V1TJxhBo2m324Ver937uxkLkNUuTc833OyjrG0G4S7M0WenMTmSOv%2B%2BG7P8zZs54SDuTec41xVQ745UYskuK1wKOPJ1UDuOW4Tkmtc3poCeNa6aWsUvLVWGr8fvvH1mWvUgXPK6j&nvMid=60796866641&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 338810,
+          "title": "Fractal 프랙탈 Design Terra Jade mini-ITX SFX 전원 대응 PC 케이스 알루미늄 비취, 1개",
+          "url": "https://www.coupang.com/vp/products/7826676032?itemId=24002438317&vendorItemId=94752322919&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20Terra&searchId=1242ba197042489&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Terra",
+    "image": {
+      "file": "fractal-terra-graphite.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/817f505ee5343f0ca2ff434b04257cc5c66542dc-2560x3200.png"
+    }
+  },
+  {
+    "name": "Mood 미니ITX 케이스 (라이트 그레이)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-MOD1N-01",
+    "series": "Mood",
+    "released_on": "2024-06-28",
+    "summary": "패브릭으로 감싼 세로형 디자인의 미니ITX 케이스",
+    "description": "거실 가구처럼 보이도록 겉을 패브릭으로 감싼 세로형 미니ITX 케이스입니다. 상단 180mm 팬 1개가 기본이며 전면에 280mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니ITX"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "325mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "114mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 280mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "180mm x1 (Dynamic X2 GP-18, 상단)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니ITX",
+      "motherboard_support": [
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 325,
+      "max_cpu_cooler_height_mm": 114,
+      "max_radiator_mm": 280,
+      "included_fans": 1
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 284000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 292910,
+          "title": "프렉탈디자인 Mood 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=zRhvK7XeT%2FxPE1sv15g3uv%2F%2F%2Fw%3D%3DshlJZuISnW1f0wpQjm0zPVMZpbSOOLc%2BYjuNVIBCFzPMAIHfEnqM9xoJL5BxADY4Cjxf%2FFZNeVO3S6sVps4%2FvMGDhxadfnY84JhQIhQXwhrNfP3HkjvupUMYlwCuDH5S9bbAr40sA3vgxn6Za6jXEYpTkz%2BU%2FlWTNqzfcvDoff2G54J8UO7LDGXdPU9Do8oyMCF8thBJ7CXRdXLO4yqMhLGr4IstoGseaGFwa0I%2FFD7zLdWoJUjF8ucWPQ7LWJ%2BeTG7N%2FiHFX535QW2oPDyQv0Sk1puLrmvHd9YCQGrLivPZqMXVNC3WmGIsIHVImfHXaQWjVbl3CYnpn4QidWczrxVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdAjwDJAir6z%2FvEeGRgOmlrbUQvs8GHq%2Bj7OvUNvyviyxPmRfkm9ngb4eoKxK55ooHAZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKYRTR3Xu8V2ldzZJmsiH6jEtjRrFSRJIMuZIIEwJwjlZWBu4SRlraFE4kHTdy6e1idWo2igP46DpfaB6iqhdlPhNWTbd7kPFb3bCwxiqwnli3bOrQWpQ0ICiTqwvIyYTa8QHjrwnd0O%2F2tc4ozsah5WP9ozmdV%2FWs5eTR9VTjChbCxhmXyId%2BLWg6gKDMKnXkUsnns8XW1YPhoHg%2BkY33MiCqA6%2BrrPkSkQjk3bFq%2FUy&nvMid=56988071982&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 275080,
+          "title": "Fractal Design 프랙탈 디자인 Mood Mini-ITX PC 케이스 라이트 그레이 FD-C-MOD1N-01",
+          "url": "https://www.coupang.com/vp/products/9581343364?itemId=28600463429&vendorItemId=95544091835&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20Mood&searchId=f8c1883f6028388&sourceType=search&rank=2&itemsCount=60&searchRank=2"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Mood",
+    "image": {
+      "file": "fractal-mood-light-gray.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/c0481ed01854cbf1c62d2170a161e31bb8cac6fa-2560x3200.png"
+    }
+  },
+  {
+    "name": "Epoch 미들타워 (화이트 TG 클리어)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-EPO1A-03",
+    "series": "Epoch",
+    "released_on": "2025-07-01",
+    "summary": "메시 전면과 120mm 팬 3개를 갖춘 프랙탈의 보급형 미들타워",
+    "description": "North 와 같은 크기의 몸체에 메시 전면을 단 합리적인 가격의 케이스입니다. 전면에 360mm 라디에이터를 달 수 있고 120mm 팬 3개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "372mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 360mm, 상단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x3 (Momentum 12, 전면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 372,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 180200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 189000,
+          "title": "프렉탈디자인 Epoch 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=ub8qcEVv84UWOXWFLN7PXf%2F%2F%2Fw%3D%3DsgoqsVytWa6f8dE%2B70cxBfcE8NLFQSlUv0aZOFDHm4ITrQMzAWVUEDzRZy%2F9gn5UOZg7vYJqfmhO26dqK42%2B3P2yrX%2F%2BJjIvU0GnGO2l2V0VICzGPj4GuhZom4QB9kmETu6cE5KHnga0XY2UWXg%2BM516%2BBOyMDS1x3GYRltu45J1nnVvjMgiHMjbFhm4v1%2F1AP2tfKoQ0NQPyiad34AQ6K1YzJ%2BygolCOy2%2BIy%2B72pkahzW7PomVEuIoxCCd7gR4QR%2BcRTnTJAYYtoTHvlWWV6fDB6fbUzdb6HM9qaKHUR95FxDuguEI2WLloeDUzRtx9oYVlTZ113xh7IpWehl3gFoBlPYH1WY%2F6l79pkQBbYkV8Pra6Alabt7YkzsaUTsurKEMIQgxn0Nm2ZlIlWvBi5eMvbnNs97SA1r09QL5JCNuAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FQ8YUVfE%2F3BcC8ol9ce1pAQhIW%2Fufm4Ai1g%2Bbn5o8FWg8rXDi3X1de%2BMkIZ6sCNy%2Fi6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2Z4ZM97ylgOhLClXnNaJB8vDiRutGlYDCzPG8eW2DFZLlPJlMFXsy1M9EuBy4ieJdKV9YzAKyuy9XV%2BIheNy%2FdJh3c5p1mtQRadXEmZWehjoNBSQXH3kLnNM3O76Q%2BIqhNid5CUs7Azkp%2BApf%2FbjwNmlicchwRNwmJ84TyxvjggzFPA60oBXY0MPMdHq8UV1%2B9OA1CxTxptF2HGzrHXNwkyrHICEQpPL7Rm%2B2fyhjEhHR&nvMid=58313931358&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 171500,
+          "title": "[FRACTAL DESIGN] Epoch Solid [미들타워] [블랙]",
+          "url": "https://www.coupang.com/vp/products/8921489728?itemId=26090383991&vendorItemId=95593836307&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20Epoch%20%ED%99%94%EC%9D%B4%ED%8A%B8&searchId=9bce709f28439178&sourceType=search&rank=8&itemsCount=60&searchRank=8"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Epoch 화이트",
+    "image": {
+      "file": "fractal-epoch-white.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/fee82a6682ad045d19c4e3324f3388d635dc2558-2560x3200.png"
+    }
+  },
+  {
+    "name": "Pop 2 Air RGB 미들타워 (블랙 TG)",
+    "brand": "Fractal Design",
+    "category": "case",
+    "model_code": "FD-C-POA2A-03",
+    "series": "Pop",
+    "released_on": "2026-01-22",
+    "summary": "그래픽카드 공기 가이드를 넣은 2세대 Pop Air 메시 케이스",
+    "description": "전면과 상단을 메시로 열고 그래픽카드 쪽으로 바람을 모아 주는 에어 가이드를 넣었습니다. 416mm 그래픽카드와 상단 360mm 라디에이터를 지원하며 RGB 팬 3개가 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "416mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm RGB x3 (Aspect 12X)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 416,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 172700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 166470,
+          "title": "프렉탈디자인 Pop 2 Air RGB 강화유리 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=lr4nPfZXoSzmM2mfqHweq%2F%2F%2F%2Fw%3D%3Ds2S%2FTUvJExd7HYBn2d7V%2B1o1BUy3dEHF%2BOcN6MH9EXuqcJ12GEd8Ke94xbeqkH%2FUgh%2BYKvgBBN3TjMH8ncIunO5DdjZBhKG9MgEcGIJesQlFucipceIxap5ai%2FP4UUFLDt3WtRqi2W%2FA451UPEwYhP6KoRU2mB87wZofhDiopAFjchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTARgVHGIgi6qWSBRmoHDsYjHdrAsizhpBSo%2BN8mgMkMWdoZVEuPB0odXfhAydG5Kl%2F6QEYtZcS8lSwlR%2BXOmXf49oUgalwXhu6xdhQbygaTI0uiaRdHKYdWSr%2F44pMD3cSxHb3LAMwu3kmkWJALIByGsXyPWDMgCLxeQQoY7fADwf6t43okw%2F7aCYuQ0UvizWLmvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7MdKQm9Iy0YNDPz6AtH46TdRC%2BzwYer6Ps69Q2%2FK%2BLLE%2BZF%2BSb2eBvh6grErnmigcBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopUag7aF0tSwggtl%2BNEsOHgC2NGsVJEkgy5kggTAnCOVl6EVZ01jcCTfWxUTG3DCTReAh8bAKXvZ41NnC%2F%2Ff5Bw16EhDCMGlKaIQisUbP%2BR1lfTBxL52OKdt00wW5wsi9wPOAy0h%2FJ9p2Pub9eOsbnP0UUN0EzaGTv6G%2BpdtPMhdxicchwRNwmJ84TyxvjggzFaMYtVaYAqsdWTJ0Mv6i69hczRP9Wdc9BZwC%2FRt6RsxPHICEQpPL7Rm%2B2fyhjEhHR&nvMid=58800101353&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 179000,
+          "title": "Fractal Design Pop 2 Air RGB 강화유리 빅타워 케이스 화이트, 1개, 선택하세요",
+          "url": "https://www.coupang.com/vp/products/9325988348?itemId=28286602695&vendorItemId=95239555614&q=%ED%94%84%EB%9E%99%ED%83%88%EB%94%94%EC%9E%90%EC%9D%B8%20Pop%202%20Air%20RGB&searchId=be0756cf6042182&sourceType=search&rank=2&itemsCount=60&searchRank=2"
+        }
+      ]
+    },
+    "search_query": "프랙탈디자인 Pop 2 Air RGB",
+    "image": {
+      "file": "fractal-pop-2-air-rgb.webp",
+      "source_url": "https://assets.fractal-design.com/images/uxzbxy2o/production/bc5e7f3ca5b94ea212a31de9f2af9b41a9c2cbe3-2560x3200.png"
+    }
+  },
+  {
+    "name": "5000D AIRFLOW 미들타워 (블랙)",
+    "brand": "Corsair",
+    "category": "case",
+    "model_code": "CC-9011210-WW",
+    "series": "5000D",
+    "released_on": "2021-01-14",
+    "summary": "전면 메시와 넓은 내부로 360mm 라디에이터를 여러 곳에 다는 미들타워",
+    "description": "전면 메시 패널과 넓은 내부 덕분에 전면·측면·상단에 360mm 라디에이터를 달 수 있습니다. RapidRoute 케이블 정리 구조를 갖췄고 120mm 팬 2개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 305 x 277mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "420mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·측면·상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x2 (AirGuide)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 420,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 2
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 323900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 373850,
+          "title": "CORSAIR 5000D CORE AIRFLOW ATX PC 360mm CC-9011262-WW 미들 타워 케이스 케이스 라디에이터 배선을",
+          "url": "https://cr.shopping.naver.com/adcr?x=eE7fgJzxce3ehmAaFEWelv%2F%2F%2Fw%3D%3Ds%2FvlqUpbCrXoDq7rCoawmWPozSI1olU0%2BOiCBWncd7zV8dAs1YjaYTxdeuGGfvsb0UXEs%2F9I7BVNT9Z1au%2FqtQKSjhzBMmwYlRhSFtnIIrasMvgZIdSAVmGt3ALyLFAOiWjyJLNAMr0fNkuv1ZYOnPWWqHTLF6J9D5eoiVvORsylhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc9zdJytZzPm0dqj%2BMG%2BPqJgmA8%2B8UAZ3Z9uOAPGQuSezUmIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO70eyPwIZYPqU6Q2c5XNrX6nLBjVf%2FByODlQctKSzc2z2Py9RDOr7rCZ9%2FuU8IsKKy%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniF5Ti8tsFj0uYZpTalAEyTj0O7bCAH0tMUJxiPm9exLC1iPE%2Fry9%2BTbqMZTbvq12CUuND%2B4BFvZdlBjVF2HQaQlKX2%2BPaY%2BstsZoANYkRn3nlNq%2FZf6mWg1rB9coy83UqXjidQdZzxF3J7ds9MX86gApTeyqnKDD01PZAqrUpH2rFy17%2Bcarvjv%2BYVcvsVd0FUdH0g2z1mnGI56RXn%2BRsxcU4AcPgTd%2FtpHC2FiOrR00vYkHNRFS3JwZkthDNviKb4XB5TMX3CdOHQc9SyQyNPcA4SwcLvxUEucVmH%2BcOht40%3D&nvMid=90880823534&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 274010,
+          "title": "Corsair iCUE 5000D RGB Airflow Mid-Tower True White PC CC-9011243-WW CS8622 중간 타워형, 하얀색, 1GB, 1GB, Android",
+          "url": "https://www.coupang.com/vp/products/7611957048?itemId=20721804491&vendorItemId=95549531262&q=%EC%BB%A4%EC%84%B8%EC%96%B4%205000D%20AIRFLOW&searchId=b4b68b9b5376311&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "커세어 5000D AIRFLOW",
+    "image": {
+      "file": "corsair-5000d-airflow.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Cases/base-5000d-airflow/Gallery/5000D_AF_BLACK_001.webp"
+    }
+  },
+  {
+    "name": "2500X 미니타워 (블랙)",
+    "brand": "Corsair",
+    "category": "case",
+    "model_code": "CC-9011265-WW",
+    "series": "2500X",
+    "released_on": "2024-02-01",
+    "summary": "M-ATX 듀얼 챔버 구조에 후면 커넥터 보드를 지원하는 케이스",
+    "description": "앞면과 옆면을 유리로 감싼 M-ATX 듀얼 챔버 케이스로 후면 커넥터 메인보드를 지원합니다. 상단과 하단에 360mm 라디에이터를 달 수 있으며 팬은 포함되지 않습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX (후면 커넥터 보드 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·하단 360mm, 측면 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 219200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 207330,
+          "title": "CORSAIR 2500X 블랙 미니타워 케이스",
+          "url": "https://cr.shopping.naver.com/adcr?x=PbU%2BVZ3%2Fr5mlM09l0hpX0v%2F%2F%2Fw%3D%3DsBtw5J3Rai%2BYlLgKyST0x6L0dotREB9DtoiGcpsqdeCc1l9TemhL9%2FsxQqz7lXpqrzuZOGUvAkk%2FmgKUDPl%2FnnXe8LHjFheTh%2F3bwN4%2BCiJsc28MyhLO1fHSB6wOAUySeZO4T%2FtTouAW7BPtaQgv2mva0AF6QykTFX74Hf1aaEpX6xQpEQ1zmCk45R5MPh%2F1pD8HTrsBlBJDTa7zRqC6%2FPKsoehrOSFOtUPbM%2FuWJbeRK%2BHfiKA3FJyxASV4cgJSSzsqhE2l5iRcrmA0L1B%2B3XXgZk5YPJIPI7kkOjuHdmUh%2BLGBChkBl7CNt0uFnesGdJV03cukp%2F9sq6JmLvPVclHqols2Axk796HYYFLnRsCbolztABrPUc%2BiBlNSxKEFMV36ogsAbT2GMBHUreotiQNAw7rDjJ2reRjDm09XLx1eeOgZKSO%2FpMwdXFLFxFaue%2B5dOl8KGueU5LEkS%2FF8ZtUrueJYyncLzBW6skLuJxNgdGkksgdS%2BrB%2FhzelQyanim0awRJGPhDwVXI%2Bh3Z2Z51H4pCiE7SQJBkvuFeC0Xim9Id8X5TvAeMZk6%2Fe1SBg0FBg85fvcpmF9v8QIp6qir%2Bn%2FZM0xkoFB%2F8iM6wOKYGFxyUTe2fHmT2jv4iIGtlRiwpHdgqUP2oYCXqBf0e9k7oeGdiFx4r9mzXVEOomTbtI%2Btdc%2Bay8LMqLRW4QM%2FvdQ5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=62206678775&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 231000,
+          "title": "커세어 2500X PC케이스 (블랙), 1개",
+          "url": "https://www.coupang.com/vp/products/7937220080?itemId=21860358529&vendorItemId=95556478313&q=%EC%BB%A4%EC%84%B8%EC%96%B4%202500X&searchId=0c15dd314019121&sourceType=search&rank=2&itemsCount=60&searchRank=2"
+        }
+      ]
+    },
+    "search_query": "커세어 2500X",
+    "image": {
+      "file": "corsair-2500x-black.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/products/Cases/2500D/CC-9011265-WW/2500X_BLACK_HERO_01_AA.webp"
+    }
+  },
+  {
+    "name": "3500X ARGB 미들타워 (블랙)",
+    "brand": "Corsair",
+    "category": "case",
+    "model_code": "CC-9011278-WW",
+    "series": "3500X",
+    "released_on": "2024-06-01",
+    "summary": "파노라마 유리와 ARGB 팬 3개를 갖춘 듀얼 챔버 미들타워",
+    "description": "전면과 측면이 이어진 파노라마 유리로 내부를 보여 주는 듀얼 챔버 케이스입니다. RS120 ARGB 팬 3개가 기본이고 후면 커넥터 메인보드를 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 305 x 277mm 이하, 후면 커넥터 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "425mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x3 (RS120 ARGB)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 425,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 145200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 139000,
+          "title": "커세어 3500X ARGB 강화유리 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=Q2F31EBouYhwx%2B1Lnzcaov%2F%2F%2Fw%3D%3Dsmph6ceMzDBQmUUfBR9ExzcyKTp%2BPWzWS60wI%2BQDsLohtyypJsyLbdbsfsWuyDk%2BZ0YDlEqnn2%2FvTd%2FNaIovKvf%2B50VYM%2FttPyRBRwjsQaO2pStJ2OZM1B3CQ3NaGcEKqrrwyjsD4adxl%2F%2F%2BCh4mVfUls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YygD69RZNwNaWw%2F15AycOyK0SQujuelD%2BmZBDuAzvWtdOtCWfsmtTLjjiAzVEL32LdKNoZNPTypkXKfU0KiqwOsX6xk07jZyYPq31FEM6Rk8Z4GZOWDySDyO5JDo7h3ZlIfixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJSLgnhXB0vZ7LvNVQiK6Bz4Hvk2rv5FTef3%2F4Mj8uMJAOp2LdD%2BbxXYDmNHXbecDBlXJldiB6aWQ%2Fzki%2FrVuXy76GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjmxf4Zh0hBHIGneuNaV57idkk1Z0ju9yDtWrRZ%2BAurr9P3fNbHqARZwHmWnhk13yeaKBiVaDoDi8I%2BQ68%2BRdnBQ0a8wzDjmoFiNcKm2rbZjK46%2FNxWOIN9PjyE%2BIN9aHG%2FVLpPEeUBLUsAjLDRjzVdnCzVwC8FXZLB4kEZT7%2Fi2k8LSGId%2BZ%2FOYAjRfVwLnTYrYAoLvEx%2BiBEyPSEfiSCl3wJ0jKCjYC7PIRsWD6qCPhmO0QScdmj79W4Ike%2ByYeOsNUJgJp6CUXauCvW7Y5AjN&nvMid=58507874089&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 151490,
+          "title": "CORSAIR 3500X ARGB 강화유리 (화이트) 케이스-미들타워, 선택없음, 1개",
+          "url": "https://www.coupang.com/vp/products/8160812845?itemId=23265304897&vendorItemId=93613780189&q=%EC%BB%A4%EC%84%B8%EC%96%B4%203500X%20ARGB&searchId=665ba8846089714&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "커세어 3500X ARGB",
+    "image": {
+      "file": "corsair-3500x-argb-black.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/3500x/3500x-argb/Black/gallery/3500X_ARGB_BLK_01.webp"
+    }
+  },
+  {
+    "name": "FRAME 4000D RS ARGB 미들타워 (블랙)",
+    "brand": "Corsair",
+    "category": "case",
+    "model_code": "CC-9011296-WW",
+    "series": "FRAME",
+    "released_on": "2025-01-01",
+    "summary": "InfiniRail 모듈 구조로 팬과 패널을 옮겨 달 수 있는 미들타워",
+    "description": "팬 레일과 패널을 자유롭게 옮기는 모듈식 구조로 전면·상단·측면에 360mm 라디에이터를 달 수 있습니다. RS120 ARGB 팬 3개가 기본이며 후면 커넥터 메인보드를 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 305 x 277mm 이하, 후면 커넥터 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "430mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단·측면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x3 (RS120 ARGB)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 430,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 131500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 126980,
+          "title": "커세어 FRAME 4000D RS ARGB PC케이스 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=8A2oj%2B5lo4IvrXbGwkf6wf%2F%2F%2Fw%3D%3Ds22xTUOyFO7VljEJBW7%2FZ5820YgZ%2FL61GsKKOUSr%2F3NpODbeHK23rGKpO7Yf65hqEZSi7rPBuPAkIQcJ1g%2BwMHR17oq8swZRBuaev5Vcf286hXciUtwY4DfzftlSzbw9jGXKOckFSyX%2Bx57s2rz6mA%2FIXRQgx3w9TM1vs51jJp6iGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0C6ezMPfU0RRxdiVxvtpYLNJZGEJljHpdE82HGxYC6IubAFBBNMqEgx08VNE%2FZ0xPw%2B5%2BcPYmRHC4n7TuvFPJJvD6PthmX35uREwyK9V93MyTOy0o%2B79t1FF%2FI4CXbpNyhSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyL5VP%2BtrzMlizMwyPHMfSdwVjQCpIk5kx4sJW2hrRfnKdctDU4aYjSru9p%2FugfVAKn5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAFhAPONfUiOmIJfdg0Hn52NzVtOsmcs9dXMHQ3xuZLacMDeUiYZzFabQd19NFAd45EFP1MyG%2FxcLWhOU8VnESnpKZhOvSelfguPgIyieTSzo5n43ylKTNWCM6%2Fb%2B8uxTeNdo5uFg1UMHfWgoHqkKaWDeziGq1h7l0u9p6DUP1uj3lMveu5pUmt5mX6mUy4ug6qblpj1J%2BKJg7YXHfiYuRBqsM1Ar2HFRn0M2anAkPXTTCRvvFQkttWpbSTXbqBLNw0HQIiXcF4qwUXZ2sX76wW8%3D&nvMid=58429836334&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 136000,
+          "title": "커세어 FRAME 4000D RS ARGB PC케이스 (블랙), 1개, CORSAIR",
+          "url": "https://www.coupang.com/vp/products/8542824619?itemId=24765520830&vendorItemId=95204027736&q=%EC%BB%A4%EC%84%B8%EC%96%B4%20FRAME%204000D%20RS%20ARGB&searchId=d69dad625324485&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "커세어 FRAME 4000D RS ARGB",
+    "image": {
+      "file": "corsair-frame-4000d-rs-argb-black.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/frame-4000d/Content/FRAME-4000D-RS-ARGB/Gallery/CC-9011296-WW_01.webp"
+    }
+  },
+  {
+    "name": "SHADOW BASE 800 DX 미들타워 (블랙)",
+    "brand": "be quiet!",
+    "category": "case",
+    "model_code": "BGW61",
+    "series": "Shadow Base",
+    "released_on": "2023-09-05",
+    "summary": "전면 메시와 420mm 라디에이터 지원으로 공기 흐름을 키운 미들타워",
+    "description": "전면과 상단에 420mm 라디에이터를 달 수 있는 넓은 내부를 갖췄습니다. Light Wings 140mm ARGB 팬 3개가 기본이며 PCIe 슬롯을 돌려 그래픽카드를 세로로 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "430mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 420mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm ARGB x3 (Light Wings PWM)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 430,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 420,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 219100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 219070,
+          "title": "BE QUIET SHADOW BASE 800 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=n1jcIGzskzh%2BBX6jG0EYw%2F%2F%2F%2Fw%3D%3DsoiNI5N66UTgjW6HajXgAhbHHPWhdZ9wZGVffGqxHXP97GZ5z7FrKV8p5ZGOLi1GvoXsTDSWE7reXdn8wnPn9Z6FzDEVosbDPTG2jCdi0iISuy6OIWHo2Fglq2fOzDpYdhzPEIZWGfe31alZLdcD5N4LEBwLrBBWCrfjBM%2BkHFWPchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAQzJGboZnyArJV65AROkWNCxQ9nWJfFu2ANYUWDakVdT92fJIg1ISJ%2BWEAuP%2F6ExmCRSpdfJ9JCQYcj6WquBjqNWD5rsucFyOLWRwmi%2Fz%2BFqruPbTujkN1FoRWX4rf9zeKW3xtSViyjpWbh7DEfRY%2FH6%2FrN5lSUmlJL%2Blg5KictdMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6ol7AZ54zvTzaW2Iw4kxObhUf2HD5gDDBuVcZxP0ti4jgFd%2BqILAG09hjAR1K3qLYkDQMO6w4ydq3kYw5tPVy8dXnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbVAjRfyghdToQofpozCCBK%2Fqh2penUW6F%2FNW3CGNo9Kh9D9KGycXn62LBjwCdRif92BHj7RB7%2BfyK934GE7rv5ymZD84kaHEUlpmF7CnAG1v62jqykQpqeLGgkoHcodqG0Cng4zc2mb8kU3SLQGOsHJZTVhQPWR9EloZX6%2F%2BrrQVmJxyHBE3CYnzhPLG%2BOCDMVELm6lVlPwqRyvRsfHes0Kjiadlqa4QNulz8rcUpbZCMcgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=58509129431&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "비콰이어트 SHADOW BASE 800 DX",
+    "image": {
+      "file": "bequiet-shadow-base-800-dx-black.webp",
+      "source_url": "https://www.bequiet.com/en/case/4480"
+    }
+  },
+  {
+    "name": "LIGHT BASE 900 FX 빅타워 (블랙)",
+    "brand": "be quiet!",
+    "category": "case",
+    "model_code": "BGW71",
+    "series": "Light Base",
+    "released_on": "2024-10-10",
+    "summary": "파노라마 유리와 ARGB 팬 4개를 갖춘 대형 듀얼 챔버 케이스",
+    "description": "앞면과 옆면이 유리로 이어진 대형 쇼케이스 케이스로 495mm 그래픽카드와 190mm 공랭 쿨러가 들어갑니다. 상단과 하단에 420mm 라디에이터를 달 수 있고 140mm ARGB 팬 4개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "495mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "190mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·하단 420mm, 측면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm ARGB x4 (Light Wings PWM, 측면 3·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 495,
+      "max_cpu_cooler_height_mm": 190,
+      "max_radiator_mm": 420,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 311600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 311570,
+          "title": "BE QUIET LIGHT BASE 900 DX 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=TSf1HZ9pmS5s1CgfRyiiZf%2F%2F%2Fw%3D%3Dsek1wgIL8ZAO%2BuCcCEP8TjsjpoDeogcoURTS%2F0n7Pmy8u4KmTjYZGGAfljAdAfS9iDBgdyH2bYBUDRDgHJ6gU%2FrKCrtZFJ%2FkOgVz1Ngaal4XwdIcpXyH5dDff4%2BeKeSQfdqnYbAgjcQ0ImGdhF2SF19mOZzcj8EAy8Zk0pN21bz1GwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9u%2FaCbMFhDSaJDBIXqwE4xZ5QNzOSycAGb7QTN4%2BXBRYyyZvKSMj4TqFiDrk2%2Bkq8HUUN%2BevfJwBQCp2SBl17c3Vb05JkVkSWFRvxaY%2FqGHTrERzA2imMICmFLRYli4E8p6W3xtSViyjpWbh7DEfRY%2FGTCJQf9DIWq7k4mhfNhtf9y%2F6MHZ6u%2F5n6uuzlUc6JNEuUiTS4CHUtVxQrWeRhExiKvdmiJMYLRfHUylS8C5%2Ba7pPdsO2laUIQ4dxtyds9rrqelnup98nMPK0VAGDVuV2AXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUUWzADxA%2BkPcwo4RmgmfFBekJ4HNcrpYC6r6rihwyf2QAAco8A2Ia7UL3fC5rVO2%2BZP4OUSzyjWuUs2GATjXRExAgj3j7Iw9onXDMxS7kByyR6EqMPVaMXYezsfNbtca5wfK7nj%2FGFduEs5Kd67DeKwsbHm7xYDIzatpLn3sd6mNRLPHBVE1X9hF6ZkrnPWwIRntHgnLo5cNhUYXcOH81qBpQvXGcDmb8QJC0xvD1LJ92hopkeKUdu5q4dSKA0zkoA%3D&nvMid=58343349348&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "비콰이어트 LIGHT BASE 900 FX",
+    "image": {
+      "file": "bequiet-light-base-900-fx-black.webp",
+      "source_url": "https://www.bequiet.com/en/case/5290"
+    }
+  },
+  {
+    "name": "LIGHT BASE 600 LX 미들타워 (블랙)",
+    "brand": "be quiet!",
+    "category": "case",
+    "model_code": "BGW67",
+    "series": "Light Base",
+    "released_on": "2024-10-10",
+    "summary": "앞면과 옆면이 유리인 미들타워 쇼케이스 케이스",
+    "description": "전면과 측면 유리, 1.33m 길이의 ARGB LED 띠를 갖춘 쇼케이스형 미들타워입니다. 120mm ARGB 팬 4개가 기본이며 상단이나 하단에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·하단 360mm, 측면 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x4 (측면 3·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 225200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 225150,
+          "title": "BE QUIET LIGHT BASE 600 LX 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=x%2FJcx9lVMdvEHRZBNwJRx%2F%2F%2F%2Fw%3D%3DsZc6UipqqTCCIaolILFOo1L2mjCQjLTa3hmm9DDKgmJ3c2CHgf9tfwKNWcR1nfuzZ8I%2FNrqRE5cV%2FgyF1WiWAAhQiv%2BEdVAwQ%2FgwGp1G08EigVg7NoxkskQasWVBjuBAr9ZO%2BvjhSRG0OnRU40Wqagn0m8%2Ba0iBv7MOWwhe6dCGhGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9u%2BX1%2BG1PlOjCVrNNJKZuHumA6s6ERvKgiVIYN6t3ahWQyZvKSMj4TqFiDrk2%2Bkq8HUUN%2BevfJwBQCp2SBl17c3Vb05JkVkSWFRvxaY%2FqGHTrCU%2F57nyHkSr43st2zsbrsqW3xtSViyjpWbh7DEfRY%2FGTCJQf9DIWq7k4mhfNhtf9y%2F6MHZ6u%2F5n6uuzlUc6JNEuUiTS4CHUtVxQrWeRhExgkgu5dgunlTeGE1ygdZZBeMYtTqz2d9AlLB1q5Qt4F7Lqelnup98nMPK0VAGDVuV2AXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUU0xwAK8%2BOvtjIatUMnqDxUfCUVzeM9f7kw7gCRjhjIlQAco8A2Ia7UL3fC5rVO2%2BZznmsCDQq6J8nQdEiutcyhmP2jpBOSngOqDSgoEUOPH7zYiWHewtd4GhtVxBqm4KaBjQ9h1dolXP4n7f4gtw4uNr30Tmx0TH0pFcjpCLC3cxLPHBVE1X9hF6ZkrnPWwIQdac1nLeoygfTrlAzMFSOPWgngxxXK9Wb6stywWe%2FwTmhopkeKUdu5q4dSKA0zkoA%3D&nvMid=58327726078&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "비콰이어트 LIGHT BASE 600 LX",
+    "image": {
+      "file": "bequiet-light-base-600-lx-black.webp",
+      "source_url": "https://www.bequiet.com/en/case/5294"
+    }
+  },
+  {
+    "name": "PURE BASE 501 Airflow Window 미들타워 (블랙)",
+    "brand": "be quiet!",
+    "category": "case",
+    "model_code": "BGW74",
+    "series": "Pure Base",
+    "released_on": "2025-06-01",
+    "summary": "조용한 Pure Wings 3 팬 2개를 갖춘 메시 전면 미들타워",
+    "description": "메시 전면과 강화유리 측면을 갖춘 39.2L 미들타워로 조용한 140mm 팬 2개가 들어 있습니다. 전면에 360mm 라디에이터를 달 수 있으며 PCIe 슬롯을 돌려 그래픽카드를 세로로 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "368mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "178mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 360mm, 상단 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x2 (Pure Wings 3, 전면 1·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 368,
+      "max_cpu_cooler_height_mm": 178,
+      "max_radiator_mm": 360,
+      "included_fans": 2
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 189900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 189900,
+          "title": "BE QUIET PURE BASE 501 Airflow Window 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=83%2BHSeqXY%2BlrQoKM05%2F5kv%2F%2F%2Fw%3D%3DsSgrBE1RzYKFBGNZo63XymcGymtaY%2BHTsSR7bO1Ym9M%2Fc2CHgf9tfwKNWcR1nfuzZAyLXweHYpruuZsGiFnRxR4Rd4wlXws05IoLOMoCXjVpYQ7E1nER4BATVYshZqgC5jujQoLOD36Q4Q4rvippFGZUIH5o7QUsHTUnGRnBdiXk4SjEJruufFvSXz704rGrQyLfRC0o%2FWYDsFhk%2BnF4kt7Fa9l97a2h2Yl%2Bals2teeqnlT6MJKq15YoNF4YME4MdRNb5XGBdqvYIdpRWiWc9xANCWetFr1iOpQjLqxOuF9I%2BJt5GgbwXe%2FJU9T6NqLPtG93BZF3bsczzf2ZqwLSNmHfoeTXnNxIS7SCTw4H7u%2FSpvmJUYKrA1etuvsSLhrojKEMIQgxn0Nm2ZlIlWvBi5eMvbnNs97SA1r09QL5JCNuAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FQycn7%2B4tLs5Y5YzsOatXtmzaLo3YojXuQJMvdaZ%2BI%2FymLq6VRO7EJf2llDgBB7tg6VOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MCPyvw28%2Fc8mIikR6ck5C5hDGptOleKFaHu06qsJYg0D%2BtnIgYrGh4gBbEg%2FL5am4thv%2B43MlgS7OTEOyS%2BPfKt%2Fde%2FNvam4a%2F90zzxFTX%2B52XWmfjupw9TkmzABGBMlftQ0n20ghl6rPpbccK0zl%2B4dqoOlkibr92QsYieWn0YCT%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7znqXPC6Pg31ZIVo%2FVgKtp1Y7RBJx2aPv1bgiR77Jh46w1QmAmnoJRdq4K9btjkCM0%3D&nvMid=58329651572&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "비콰이어트 PURE BASE 501 Airflow Window",
+    "image": {
+      "file": "bequiet-pure-base-501-airflow-window-black.webp",
+      "source_url": "https://www.bequiet.com/en/case/5324"
+    }
+  },
+  {
+    "name": "C8 빅타워 (블랙)",
+    "brand": "Antec",
+    "category": "case",
+    "model_code": "0-761345-10019-9",
+    "series": "Constellation",
+    "released_on": "2024-01-01",
+    "summary": "기둥 없는 전면·측면 유리로 내부를 보여 주는 대형 듀얼 챔버 케이스",
+    "description": "상단·측면·하단 세 곳에 360mm 라디에이터를 달 수 있는 넓은 쇼케이스 케이스입니다. 팬은 포함되지 않으므로 최대 160mm 팬까지 골라 달면 됩니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "440mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "175mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면·하단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 440,
+      "max_cpu_cooler_height_mm": 175,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 118800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 118830,
+          "title": "안텍 C8 MESH 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=S6lDPWl%2FC%2Bc1DILZVndqJf%2F%2F%2Fw%3D%3DsFiom8%2BxLWsZL456KyLRVkdJ2KactNpO24UOKw%2FvsKNy%2BbyqjBBzsrOVJj6m1tgTlfBeP238USF3EjwI%2BUVx58cYZaV7y3vdU15ctexODWufQ99VziF5OhomX5WI4xRS5OE2s0bw8ez9WkvZeeFxn0cv%2BjB2erv%2BZ%2Brrs5VHOiTQgGE7%2BZatKjf5hEf1XctkKyiWHQG6u7JSj%2BpI83Ivlr0L0goMU6%2FBnPa6Ryy2u7X1NlzonAtlSkrEX%2FVdfV0LuKEMIQgxn0Nm2ZlIlWvBi5RDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27BW36r4QZshREfg%2B3vq7RNmWu7ygu8Pu%2BgcmhDCwNWmQ6JIeyjRJJG8AQSjlBThBK7o1XhuiZ8%2FL4%2BNjo%2BZT0dYdJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FFhiaI9XfW1aI7PInHzwc6QsrTLqjZ3PVE8IfFZtoKMJC5XRdy2KI3ZxfnKkuNL969nbyViQtDXydfvMTvdgTGlHQndIWKaL%2FCHmPcRuaYtS2%2BfZrP9mCSHgkjVl3cLwu0TZOqa10usghZigL1uVHiT6C0XXk8ySaOQ0OaLzzIxFuHAT3heHW%2FbsoNU7es9A3pmTMI44UwaYpd2PAoyALdSFbDf4gHI5rSMJU1BWcIOg&nvMid=56784099952&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 118840,
+          "title": "[Antec] C8 MESH [빅타워] [블랙], 1개",
+          "url": "https://www.coupang.com/vp/products/7878546828?itemId=21541268492&vendorItemId=88594174450&q=%EC%95%88%ED%85%8D%20C8&searchId=78e1eabb4075623&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "안텍 C8",
+    "image": {
+      "file": "antec-c8-black.webp",
+      "source_url": "https://www.antec.com/product/case/images/gallery-c8-01.jpg"
+    }
+  },
+  {
+    "name": "FLUX PRO 빅타워 (블랙)",
+    "brand": "Antec",
+    "category": "case",
+    "model_code": "0-761345-10148-6",
+    "series": "Flux",
+    "released_on": "2024-12-01",
+    "summary": "팬 6개가 기본으로 들어 있는 공기 흐름 중심의 대형 케이스",
+    "description": "전면 140mm 팬 3개와 후면 140mm 팬, 파워 덮개 위 역방향 120mm 팬 2개까지 6개가 들어 있습니다. 전면이나 상단에 420mm 라디에이터를 달 수 있고 455mm 그래픽카드까지 들어갑니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 285mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "455mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "190mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 420mm, 파워 덮개 위 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x4 (전면 3·후면 1), 120mm 역방향 x2 (파워 덮개)"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 455,
+      "max_cpu_cooler_height_mm": 190,
+      "max_radiator_mm": 420,
+      "included_fans": 6
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 255900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 252830,
+          "title": "안텍 FLUX PRO MESH 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=q9fV9EzJAwN%2B5ThmxtqHff%2F%2F%2Fw%3D%3DsLEbkywT0BojIrrl2eOeAwrgOOp%2BnImtlew29JUFlQ4YCxyt03UP4gVPEP27iCJmfNMeyNswjm2BF%2FDJFKiWQCYt1R8%2B0kYpaUTtxhlwiszwNYsqgwyihGryXKpo9HUEjAw%2FSW92H6uehEtgpS0j4utof6jW5jHdz%2FbROY2pgmykLiAfJ3HXoWmLy01Zq2yZRVFTLYLIbXNHLzxAbvG%2F8Qqu%2FFdvGhPt0GH0s4uhIekClUtvBS%2BV5OIxlANcjDqcD3LaKTnaTvpsUa6ks54HfF3IGkllvS%2B7BmSPOC3FvvB5Z0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m5fpqL99VUEeVFkXVP5qgAg54Z0I9h%2Fv4yJeCKmiCGBY9UEMwi63jafLIzwwY0rYsa60KhjkmboEn9FsFbJG%2BbXNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrYM04BcBekjJwgWti%2B8L0I7USyz8suCe87mCXMJjQFAs7r7O47qsKrbP4eY%2BFrNeZk3XP2DDDGKOi8AlKzZQKHib31hHLFqr8E8fR1lsLiisqej6Q0HiwpYFuH3021wtQXuql92sUOpVlek27I1Oa0DSbE4FFrrcBDSsjh5kbYzTYnHIcETcJifOE8sb44IMxc4pjFbvfA8txu6mYQtd9e46a58%2FKphOD%2F%2F7G9cO2fBnxyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=60464879775&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 259000,
+          "title": "[Antec] FLUX PRO MESH [빅타워] [블랙], 1개",
+          "url": "https://www.coupang.com/vp/products/8493412088?itemId=24635751370&vendorItemId=91646697266&q=%EC%95%88%ED%85%8D%20FLUX%20PRO&searchId=2b44ee904292084&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "안텍 FLUX PRO",
+    "image": {
+      "file": "antec-flux-pro-black.webp",
+      "source_url": "https://www.antec.com/product/case/images/gallery-flux-pro-01.jpg"
+    }
+  },
+  {
+    "name": "PERFORMANCE 1 FT 빅타워 (블랙)",
+    "brand": "Antec",
+    "category": "case",
+    "model_code": "0-761345-10088-5",
+    "series": "Performance",
+    "released_on": "2023-04-01",
+    "summary": "30mm 두께 Storm T3 팬 4개와 온도 표시 화면을 갖춘 풀타워",
+    "description": "두께 30mm 의 Storm T3 PWM 팬 4개가 기본으로 들어 있는 고성능 풀타워입니다. 전면에 420mm 라디에이터를 달 수 있으며, 이때 상단 라디에이터는 360mm 보다 작아야 합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "빅타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "175mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 420mm, 상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x3 (전면, Storm T3), 120mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "빅타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 175,
+      "max_radiator_mm": 420,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 219000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 219000,
+          "title": "안텍 PERFORMANCE 1 FT MESH 강화유리 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=RR2ZkkzDKEHuzIqze%2BOwIP%2F%2F%2Fw%3D%3DszLPdVy72N7Pbj0R1ZNnCmxdPD93tlRP04o6de8%2Fwp7bK%2BdD1UeOR4hZmNOIzX9%2ForP%2Bp8uVhGeJhNQXv6xCS8DNcmfAiga%2BkDidb1cP7Z7ZBfwQ3%2BKJdLE5EcAn7Opleq94iOcmOACd3ywkrhoGFtjf%2BW9yDHEmv0cP7wksA0i9VXemfpmeX70wC2wQT5nyiJfnMJIViYnGBbhAl%2BmOCr7NulIPhCgAkxZP6n2R%2BDteqqnIQXwjxn92TWm5Yug07uKiR8wnlahN6W0brdtGgYgJgm%2BvxvYUs1LlJpvFW4ZkoQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2tV1fF%2FXxwVa3rw7b0XadYTokh7KNEkkbwBBKOUFOEErujVeG6Jnz8vj42Oj5lPR1h0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8lPmo9TXzSrcd8HeTSkWGKSytMuqNnc9UTwh8Vm2gowllDy6mM5NEWzwZkCxQMdKEvHzcOn24iGntB7O56Wigq9GvMMw45qBYjXCptq22YysVnGfqqxr4XTan1ZrdjtW%2FwxrCmHlgktWb4pazK7YAtdZF%2FRmp2E5tFoklFhsAfCrC0hiHfmfzmAI0X1cC502K2AKC7xMfogRMj0hH4kgpd7%2BLrRxSrinehIzYx7CmxJNbc3J1hxT4iwx4dh78ZJGfBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=58363039071&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 219000,
+          "title": "[Antec] PERFORMANCE 1 FT MESH 강화유리 [빅타워] [블랙], 선택없음",
+          "url": "https://www.coupang.com/vp/products/7262675481?itemId=18502951174&vendorItemId=85691939176&q=%EC%95%88%ED%85%8D%20PERFORMANCE%201%20FT&searchId=770b34e86140319&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "안텍 PERFORMANCE 1 FT",
+    "image": {
+      "file": "antec-performance-1-ft-black.webp",
+      "source_url": "https://www.antec.com/product/case/images/gallery-performance-1-ft-01.jpg"
+    }
+  },
+  {
+    "name": "NX200M 미니타워 (블랙)",
+    "brand": "Antec",
+    "category": "case",
+    "model_code": "0-761345-81027-2",
+    "series": "NX",
+    "released_on": "2021-08-01",
+    "summary": "사무용·입문용 시스템에 맞는 저렴한 M-ATX 메시 케이스",
+    "description": "메시 전면과 강화유리 측면을 갖춘 작은 M-ATX 케이스입니다. 그래픽카드는 275mm, CPU 쿨러는 150mm 까지만 들어가므로 보급형 부품과 함께 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "275mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "150mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 275,
+      "max_cpu_cooler_height_mm": 150,
+      "max_radiator_mm": 240,
+      "included_fans": 1
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 45000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 45000,
+          "title": "안텍 NX200M RGB MESH 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=EFnkrFvdjAAhODhohmqys%2F%2F%2F%2Fw%3D%3DsBlSBPjOiLjBK6DRqdtQP8Zi28VgvoQJcoEy8oh6iuzfVee2CQ0cCt%2BhMLBHbn2wYU74uppjHPzEXnvBWcLdfIl5I1TdnQUq5QFxtY8nFOvOTVFDp69%2FE2iONC%2BNQ%2Fodd4oIM6OAaq0enbf3wMxrWhYZnlrSZr8PDPdBCvs8uWtdeJxHcKH4rYUhc5SxvGs%2FQYcUGdvpwm8V5hN4qO1quONYEUATg%2BrHvRvMPvM3RBoilNTfVW57AuOgKZk0GVj1rakh64U%2FbzEt34FwbNPsa%2BZMIlB%2F0MharuTiaF82G1%2F3L%2Fowdnq7%2Fmfq67OVRzok0S5SJNLgIdS1XFCtZ5GETGGBa0xB48K9TDqQYpffDfeIncNvTLYFqI8oCr%2FwqYPU9up6We6n3ycw8rRUAYNW5XYBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRS59kS0vBOeTd4F0EoLx5dCGLImGj4GXXl5KI%2FWAW3aVAByjwDYhrtQvd8LmtU7b5mMmdhpcMm5F6EDQVV0PqtATLgpHcC0HcuSBsEhIOL0%2FAB8FF%2Fn651ThcGC22Rqo9z6VRLsmfnQdO8g%2F8qx9m0X8%2FTc0h5sBO2hh2snwtH22v4YGjJCSIW1IvBxXT1wG95gDl0tB62LV4eUPG%2F5OJ8bmuv38%2Fm%2FIiz5uefsyLAvdDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=58403362866&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 45000,
+          "title": "Antec Antec NX200M RGB MESH 강화유리 (미니타워), 선택없음, 1개",
+          "url": "https://www.coupang.com/vp/products/6579696330?itemId=13045014861&vendorItemId=92788049385&q=%EC%95%88%ED%85%8D%20NX200M&searchId=ccfa65184317494&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "안텍 NX200M",
+    "image": {
+      "file": "antec-nx200m-black.webp",
+      "source_url": "https://www.antec.com/product/case/images/gallery-nx200m-01.jpg"
+    }
+  },
+  {
+    "name": "AIR 903 MAX 미들타워 (블랙)",
+    "brand": "MONTECH",
+    "category": "case",
+    "model_code": "AIR 903 MAX B",
+    "series": "AIR",
+    "released_on": "2023-06-26",
+    "summary": "140mm 팬 4개와 메시 전면으로 냉각을 강조한 가성비 미들타워",
+    "description": "전면 140mm ARGB 팬 3개와 후면 140mm 팬이 기본으로 들어 있는 공기 흐름 중심 케이스입니다. 전면과 상단에 360mm 라디에이터를 달 수 있고 180mm 공랭 쿨러가 들어갑니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm ARGB x3 (전면), 140mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 208800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 208750,
+          "title": "몬텍 AIR 903 시리즈 EATX 미드 타워 케이스 고풍량 사전 설치 게임 케이스에어 MAX 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=ave0IbH6VNAibM%2B0L9bhLP%2F%2F%2Fw%3D%3DsS4I3FqvtrtKKtij9ohszBQax7KbY%2B%2Bsv9AK8CmEyiFgFgaFXHgpLMFhX3BxMhNGs4GYtBVGZZhpXoEKWUYTPx%2BCGX7LTwh3ktfraBu1nzsYWIQd1leawSwDvtXEzaWGr8sYMdl4d641D4gzEukm7%2BCKSei6YgqUxsD4i7ntGgqQjXx2Bcj92YGuryn7joikSN56A68LD6l%2FwLfv%2BR9ARKeZyG01Q%2BKfcUmP7psAm2aBEaQbyMO%2Fa7MLTsyqaHAS7YtG%2B%2B%2FEov%2FCAwiwoKuFTfuRWrrN1VfbeFpLDxfi6s0lzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4Snr3lsa4tnAklRL2EPwCn2z0S88O%2FoYkGfzwlmwlhaDTpi6ulUTuxCX9pZQ4AQe7YOlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDCoS5Kw6vD3fVJYBv2iecA4PWCgkzWZWp5%2FTfc4PQvkolyUOq%2B3UKLk7g8rIXKhQwPNVLGNxu2l83VtHN0t7AZOC4BoDKoHgl7qHmxhq9OLV08ih%2B%2BS83gqrUKAGggFQEUSqhdseiD%2FtKvojI%2B776yOPl5okySw2sdIHGbgaLEPAqRB8RYXRcdupb06pVNxYxx5C5JqTGarvDI1RNPlcta78o0AnJsr3ISxkg%2BfrTncFd1sQYEZDaV7tUTv3W%2BxdeB8CXl251OpmWizflz2KEWcWzGAUoa4MYs%2Fx%2B6cJjvWUg%2Fw5%2BUYR3tDvMob%2BEtv3crNjqh%2FZemCCOboDhnweAmG&nvMid=61541237757&catId=50001621"
+        }
+      ]
+    },
+    "search_query": "몬텍 AIR 903 MAX",
+    "image": {
+      "file": "montech-air-903-max-black.webp",
+      "source_url": "https://montechpc.com/air-903-max"
+    }
+  },
+  {
+    "name": "SKY TWO 미들타워 (블랙)",
+    "brand": "MONTECH",
+    "category": "case",
+    "model_code": "SKY TWO B",
+    "series": "SKY",
+    "released_on": "2023-08-01",
+    "summary": "강화유리 두 면과 ARGB 팬 4개를 갖춘 가성비 어항형 케이스",
+    "description": "전면과 측면이 유리인 어항형 케이스로 측면 흡기 ARGB 팬을 포함해 팬 4개가 들어 있습니다. 상단에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "168mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x4 (측면 2·파워 덮개 1·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 168,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 119400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 116700,
+          "title": "몬테크 SKY TWO ARGB 강화유리 블루",
+          "url": "https://cr.shopping.naver.com/adcr?x=TBm3%2FzyAZ22yWJjVC0k%2BFv%2F%2F%2Fw%3D%3Dsq5UsrlHb9fZ7YYcY7rUCi0jB06OSeMvE1DN34TUpUC6Pr6pYujEeFU%2FQa0%2FeBydZIZ8KHkxCzEhUNDpsmaG4uV54jazec%2Bqeu94wQYWS6DI48%2FKklL49hSehfObgVsIbmKhoZOhpwvmVrOUwEjH8E4ZnlrSZr8PDPdBCvs8uWtdeJxHcKH4rYUhc5SxvGs%2FQX3mMiCEBrEfmkFO6GN0EFEMYggpaOLh%2Bar8aJ5282QyO05tXWZDl0ruUYNXYMcYGwZCH%2BpFubMPunNLquKYgQHZ4JdomB4ImLekYOBIyoTyrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPA%2B%2BmO%2BZPLS%2FTc1ICD%2FWswWkGTIkDAeN4VlO5F4%2BWJ1b6nYt0P5vFdgOY0ddt5wMGVcmV2IHppZD%2FOSL%2BtW5fLvoagc8iPXZxAGy5qqstm%2FRzokFlcvgKMqhxjiJuk6GOYh8R5xFsh%2FtIE%2F%2F23ejx80F9wQvEU1N2%2FkivZmhS9JW%2Fd81seoBFnAeZaeGTXfJ5vYidM7gINJoV%2FIqfsY0wb6QglYpqon2AqBG1uBOZpB6op%2FhiNfyM2qDJ3tasfNTLtgQsnsvhkfBlGc5jNpKmwToiIHUGanTa%2FkR259CdqVDuu6hWTQwEWHGZEUDU8GMKVbUiTSKSwwdQz78F9452jLAHxp0OdW4h%2FWxpoNskRrBw7HhIO76ohW0CSv0mjRVSh0cjwVm1BUYVknE7IEMpz4%3D&nvMid=58488574358&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 122000,
+          "title": "몬텍 MONTECH SKY TWO ARGB 강화유리 컴퓨터 PC 케이스 (블루), 1개",
+          "url": "https://www.coupang.com/vp/products/7546451274?itemId=19979259296&vendorItemId=87077567464&q=%EB%AA%AC%ED%85%8D%20SKY%20TWO&searchId=444afbfd39856276&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "몬텍 SKY TWO",
+    "image": {
+      "file": "montech-sky-two-black.webp",
+      "source_url": "https://montechpc.com/sky-two"
+    }
+  },
+  {
+    "name": "MasterBox TD500 Mesh V2 미들타워 (블랙)",
+    "brand": "Cooler Master",
+    "category": "case",
+    "model_code": "TD500V2-KGNN-S00",
+    "series": "MasterBox",
+    "released_on": "2023-02-08",
+    "summary": "다각형 메시 전면과 ARGB 팬 3개를 갖춘 미들타워",
+    "description": "입체 다각형 메시 전면에 CF120 ARGB 팬 3개가 기본으로 들어 있습니다. 상단과 전면에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 12 x 10.7인치 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "165mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·전면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x3 (CF120, 전면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 92400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 89400,
+          "title": "쿨러마스터 MasterBox TD500 Mesh V2 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=X131TVgfMEGw%2FVmPeU7%2B2P%2F%2F%2Fw%3D%3DsXDGN7y6gloHhKiKY%2BoijPE86%2BTApr3ofosGvGhYevFL0%2FxJRP0W9NdcmBCTUwK84V8x%2FOhpYWvf4e5INu8ZPvTftnOq5br82oF2BEMAu5RJk%2BfYBCcumEzV%2BgDTzwlBnm8AY9jtTgNcdL5%2FCfWfrZ7jlyiZsdexNhQkR%2Fv8eneiGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0AJP02%2F1HMQJ6ZxQ8zyuDDqnWIeulxtlL4zBL4c4aQ7VU0KaCOYopDjdQvfbERRQ%2B395tpe1NVRvGV20UoUf%2BOzATOrqxca7SB3%2FzOYKTMIZwhrX4PzIAI9XaS7JY55CW3IGkllvS%2B7BmSPOC3FvvB5Z0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m89yP%2F29MtJj7oygFe%2F8cb9YzcqjGDicuXF4r07wvLQv9UEMwi63jafLIzwwY0rYsa60KhjkmboEn9FsFbJG%2BbXNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrZzw8jHTzR%2F%2FF1uJw618Tu36TY5UVSRfRr%2FPurn6jzJj7r7O47qsKrbP4eY%2BFrNeZlm7FrWEdvfbhClmN5PxjDm1G2%2B8M%2FXEx4JQyTeCbuPapy2xZWCNrj5FmGMYzfFU6%2FjygNRv08NOoCG7D%2FPB82YjcZunjbBtKVeGFNHleVZTuu6hWTQwEWHGZEUDU8GMKVbUiTSKSwwdQz78F9452jK2IRsRKMxnhH1E8ja7YtP6vjQwJyIZNRxXkkfTdIO28R0cjwVm1BUYVknE7IEMpz4%3D&nvMid=58391848502&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 95400,
+          "title": "쿨러마스터 MASTER BOX TD500 Mesh V2 Street Fighter 6 Chun-Li 미들타워 PC케이스, 1개",
+          "url": "https://www.coupang.com/vp/products/7581931300?itemId=20016258622&vendorItemId=87222569144&q=%EC%BF%A8%EB%9F%AC%EB%A7%88%EC%8A%A4%ED%84%B0%20TD500%20Mesh%20V2&searchId=fb16c7154266008&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 TD500 Mesh V2",
+    "image": {
+      "file": "coolermaster-td500-mesh-v2-black.webp",
+      "source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw40d8a54f/Assets/masterbox-td500-mesh-v2/large/td500-mesh-v2-black-gallery-2-0110.png"
+    }
+  },
+  {
+    "name": "MasterFrame 600 미들타워 (블랙)",
+    "brand": "Cooler Master",
+    "category": "case",
+    "model_code": "MF600-KGNN-S00",
+    "series": "MasterFrame",
+    "released_on": "2025-04-01",
+    "summary": "프레임과 패널을 바꿔 조립하는 오픈형 구조의 대형 미들타워",
+    "description": "프레임에 패널을 붙이는 구조라 부품 배치를 바꾸기 쉽고 485mm 그래픽카드까지 들어갑니다. 전면·상단·측면에 420mm 라디에이터를 달 수 있으며 팬 4개가 기본입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "485mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "190mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단·측면 420mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x3 (Mobius, 전면), 120mm x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 485,
+      "max_cpu_cooler_height_mm": 190,
+      "max_radiator_mm": 420,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 300800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 300760,
+          "title": "쿨러마스터 MasterFrame 600 실버",
+          "url": "https://cr.shopping.naver.com/adcr?x=yh0L1%2FaGC3TthbOFK%2BXYbf%2F%2F%2Fw%3D%3DsluCNbKdkFgn24n1t5jnr2IJUmvjroY0XzBosk813Mt%2FpbzL25H1J3QE3ZKbf30b1cX61EgD8%2B%2F03pur%2BDBjAy87mPqF1TfhTuy%2F6GlIU7JnFFz2kpswsCenM5PR8ohI4sF64Xv0%2FbuKeIpZSDb4FxnXI6iak91ymkoYp6kOr%2FbtGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9u8pDxAjYtUv5ywJW921kRH%2Baigf5f0oNX38tTYC4DqeijKAR91i6790zs0ux3OgMx1GgxhTzNnUTzoxtlKYuoMqchh%2FtDNefwCf%2Bs4bfYc9ip4f%2FY8%2B9GBgwH8ZiHgM%2FI0Fo1W5dwmJ6Z%2BEInVnM68VbvVwCL%2F08xp1Jc7%2BO01TxpOr9sPYwajBkeE07IGGkJ5SCPsmGKllbt0kl8XIxCXT9Iw9eKsjhK78me5LyaiPaai83EVbMDvzV06wNeZeBjY%2FL1EM6vusJn3%2B5TwiworL%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIWHP%2F3gZWs2zsdjWRxWu2bkQ7tsIAfS0xQnGI%2Bb17EsLW0Q7thNcUToyHuajDDBfDUZnsdq%2Bwt1Kn6RHFoMfVklcMoEXkls72LvwfDac6GlnZqtdvtW%2FD4cuBZ0DGGpQZ3X4M%2F%2FeJJexTLjrmUpkAYpwtIYh35n85gCNF9XAudNitgCgu8TH6IETI9IR%2BJIKXc3nppsdPoDvhCAgBcg0op7X45HjZZF2gj6d4jFl3EbsQau4fTwOUqyF63FjwpQRls%3D&nvMid=58509087817&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 300760,
+          "title": "[쿨러마스터] MasterFrame 600 MESH ARGB [미들타워] [실버], 1개",
+          "url": "https://www.coupang.com/vp/products/8989816124?itemId=26331477333&vendorItemId=93308731019&q=%EC%BF%A8%EB%9F%AC%EB%A7%88%EC%8A%A4%ED%84%B0%20MasterFrame%20600&searchId=b67ab7d411473664&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 MasterFrame 600",
+    "image": {
+      "file": "coolermaster-masterframe-600-black.webp",
+      "source_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw96745599/Assets/masterframe-600/large/gallary-01.png"
+    }
+  },
+  {
+    "name": "MasterBox 540 미들타워 (블랙)",
+    "brand": "Cooler Master",
+    "category": "case",
+    "model_code": "MB540-KGNN-S00",
+    "series": "MasterBox",
+    "released_on": "2021-05-01",
+    "summary": "메시 전면과 강화유리 측면을 갖춘 기본형 미들타워",
+    "description": "메시 전면과 강화유리 측면을 갖춘 단순한 구성의 미들타워입니다. 후면 ARGB 팬 1개만 들어 있으므로 전면 흡기 팬을 더 다는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 12 x 10.7인치 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "165mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·전면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x1 (SickleFlow, 후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "included_fans": 1
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 99000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 99000,
+          "title": "쿨러마스터 MasterBox 540 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=oN4vuQEBxNXMlB5Qqk%2BrTv%2F%2F%2Fw%3D%3DsQ%2BzMveV%2B6VQ0H5XOC6uTplxH14N%2B07aSkYKDHWrbPWb0%2FxJRP0W9NdcmBCTUwK84di87i8xEj3dzfa73oa1n4QmvMb%2F3RCcFQBcnEM89bScvlsxedp2nBhV7Oj7pi29wV6Aq16rWHN%2B7kdwmWOibd5drUJzkGd8dMU31C3WXT7iGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0AZuvyVAlGyzbDc%2BNNl9wLunWIeulxtlL4zBL4c4aQ7VU0KaCOYopDjdQvfbERRQ%2B395tpe1NVRvGV20UoUf%2BOz8MZP%2BFJ15%2BPlA1GK1B%2Fd8Z2NxhT0PzC%2F8o8QXzTZrqngZk5YPJIPI7kkOjuHdmUh%2BLGBChkBl7CNt0uFnesGdJV03cukp%2F9sq6JmLvPVclCgJvp3282wFlSZ5lpDaOlxKK6fwnEZlWcgOnZpCjnIRV36ogsAbT2GMBHUreotiQNAw7rDjJ2reRjDm09XLx1eeOgZKSO%2FpMwdXFLFxFaue%2B5dOl8KGueU5LEkS%2FF8ZtUCNF%2FKCF1OhCh%2BmjMIIEr%2BQp3Kij9PWraJE8gZmDv4J0P0obJxefrYsGPAJ1GJ%2F3RyOBOD2zRwB5s63c7xsa1l5fHgVdU0V56LxNpOAHNkpdy1esqliXDNmLX2xgliHyPMVMi%2FZOlkOTH4ReI3lit1X0rnSqQ%2F9V8NIxPhzmibUjr%2Fvhuz%2FM2bOeEg7k3nONdnwDkA%2Bmv4Tx5GYTG4urfNgOD4Y0GPFXiO5vzq76ZT7y1Vhq%2FH77x9Zlr1IFzyuow%3D%3D&nvMid=58523193343&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 99000,
+          "title": "쿨러마스터 MasterBox 540, 단일옵션",
+          "url": "https://www.coupang.com/vp/products/5619378332?itemId=9566101647&vendorItemId=88835636540&q=%EC%BF%A8%EB%9F%AC%EB%A7%88%EC%8A%A4%ED%84%B0%20MasterBox%20540&searchId=0c2353a26236190&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "쿨러마스터 MasterBox 540",
+    "image": {
+      "file": "coolermaster-masterbox-540-black.webp",
+      "source_url": "https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Sites-cooler-master-main/default/dw19c68909/Assets/masterbox-540/large/mb540_webpages_4000x4000_gallery-1.png"
+    }
+  },
+  {
+    "name": "Y60 미들타워 (블랙/화이트)",
+    "brand": "HYTE",
+    "category": "case",
+    "model_code": "CS-HYTE-Y60-BW",
+    "series": "Y",
+    "released_on": "2022-03-15",
+    "summary": "비스듬한 3면 파노라마 유리와 세로 그래픽카드 장착 구조의 케이스",
+    "description": "앞쪽 모서리를 비스듬히 자른 3면 유리로 세로로 단 그래픽카드를 보여 주는 듀얼 챔버 케이스입니다. PCIe 4.0 라이저 케이블과 120mm 팬 3개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "375mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "160mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 측면 280mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x3 (하단 2·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 375,
+      "max_cpu_cooler_height_mm": 160,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 266600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "coupang",
+          "krw": 266620,
+          "title": "[HYTE] Y60 [미들타워] [블랙]",
+          "url": "https://www.coupang.com/vp/products/6474500123?itemId=14384996901&vendorItemId=81643241135&q=HYTE%20Y60&searchId=a3585f6027371415&sourceType=search&rank=2&itemsCount=60&searchRank=2"
+        }
+      ]
+    },
+    "search_query": "HYTE Y60",
+    "image": {
+      "file": "hyte-y60.webp",
+      "source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/45_source_1665524303.jpg"
+    }
+  },
+  {
+    "name": "Y40 미들타워 (블랙/화이트)",
+    "brand": "HYTE",
+    "category": "case",
+    "model_code": "CS-HYTE-Y40-BW",
+    "series": "Y",
+    "released_on": "2023-01-04",
+    "summary": "Y60 디자인을 더 저렴하게 다듬은 세로 그래픽카드 쇼케이스 케이스",
+    "description": "PCIe 4.0 라이저로 그래픽카드를 세로로 보여 주는 쇼케이스 케이스입니다. 183mm 공랭 쿨러와 422mm 그래픽카드가 들어가며 120mm 팬 2개가 기본입니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "422mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "183mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 측면 280mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x2 (하단 1·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 422,
+      "max_cpu_cooler_height_mm": 183,
+      "max_radiator_mm": 360,
+      "included_fans": 2
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 211100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 211090,
+          "title": "HYTE Y40 (레드) 케이스-미들타워  1개  선택없음  1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=2MNer37Z5gQQI15Z7RdXEv%2F%2F%2Fw%3D%3DsM102W0ExLJxT9909MXCH1zh3K%2FnrKqkCLCcm%2F2e9uo5p97v2viJzNRWt2gp5657RdCfImSXepKCp%2BsryzVtRaJaXSkilQwObBm1QeCzxuu0f1PdZh0iKPyJ75tLxTl44ZYP8OEWMYjpxlufzsH6FYnzmYN%2Fcvl75AGnByk2TjWEm5OY6%2FBA05LWPXaqTF3xXdC2xntRrPfAMnuV%2FW62ZcEXOnTr1rOYBADQ9K64nMqKLFaxoQZNNhCE%2FVThBkKZUokt6hukyq%2FY9cLgDS1zxv%2Fjks%2BQA1laONoEBiSKYSZIxH0wCLdY6ceo4bO9PUuotdHcezI1wOy8eRzu7dgOGdVH4ECEl%2FVV%2BEfhiTOrHIRcJX3zQbEtPNmTn1nx3uXvQw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6pM2z%2BapRZIXE62MQyKaGXsH0zdtxO428N9DOTj%2FNXgwsCfk%2BfN9NYxs%2BQPrKsoGGmZVPxbcho9rw%2Fw%2F7Ve7%2BiWy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE8dKJTa%2BsHYR%2FGlE%2FLoWuCy%2F8iPVu2B9IwlTd%2FjdVpgaba%2BS%2B0CRB%2FI9sNozAbywwoneGxu46Z9Av%2FEtJNDOeDUEwSibgAM3iNIJ6BIxnS9oLXg8gKtRdhKo2iJ6OB1U%2B695ishk1H%2BAItjyEAOjEzjUQ54sXcrNlvRqXQryxfbxkIFdK3uvIqm6k5Rs%2BK0je02IWAinpDwg720zBf8CUKX6aYqcQYBqDUJ1OBkiFU5IoCeMXD2xQ8nUx%2BHlX5Jm8QJFVbegj8iNcQJ6bsz8M%2B%2BQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=59830945419&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 211090,
+          "title": "HYTE Y40 (레드) 케이스-미들타워, 1개, 선택없음, 1개",
+          "url": "https://www.coupang.com/vp/products/7115428779?itemId=17801073219&vendorItemId=84966477322&q=HYTE%20Y40&searchId=c92a35524169387&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "HYTE Y40",
+    "image": {
+      "file": "hyte-y40.webp",
+      "source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/products/146/images/746/HYTE-Y40-white-store__37975.1685045986.386.513.jpg"
+    }
+  },
+  {
+    "name": "X50 미들타워 (스노우 화이트)",
+    "brand": "HYTE",
+    "category": "case",
+    "model_code": "CS-HYTE-X50G-WW",
+    "series": "X",
+    "released_on": "2025-10-01",
+    "summary": "둥근 모서리와 밝은 색상이 특징인 공기 흐름 중심 미들타워",
+    "description": "둥근 모서리 디자인에 앞쪽 360mm 라디에이터 자리와 측면 360mm 자리를 모두 갖췄습니다. 팬은 포함되지 않으며 최대 10개까지 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 10.6인치 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "430mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·측면 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함 (최대 10개)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 430,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 151700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 154620,
+          "title": "HYTE X50 AIR 스노우 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=f7OFycCuOosM7nStwgacM%2F%2F%2F%2Fw%3D%3DsxewpB7NznvxLCJX064YdegYe9PW%2FJwRyXuVJY4SlSvJr9v4mj595WGj%2FdGWgGq%2FxYdHzq95Scwnvku14QW2BtXvhzNNrK2RFU%2BHCSzIg2u29A8Fme6LDypJZr6ZZraEdClS16WH18cB6iQhaflfoOcOmY27ZGze0Q%2BtXRlM4OxsldH0fEU9RULpXO6R12DpxdZsgTvU92odbNnHSx47GmEXa2TFNDWEn%2BigYB3cJ%2BpNBaNVuXcJiemfhCJ1ZzOvFW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0kmBESej8YOWH0xN4LfNC9VC8IvS%2BNPsEPJ7D6mlNi%2F6CDlMFY3UPJjzjXVQQv7TXLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHin3fpX6ykSWpMuUkVJffpkq0ZrQc3Y%2BGVreqNWMLQR2YAekQX9g1WgakbuCMGy%2FvTVGoSzzLPy%2FKht1Zkugkf8Hn%2FV6owJT9%2FEqEaFQHWan4TeU2KmtsAp6lpyfqGyAjIG5a3Qu9OT4ynU%2FFYkVvQZ1KU85kE3pXnhNMvq7%2FMWx%2BH8Kfpzi9FaPVfsWcfNtwCUIw5hFXySCwKzXd5%2F%2BOLVaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=60418886505&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 148870,
+          "title": "HYTE X50 AIR (피치 블랙), 1개",
+          "url": "https://www.coupang.com/vp/products/9156003589?itemId=26972810886&vendorItemId=93949688942&q=HYTE%20X50&searchId=2402c0266274082&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "HYTE X50",
+    "image": {
+      "file": "hyte-x50-snow-white.webp",
+      "source_url": "https://cdn11.bigcommerce.com/s-k28u1tc9ki/product_images/attribute_rule_images/298_source_1756332213.jpg"
+    }
+  },
+  {
+    "name": "P30 미니타워 (블랙)",
+    "brand": "ZALMAN",
+    "category": "case",
+    "model_code": "P30 BLACK",
+    "series": "P",
+    "released_on": "2024-05-01",
+    "summary": "전면·측면 유리와 ARGB 팬 3개를 갖춘 M-ATX 어항형 케이스",
+    "description": "앞면과 옆면이 유리인 M-ATX 듀얼 챔버 케이스로 420mm 그래픽카드가 들어갑니다. ARGB 팬 3개가 기본이며 상단에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미니타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "420mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "173mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x3 (후면 1·내부 2)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미니타워",
+      "motherboard_support": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 420,
+      "max_cpu_cooler_height_mm": 173,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 89300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 89300,
+          "title": "잘만테크 잘만 P30 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=yqJVsVT3mfgC%2BzXnLw6S2f%2F%2F%2Fw%3D%3DsRtIQuUYMGPZZBn52o%2FoGFnrZQOfnqLMC5q6SbB6Xl5q0AK8D6caHVoss8dKw9NybVOeVChWOymx5mcqXOnMsMD%2FCygntTxWA%2Fian3KyAHtTGCs8ZhLEf4nPDxC0Fd%2F%2BMqPW8FwqHwxEZimJkKP%2BHsIBsJjzV%2F3vl5Lmd9HbkUGIfh5HhxEa1anLFM%2FizWDQ50F696KZWk2JkRNNNFndHihqCi2Hw6ForrG3yJnNCTNDXaS24MXITca%2BEeYCDXPoxcgaSWW9L7sGZI84LcW%2B8HlnT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubTUaNSzrKdzHQYPJ8DPnCrb3oCfbWBxxk1BhlhnqQgFVXfqiCwBtPYYwEdSt6i2JA0DDusOMnat5GMObT1cvHV546BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1u97wJPtzNSb4vlcvVQpmiF04FOfHMeXkoHEu5VFd35DQ%2FShsnF5%2BtiwY8AnUYn%2FdmFk78ZUVRGong4DM9ro3DFwuAe3p3jOeQMTkQ%2Btbzy8l9OcvcN5FNllYES2%2BLv9tzin2TrJMvkX%2FjgK2ogOGWJ1KU85kE3pXnhNMvq7%2FMWwV6%2FUT5taWIX9Ql%2FImhVvZ3QV1WFF%2BAaOj7YccD8JyClaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=57312980476&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 89300,
+          "title": "잘만 P30 화이트, 1개",
+          "url": "https://www.coupang.com/vp/products/7590138381?itemId=20055048316&vendorItemId=86982793766&q=%EC%9E%98%EB%A7%8C%20P30&searchId=4c8612fb6252451&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "잘만 P30",
+    "image": {
+      "file": "zalman-p30-black.webp",
+      "source_url": "https://www.zalman.com/US/Product/ProductDetail.do?productSeq=1479"
+    }
+  },
+  {
+    "name": "Z10 PLUS 미들타워 (블랙)",
+    "brand": "ZALMAN",
+    "category": "case",
+    "model_code": "Z10 PLUS",
+    "series": "Z",
+    "released_on": "2022-06-01",
+    "summary": "140mm ARGB 팬 3개를 앞에 단 공기 흐름 중심 미들타워",
+    "description": "메시 전면에 140mm ARGB 팬 3개와 후면 120mm 팬이 기본으로 들어 있습니다. 전면과 상단에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "395mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "173mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm ARGB x3 (전면), 120mm ARGB x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 395,
+      "max_cpu_cooler_height_mm": 173,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 102900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 102890,
+          "title": "잘만테크 잘만 Z10 PLUS 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=tzPXPQ%2B1OnL4fwJGNxluD%2F%2F%2F%2Fw%3D%3DsHnG8YceEPql7C7DvElIWlUd8tSOytjstz%2FuXTaf%2F0%2BXb6rlivb8aDqlm%2FHmmVUD0MOl4h0IJ9J24LsrF937h6WmPrXrr1BqUaqLqjw6Naa9RDtHf0XCFOv9JUzEh0uTPjBZitEDgzvMdyTjl%2F92kS0bAoeRkvpJaJBMwPydFbM8QhkkHXK4%2FmSRy5icYE%2F277d2SlN2UEo2KocVZHL9gCcKuBRhBVKVNB%2Brp0H0CyHBDhbiM8rQ9LWRaP3FUdHTAvNk68F4XFVNSTzGfW%2FOJByhDCEIMZ9DZtmZSJVrwYuUQ4xHcfU2I%2Bi125sdhIqFUEIZJB1yuP5kkcuYnGBP9uwVt%2Bq%2BEGbIURH4Pt76u0TbSQfoDW5hVm1Ugf2hSyVaJ1EL7PBh6vo%2Bzr1Db8r4ssT5kX5JvZ4G%2BHqCsSueaKBwGeo7MLb2Y6XfS%2Fw97ypcEGjknALtUeizEszgRv2reWaRQA1EP4tYIvqt%2BrReCSil1Fny0dYIED1yeLIFV1YAhLY0axUkSSDLmSCBMCcI5WR%2BugDDc4W4u6KAiyZeTmyydL02Arxz6ha3Wmdey6DmAQm19GqaF1KT2oyfoJumJ77PhgR4pzp6xMYheDzMFW%2FItypiT8YAW7RzHWUCQsj4eEs8cFUTVf2EXpmSuc9bAhC6t%2F7ECCehqantHcll59zObZrcumAqkJcJvDZLvgFJBaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=56925840910&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 102890,
+          "title": "잘만 Z10 PLUS 블랙, 1개",
+          "url": "https://www.coupang.com/vp/products/6590388265?itemId=14803846239&vendorItemId=82054166344&pickType=COU_PICK&q=%EC%9E%98%EB%A7%8C%20Z10%20PLUS&searchId=e8a6bafb6065715&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "잘만 Z10 PLUS",
+    "image": {
+      "file": "zalman-z10-plus-black.webp",
+      "source_url": "https://www.zalman.com/EN/Product/ProductDetail.do?productSeq=1364"
+    }
+  },
+  {
+    "name": "DS900 ARGB 강화유리 미들타워 (블랙)",
+    "brand": "darkFlash",
+    "category": "case",
+    "model_code": "DS900 ARGB",
+    "series": "DS",
+    "released_on": "2024-01-01",
+    "summary": "전면·측면 유리와 ARGB 팬 4개를 갖춘 가성비 어항형 케이스",
+    "description": "앞면과 옆면을 유리로 둘러 내부가 잘 보이는 어항형 미들타워입니다. 측면 흡기 팬 3개와 후면 팬 1개가 기본이며 상단에 360mm 라디에이터를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "425mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "170mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 360mm, 측면 240mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x4 (측면 3·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 425,
+      "max_cpu_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 65900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 64800,
+          "title": "다크플래쉬 DS900 ARGB 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=9fYhVkq057XfIV34yhycOP%2F%2F%2Fw%3D%3DsErul6RSlM3MTl5c7GygFClgU5dDILC%2BZf5r7ZwAfkSpNuZ%2Fe0byU2c4Sa6Z1ERa6C2dlIYy7hAgmb0MlpdB%2BTUIsXcPat6w0%2Fj%2FDbQqtXLhEEX8zk11fkevphcCIek%2BdIeDrN5sEuNFie%2FzDiUqunmedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDor%2FyBPXiuePgp%2FzV%2FA%2F4dFecHlw64pp2cdsTY8WTXE4dT3yIuOdmIlAXWnZavo%2B4uNfrGTTuNnJg%2BrfUUQzpGTxngZk5YPJIPI7kkOjuHdmUh%2BLGBChkBl7CNt0uFnesGdJV03cukp%2F9sq6JmLvPVclNj0qbqX3lFCvBzBu%2B2sODW3TYTMdEMzBrnFsAEZiP93V36ogsAbT2GMBHUreotiQNAw7rDjJ2reRjDm09XLx1eeOgZKSO%2FpMwdXFLFxFaue%2B5dOl8KGueU5LEkS%2FF8ZtatoLDBKpxP7IsFdqYb%2FONlRcx9ir9HCAthy8yqQwR%2FP0P0obJxefrYsGPAJ1GJ%2F3fdUO4hlHCKVIP6G3wMPDzrHAZFvwpHv9EfIp0UY%2BpxHV3ROEYZjjLnlm9gfPtEKEZ%2BsRtD0hc110%2Bqh4f6b0lVxxlLPUS54NpKB%2F5mOehLRezdPirNIEhU3YcDKwV2g5J4yhbdlRBxrxdOdzGDPnPp7YBBBkQ%2FbTDK6qhxfYJuDgqgOvq6z5EpEI5N2xav1Mg%3D%3D&nvMid=56755722416&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 67000,
+          "title": "DARKFLASH DARKFLASH DS900 ARGB 강화유리 블랙 (미들타워), 1개",
+          "url": "https://www.coupang.com/vp/products/7844591525?itemId=21362660715&vendorItemId=95468317495&q=darkFlash%20DS900%20ARGB&searchId=32fa787c5411574&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "darkFlash DS900 ARGB",
+    "image": {
+      "file": "darkflash-ds900-argb-black.webp",
+      "source_url": "https://www.darkflash.com/cdn/product/meta/001013/202508190078280.png"
+    }
+  },
+  {
+    "name": "DY470 ARGB 강화유리 미들타워 (블랙)",
+    "brand": "darkFlash",
+    "category": "case",
+    "model_code": "DY470 ARGB",
+    "series": "DY",
+    "released_on": "2024-10-01",
+    "summary": "후면 커넥터 보드를 지원하는 3면 유리 듀얼 챔버 케이스",
+    "description": "앞·옆·위 세 면을 유리로 꾸민 듀얼 챔버 케이스로 후면 커넥터 ATX 보드를 지원합니다. 상단과 측면에 360mm 라디에이터를 달 수 있고 ARGB 팬 4개가 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX (후면 커넥터 ATX 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "175mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm ARGB x4 (측면 3·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 175,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 223800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 124130,
+          "title": "다크플래쉬 DY470 ARGB 강화유리 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=0WaogtdwWflr4Xr%2BiP93A%2F%2F%2F%2Fw%3D%3DsNyGhRwa2DL0HB3jDBIe3GY0MaIH8ft%2FPtn8xSUZaF2blNNA3mQ4RNxnqxVl7MTGxC5dgJNCTfG%2FABjbAe8uvgFSbpiq2N28VxQlniKodAslMoFpdLLJxfQaueVskOUXldiB1nx1%2FBL1%2F1m8hOzSe%2Fkls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YyBUc5oSmr%2F95jzUWlOx6i3rk1d9YPd%2B66D%2FiTnwo4cm%2FvewSQN6XLJ5oaT2%2FLU3n5A0wXgmF95s6R4jQ8%2FRUhd8ls3cyh1JimvaOKBnDh4TLffisv5tHfoGFh7RH%2BtSaOAFJNLWxG%2Fj2gEfGb7GroeJ933p7DvVeugjbBrJqgvQf9D6qc0vW7D27mt0L3U9ijwJ%2BT58301jGz5A%2BsqygYaZlU%2FFtyGj2vD%2FD%2FtV7v6JbL3ThybKTI5feRhTWzS6EGlqvDr5aDR7b%2BLr5m4byET1LclCUpFcKvThfgoghOE455ED6ku9sBLVqq9fINylU93dbUAa5n76l7bq6Lt1zZJh3KaNL0GBvP91UH6TA%2FAWAm9pXROUd3Xu70dGp4gUkcl59Tt7G1%2BWi7bUC5RgS3VxxP93a8dx5jryzmhLliaG7pu5OhXSHRvNs8bDXGhVlpUTeuJgZvRvEK7gZCw3B0%2BpK%2BIwiC%2FMdnaO%2B9zQMKbiYI1LjcdF2k0yY6MkGm1Ev2b1NmOoRBMBsXNQGXzjfbC%2BFUQB%2FrDAzm2q1KHRsHkfE%3D&nvMid=56886245557&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 323540,
+          "title": "darkFlash 풀 타워 ATX 게이밍 PC 케이스 백 플러그인 메인보드 수직 GPU 장착 듀얼 챔버 파노라마 글래스 최대 2 x 360m White|1 PWM ARGB Fans, 1개, DY470",
+          "url": "https://www.coupang.com/vp/products/9767667575?itemId=29235745407&vendorItemId=96202169997&q=darkFlash%20DY470%20ARGB&searchId=03a24ddc6029881&sourceType=search&rank=11&itemsCount=60&searchRank=11"
+        }
+      ]
+    },
+    "search_query": "darkFlash DY470 ARGB",
+    "image": {
+      "file": "darkflash-dy470-argb-black.webp",
+      "source_url": "https://www.darkflash.com/cdn/product/meta/000848/202509250079121.png"
+    }
+  },
+  {
+    "name": "NCORE G30 트루포스 미들타워 (블랙)",
+    "brand": "앱코",
+    "category": "case",
+    "model_code": "NCORE G30 트루포스",
+    "series": "NCORE",
+    "released_on": "2021-07-01",
+    "summary": "팬 6개가 기본으로 들어 있는 저렴한 국민 미들타워",
+    "description": "전면 3개, 후면 1개, 상단 2개까지 팬 6개를 기본으로 갖춘 보급형 케이스입니다. 그래픽카드는 340mm 까지 들어가며 상단에 280mm 수랭 쿨러를 달 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "340mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "175mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 280mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x6 (전면 LED 3·후면 LED 1·상단 2)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 340,
+      "max_cpu_cooler_height_mm": 175,
+      "max_radiator_mm": 280,
+      "included_fans": 6
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 48500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 45000,
+          "title": "앱코 NCORE G30 트루포스 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=Sgy3kNmatLL9WD5%2B%2FhYjR%2F%2F%2F%2Fw%3D%3DsMLIfboB4vn%2BWVZQAW4XjkMb1tiTSrViDjY5hZSxfNDW4P0s9pNYM5ogW0fYUl15hguObklY50%2FqrLKKIEzt0HgJqomfj2DV24ogY7urn4kVfr4dDkmfEP0jRjTSyCuXuVcMNp4kqvAHyThLwdOtnOztVKcwyHDiKlC5xqSQ3EWOGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0BTIFpVkFhDjRv0CFNu1XLlNh680czSlgv0%2B8FTWiu5urAvlqnBh695n0rIwgOvwO2IOli3fhd%2BPY7qAcxEvSSfe9bNU84wpoND%2BE1%2FPQsx3GpDxo6RDLqCpmuSeqKJxZ0zstKPu%2FbdRRfyOAl26TcoUjtFpKtuXNTA3cglESNr0ueCfFDuywxl3T1PQ6PKMjF5qtMG%2FJ0PUtQjclakIAMiTHy2wqR7kMafqEM5LAtYNFY0AqSJOZMeLCVtoa0X5ynXLQ1OGmI0q7vaf7oH1QCp%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgB%2FI0pD6dGYR%2B%2B9Rbekszkmc1bTrJnLPXVzB0N8bmS2nK3TuqTnLZRQQylJd9OmGul7KUMowT4XLFuG%2FOF7%2F7ytDQ1R3Y6%2BxCtLm7P66L5K%2B5UzUO04rV3VhKDTC3KrInXianhIoTv7IIQBhvgSBROLf8SbGYe03VB6lJU%2BGtccLBLPHBVE1X9hF6ZkrnPWwISKvDYDJdbt8ChWh3y6E9H1WMhmKETx8ltiLUtH64uKxmhopkeKUdu5q4dSKA0zkoA%3D&nvMid=57154534668&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 52000,
+          "title": "앱코 NCORE 트루포스 미들타워 강화유리 컴퓨터케이스 블랙, G30, 1개",
+          "url": "https://www.coupang.com/vp/products/6338295019?itemId=13285287016&vendorItemId=90663347248&q=%EC%95%B1%EC%BD%94%20NCORE%20G30%20%ED%8A%B8%EB%A3%A8%ED%8F%AC%EC%8A%A4&searchId=a54236c54404238&sourceType=search&rank=1&itemsCount=60&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "앱코 NCORE G30 트루포스",
+    "image": {
+      "file": "abko-ncore-g30-trueforce-black.webp",
+      "source_url": "https://www.abko.co.kr/brand/detail.php?it_id=1631495420"
+    }
+  },
+  {
+    "name": "WIZMAX 우드리안 MAX 미들타워",
+    "brand": "마이크로닉스",
+    "category": "case",
+    "model_code": "WIZMAX 우드리안 MAX",
+    "series": "WIZMAX",
+    "released_on": "2025-04-11",
+    "summary": "원목 장식과 역방향 ARGB 팬 4개를 갖춘 국산 듀얼 챔버 케이스",
+    "description": "원목 느낌의 장식을 더한 듀얼 챔버 케이스로 후면 커넥터 보드(BTF·Stealth·Project Zero)를 지원합니다. 상단·하단·측면에 360mm 수랭을 달 수 있고 공랭 쿨러는 160mm 까지 들어갑니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX (후면 커넥터 보드 지원)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "160mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·하단·측면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "역방향 ARGB x3 (측면), ARGB x1 (후면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 160,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 90300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 88800,
+          "title": "[마이크로닉스] WIZMAX 우드리안 MAX [빅타워]",
+          "url": "https://cr.shopping.naver.com/adcr?x=cQGlDAYT0N0Mc3TnYY2J8P%2F%2F%2Fw%3D%3DsCZC61udNmys8aLTCY%2BqkOCqxX0B006KE%2BcuU1aCWqZUupJ0U4Yp68kyDIDUU7tAEfbYqlMisOzbLw6kPraZsec9uxeLB%2F7hOdEB%2BJCg1SUfFpZSv2tDFWgI5RSJMzrGLJlFhRRGZZCZ9DwwHbcPDq514%2FBNWzr%2FuX3ep0uPqzkE7IE%2BrVzIpmb2YKMv1L0au%2BAZmRqB13I6ol7VBu3KqsafczYzBCCY92zUZraV4XuN2C70gojgKDyIBbJJE4IzRK8%2BzxTdTzmv5UfVODW54IHmwdQ8Y9pnfo5k3giOCEqJBaNVuXcJiemfhCJ1ZzOvFECmDhOm%2BxvIDmmAmAOxrb8OmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqoSUcLnrCu6hkCj1cP%2FmESvQE2NnmsvpziLSTu%2Fh4bRa6npZ7qffJzDytFQBg1bldgF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFQFZx%2FkWuCKmHMQh1ebd4k3ysRVmMFZCMjqJvaTL5hHbbD%2BYNYLRuj8vtxJl85mFMrCCTT9yJFXLzcztR2NGkbb4ezPs065M2HwFIgJZajNmWNuIi45Tx0rCPQHXftkEYuEKOKeSCfxAQZL89rw0wBvQGcNACdZ4uKKslCYl6lGXTn%2BIvcxawVxNuePP9ktetgb2YGzT6uTdJF0vyFwAi7MSm20CfDzwiivBHZ5CaVrEu6T5S2%2BK16DXItYmBr8l0Bq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=55210385944&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 91800,
+          "title": "마이크로닉스 WIZMAX 우드리안 MAX, 1개",
+          "url": "https://www.coupang.com/vp/products/8708340431?itemId=25311185216&vendorItemId=92306315036&pickType=COU_PICK&q=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%8B%89%EC%8A%A4%20%EC%9A%B0%EB%93%9C%EB%A6%AC%EC%95%88%20MAX&searchId=358241637251960&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 우드리안 MAX",
+    "image": {
+      "file": "micronics-wizmax-woodrian-max.webp",
+      "source_url": "https://micronics.co.kr/micronics/admin/view_press.php?id=520"
+    }
+  },
+  {
+    "name": "L600 Quiet 미들타워 (블랙)",
+    "brand": "3RSYS",
+    "category": "case",
+    "model_code": "L600 Quiet 블랙",
+    "series": "L",
+    "released_on": "2022-07-07",
+    "summary": "140mm 팬 4개와 팬 허브를 갖춘 국산 저소음 미들타워",
+    "description": "전면 140mm 팬 3개와 후면 140mm 팬, 팬 허브가 기본으로 들어 있는 미들타워입니다. 스윙 도어식 강화유리 측면을 갖췄고 E-ATX(길이 277mm)까지 지원합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 277mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "400mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "180mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "140mm x4 (전면 3·후면 1)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 400,
+      "max_cpu_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 91100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 91010,
+          "title": "3RSYS L600 Quiet 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=Th8HkBFUeNpqAbwtGNdM5f%2F%2F%2Fw%3D%3DsO1hj%2FsZF1W21LX%2F3WsUwvPLdueDDz44RLP6ZX%2BYFQPhtfIkU4Zd2HcpxZ4IV4AOpU42My%2FnArVMd%2B3%2F6Xw8bvFMrJXyg7gdDhYA7JtzA%2Fl2b0pOxhyz2tsAf9w43AVrrUcRziPi%2Fjux6R6TBhorOV0gAn8lD2%2BxrgblrBqYwPdWug%2B9sjA7rHdeMLkY%2BwIMUReaOQHn9MbvV2Cr6UvKVQrZ72YDIrN13%2BIBRmfjKVFaCA6RVrmTRyeWryQuEIjJ%2BQWjVbl3CYnpn4QidWczrxVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdPCjwCTVoXkVcyaUIWX7sgfUQvs8GHq%2Bj7OvUNvyviyxPmRfkm9ngb4eoKxK55ooHAZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKc1w1Uyeg6mfyYr9Sn3on7ItjRrFSRJIMuZIIEwJwjlZwSN7VlQUTzbFL6d7syfDYUC93zVuTZbMW7h2QzC9KIC%2B7a0Rxy34wfMJpcR1koIuSEFyWhYullSh1%2FECB%2FUZ20NQ5C5zqXSw4jO5xGduHCgRpOFzCbaM6OU97uoPifjr1O3lIvolMiSt18pwFF8sVR5g9fqsRHbFuKGnVIqhNE%2FNjqh%2FZemCCOboDhnweAmG&nvMid=56867424643&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 91200,
+          "title": "쓰리알시스템 컴퓨터 케이스 미들타워 화이트 L600 Quiet, 1개",
+          "url": "https://www.coupang.com/vp/products/6771030219?itemId=15898526058&vendorItemId=82463407126&q=3RSYS%20L600%20Quiet&searchId=a18a6fcd6237835&sourceType=search&rank=1&itemsCount=59&searchRank=1"
+        }
+      ]
+    },
+    "search_query": "3RSYS L600 Quiet",
+    "image": {
+      "file": "3rsys-l600-quiet-black.webp",
+      "source_url": "https://www.3rsys.com/data/item/1652073119/thumb-l600quiet_black_img_01_1024px_800x800.jpg"
+    }
+  },
+  {
+    "name": "H9 Flow 미들타워 (블랙)",
+    "brand": "NZXT",
+    "category": "case",
+    "model_code": "CM-H91FB-01",
+    "series": "H9",
+    "released_on": "2023-01-12",
+    "summary": "통풍 상판과 2면 유리를 갖춘 NZXT 의 듀얼 챔버 케이스",
+    "description": "상판을 타공해 통풍을 높인 듀얼 챔버 케이스로 상단·측면·하단에 360mm 라디에이터를 달 수 있습니다. F120Q 팬 4개가 기본으로 들어 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "435mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "165mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·측면·하단 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x4 (F120Q)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 435,
+      "max_cpu_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "included_fans": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 224200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 199900,
+          "title": "NZXT H9 FLOW V2 RGB 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2FXwJ2Msk%2BW0iYDbDoF14oP%2F%2F%2Fw%3D%3DsbGSj0OqUwfVZ91CptqnnibfuI7kPodp%2FvvQOFNEkjonobzzC1XLJ%2F8fbNZ2NVPuvr9U285X%2BGUxhnh3cnMSZBxb1OS3ryiPvR0qDHSA2CRYDE1D2%2BfRNr8vTqL%2B7iFT%2FWlMMuhAFyhdLoWH%2BNuuSr0gAn8lD2%2BxrgblrBqYwPdWug%2B9sjA7rHdeMLkY%2BwIMUs8WegxFaQny9pXrolyjW2CEg9Hwt1b7R3oYKwygXV2vSncv6Y13iu4ySnTy9t8eZcgaSWW9L7sGZI84LcW%2B8HlnT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubyjLq%2FZyqbiKSXohpAim94aqUfxRXEvHQU4UZL7AC6a1kIptLkhleORsoGb3BUK6QRHkQrtYaAw4lF18bIREdpArbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLqklmJMp2qo2wWbN9A%2BrsfyCQsYDMyaA6DZe%2FuzP0y45PL8BkYVXCAX0hPUKr09Q0jmMKyrQFUQ8CNfhLGQhM4EpIxYmHV9%2BrY2ymnTf4WKxeBo3njyv5tWtbUQ7%2BCJ1FqvZPPfBF0eTsYs5vWNBz9oNauEcRynSn%2F8orOK7nc900xtJGTh0hz19%2BwMLwRNhn1ScoqfDwdnRl1fQCRvFDz5Xc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=58571441870&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 248530,
+          "title": "NZXT H9 FLOW RGB 블랙 미들타워 PC 케이스, 1개",
+          "url": "https://www.coupang.com/vp/products/8787194982?itemId=25572570073&vendorItemId=92619083442&q=NZXT%20H9%20Flow&searchId=17da4f884140968&sourceType=search&rank=11&itemsCount=60&searchRank=11"
+        }
+      ]
+    },
+    "search_query": "NZXT H9 Flow",
+    "image": {
+      "file": "nzxt-h9-flow-black.webp",
+      "source_url": "https://nzxt.com/product/h9-flow"
+    }
+  },
+  {
+    "name": "H6 Flow 미들타워 (블랙)",
+    "brand": "NZXT",
+    "category": "case",
+    "model_code": "CC-H61FB-01",
+    "series": "H6",
+    "released_on": "2023-11-02",
+    "summary": "모서리를 비스듬히 깎은 흡기 팬 3개를 갖춘 소형 듀얼 챔버 케이스",
+    "description": "비스듬한 전면 팬 3개가 그래픽카드 쪽으로 바람을 보내는 작은 듀얼 챔버 케이스입니다. 상단에 360mm 라디에이터를 달 수 있고 그래픽카드는 365mm 까지 들어갑니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "ATX, M-ATX, Mini-ITX"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "365mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "163mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단·전면 360mm, 후면 120mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x3 (F120Q, 전면 측면 흡기)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 365,
+      "max_cpu_cooler_height_mm": 163,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 139000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 139000,
+          "title": "NZXT H6 Flow 매트 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=ErbNdzdHs%2FU0tNRaDiSwrv%2F%2F%2Fw%3D%3DsyokCLMjmguA0VQDJvJmkJiUGeanCxkXNCnbeKkV6Vb8OxQihTLlDu7OhqdEjXxoj%2BIvDEnfctaJ6BZIyjRskCNbCEsBaLkPwQU9YyqvgCJqlTrus%2FGAbar6maNs2QKhSn5DZhaccRjKLDyeO9nXcB8i30QtKP1mA7BYZPpxeJLexWvZfe2todmJfmpbNrXnqr22tNpqJod8P2zQWOKrgziFKg0lGdrJZ7snmCtBYiOBoFhEwAhcMHJRD9H0u20KzeBmTlg8kg8juSQ6O4d2ZSH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUAT03XMVFLWHK5xPnswA2iZU8x0%2FjWAWiEmKY317nWcVXfqiCwBtPYYwEdSt6i2JA0DDusOMnat5GMObT1cvHV546BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1ifeS0GIbegeV5PXVHWII4%2BSGA50TWXckeONwSA%2B3Pd%2FQ%2FShsnF5%2BtiwY8AnUYn%2FdVLWVLzdTurVEaMGKJRN0VBFkjHIEVEUQVtLLpOLgORGXD6c4kj6WWkU3Rj9Jrffd8Nlo62WJcVwXrOSvyW4wpZTL3ruaVJreZl%2BplMuLoOqm5aY9SfiiYO2Fx34mLkQavHyUXWeCUm4FztDBBIzArkw8sjzvsJfTelxYDmmh8oBB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=58319541258&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 139000,
+          "title": "NZXT H6 Flow (블랙), CC-H61FB-01, 1개",
+          "url": "https://www.coupang.com/vp/products/7694253792?itemId=20619921447&vendorItemId=92377210949&q=NZXT%20H6%20Flow&searchId=2af99b345509191&sourceType=search&rank=0&itemsCount=60&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "NZXT H6 Flow",
+    "image": {
+      "file": "nzxt-h6-flow-black.webp",
+      "source_url": "https://nzxt.com/product/h6-flow"
+    }
+  },
+  {
+    "name": "H7 Flow V2 미들타워 (블랙)",
+    "brand": "NZXT",
+    "category": "case",
+    "model_code": "CM-H72FB-01",
+    "series": "H7",
+    "released_on": "2024-06-26",
+    "summary": "타공 전면과 120mm 팬 3개를 갖춘 H7 Flow 의 2024년형",
+    "description": "전면 타공 패널과 120mm 팬 3개로 공기 흐름을 높인 2024년형 H7 Flow 입니다. 185mm 공랭 쿨러와 410mm 그래픽카드가 들어가며 바닥에 그래픽카드용 팬을 추가할 수 있습니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 277mm 이하)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "410mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "185mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "전면·상단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "120mm x3 (전면)"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cpu_cooler_height_mm": 185,
+      "max_radiator_mm": 360,
+      "included_fans": 3
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 213600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 239000,
+          "title": "NZXT H7 FLOW V2 RGB 블랙 PC케이스 미들타워케이스",
+          "url": "https://cr.shopping.naver.com/adcr?x=dan0dmQ5RaoINfkFOeKYF%2F%2F%2F%2Fw%3D%3DsfGDWLExC3KcIf%2FCYG9c8EdtmSywO04yH8nGh4Z4eRgy6oEKdz4Zy7UIns4a3q5ABgMieTCROuCraXwKind%2BfncvAwEkkRb%2Fo0idtuhhh8ATvmSBxMjW5MlP%2FSwT6mfJSXyUdY%2F%2FEI4zBL9yM9d73x4fNx3fzASCIa9%2FLxbvrxtKMGbJC%2BsgwSw4QaNjTYYakJxyPSyNDtJKW8PFxz66Be%2FJLkDtmSZrEpcTCdU1zNfEW4yQELVbTIV7n97wZInn1libW2HabqqxWx7ij5rC7rA9UJn9oHvq7n6Qju5uohUNfJVGOPR5QbTcr5Ph6uLA%2BjQ1JKBSdaiOuUGdZQjBsBEzstKPu%2FbdRRfyOAl26TcoUjtFpKtuXNTA3cglESNr0ueCfFDuywxl3T1PQ6PKMjF5qtMG%2FJ0PUtQjclakIAMgsnPRm3NEQtXQvEVirK8POXQ%2Fuh5E42w%2BSLzVp%2Fw17wXXLQ1OGmI0q7vaf7oH1QCp%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgBKdC%2F4mghKmm5FtQe%2FcbPdc1bTrJnLPXVzB0N8bmS2nFqdjCXrElqxNRritGH8T5%2F2Ao34CjNWXt5T5xEyyOngAnuwdfufsd6mjxJ2FJdAjtBPzsVJh7zaMbnNhWC2%2BPb4ARA7SN9HMl1z288TryqysAbt30WMlrKQ7OyspuouPzQxggbnQn7eomPPA2PB0L3ZlVYLDEJpnI8cF6CMPSIWYxt%2BSEgD%2FjQzZLmM7HNbwN19ABhQXMLDrcSh3kzR9cYOEsHC78VBLnFZh%2FnDobeN&nvMid=62163613689&catId=50001621"
+        },
+        {
+          "site": "coupang",
+          "krw": 188280,
+          "title": "NZXT H7 Flow v2 White 120mm 팬 3기 탑재 미들 타워 ATX 케이스 CM-H72FW-01 CS9013, 1개",
+          "url": "https://www.coupang.com/vp/products/8621408098?itemId=25012676817&vendorItemId=96229138093&q=NZXT%20H7%20Flow%20V2&searchId=5b31f9c17289198&sourceType=search&rank=9&itemsCount=60&searchRank=9"
+        }
+      ]
+    },
+    "search_query": "NZXT H7 Flow V2",
+    "image": {
+      "file": "nzxt-h7-flow-v2-black.webp",
+      "source_url": "https://nzxt.com/product/h7-flow"
+    }
+  },
+  {
+    "name": "O11 Dynamic EVO RGB 미들타워 (블랙)",
+    "brand": "Lian Li",
+    "category": "case",
+    "model_code": "O11DERGBX",
+    "series": "O11 Dynamic",
+    "released_on": "2023-12-21",
+    "summary": "상·하단 ARGB 라이트 스트립과 상단 420mm 라디에이터 지원을 더한 O11 Dynamic EVO 의 후속 듀얼 챔버 케이스",
+    "description": "O11 Dynamic EVO 의 위아래에 L자형 ARGB 라이트 스트립을 두르고 메인보드 높이를 두 단계로 바꿀 수 있게 한 후속 모델입니다. 455mm 그래픽카드와 167mm 공랭 쿨러가 들어가고 좌우 방향을 바꿔 조립할 수 있지만, 팬은 포함되지 않아 따로 준비해야 합니다.",
+    "specs": [
+      {
+        "label": "규격",
+        "value": "미들타워 (듀얼 챔버)"
+      },
+      {
+        "label": "지원 메인보드",
+        "value": "E-ATX, ATX, M-ATX, Mini-ITX (E-ATX 폭 280mm 미만)"
+      },
+      {
+        "label": "그래픽카드 최대 길이",
+        "value": "455.7mm"
+      },
+      {
+        "label": "CPU 쿨러 최대 높이",
+        "value": "167mm"
+      },
+      {
+        "label": "라디에이터 지원",
+        "value": "상단 420mm (별도 브래킷 필요) 또는 360mm, 측면·하단 360mm"
+      },
+      {
+        "label": "기본 팬",
+        "value": "미포함"
+      }
+    ],
+    "attributes": {
+      "case_type": "미들타워",
+      "motherboard_support": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 455,
+      "max_cpu_cooler_height_mm": 167,
+      "max_radiator_mm": 420,
+      "included_fans": 0
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 259900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "coupang",
+          "krw": 259860,
+          "title": "LIAN LI PC-O11 EVO RGB (White), ll00203, 1개",
+          "url": "https://www.coupang.com/vp/products/6716058136?itemId=24216024094&vendorItemId=92611426108&q=%EB%A6%AC%EC%95%88%EB%A6%AC%20O11%20Dynamic%20EVO&searchId=9081b0195122472&sourceType=search&rank=0&itemsCount=50&searchRank=0"
+        }
+      ]
+    },
+    "search_query": "리안리 O11D EVO RGB 블랙",
+    "image": {
+      "file": "lianli-o11-dynamic-evo-rgb-black.webp",
+      "source_url": "https://lian-li.com/wp-content/uploads/2023/12/O11DERGB-000.jpg"
+    }
+  }
+]

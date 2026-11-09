@@ -1,0 +1,4162 @@
+[
+  {
+    "name": "라이젠5 5600",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000927BOX",
+    "series": "Ryzen 5000",
+    "released_on": "2022-04-04",
+    "summary": "L3 캐시 32MB 를 갖춘 AM4 가성비 6코어 프로세서",
+    "description": "기존 AM4 PC 를 저렴하게 업그레이드하거나 DDR4 로 가성비 게이밍 PC 를 맞출 때 알맞습니다. Wraith Stealth 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 4.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 4.4,
+      "tdp_w": 65,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 21487,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+5600&id=4811"
+      }
+    ],
+    "price": {
+      "krw": 149600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 149550,
+          "title": "AMD 라이젠 5 5600 버미어 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=wHir4f235VmPry3adDv8Sv%2F%2F%2Fw%3D%3DsWuVw7Fwjj1uwzbS%2Bo0RES3TQvuW8UQsSCREXtB3RgK%2B9Ytz7M5%2BJN4sOpTvAbQT4gj7BFtn7OFCHAS1JpbRSSdtOIhdajYI%2FFCsSxwHZlgx0i%2FoAgYVqoUuASJORa8JpMlB5WmKfipmMTJLZwqNVLjRW%2Bs6b6w0rbijbehKhUvq54J8UO7LDGXdPU9Do8oyM6Ha1mGWMbxQFJIC4%2BEYxJztHrVLDh3j%2F2MwA30f7QAoaXzbXV1L9TTWo2dPLHLbi%2B1dzzxz8YhCu0WIm%2BR1ni8xKDIHFPg%2Fa4iaklsB7twhyBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5tECHOmCWue%2BUEaaUhHMi6HnhSSwvBTOEOigqLx4CnCCGQim0uSGV45GygZvcFQrpBhQPidlwTRRL3jk%2Frh%2BlF3CtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4uzR0rkUJdRNshujGDRKYPGIJCxgMzJoDoNl7%2B7M%2FTLjnMVL19pBPebWio0mAoAcbAGZheJIpC0Uc2jf5Sngr2s0TPOG2csIApnCTJbkDSAzrq9PPJZnbAseKx%2FxOcQqDfz%2BM5Hsf7fWB6SHMy9yrwM7Xi0xhSEqB%2FM%2F9zfVA8DE8SzxwVRNV%2FYRemZK5z1sCE%2BBZQ5ecVkpqBjY%2F9MI0XNw4FtFPjephwHpA0V4UcTadoaKZHilHbuauHUigNM5KA&nvMid=59386820407&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 5600",
+    "image": {
+      "file": "amd-ryzen5-5600.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-5600x.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 5600G",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000252BOX",
+    "series": "Ryzen 5000G",
+    "released_on": "2021-08-05",
+    "summary": "Radeon 내장 그래픽으로 그래픽카드 없이 쓸 수 있는 AM4 6코어 APU",
+    "description": "그래픽카드 없이 사무·인강·HTPC 용 PC 를 꾸미려는 사용자에게 맞습니다. Wraith Stealth 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다. 내장 그래픽은 가벼운 게임 수준이며 PCIe 3.0 까지만 지원합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.9GHz / 4.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "16MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (7CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.9,
+      "boost_clock_ghz": 4.4,
+      "tdp_w": 65,
+      "memory_type": "DDR4",
+      "integrated_graphics": true,
+      "generation": "Zen 3",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 19617,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+5600G&id=4325"
+      }
+    ],
+    "price": {
+      "krw": 237200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 237200,
+          "title": "AMD 라이젠5-4세대 5600G 세잔 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=O7ou8eHbOyqRPWUrwkbQof%2F%2F%2Fw%3D%3Ds57fkCNjI3xiQVTx0yAfQr8Az6CUOLKwfmUq0QqbpllOUqLKq4W7rdLzAi3DGbL99rRK57YO9MNYzFIB8HvMcS1M%2BwfHsSPldZdYOT5SEyvG%2FdRvtcmMFAiI4PQ9N1HUliLtXy8uFQYFmA5a3yqV7xmedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDor5nerjNz7%2BqSFCH0RJTQObHP0gsabTupqdeLBAF7EgaVBG%2FhfW9bTHRMTmYsYJNaEKj3c3SZCTTE2Je19PD7K%2B%2B5oKgUlOdzJ5cXj%2F%2FkQQhByBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5shRZlr1sXqKu8fs%2BBBuMPgH6rKBvhFVHDtjZA%2BBame%2FPVBDMIut42nyyM8MGNK2LGlHFx1agZ7VJ8kUFqTneBvzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7t%2FEZ1elsbr2%2FaVqZ3%2Facd4O6%2BzuO6rCq2z%2BHmPhazXmav6XjZuqQFwu5%2F0cjmFLvdxeeghB5sIBDpYR0Y09wahhJWz95TyodnYik5H7zuBgzNo1gNxitgBLqGhr8mfCjyei%2F%2FAdkXXMUwCzSewAHe8AHTo4HZx3qS9OQLpc9fYwMNauEcRynSn%2F8orOK7nc90gDwizbl5o7%2BWPPuHV0zBpi2WfQTNNhZDS%2B3QTFYoXBdXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=59571627239&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 5600G",
+    "image": {
+      "file": "amd-ryzen5-5600g.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-5600x.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 5700X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000926WOF",
+    "series": "Ryzen 5000",
+    "released_on": "2022-04-04",
+    "summary": "65W 저전력으로 다루기 쉬운 AM4 8코어 프로세서",
+    "description": "AM4 메인보드를 그대로 쓰면서 코어 수를 늘려 게임과 방송·편집을 함께 하려는 사용자에게 알맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.4GHz / 4.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 3.4,
+      "boost_clock_ghz": 4.6,
+      "tdp_w": 65,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 26538,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+5700X&id=4814"
+      }
+    ],
+    "price": {
+      "krw": 181100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 181144,
+          "title": "AMD 라이젠7 5700X",
+          "url": "https://cr.shopping.naver.com/adcr?x=1YqDDXgUppnIQ%2FIQrzoP7v%2F%2F%2Fw%3D%3Dspf0rWCdMwYjUd7SFzlL67zwP%2FgBY7UWHDqzroSGSKqFHDvMmWU6dNgnAexfH4if3NuZIr3FWZ12ICJ8gK1oIcuj%2FZ8vGC9Wiie0BqPytj97lCqIvxmQtXHdXeqC06%2FPt87Zyk%2B4ZDMBpwFU6qHj0qWedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorYqifLk2cUO%2BH2D%2ByGYpdP%2F0lOwDgZBFnrkWvo%2FK0gRVBG%2FhfW9bTHRMTmYsYJNaEQNQiont0i%2FIOTvVQp%2F5S%2FcHQuY8wbukYwtcfMHC3eiJyBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5t%2FjGd3Gyig4m1Dpq3tLA1cWB1JNRKRFNXnX4G5jmn1zvVBDMIut42nyyM8MGNK2LGlHFx1agZ7VJ8kUFqTneBvzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a0Veg6OqMGgT7Dr4ugXZUx9Kfw44o6mFYoc8ac4I7oZ%2Be6%2BzuO6rCq2z%2BHmPhazXmav6XjZuqQFwu5%2F0cjmFLvdC9J1q12wftHPgiI7XQ%2FYiYFzNUxzR%2FB%2Bc7FWx43bRAQH2udoPHklhUbcGPy%2BMwGCRVFB7PNLIwxx1isboiWLd51KU85kE3pXnhNMvq7%2FMWzBUPfVuuJb8tAcbWYAOHVrIq0YfiOsYAOBFjnmUrkfJFaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=36093315618&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 5700X",
+    "image": {
+      "file": "amd-ryzen7-5700x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-5800x.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 5700X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001503WOF",
+    "series": "Ryzen 5000 X3D",
+    "released_on": "2024-01-08",
+    "summary": "3D V-Cache 96MB 로 AM4 게임 성능을 끌어올리는 8코어 프로세서",
+    "description": "메인보드와 DDR4 메모리는 그대로 두고 게임 프레임만 크게 올리고 싶은 AM4 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다. 클럭이 낮아 게임 외 작업에서는 5700X 와 큰 차이가 없습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3GHz / 4.1GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "105W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 3.0,
+      "boost_clock_ghz": 4.1,
+      "tdp_w": 105,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 26308,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+5700X3D&id=5884"
+      }
+    ],
+    "price": {
+      "krw": 658600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 658640,
+          "title": "AMD 라이젠7-4세대 5700X3D",
+          "url": "https://cr.shopping.naver.com/adcr?x=HmzQ82BS1EtqVHWFr0ltGf%2F%2F%2Fw%3D%3DsX%2FXtOye014KrHK6Ttdx4LqA7gP%2FZPtAieSTwq6sJBER30RygWPA6o5vp%2FKmeqEIU6%2F17SNXkIGTZsJRzEDvzTqdrlTTjwYfvpUnXRVEvPf5NUg%2Bp6LDTuumjtGTIdUdEYdEPwv%2FgBtETeI5aJy4CTGedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorzFa%2BvQY921veC82CJpNZDsRVvyHdBfrJYPGOfT9qXdhBG%2FhfW9bTHRMTmYsYJNaEQNQiont0i%2FIOTvVQp%2F5S%2FSypri7n0UdGVCsn2e4Y65YoQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2dpAx1nbrXx%2BB%2F9KqczPfUWQim0uSGV45GygZvcFQrpBhQPidlwTRRL3jk%2Frh%2BlF3CtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4uoyP9AFILrfV4YzLlrzF42YJCxgMzJoDoNl7%2B7M%2FTLjnMVL19pBPebWio0mAoAcbANnaRgoinr%2F%2BDbNo5Sqbo8mqgzUmB9mniGwB7IBvC42u0r8FkeGi0htnjEBeHXVx3xjDgkMAFVc8uvopCM5Wgmr8CNVaAUbGxTfz8XKvJ5uMSzxwVRNV%2FYRemZK5z1sCEOqpDc1GQHnq5RI19%2B8h6GjHdcqtTWv8wApgHs8eqRgdoaKZHilHbuauHUigNM5KA&nvMid=46670344618&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 5700X3D",
+    "image": {
+      "file": "amd-ryzen7-5700x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-5800x3d.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 5800X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000651WOF",
+    "series": "Ryzen 5000 X3D",
+    "released_on": "2022-04-20",
+    "summary": "3D V-Cache 를 처음 쌓아 올린 AM4 게이밍 8코어 프로세서",
+    "description": "AM4 플랫폼의 마지막 업그레이드로 게임 성능을 최대한 끌어올리려는 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.4GHz / 4.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "105W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 3.4,
+      "boost_clock_ghz": 4.5,
+      "tdp_w": 105,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 28287,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+5800X3D&id=4823"
+      }
+    ],
+    "price": {
+      "krw": 578400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 578450,
+          "title": "AMD 라이젠 7 5800X3D 버미어 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=Hge3pyjyH%2FCnXofzNba1vv%2F%2F%2Fw%3D%3Ds2ATX1rQDKR32UbymAdLfkE0NcmVrk6DtxA9ShpcAqLpHDvMmWU6dNgnAexfH4if3VymjrRnMGtpPLJu93%2FFF6MmxgNDMjzDMueTvxSDMBq95Wobx%2FWd8%2B%2FgsxFrp%2F9BdfCeMWPaqbGfjro5r8CfNg06rFCpqdGtbGMQqPiOWefGAbCY81f975eS5nfR25FBiR2lckaTc8uOUqRFs9uuoCvmq1twCs91wYiVurzcNTncO3OzvFIF3OkBIsEbkQDu6wAkfzf4Y%2BH4mPSfB7Mj8Xo3Tf68Y13zcUyCb3yNESkxBaNVuXcJiemfhCJ1ZzOvFW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0Nf%2BC88TFdeidgBVIZyBM6lC8IvS%2BNPsEPJ7D6mlNi%2F5PvkX5AhAludinyxvxh%2B6ZLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICH9X7MtX6lgjUM%2BVvYRS5kgEq0ZrQc3Y%2BGVreqNWMLQR1S2ZuL9nD0JAbW64PeVXPJOKRxLNI3w0lvKsYEV61mUNfss1ey1bGvSCvfHRCnYgza333sscQKSD%2Bz7selTyEX2bJ6cBaCdRcn7pNFWux7HJBorW9psysrI0Yu072CVIEBhNg6pO%2F%2Bw6bSRwW%2FduOkqS6Vui9v0cxBnass%2B0sTOHNEdkZMIfj1qG6i8kNUULYDfkLIyuldBS3f8m8e6nLmzUhNzs2VE%2B%2Bisqs3JAEppg%3D%3D&nvMid=59388850904&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 5800X3D",
+    "image": {
+      "file": "amd-ryzen7-5800x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-5800x3d-og.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 5900XT",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001581WOF",
+    "series": "Ryzen 5000",
+    "released_on": "2024-07-31",
+    "summary": "AM4 에서 16코어 32스레드를 쓸 수 있는 작업용 프로세서",
+    "description": "AM4 메인보드를 유지하면서 렌더링·인코딩 같은 멀티코어 작업 성능을 높이려는 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다. TDP 105W 라 듀얼타워 공랭 이상의 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "16코어 / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.3GHz / 4.8GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "64MB"
+      },
+      {
+        "label": "TDP",
+        "value": "105W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 16,
+      "threads": 32,
+      "base_clock_ghz": 3.3,
+      "boost_clock_ghz": 4.8,
+      "tdp_w": 105,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 43870,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+5900XT&id=6187"
+      }
+    ],
+    "price": {
+      "krw": 527800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 527770,
+          "title": "AMD 라이젠 9 5900XT 16코어 32스레드 언락 CPU",
+          "url": "https://cr.shopping.naver.com/adcr?x=s1b8wshEPbFmRHzxnTt28%2F%2F%2F%2Fw%3D%3Ds9ss%2BolyIwBVMBqX5thJN3aARkUcXKqDtIJAOAy8ZlKiPGIrDThUCdfA648p9KVy0a6OXFTEDg7upzFOU63IeL60hahjMRcdTOkUL3h4cF%2Ff2zvp6extyzTcRr7jCNbjjF9%2Fnu134HbMMC7FAKmQt4RjIc%2FuFeqtwxbCdX%2FJknqZLhv4nBWN6vYRnY66Pfp8UJyKwo0Ym9I9X4QEEyG%2BcXfRNd5dJ7MfqCtuVz%2FsvBNZfsCa4ZM1v0N84nLTsYJ28FI7RaSrblzUwN3IJREja9LngnxQ7ssMZd09T0OjyjIxearTBvydD1LUI3JWpCADIjUlDymOjO5j%2BelO%2F8JDqx8vau6XjdHCmCQaf0r5g3M3aoa2lSk6%2BN%2BRBA9YCfFrshjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PEFiv3v4X%2B3w5f2C2StqQ1KbjVr5bdWlq8%2FjiCPfJTrAKVB%2BaLNCNX13VqN28LLuN0CKFgLxULWO0pCY1YXf1W0j0Ae2onkoJ22ZCbIuK1hnyVDMq7T6%2BDF2vXuuVN6soZbS0AyFHgRRGJY25xqaLn5LSUYOL4mAtsx5uBKF5dn7TFzrzSOUP1VoMuYWRGOd92aNao%2Ff0MZL3rWv11lgqUvJ6dudJxeLpqX4GieHINUXn9sQeNuecT%2BufF0h0hbFo5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=91357691511&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 5900XT",
+    "image": {
+      "file": "amd-ryzen9-5900xt.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-5900x.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 5500F",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001905BOX",
+    "series": "Ryzen 5000",
+    "released_on": "2026-09-10",
+    "summary": "2026년에 새로 나온 AM4 초저가 6코어 프로세서",
+    "description": "최소 비용으로 AM4 게이밍·사무용 PC 를 맞추거나 오래된 AM4 PC 를 되살리려는 사용자에게 맞습니다. Wraith Stealth 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3GHz / 4.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "16MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.0,
+      "boost_clock_ghz": 4.4,
+      "tdp_w": 65,
+      "memory_type": "DDR4",
+      "integrated_graphics": false,
+      "generation": "Zen 3",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 20448,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+5500F+6-Core&id=7509"
+      }
+    ],
+    "price": {
+      "krw": 248200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 248150,
+          "title": "AMD 라이젠 5 5500F 데스크톱 프로세서",
+          "url": "https://cr.shopping.naver.com/adcr?x=xkCqJezFln%2FDxlbmMenYIv%2F%2F%2Fw%3D%3DsXNrO7FF4IhxnaoI9r8nmg56Kc1PKiECWsAZHiUl6%2FIKUqLKq4W7rdLzAi3DGbL99kqYuez0ngGqt24WkK6gytEGIIIHXOu%2BUo31B%2BWVEGJj69G5TuE8X91ACqzCPypZ43Vq47J0YLBBtGlwH28KYyh8409k3btsEOuEbx7jhpAvD7DECy2SuC9oTDAbgv1Wso0TI%2BIWWuqHTaUQ2cSB561N%2BlVnN6AJZyJAWmRXKKcndKc%2FVlbsxlWKfu96A%2B1ujNb9WosZu7RwI0TUihFYPLoDz7xQBndn244A8ZC5J7NSYiI3nWOaESQ7yOTEwFMn8a%2BpHa6ewb0%2FDpcGez9%2B2Mmaf7oVVn%2BbTDsruUdhAA7tBeoF8oTzSzXXk45YP80j%2FP0Wr3T0uZBobnMSHEv8c6LPfEzWl7zbABxjBTZLBP%2FQGeo7MLb2Y6XfS%2Fw97ypcEGjknALtUeizEszgRv2reWaRQA1EP4tYIvqt%2BrReCSikoGUxXpd9Zmh9ey7M%2F3g0tLY0axUkSSDLmSCBMCcI5WWYfRjZd%2B4ExJOx1vPRUNGAdzAGq%2FYOGPDtSf0O%2BA83FOgXnTMf6xDnl5TVpubsYWqYRirGVYT4bD3k%2B3dd1%2BXtleqn4D37rd6ECR%2B3j%2BdSaNGVDJEN087vtA8RsV%2FzXSNmVVgsMQmmcjxwXoIw9IhZsByA7go8tgFrB1Ekmdze3qzTLFpPMi2XC%2Bg19SVxejA4SwcLvxUEucVmH%2BcOht40%3D&nvMid=62066025515&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 5500F",
+    "image": {
+      "file": "amd-ryzen5-5500f.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/4966736-ryzen-5-5500F-pib-product-1.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 7400F",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001845BOX",
+    "series": "Ryzen 7000",
+    "released_on": "2025-01-09",
+    "summary": "AM5 플랫폼에 가장 저렴하게 들어갈 수 있는 6코어 프로세서",
+    "description": "DDR5·AM5 로 시작하되 CPU 비용을 아끼고 나중에 상위 모델로 바꾸려는 사용자에게 맞습니다. Wraith Stealth 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다. 아시아·태평양 지역 전용 모델입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.7GHz / 4.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.7,
+      "boost_clock_ghz": 4.7,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Zen 4",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 25652,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+7400F&id=6603"
+      }
+    ],
+    "price": {
+      "krw": 161000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 160950,
+          "title": "AMD 라이젠5-5세대 7400F 라파엘 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=rszudOh2bwl5mTEliZsD1%2F%2F%2F%2Fw%3D%3DsThAfgywELNN3VchwwSSPUI%2Fbu5EHd%2BLlLvazhsyWoYWUqLKq4W7rdLzAi3DGbL99mf4FY4cWW8PMKVdVnltfyEPsJs1uWeLUHoGh3eTnVphfAFFXj7TublVEZjc1Cyx3RZ%2Fxwsur%2FjMYDDwTClzkoGedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorqPA4PnsDKQPTwqMuWwcsaa9%2B6AUXt5%2BwysAKs7GQyXlBG%2FhfW9bTHRMTmYsYJNaEKj3c3SZCTTE2Je19PD7K%2B2LZFWknGe2NnZKOYhpSzrRyBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5s4DwDz2J0CEhUv%2FRmDsK16dTQBxJvr%2BQ6ZPFK1S0TWlvVBDMIut42nyyM8MGNK2LGlHFx1agZ7VJ8kUFqTneBvzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7t2TTsplRWPJBrCD%2FO0WRV1O6%2BzuO6rCq2z%2BHmPhazXmav6XjZuqQFwu5%2F0cjmFLvdPX5opBk33vnjlwG0gFl2StR28aMZgYUXWene3iNlmv1F1WXHIA%2BjmyGsfL3raaCtb5u8kwGDfF%2FESgwgl3KG72JUVAoNCWvgZIqVi2y6ubJRN64mBm9G8QruBkLDcHT6kr4jCIL8x2do773NAwpuJvo5WipIs0zWGDIN%2BP8irVhvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=59386812298&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 7400F",
+    "image": {
+      "file": "amd-ryzen5-7400f.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3056700-ryzen-5-7000-series-pib.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 7500F",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000597BOX",
+    "series": "Ryzen 7000",
+    "released_on": "2023-07-22",
+    "summary": "내장 그래픽을 빼고 값을 낮춘 AM5 6코어 게이밍 프로세서",
+    "description": "그래픽카드를 함께 사는 가성비 게이밍 PC 에 알맞습니다. Wraith Stealth 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.7GHz / 5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.7,
+      "boost_clock_ghz": 5.0,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Zen 4",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 26492,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+7500F&id=5648"
+      }
+    ],
+    "price": {
+      "krw": 165900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 165880,
+          "title": "AMD 라이젠 5 7500F 라파엘 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=lY6q0nNQ6h2VpTGDCo5I%2B%2F%2F%2F%2Fw%3D%3DsAO4V0kJ3MeGsw%2B3IylhNwnntcLDY83wbu5mGvTWeuWW9Ytz7M5%2BJN4sOpTvAbQT4%2BX6PZyvLHCJ0Mi2F1Q9RuyAPJmQPDxeokUZgJrtRsW8zLro4TqLi30TQO5Chzs2Mf6%2FNEqMJzQQr9S3KcXWHvUSm%2B0w%2FmPLUFOWk%2FbhLHMaAbCY81f975eS5nfR25FBiR2lckaTc8uOUqRFs9uuoCtXAItC%2B%2BZkp8sDJJiQwqFQO3OzvFIF3OkBIsEbkQDu6wAkfzf4Y%2BH4mPSfB7Mj8XvQZzWBui4Q6O06GbqfE%2FVAoQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE21nWzNLtxe3EcdJEFUNQ6BdRC%2BzwYer6Ps69Q2%2FK%2BLLGz3xM1pe82wAcYwU2SwT%2F0BnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopI9L65w4%2FI3jboMZRZsi9eS2NGsVJEkgy5kggTAnCOVl9S4XRbWjaAqSlintmIKXasSuWWM8NRVOEhlFgEsCLiK%2FAeof6Th10ONXPO7lPr6VyiIRe3tYbLo4wb4bqTs589qu%2B8XGp7EwuLzBECJ35In5M69nyFiKdbvRGHlmWD5eIDf9TYDOC4LzgCehLsur5Bqk13f75weL0tChbZnHoN82vbSza91iyEe4E1NCpjs7ke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=59386802519&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 7500F",
+    "image": {
+      "file": "amd-ryzen5-7500f.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3056700-ryzen-5-7000-series-pib.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 7600",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001015BOX",
+    "series": "Ryzen 7000",
+    "released_on": "2023-01-14",
+    "summary": "내장 그래픽과 쿨러를 갖춘 AM5 표준형 6코어 프로세서",
+    "description": "게임과 일상 작업을 두루 하는 첫 AM5 PC 에 무난한 선택입니다. Wraith Stealth 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.8GHz / 5.1GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.8,
+      "boost_clock_ghz": 5.1,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 26963,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+7600&id=5172"
+      }
+    ],
+    "price": {
+      "krw": 223600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 223580,
+          "title": "AMD 라이젠5-5세대 7600 라파엘 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=ycuCtojxCqj%2BHje8YtSzPv%2F%2F%2Fw%3D%3DshWgQZ0Sdyoinimb6gUYnspQFcPI4T7mwNyp2uater6uUqLKq4W7rdLzAi3DGbL99AY6HfcvajxDdGrSjdNZVhEMhEsayPhU9mF59a0YFhNpa1bhmbzkQMx88dsJAQC8EuXBqfns4vPA%2F0sTDFhLk2h4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnUWtxeo6tP2XmYE%2B4VtK9Z9NnISW6OZmdGeFGB0dKx4Ew2vwhw0PHGztbJN%2F2oP290af%2BF8wNrlepeHBZjNAMT%2FGwj8elOUouGR3zA%2FjsW1p4GZOWDySDyO5JDo7h3ZlIfixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJRLCsHoQ9zRQHASWemlmQNjTe%2BkqLHLzEEvEqBO43VBeVd%2BqILAG09hjAR1K3qLYkBqAVhelDIl4FQh8t2ZoAB9njoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbW1iqZlzMFwCMxU%2FRfW8rDfrNKQ9a8PKQ81hhNjD2GHDtD9KGycXn62LBjwCdRif90wiAidLsYt4jmztna9vUl24MCG06IRV7r3Ea9etNwKZfzlc6qUFnguDny5F5DTKvd%2BISsGZd5%2FHIt8brrHFAxpE7jmGhhsnmgtNRAkaKi8idRVzeFw%2BNQtSCQclpkH2EUNauEcRynSn%2F8orOK7nc90wfp%2BfPmyYGlrJK0W08WXicvBC4Cxr%2FBLqcMubSzyGzRXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=59386826581&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 7600",
+    "image": {
+      "file": "amd-ryzen5-7600.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3056700-ryzen-5-7000-series-pib.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 7600X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000593WOF",
+    "series": "Ryzen 7000",
+    "released_on": "2022-09-27",
+    "summary": "높은 기본 클럭으로 게임 반응이 빠른 AM5 첫 세대 6코어 프로세서",
+    "description": "클럭을 중시하는 게이머나 오버클럭을 해 보려는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.7GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "105W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 4.7,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 105,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 28257,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+7600X&id=5033"
+      }
+    ],
+    "price": {
+      "krw": 305000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 305000,
+          "title": "AMD 라이젠5 7600X (라파엘)",
+          "url": "https://cr.shopping.naver.com/adcr?x=NLA7VgkI3SPsz1msxav1d%2F%2F%2F%2Fw%3D%3DsmQGFWpdpNGbQgcMLIhIlCbBKwGwJB7KDmOq2Gw5a9ca9Ytz7M5%2BJN4sOpTvAbQT4nBGHWERhGRoq%2B6vktXdZ0pKGDmRtSmUiwK7w5cvplccmFyhvDOxeb4Z60NUJ5zzYTKCODzrpB2P09FdGNo4EQWL4rO7b3n1cNKKnA9jmyS6AbCY81f975eS5nfR25FBioL9i5KDBsLoJUFXmhzoxtsdJv%2FdQdAcgEcFPnPpRdvsO3OzvFIF3OkBIsEbkQDu6wAkfzf4Y%2BH4mPSfB7Mj8XtVUqDieHPKPol4QIHYqdzMoQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2snyY0m6O6EC7FPjjhP2sv9RC%2BzwYer6Ps69Q2%2FK%2BLLGz3xM1pe82wAcYwU2SwT%2F0BnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0Xgkop6DdHLZpXm2WLQd4uVeaEOS2NGsVJEkgy5kggTAnCOVl9S4XRbWjaAqSlintmIKXaAOFFntlOoTGqAw%2F05R4KuC3zW5wumjI2cAIAAH5yhntwOiZzUecG%2FVH1yW7aALSg%2BFqFkOVzClJNi9P5P%2Fp6yyx8NBbwXGT9eR0fO9WxdMMNauEcRynSn%2F8orOK7nc90IoVTVhGzfM04OfRCfGcsBzwGmsLlfBL%2B4B4h%2BvluLtnke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=36950983619&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 7600X",
+    "image": {
+      "file": "amd-ryzen5-7600x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-7600x.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 7700",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000592SBX",
+    "series": "Ryzen 7000",
+    "released_on": "2023-01-14",
+    "summary": "65W 로 8코어 16스레드를 쓰는 AM5 균형형 프로세서",
+    "description": "게임과 영상 편집·방송을 함께 하면서 발열과 전력은 낮추고 싶은 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 출시 때 박스에는 Wraith Prism 쿨러가 있었지만 지금 판매되는 박스(SBX)에서는 빠졌습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.8GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 3.8,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 34313,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+7700&id=5169"
+      }
+    ],
+    "price": {
+      "krw": 347300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 347340,
+          "title": "AMD 라이젠 7 7700 라파엘 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=8N5kMODvznijfCn%2FEtjFj%2F%2F%2F%2Fw%3D%3DspxSPfBCIODAmd3enzBMmgfryyK%2BNnoEBL%2BeMkx7fOtpHDvMmWU6dNgnAexfH4if3wLu4KMNuu%2FjoMpmdA2C3Qdx4iALO1Q4KFA50r3yslHv8yfkjwdOVp8ytGlCX1HUooJWWbJ67eY8yrWnDmbb38R4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnUWtxeo6tP2XmYE%2B4VtK9Z3snWCKdnBlNhxLcEMehGvkw2vwhw0PHGztbJN%2F2oP29bEK%2FA9KyJgayFErFDgylh3WZ0qHRAcXmzBshLgMvQDJ4GZOWDySDyO5JDo7h3ZlIfixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJTeLEmlsVu0m%2BmOtkqLFybc%2Fz5Wq3N%2FcmLhQo%2FJt0qSjFd%2BqILAG09hjAR1K3qLYkBqAVhelDIl4FQh8t2ZoAB9njoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbW1iqZlzMFwCMxU%2FRfW8rDfi3JHcemDISK56VMc2QYRA9D9KGycXn62LBjwCdRif90wiAidLsYt4jmztna9vUl2V%2B5cDPS6PQ0LriRMBSzzFkHa1k6gQll%2BC1bD4f7NFXVQoehM1q70Cooo3xWZSrOGbQYZiSYBQSAPLq6lRCbt56oHF1RZPza7RcHGV1E7CT%2B%2FhgaMkJIhbUi8HFdPXAb3nNHht2UEjt0lQCX080GvHY8V9VsZWDi0rnnl6pYQjdsdHI8FZtQVGFZJxOyBDKc%2B&nvMid=59386804112&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 7700",
+    "image": {
+      "file": "amd-ryzen7-7700.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7700.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 7700X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100002235WOF",
+    "series": "Ryzen 7000 X3D",
+    "released_on": "2026-07-16",
+    "summary": "3D V-Cache 96MB 를 갖춘 2026년 출시 AM5 8코어 게이밍 프로세서",
+    "description": "7800X3D 보다 낮은 출시가로 X3D 게임 성능을 원하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 최대 클럭이 4.5GHz 로 7800X3D 보다 낮습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4GHz / 4.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 4.0,
+      "boost_clock_ghz": 4.5,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 32742,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+7700X3D&id=7425"
+      }
+    ],
+    "price": {
+      "krw": 385700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 385730,
+          "title": "AMD 라이젠7-5세대 7700X3D 라파엘 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=ynx9aHgdmr8ZAyPIWSgYqv%2F%2F%2Fw%3D%3DslOjF3Ftn9ba4LZeCcL5Iy%2FKPfHc0slgyWmoXoPak0VtHDvMmWU6dNgnAexfH4if3ERSNTuSTWkD8QG12z8Pau43jPi0zv%2BgjoJ981qGNwwsBpGnuzJFVwAywh3of7dA0qxC0NIHQJ1jnlz%2FX2dbMwyYKS9JHI%2FmKZ8JGRxVDwYiAbCY81f975eS5nfR25FBiDjXjuJpn7qO9J1FKO1d%2BxdBGQJvrRhLWWst3fjMc1D4O3OzvFIF3OkBIsEbkQDu6wAkfzf4Y%2BH4mPSfB7Mj8XkHdvafweyZZt3AlEVtSNMNBaNVuXcJiemfhCJ1ZzOvFW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0bF%2B3S733nmq%2Fdhaxs428mFC8IvS%2BNPsEPJ7D6mlNi%2F5PvkX5AhAludinyxvxh%2B6ZLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHk3hswOm%2FLEeF8FsWpK8lJ0q0ZrQc3Y%2BGVreqNWMLQR1S2ZuL9nD0JAbW64PeVXPJTApp2Jg4eQUdToYGZj3whmh9hIrtfwYtSkGlKcrV1RyYja9vtOeWnpUvI71RPPV9oXsHekumvxAdKP7Mo5enpHK8JIIGEyj2VUS0XWlWUFt6s8TPcKwbAwsrCapExBW0v4YGjJCSIW1IvBxXT1wG98wpa6kB%2Fbe1dXaH2ounoPPxQBa%2F0%2B1Ew6TyHVkb1sbtDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=60963445734&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 7700X3D",
+    "image": {
+      "file": "amd-ryzen7-7700x3d.webp",
+      "source_url": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x3d.html"
+    }
+  },
+  {
+    "name": "라이젠7 7800X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000910WOF",
+    "series": "Ryzen 7000 X3D",
+    "released_on": "2023-04-06",
+    "summary": "3D V-Cache 96MB 로 게임에 강한 AM5 8코어 프로세서",
+    "description": "고주사율 모니터로 게임을 주로 하는 게이머에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 5.0,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 34279,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+7800X3D&id=5299"
+      }
+    ],
+    "price": {
+      "krw": 378700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 378740,
+          "title": "AMD 라이젠7-5세대 7800X3D 라파엘 정품(멀티팩,쿨러 미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=lb6qQVSrleyPpY3YuM0YEf%2F%2F%2Fw%3D%3DsEnN3SzfKLi3B2FbIqlhdWmpJc%2FshrSRHHyIRbV2wd1B30RygWPA6o5vp%2FKmeqEIUKv64ce%2B%2FIKGbozqqD1PCgfvprg8WbIpqohKI8RGvvJoaosQlGQ9%2FuJ%2B9592DdLTTS1q%2F6G9UGLMN25kBCwQVY2edW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorqPA4PnsDKQPTwqMuWwcsaV1LMwqD54Nl51o17R3yjD5BG%2FhfW9bTHRMTmYsYJNaEQNQiont0i%2FIOTvVQp%2F5S%2FaRTre0PPlQUXtBvVN%2FhQ08oQwhCDGfQ2bZmUiVa8GLlEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbvvZ7cy0V%2B%2F3JBsNssXBqvjTAK8DQvd69WayabzI3NRXGQim0uSGV45GygZvcFQrpBhQPidlwTRRL3jk%2Frh%2BlF3CtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4uU1BG1BVJTkQGn%2BwJC6lAkoJCxgMzJoDoNl7%2B7M%2FTLjnMVL19pBPebWio0mAoAcbASJQDWEmg55nDa3ayikIM5gHzhtnlbmrn6z27L%2BkMT5cO80sUY6k2tH7Kp1GiQOw4IWWtio8OmKZdjHLStEPNHZI0%2FUZ58ma7pTTGDM%2BBXDuUy967mlSa3mZfqZTLi6DqtpPgQUBBobxKZazoVaQIhk7aznuY8B8xHjr9sh4WBfqmIsVrOvTwUNvZgHipdICvQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=59386811006&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 7800X3D",
+    "image": {
+      "file": "amd-ryzen7-7800x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7800x3d.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 8400F",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001591BOX",
+    "series": "Ryzen 8000",
+    "released_on": "2024-04-01",
+    "summary": "값을 낮춘 AM5 입문용 6코어 프로세서",
+    "description": "AM5 플랫폼을 저렴하게 시작하려는 사용자에게 맞습니다. Wraith Stealth 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다. L3 캐시가 16MB 이고 PCIe 4.0 까지만 지원합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 4.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "16MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 4.7,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Zen 4",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 24360,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+8400F&id=6056"
+      }
+    ],
+    "price": {
+      "krw": 187500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 187500,
+          "title": "AMD 라이젠5 8400F 6코어 12쓰레드 터보4.7G",
+          "url": "https://cr.shopping.naver.com/adcr?x=zqjnrTIDQsI1mNLhJxeqIf%2F%2F%2Fw%3D%3DsBq8jizcohtB1QSMJMFMKn0LJlzciqjiRXkh6AKaCCLFzSgt0n4L3k3OyXm%2FfrnVBylxKpbWclfPBXF%2F%2BdIeE8YA%2B%2Bv3rDz6ETYUI4BvpLzOr%2FqvV%2FZ4rNmUjNPyPCOouHgccrdCG4CeJ9wgTgHDncj86lb0B19hdnuuWeOnwOJ6l20065Gsg88YNqdFq%2FjDPaqw2jg7%2BQamqP6TcYV88z1vtJfrhBLLfdFLfVu2CEIAzKs188hB20tl4c%2FW%2FNsEoisext5K2yYkF868rsMDqibe4XiEpG8OlT6Vn3ILnkxIvCdWjHcH%2BF95Uqzni2ZABx72P1MzfeDsyK%2BcBtz34gKUcXHVqBntUnyRQWpOd4G%2FNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrZzw8jHTzR%2F%2FF1uJw618Tu1yGCAIjKkNSFMSlMXTOuKRQgfJwSbciZ9nYaUGg38ASGMXuNurYQ7HtLLN4AwqXI6eBd%2FmQgTi2lGPowaKgGO%2FSftMlRg5ZCwEj0lPirMDz%2FVJfCSwnhyGus8mptzIFln8lV01GTY9SqosD28CDUWAKYTOF5KsHq%2BigGAc1pAeZ8CuSL77lwUMgQ2TiviECLdmyE4R0%2FjmQk6JJXjCoJIHATQoBoZyaGMgPFeI9gEXDQ1QmAmnoJRdq4K9btjkCM0%3D&nvMid=50053177878&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 8400F",
+    "image": {
+      "file": "amd-ryzen5-8400f.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2608523-amd-ryzen-8000-series-processor-product.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 8500G",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000931BOX",
+    "series": "Ryzen 8000G",
+    "released_on": "2024-01-31",
+    "summary": "Radeon 740M 내장 그래픽을 갖춘 AM5 보급형 APU",
+    "description": "그래픽카드 없이 사무·영상 감상용 AM5 PC 를 꾸미려는 사용자에게 맞습니다. Wraith Stealth 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다. Zen 4 코어 2개와 Zen 4c 코어 4개를 섞은 구성이며 PCIe 4.0 까지만 지원합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "16MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon 740M"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 5.0,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4 + Zen 4c",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 21356,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+8500G&id=5841"
+      }
+    ],
+    "price": {
+      "krw": 236000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 235990,
+          "title": "AMD 라이젠5-5세대 8500G 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=iyzzriso2um4hrxs4BIX%2FP%2F%2F%2Fw%3D%3DsknSOUTumr8QKuAPahVTxglLtrf7ErDaNSw2YJ2APzphzSgt0n4L3k3OyXm%2FfrnVBLdg3yX2r1%2BxAp8FXP4vO2XkZfGaQQcDtjLmJxfnOZqYiSJKDTRYXZowgiaugI0jXc0qfq7qlRgYt%2FW%2FGzHxmvkls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37Yy4x%2BMEOda9fe3RxgLLr2YliBNmeWBCyFtrP5k8DkUXy%2BsBwJuOIfCXZh1NCmRrvSDU8fu7ExeE6FN5rqSFbNtjmHlHoS8RZjL%2BMb2BSCAzzF4GZOWDySDyO5JDo7h3ZlIfixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJQQd8JaA4CAQdii%2FB3nWGKoyxHthEiN5TA0J5Z0RzHbOOp2LdD%2BbxXYDmNHXbecDBlAiLS3Z5TexLRuUS7J%2Fc4E6GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjnDAmfVMIoB7NIJyMP8N%2F6JI4C1WZKvJ2z8p1%2BjSbERO%2F3fNbHqARZwHmWnhk13yebT6uIUQnauy7sa09SdRjxd0ycfEBbI6%2FxQXSaDzFui2sxkyq4ApTErVfgWk7Wj%2FdRL9M2JlfXsU9Tj0G8ylVyw5sjkVEj6%2FTU21%2FqLKxHW6JTL3ruaVJreZl%2BplMuLoOq2k%2BBBQEGhvEplrOhVpAiGdTsgc%2F3E2Tdvk2D8C1pVO7yqk30kvhxRTTn3VMunaPJB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=59386843980&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 8500G",
+    "image": {
+      "file": "amd-ryzen5-8500g.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-8500g.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 8600G",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001237BOX",
+    "series": "Ryzen 8000G",
+    "released_on": "2024-01-31",
+    "summary": "Radeon 760M 으로 가벼운 게임까지 되는 AM5 6코어 APU",
+    "description": "소형 PC 나 그래픽카드 없이 시작하는 게이밍 입문 PC 에 알맞습니다. Wraith Stealth 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다. PCIe 4.0 까지만 지원합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.3GHz / 5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "16MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon 760M"
+      },
+      {
+        "label": "쿨러",
+        "value": "Wraith Stealth 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 4.3,
+      "boost_clock_ghz": 5.0,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 4",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 25178,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+8600G&id=5842"
+      }
+    ],
+    "price": {
+      "krw": 264800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 264780,
+          "title": "AMD 라이젠5-5세대 8600G 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=WX9US0uGMUGFswSGuO4FQP%2F%2F%2Fw%3D%3DsGbA%2FmqPso1nAAntga44X75918xSSw1vyUtEJkQTddvGUqLKq4W7rdLzAi3DGbL997Lnw9KK04LEgbH86co3kr%2BbnOo0dHfvJ0RlbtchrcA74ZZq8Li%2BM4Cc8v%2BWEhQiv3dCAmjgo1FG9DCs00mez5WedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorqPA4PnsDKQPTwqMuWwcsaRKTGVBCtFz9oDh5nBn770lBG%2FhfW9bTHRMTmYsYJNaEKj3c3SZCTTE2Je19PD7K%2B7tQXALEhWAfKBCfU6NZfvNyBpJZb0vuwZkjzgtxb7weWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5sNi7FxejXbK2D%2BLmD6MHOq%2F7BYK0DCaHtDsQx5XSR7YvVBDMIut42nyyM8MGNK2LGlHFx1agZ7VJ8kUFqTneBvzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7twYpcavvwFNpyNGq9n5GeQu6%2BzuO6rCq2z%2BHmPhazXmav6XjZuqQFwu5%2F0cjmFLvdCa3BjdEQhDmMqGJgXBBzSezbD1X9mxxU1Dc96eNlcSQCyeTAS0OBozSZJMT8GvwNYuvCm8oCWLHRmMAZHvXqxqflzGclxq5wxXHQEQROUmS%2FhgaMkJIhbUi8HFdPXAb3VQTSRJuYv90h%2Bv0UruRrJvdIiYXc9LNWN1ZmtY2ga9oOEsHC78VBLnFZh%2FnDobeN&nvMid=59386726699&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 8600G",
+    "image": {
+      "file": "amd-ryzen5-8600g.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-8600g.jpg"
+    }
+  },
+  {
+    "name": "라이젠5 9600X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001405WOF",
+    "series": "Ryzen 9000",
+    "released_on": "2024-08-08",
+    "summary": "Zen 5 아키텍처의 AM5 6코어 프로세서",
+    "description": "최신 플랫폼에서 게임과 일상 작업을 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.9GHz / 5.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 3.9,
+      "boost_clock_ghz": 5.4,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 30024,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+9600X&id=6199"
+      }
+    ],
+    "price": {
+      "krw": 258900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 258949,
+          "title": "AMD 라이젠5-6세대 9600X 그래니트 릿지 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=4KC36H3tan7TtMsmU7TFRv%2F%2F%2Fw%3D%3DsJYgZmx9NNBy8sZSWzlElp7bDAhyKShQ9y3clCD49kR9zSgt0n4L3k3OyXm%2FfrnVBhg1zZK9VQ883xyUWfuIzHXbzaKRaxmELZ0YNdlo%2F64%2FLAdIU1BcPv2KH1MmvjZgfg%2BtEqR7qVEBVV3TWTURDjUls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YyngPRopBPq%2Fx9IGNr4MPtWrVZk1am2qkP0DIOMdSOq2isBwJuOIfCXZh1NCmRrvSDU8fu7ExeE6FN5rqSFbNtjqMWutRxm4reNUoj9YhIUCwn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7DfC7NjG1MNb1Rma3C%2FXfLDokh7KNEkkbwBBKOUFOEErJJotlpOErbHQXuXb3iQINh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8rXPGkxY2ZR%2F72gFOynNUcSytMuqNnc9UTwh8Vm2gowmktpQsS7TB5Yynw2RE7nmzQFv0r2T5iKbjfBa%2FQoJ45mTEzsWKfTS8iQdF0A%2BMJAhhHtKODVwKwHO5lla2DhdA%2F2tbBKWktUFi0aPWDEHqbrRVYcHD%2BwUCnTX9mWzU0CtAi6t2YUdrTty8VUlpYJhqiA3%2FU2AzguC84AnoS7Lq%2BQU0Sqj4zN%2Bs6wC7II2C8gD%2BtLBGZcQycECJtjpdda4P5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=59386807847&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠5 9600X",
+    "image": {
+      "file": "amd-ryzen5-9600x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-5-9600x.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 9700X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001404WOF",
+    "series": "Ryzen 9000",
+    "released_on": "2024-08-08",
+    "summary": "65W 기본 TDP 로 효율이 좋은 Zen 5 8코어 프로세서",
+    "description": "게임과 스트리밍·편집을 함께 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.8GHz / 5.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "32MB"
+      },
+      {
+        "label": "TDP",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 3.8,
+      "boost_clock_ghz": 5.5,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 36919,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+9700X&id=6205"
+      }
+    ],
+    "price": {
+      "krw": 400000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 399990,
+          "title": "AMD 라이젠7-6세대 9700X 그래니트 릿지 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=KloitxQLdtEBa7G1rSJUDP%2F%2F%2Fw%3D%3DsB5XinfKjve1feqwd7463voRwLHGUmsxfSkVUyG7VBa9HDvMmWU6dNgnAexfH4if3z7gKg%2FOc9SmQGIjKxOHPExFas1DsR6iDivU%2FlE4Y51d5MGINY0Jerr9MC1oTQ06AA1sImEEo2vca39VTgrwxjWedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorqPA4PnsDKQPTwqMuWwcsafvrNyRy5flP8NzIG%2B3Ej1ZBG%2FhfW9bTHRMTmYsYJNaEQNQiont0i%2FIOTvVQp%2F5S%2FfHtxRHEUorN5PI%2FCRgVbASDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6C2yeY5wEBGAnS1xTjSZ6cGovNxFWzA781dOsDXmXgY2YJPEWMYQtDG7lymtgt3ch%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFlodRLRt6rCCfVvE8n7w3UEO7bCAH0tMUJxiPm9exLC1V0F300dwyh04g0dc0VXNhEq6dmR%2BP%2BVn6JdCL4aW4RN1PbQLwldlLgp8jD07RaGWIAEZYyol3%2BIqE2D3Ow83Vl2uylpKDV54pENET96tzuRCI9SC2WIEzlhid5SL0IbHK31y7hHi4NfPCL62ZhTb5AYTYOqTv%2FsOm0kcFv3bjpKkulbovb9HMQZ2rLPtLEzgIZLMK4Qk%2FJDb%2BHeZpDQWBA35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=59386818131&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 9700X",
+    "image": {
+      "file": "amd-ryzen7-9700x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-7-9700x.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 9800X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001084WOF",
+    "series": "Ryzen 9000 X3D",
+    "released_on": "2024-11-07",
+    "summary": "3D V-Cache 96MB 로 게임 프레임에 강한 8코어 AM5 프로세서",
+    "description": "대용량 L3 캐시를 쌓아 올린 게이밍 특화 CPU 입니다. 쿨러는 포함되지 않으므로 별도 쿨러가 필요합니다. 2세대 3D V-Cache 로 캐시를 코어 아래에 두어 X3D 모델인데도 클럭이 높습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.7GHz / 5.2GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 4.7,
+      "boost_clock_ghz": 5.2,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 39912,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+9800X3D&id=6344"
+      }
+    ],
+    "price": {
+      "krw": 588700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 588725,
+          "title": "AMD 라이젠7-6세대 9800X3D 그래니트 릿지 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=7ilEuCL%2FnR8f%2BTnlsyDCXv%2F%2F%2Fw%3D%3DsDfpiKw8UO%2Bj33vwDjCEzreI9YTlkng8ZTbdtsoaEom%2B9Ytz7M5%2BJN4sOpTvAbQT42%2BH5h1lLjB7ls%2BrC0tHNNHJhi5QmrvameMrvFKAPSdN%2FJZF0fDt41AyWJrpAwRC7gnN3YLZp5ky7whMBQddesJnXJR%2Fb%2F7Koneb9dKXmA0LDpmNu2Rs3tEPrV0ZTODsbyRHaqJPDGfXlc0RXpWeTGBZ6Eba5OHofFOOdc0ykhzpOKXJBeUklJUXgtqMy6Zob1PYJIquYi4XmJiJz0cB2Sc%2FsHQFYxpsVerVOCR7V6uLzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpxVTPwb8%2BP4wg1%2Bm7y%2F9et4TzVUDO46F3YytPG2l%2FAet044xd93xbSyaWbaFcLMp2GRLnkbBNCx5RSG2wnOQjsYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8%2Fb3ZbG9bGrDZUGqK3ORTgmiPw302CJcP9ZrRGkgSGVhND7bO4ojDNe0KSiQZP8tDWFY1myX7%2BIYBnZfWTlQ7DxxL%2F%2Fg9wwdm7P2JfKcTa0aaqo2q5qYd4eSPo2a3ZgyJsoJd%2FkWKd0api1kJg8iLFgjK8trRSfxPK8xYty9URjPciUxgmcWCKvwl%2BmSYUhxvzDe4IgUptJorcOg4k3qgJ46%2F74bs%2FzNmznhIO5N5zjXD05JfwmrggirTRmv2kFFsc26I9su%2FSptAlgC0UM%2FdK8tVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=59386823040&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 9800X3D",
+    "image": {
+      "file": "amd-ryzen7-9800x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2900400-ryzen-7-9800x3d-product.jpg"
+    }
+  },
+  {
+    "name": "라이젠7 9850X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001973WOF",
+    "series": "Ryzen 9000 X3D",
+    "released_on": "2026-01-29",
+    "summary": "9800X3D 보다 최대 클럭을 높인 2026년 출시 X3D 8코어 프로세서",
+    "description": "최고 수준의 게임 프레임을 원하는 게이머에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "8코어 / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.7GHz / 5.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "96MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "base_clock_ghz": 4.7,
+      "boost_clock_ghz": 5.6,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 41299,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+9850X3D&id=7074"
+      }
+    ],
+    "price": {
+      "krw": 721000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 721000,
+          "title": "AMD 라이젠7-6세대 9850X3D 그래니트 릿지 정품(멀티팩,쿨러 미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=69BMr4NrJ9%2BmDHCXZjVh4P%2F%2F%2Fw%3D%3DskRmlhYSW2H5nKlBQdSRWXKSUzgXasXqPBC2bEIIZcqq9Ytz7M5%2BJN4sOpTvAbQT4aL7EX4WbFQcCI%2BNPTySSuS7GaXFOB1cJzFqetXm8Y1Mq83PXJpa7tI3S2ZfCO0N0Fk6WRxVhZwvm8FI1RThVbTkUNJLJPTmB%2BFet74aqXMzDpmNu2Rs3tEPrV0ZTODsbyRHaqJPDGfXlc0RXpWeTGJrHGwmdwTalrpunX4Ojf1tOKXJBeUklJUXgtqMy6Zob1PYJIquYi4XmJiJz0cB2SZ2SKz3LPNioLjW86KhPOXjzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEplIrPSbq%2B9rhEGqMdCLGyixmDd9%2BvSbvRbi17dfErmW1044xd93xbSyaWbaFcLMp2GRLnkbBNCx5RSG2wnOQjsYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8Z8fGRZo4XvxccuuCoFEiRZqTXkXeR%2BlphbK2F2rLN3tND7bO4ojDNe0KSiQZP8tDWFY1myX7%2BIYBnZfWTlQ7D7CGdourvZ%2BNSkEe4EhsKcaaqo2q5qYd4eSPo2a3ZgyJsoJd%2FkWKd0api1kJg8iLFvJwsPMctXkehw%2BDlFLtBdBiiZ9veSuYEHiQctO4Wvv47fjVyBApczcfIuDbuqdSWo6%2F74bs%2FzNmznhIO5N5zjWKxkYGlj6yWOXHdpHa6rkI9cHbcc1ey4f4bvoAeNRhX8tVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=59307385686&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠7 9850X3D",
+    "image": {
+      "file": "amd-ryzen7-9850x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2900400-ryzen-7-9800x3d-product.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 9900X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000662WOF",
+    "series": "Ryzen 9000",
+    "released_on": "2024-08-15",
+    "summary": "12코어 24스레드의 Zen 5 작업용 프로세서",
+    "description": "영상 편집·3D 작업과 게임을 함께 하는 크리에이터에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "12코어 / 24스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.4GHz / 5.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "64MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 12,
+      "threads": 24,
+      "base_clock_ghz": 4.4,
+      "boost_clock_ghz": 5.6,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 54284,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+9900X&id=6171"
+      }
+    ],
+    "price": {
+      "krw": 615900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 615890,
+          "title": "AMD 라이젠9-6세대 9900X 그래니트 릿지 정품(멀티팩,쿨러 미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=Q%2FKtpZP46khw8zYztVmNnf%2F%2F%2Fw%3D%3Ds8lXk8yOhKZyTX2yRXoXbn3Y6TBJQe94R5sDS88Muqqu9Ytz7M5%2BJN4sOpTvAbQT4We8paUnD6LN69KXy30UYiJE0SzP8VQ9WiR44NV0Q07dczkBckeWSKn1or8U6A3AURF1QCMCT4wEEaQuAfHe05VkuyopKfdU30a0sLpcpMbyAbCY81f975eS5nfR25FBiR2lckaTc8uOUqRFs9uuoCtMrYj6ZJkM7RWFqA%2F40geoO3OzvFIF3OkBIsEbkQDu6wAkfzf4Y%2BH4mPSfB7Mj8XkTsvvULFgrllE41tdbr8IzEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9zCq0q1jw5%2FszqHNB1DtxpiEhb%2B5%2BbgCLWD5ufmjwVaAKExFCIZURE7fe8ek7tCftLq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnWVDlz8EsRTpL6kEAmXQmHx8qUUSObZ51sYsjBeOsuXY8mUwVezLUz0S4HLiJ4l0p%2FhKPWgP%2BRrfcoYMigFExZ0fvgABAEocii8QX5sqxujCmon47NuKmZZ%2FX8XmxkznxauT5k8bUExzBluvu16eHQ4usGcjY1UT9KwCSLP%2BhX2ROD%2F1THcsf2CCOudchN%2BOywtIYh35n85gCNF9XAudNitgCgu8TH6IETI9IR%2BJIKXd4XWWse9pm6Ue%2FX6uOuSjJnLywBF6TPdyrHi5pSyQkVg1QmAmnoJRdq4K9btjkCM0%3D&nvMid=59386810960&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 9900X",
+    "image": {
+      "file": "amd-ryzen9-9900x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-9-9950x.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 9900X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001368WOF",
+    "series": "Ryzen 9000 X3D",
+    "released_on": "2025-03-12",
+    "summary": "3D V-Cache 를 더한 12코어 Zen 5 프로세서",
+    "description": "게임 성능과 멀티코어 작업 성능을 함께 원하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 3D V-Cache 는 두 CCD 중 하나에만 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "12코어 / 24스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.4GHz / 5.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "128MB"
+      },
+      {
+        "label": "TDP",
+        "value": "120W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 12,
+      "threads": 24,
+      "base_clock_ghz": 4.4,
+      "boost_clock_ghz": 5.5,
+      "tdp_w": 120,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 56045,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+9900X3D&id=6548"
+      }
+    ],
+    "price": {
+      "krw": 1005100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1005120,
+          "title": "AMD Ryzen 9 9900X3D 12코어 프로세서",
+          "url": "https://cr.shopping.naver.com/adcr?x=PPFELqsHK3r8wROsYtVdaP%2F%2F%2Fw%3D%3DsHT26HjL%2BAdw69J0GzKRro7FtlFDZdMQGU0pY1JY%2FuqTMfzDTjXeNk2BpEJhg9zvfgBCgH%2Buc2EUaYCnWR3TcZDkoQzbMHE%2FrBkhlCuNgW4%2FVnGls3iggfnjhqz%2F00OHb4vsFssX%2BdzN9YgyFSnTTBzAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDua2fILS7hnbN1ch%2B0qi%2FK7eChPttOI3M5326cWKdVWQCDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ69z0XdEKj2hiTxcqIzkA7AcWN%2BziPsuQEC%2BxEzJ3hoSICR4GJ6T9nED8LVDz3bCknpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQws4GmxCfg9sQ1pbpvshgE7QqUq1WvNuNnG6Hv%2B8WJT388Ewul4L%2B64d%2FVEo3z5IFqKoMtXH0B8Die4aqxfhcUlv8yE4dYmjqgIWuINlBMAKASaV2h2SyRKypuJv5Y5kcSBLcgt10ZrROkq8k9rAQ0eSlzjJeLq11EuCCtbxG3chjS9b4bs%2FP4PPEMU6MRIxa%2Bpv0Kxcvt%2B1ghx5qqFF67jBqrQD5RyJ9FHYJLHNDwjwRWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=91141238378&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 9900X3D",
+    "image": {
+      "file": "amd-ryzen9-9900x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3021650-ryzen-9-9900x3d-product.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 9950X",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001277WOF",
+    "series": "Ryzen 9000",
+    "released_on": "2024-08-15",
+    "summary": "16코어 32스레드의 Zen 5 플래그십 프로세서",
+    "description": "렌더링·컴파일·인코딩 같은 무거운 멀티코어 작업을 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. TDP 170W 라 360mm 급 수랭 같은 고성능 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "16코어 / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.3GHz / 5.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "64MB"
+      },
+      {
+        "label": "TDP",
+        "value": "170W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 16,
+      "threads": 32,
+      "base_clock_ghz": 4.3,
+      "boost_clock_ghz": 5.7,
+      "tdp_w": 170,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 65704,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+9950X&id=6211"
+      }
+    ],
+    "price": {
+      "krw": 959000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 959000,
+          "title": "AMD 라이젠9-6세대 9950X 그래니트 릿지 정품(멀티팩,쿨러 미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=W%2B15%2BhWkbEu1fByxF2fs%2Fv%2F%2F%2Fw%3D%3DsNwXJvZB%2BE87YlMJC%2F8RSuj6AF%2FeXlZcEfuCGknX9i03MfzDTjXeNk2BpEJhg9zvfno%2B5HVZXQ9UXby5J3Xh1R2T3PuZXUGzfA%2BZPNppSF0awCPYfr5PBP6FUIHoUCnjb2dQ82SCqpKnN5UbLvfCV8Uls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YyLiQSfsxO4ApeO5Oa%2BStRXkZtTSFZxzN8Gju9COSQVRWsBwJuOIfCXZh1NCmRrvSDmzS%2Fk5rhb57tOWEG1GUgPo2KDOnLiujximPO5bLnlDUn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7MCfM0wSgriteA7SogOAOZDokh7KNEkkbwBBKOUFOEErJJotlpOErbHQXuXb3iQINh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8jIEf1Liizy8q%2Bu0ceK1WniytMuqNnc9UTwh8Vm2gowmktpQsS7TB5Yynw2RE7nmzf4ee9pDMZIp6dhcbymmGXAnFxCYg4rOn57ZrQG4PCxJhHtKODVwKwHO5lla2DhdA5cwcQXVK%2BjQixWF3N0VZrtqpc6O3RO768SU%2BGjvXwbslCOhdXego5Lkxhq9hnFSFiA3%2FU2AzguC84AnoS7Lq%2BVdSTWbT2aof61aXye9h2843pPwmf5%2FbwtTU4abBg5ZL5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=59386821036&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 9950X",
+    "image": {
+      "file": "amd-ryzen9-9950x.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-9-9950x.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 9950X3D",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100000719WOF",
+    "series": "Ryzen 9000 X3D",
+    "released_on": "2025-03-12",
+    "summary": "16코어와 3D V-Cache 를 함께 갖춘 AM5 최상급 프로세서",
+    "description": "게임과 전문 작업 모두 최고 성능이 필요한 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 3D V-Cache 는 두 CCD 중 하나에만 있으며, TDP 170W 라 고성능 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "16코어 / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.3GHz / 5.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "128MB"
+      },
+      {
+        "label": "TDP",
+        "value": "170W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 16,
+      "threads": 32,
+      "base_clock_ghz": 4.3,
+      "boost_clock_ghz": 5.7,
+      "tdp_w": 170,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 70112,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+9950X3D&id=6549"
+      }
+    ],
+    "price": {
+      "krw": 929000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 928990,
+          "title": "AMD 라이젠9-6세대 9950X3D 그래니트 릿지 정품(멀티팩,쿨러 미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=CHk9KEkgTA0GowCajaPJMf%2F%2F%2Fw%3D%3DsaVfA7WL3wXn0o8jKfCbzEBy2gh6gNw78nvt%2BOWLY2HnMfzDTjXeNk2BpEJhg9zvftnvkpuTIxR5wnMcDyVozioczTN0XaehuH6uIksufY0GWEyfZUYl%2BkeUgckw72wnxgd4yRVOpUkqZM5A2hLTCKmedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorqPA4PnsDKQPTwqMuWwcsaU6OlkiBbkV5WJarlocajClBG%2FhfW9bTHRMTmYsYJNaEksXyN2Fd5lMbKeSC68BIMrApehcD05tX6KzWFLhUi8LEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9MBnysrXyCBW8StZSNtY%2F5hWNAKkiTmTHiwlbaGtF%2BcrQK3JJagx%2FKjdf%2BwIbTqlafl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4ARkEuxS9beoEuctgiyqzZ1HNW06yZyz11cwdDfG5ktpwu%2BccDw1Y6BdrFjUShFynw2D%2Fq1zc8SZ1oLCbJbrVlm%2FWXACDqC4joBp1%2BgQtnRiKmon47NuKmZZ%2FX8Xmxkznx5elJyMqpF6H9Mw4YcVrpTOGgxUVM%2F4ktuvv7NoLYec25vhUPaYSjSk%2BPUIDD0r7LwtIYh35n85gCNF9XAudNitgCgu8TH6IETI9IR%2BJIKXdDg1euyjSA56NR%2FUFjj7rFF6HMxts570alTd60dovoCgau4fTwOUqyF63FjwpQRls%3D&nvMid=59386810768&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 9950X3D",
+    "image": {
+      "file": "amd-ryzen9-9950x3d.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3021650-ryzen-9-9900x3d-product.jpg"
+    }
+  },
+  {
+    "name": "라이젠9 9950X3D2",
+    "brand": "AMD",
+    "category": "cpu",
+    "model_code": "100-100001978WOF",
+    "series": "Ryzen 9000 X3D",
+    "released_on": "2026-04-22",
+    "summary": "두 CCD 모두에 3D V-Cache 를 올려 L3 192MB 를 갖춘 16코어 프로세서",
+    "description": "캐시 용량이 성능을 좌우하는 시뮬레이션·게임 작업을 하는 하이엔드 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. TDP 가 200W 로 높아 360mm 급 수랭 쿨러와 넉넉한 파워가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "16코어 / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.3GHz / 5.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "192MB"
+      },
+      {
+        "label": "TDP",
+        "value": "200W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Radeon Graphics (2CU)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "cores": 16,
+      "threads": 32,
+      "base_clock_ghz": 4.3,
+      "boost_clock_ghz": 5.6,
+      "tdp_w": 200,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Zen 5",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 72073,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+9950X3D2&id=7115"
+      }
+    ],
+    "price": {
+      "krw": 1403400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1403430,
+          "title": "AMD 라이젠9-6세대 9950X3D2 Dual Edition 그래니트 릿지 정품(멀티팩)",
+          "url": "https://cr.shopping.naver.com/adcr?x=vMrbiugFinQ7VyfmYHq%2FQv%2F%2F%2Fw%3D%3Ds9RloVqV%2F%2FR3J3nlkXlFE0VKT%2Fv9tl0Qm6tAoQ5ysyZDMfzDTjXeNk2BpEJhg9zvfrapSjr%2FMDmDwLQITRImnCCna1uQKL%2FskHFiCEQCLui%2BDkKUJNubjAxmuL1mQRWolCXsdoQOiYeouYILhhfN1KW3zn5KzDW0lR%2F%2FEaArCfhy54J8UO7LDGXdPU9Do8oyM7Wytfm47znAZd5drcixy%2FjTz8t0ziGeClUftcp50uYQaXzbXV1L9TTWo2dPLHLbiMyo4P6pY01FAi1491cod7MB5bo9Z4XsFRpJl4yvpnxg9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqmP4ghuvnV8aMJHqLfo%2BhZyEhb%2B5%2BbgCLWD5ufmjwVaAKExFCIZURE7fe8ek7tCftLq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnvDxLYJ8bUgc9uMb71R2yK72zgz4xKk7zqDGzp%2FGT9mw8mUwVezLUz0S4HLiJ4l0p%2FhKPWgP%2BRrfcoYMigFExZ3E9CNtiNIX%2FB0%2FBL7uRJhY0bHBNw9VhDq23yk58Vm0EpqJ%2BOzbipmWf1%2FF5sZM58V33%2FMhW1EnLIy71FdYBRoL9%2BkzHP9R%2Byvr58KI69rvK4ABd5mAdLHyMiQ7QcOtHAJTL3ruaVJreZl%2BplMuLoOqm5aY9SfiiYO2Fx34mLkQaEkp9GS8rmw9oGkeTt1PqBZqeJ71RyApiH13JmkaHnttB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=59813637174&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "AMD 라이젠9 9950X3D2",
+    "image": {
+      "file": "amd-ryzen9-9950x3d2.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/4270752-amd-ryzen-9000-series-x3d2/4270752-amd-ryzen-9000-series-x3d2-product-2.jpg"
+    }
+  },
+  {
+    "name": "코어 i3-12100F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071512100F",
+    "series": "Core 12th Gen",
+    "released_on": "2022-01-04",
+    "summary": "E코어 없이 P코어 4개로 구성된 LGA1700 입문용 프로세서",
+    "description": "사무용이나 가벼운 게임용 저가 PC 에 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "4코어 / 8스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.3GHz / 4.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "12MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "58W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 4,
+      "threads": 8,
+      "base_clock_ghz": 3.3,
+      "boost_clock_ghz": 4.3,
+      "tdp_w": 58,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Alder Lake",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 13953,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100F&id=4670"
+      }
+    ],
+    "price": {
+      "krw": 111400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 111400,
+          "title": "인텔 코어 i3-12100F 엘더레이크 벌크",
+          "url": "https://cr.shopping.naver.com/adcr?x=TAFs4ZyncCHzWJQojI3Zo%2F%2F%2F%2Fw%3D%3DsMATO2z%2F9U%2FNaEnzlOGHNecHjNQbit5hPvkfFb%2B649dVbvBPONTlS7fL8HtydAjJEMO5r5srjpOhTnr2lOhMGhJrCoL4aiPiKjxvujUpS3f1z8teh4kbM5gCp0HHRZyeTc1vXzObnVoNjDBC%2BcWgbych1%2B7M03jlRysmdQ0yCx9BVXemfpmeX70wC2wQT5nyieNfiM%2F7HpP4pE7xVN2uXdVdDNU7D3xMBJB4dX2AyRh3yBSt9v7BbbAqDFjYOm7gXsjTz2d7u%2ByEPwfTxo5jDtRP7R3d%2F94QgXuc84gFsIT3ueQ7xatssj9Owax7I270I76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFi47EMMpRt3ltkchRbN6TM4h9SqQCjLGtxd74j9e%2FalJkIptLkhleORsoGb3BUK6QYUD4nZcE0US945P64fpRdwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLrEaISbk85E%2F0zJMsaJmB3GCQsYDMyaA6DZe%2FuzP0y4587AY7VlKEn%2FvnjGOORTvadjMytaS%2BICKG%2FjEm5nIMKs8GmbeR4rdL6bSHWQhxJ4ymyPW7PiGjrQV8eMK8k7DwBCI9SC2WIEzlhid5SL0IbGnj%2FJgWjA2plzYKzsJELXGAYTYOqTv%2FsOm0kcFv3bjpNs%2B7nwUHUA7fz23ojqZXcPeX92ode5oP7%2FK3WsOzfo3A35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=59386801348&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i3-12100F",
+    "image": {
+      "file": "intel-core-i3-12100f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/132223/intel-core-i312100f-processor-12m-cache-up-to-4-30-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-12400F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071512400F",
+    "series": "Core 12th Gen",
+    "released_on": "2022-01-04",
+    "summary": "P코어 6개로 게임 성능이 무난한 LGA1700 가성비 프로세서",
+    "description": "DDR4 메인보드와 묶어 저렴한 게이밍 PC 를 맞추려는 사용자에게 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "6코어 / 12스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "2.5GHz / 4.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "18MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 6,
+      "threads": 12,
+      "base_clock_ghz": 2.5,
+      "boost_clock_ghz": 4.4,
+      "tdp_w": 65,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Alder Lake",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 19525,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12400F&id=4681"
+      }
+    ],
+    "price": {
+      "krw": 151100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 151100,
+          "title": "인텔 코어 i5-12400F 엘더레이크 벌크",
+          "url": "https://cr.shopping.naver.com/adcr?x=8DtbcP6FBtvkRi27y5MQTv%2F%2F%2Fw%3D%3Ds87zJzYdRqmxWWge0y7IWIH8Cpv4PHCKBbOcTDXPORc1bvBPONTlS7fL8HtydAjJE%2FgUOtadP%2Fc58%2FvNJ0L8JFN5Kq7jWeaj8oLnfCSs%2BYL%2Br4PGBuOWEFG1%2BOqw6Umu88%2BUgHjMR3DXNyGmOGzv%2FyzJ%2BPA3oN1vn9Rns5eCqUAxVXemfpmeX70wC2wQT5nyieNfiM%2F7HpP4pE7xVN2uXda8AHX3fXySKJFKRKnk3rijyBSt9v7BbbAqDFjYOm7gXsjTz2d7u%2ByEPwfTxo5jDtU0jUVD0dpxhDaWD6JkrqGTueQ7xatssj9Owax7I270I76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFPW%2FWhsws%2BmqKZySCwtxb%2F3d1gpdyBcwRXbiqx5ZpwXxkIptLkhleORsoGb3BUK6QYUD4nZcE0US945P64fpRdwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLsbxsz6CqfhjWqhaSEeGXXyCQsYDMyaA6DZe%2FuzP0y4587AY7VlKEn%2FvnjGOORTvae0D9nabMoP%2BrI1koejLvdc8GmbeR4rdL6bSHWQhxJ4y5y0Tvgpyl%2BC8LNmUE5drixCI9SC2WIEzlhid5SL0IbGVMkKO9TVlnYCXSoDEV4FBAYTYOqTv%2FsOm0kcFv3bjpKkulbovb9HMQZ2rLPtLEzivwmAn8OE%2BldFmTua01Z%2BiVoWd0jB03C5aYq3HUc1IKtSSLJQZncWk8e8Ttfjz6Fs%3D&nvMid=59386824017&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-12400F",
+    "image": {
+      "file": "intel-core-i5-12400f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-12600K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071512600K",
+    "series": "Core 12th Gen",
+    "released_on": "2021-11-04",
+    "summary": "P코어와 E코어를 섞은 12세대 배수 잠금 해제 10코어 프로세서",
+    "description": "Z690·Z790 보드에서 오버클럭과 게임을 즐기려는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.7GHz / 4.9GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "base_clock_ghz": 3.7,
+      "boost_clock_ghz": 4.9,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Alder Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 27497,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12600K&id=4603"
+      }
+    ],
+    "price": {
+      "krw": 293000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 292950,
+          "title": "인텔 코어i5-12세대 12600K (엘더레이크)(벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=SfpZVM0hrfPvGEdQiI0Jof%2F%2F%2Fw%3D%3DsndHxoC37IHDAZ0Bd59np%2BhdbL2qxFBSTE0cQXc2dQyt%2Fs9TEj24NOW3UGcBrM8TEeL8p3Um37mrAsIsIPiBDElcWni7xiSLsqncIBFrdh%2BtM%2BOMVe5N9rCKIH98z6nKDCcREnpxs4UJ6rVArm1zkaVJhbPRy4RUVFOGNVtFhafAGquauMLS93KruDAcQuQtUtWGjuhfkl28VNS9XHwJ7YPq4MbAHpXaYepEkZa0oIlXDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8VIGxQy4u6lk4lQrDcv9MGlmqd1FXjUMF4JfB6mvX7hLHvY%2FUzN94OzIr5wG3PfiApRxcdWoGe1SfJFBak53gb80GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtgzTgFwF6SMnCBa2L7wvQjpoa5Mil8YwG%2Bpc39fsOKnn7B2OIhhl6y50OEFJdl30zVtLHwMKPqqG6BIZStwNwAAcVnvWZvv4K7Qcy7IrKqyMn5W73nYt5qB%2BJqfjtURv8HhquX%2BqRNk65FYSQ1fmHPYbqEZYdqFOIdW1WEQUbRwTZSdRApY2zO8pWxE7IDVSXy9O26Di8KMS%2BiGo7JDPn2cS0qxny5jl%2BuZLvhmVhqgDyjKDpakLbDedxAmYbTIeoaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=61527387675&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-12600K",
+    "image": {
+      "file": "intel-core-i5-12600k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/134589/intel-core-i512600k-processor-20m-cache-up-to-4-90-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i7-12700K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071512700K",
+    "series": "Core 12th Gen",
+    "released_on": "2021-11-04",
+    "summary": "P코어 8개와 E코어 4개를 갖춘 12세대 언락 프로세서",
+    "description": "게임과 영상 편집을 함께 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "12코어(8P+4E) / 20스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.6GHz / 5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "25MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 12,
+      "threads": 20,
+      "base_clock_ghz": 3.6,
+      "boost_clock_ghz": 5.0,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Alder Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 34228,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-12700K&id=4609"
+      }
+    ],
+    "price": {
+      "krw": 333100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 333100,
+          "title": "인텔 코어i7-12세대 12700K (엘더레이크) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=hIgEL%2BJcLmt5ZzV%2B%2Bxr%2Fkv%2F%2F%2Fw%3D%3Dsd5nUb0bSsey5%2B%2FxzH0TaFnQ0QkJQn9ifRkzKlvxtnv5bvBPONTlS7fL8HtydAjJEvENOF9uAw9n6iVDA0aO%2FsFlqHUdTQNNtnMkSPHsr7U7fGJA4Ww%2BgI7Txp5e2EKuMBWY08WhHYm%2FOP2GnRc4c91xGBZDqUi225ms3klPOPKphRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc92cO%2BySH9BjAZzTSTXB8BigBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2F0xZ7OGBgEUiyApW7DVGPvlVIfpNusuqE3zhNGYaCjtBSKUkNh6zb3Mp%2Bo7N54HfGgF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFtBh72pHVuRQBI0cK8vxm5g%2FMaWYa0oHSj8LsVPT9m1FeOSKA6OTnffAGXWynSwKeDu4DEN61wdPPpywG9WzqPzio0rOMYsKa6VCkjiX0ehM5jcEObdmiXTzfqfQP61WX9VT2h5EpQ0VKOmazFfLWVVV%2B0TDEESjncFRiMc04%2FlZaVolA6G561qepQPm%2FI90u6g%2Bsm1cSbvynqRYb7ENYsC24kFy0ZMRvtyVwSgCWORXLrFZ3CmHQM%2FfOJeMu20lt11SkXvPxCFL9O%2FobcETkVA1QmAmnoJRdq4K9btjkCM0%3D&nvMid=88081503901&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i7-12700K",
+    "image": {
+      "file": "intel-core-i7-12700k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/134594/intel-core-i712700k-processor-25m-cache-up-to-5-00-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-13400F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071513400F",
+    "series": "Core 13th Gen",
+    "released_on": "2023-01-03",
+    "summary": "E코어 4개를 더한 13세대 보급형 10코어 프로세서",
+    "description": "B760 보드로 가성비 게이밍 PC 를 맞추려는 사용자에게 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "2.5GHz / 4.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "base_clock_ghz": 2.5,
+      "boost_clock_ghz": 4.6,
+      "tdp_w": 65,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Raptor Lake",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 24870,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-13400F&id=5166"
+      }
+    ],
+    "price": {
+      "krw": 170100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 170100,
+          "title": "인텔 코어 i5-13 13400F (랩터레이크) 벌크",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZDtb8ZSdTDUQgPWrdshwof%2F%2F%2Fw%3D%3Dspp3nYZcuSJ59dfVjFnWammDUbxmHr4GXQ0ZkIEb0ihdbvBPONTlS7fL8HtydAjJE%2BCZf2X%2BEsp2qjqrXqN8aJ1%2FUoDwiOoBILth2cKd6iMsqdOBsTlkbpYEsVq1Ctlp%2BMRAn9HXMQFwL6MhEuEYQV9vpVL9igQ%2FXWcXJKnPC45hVXemfpmeX70wC2wQT5nyieNfiM%2F7HpP4pE7xVN2uXdRbSi45QWNYU6psNMiztB6%2FyBSt9v7BbbAqDFjYOm7gXsjTz2d7u%2ByEPwfTxo5jDtXsalHOu3tlMCqdNT1x%2FtmTueQ7xatssj9Owax7I270I76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFDUHVss68%2F%2BP6JV7OwEL%2Bjj36zIYAfITPYgkkb6E8whlkIptLkhleORsoGb3BUK6QYUD4nZcE0US945P64fpRdwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLqYfU7Bu1wTaZC1L7FjLUKaCQsYDMyaA6DZe%2FuzP0y4587AY7VlKEn%2FvnjGOORTvafgC9YBsieruRbeiSf7CfJczwwTUZkIe0id4I6qAMJliHMcJURGoi5WYkt3X11Eo2bd0QBd8KgScwdsAB%2Bl7p18sgV8wmDpG1FBEov7%2BXxasuu6hWTQwEWHGZEUDU8GMKX7%2BKWJMFenuTz8OqHtJ%2FQDwcopRalRdsuqZEcLkr2OUhKRgseE1JrJfO1a4DZgX4R0cjwVm1BUYVknE7IEMpz4%3D&nvMid=59386794035&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-13400F",
+    "image": {
+      "file": "intel-core-i5-13400f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/230501/intel-core-i513400f-processor-20m-cache-up-to-4-60-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-13600K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071513600K",
+    "series": "Core 13th Gen",
+    "released_on": "2022-10-20",
+    "summary": "게임과 작업 모두 강한 13세대 언락 14코어 프로세서",
+    "description": "중급 가격대에서 게임과 멀티태스킹 성능을 함께 원하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "14코어(6P+8E) / 20스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 5.1GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "24MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 5.1,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 37432,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-13600K&id=5008"
+      }
+    ],
+    "price": {
+      "krw": 528000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 528000,
+          "title": "인텔 인텔 코어i5-13세대 13600K (랩터레이크) (벌크) ele",
+          "url": "https://cr.shopping.naver.com/adcr?x=1UOvp6FUQNYMB%2FowFJUHg%2F%2F%2F%2Fw%3D%3DsoZ6DCV4TC%2BpGrYNBEH3YRxtRKBaYbOuxm%2BQxMRWn805bvBPONTlS7fL8HtydAjJExSZcKxGW%2BOkA5%2Fu3nQVVDenH%2B354iNZx4gRa4lkLLFcg6fM%2Flxen2jT5AWuirwef4Zhrv2EyYgJY3s8SjntAdcM2yC0ro58TVlsohYPget%2BKlQEyunmI5mylLOtFi8BkL9TJRnMp5QlUZL4YGFxsArfYbq%2BsoS3zzyCKCeXrN%2Foj5WxucUtmmBJdlVItmGAKLJIRJtLzVmOec3AmcppS%2FrlaYTtiaWbe1DJKQ%2F1cbpkBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FWHgL3JQQ6rTOktfczVONvL%2FTgEGxb6M9NGfBDnVXztmYJPEWMYQtDG7lymtgt3ch%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFd4rjh5xeHd11F%2F8%2FV56aHkO7bCAH0tMUJxiPm9exLC2uzbKXcXLFGnsc6%2BGacWU62tPfdPhUUAjH3NHZuSkqzkSHpWi8m145zooR1hgLj599dDb3xktLVVzsJzUJjbxA0bU1e%2Br9F9ew0TqFqlSFO0ZtTtZ57smHgFZ43ld0kaOvxMpQhOdbDz1ieRUNZLqjdH0g2z1mnGI56RXn%2BRsxcceswzy%2FPT6jCYuAvBn%2F0897eUAl%2FMyTcP9xi%2F5fxr%2BvVoWd0jB03C5aYq3HUc1IKtSSLJQZncWk8e8Ttfjz6Fs%3D&nvMid=60599794090&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-13600K",
+    "image": {
+      "file": "intel-core-i5-13600k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/230493/intel-core-i513600k-processor-24m-cache-up-to-5-10-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i7-13700K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071513700K",
+    "series": "Core 13th Gen",
+    "released_on": "2022-10-20",
+    "summary": "16코어 24스레드의 13세대 고성능 언락 프로세서",
+    "description": "고사양 게임과 편집·렌더링을 함께 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "16코어(8P+8E) / 24스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.4GHz / 5.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "30MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 16,
+      "threads": 24,
+      "base_clock_ghz": 3.4,
+      "boost_clock_ghz": 5.4,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 45577,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-13700K&id=5060"
+      }
+    ],
+    "price": {
+      "krw": 669500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 669490,
+          "title": "인텔 코어i7-13세대 13700K (랩터레이크)(벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=wvSYDCOvUTgiK%2Bip%2F5xupf%2F%2F%2Fw%3D%3DsazikFyhI9Z7IxHyojXZeN6utsioaFVKF7E8GXbgsqTd%2Fs9TEj24NOW3UGcBrM8TEi06QFwSYhLDU%2B84heSe6l600x0PZaup4XOiCIE6XVfltQPtYqkRJC1v7r8e3QmMVgIfsvs9%2FzoFxHC%2Bt2Ttb7iQL7Tw5CdFg6082PU2Che7FSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDUyiAl9dsEiI8ak%2B0JHXYeE73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYPoUSkd5aPDRx5z2R68sphMaZHvodufBNlZDg2cIHKcJ044xd93xbSyaWbaFcLMp2GRLnkbBNCx5RSG2wnOQjsYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8MrCj0aNXkFm36ZyBBzVB%2BOSLx9%2FRkoQRj1p%2BhLJJFc7juEtaayKvCwHlx7PIq4u91Cp%2BEtmIS87A2SZQrLBPRCZJdTE7G5znR22Z%2BA0bXRIbTb%2FpyE1W9rf2Wg9b6DqUGX9y2PT579GWGgk%2FdXWjmO23y%2FYQTkixsmCy8yOgmrCCCgw%2Bs1LmccFcotyYygTjq1UzT9fBG5xRXO0uAy0Rqle1jokbToEGmulr2TzJY%2BymILDAliasqymDkV6ZF7QCS7zg4LGnLNsWxVIJpcUeNAau4fTwOUqyF63FjwpQRls%3D&nvMid=88887387010&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i7-13700K",
+    "image": {
+      "file": "intel-core-i7-13700k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i9-13900K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071513900K",
+    "series": "Core 13th Gen",
+    "released_on": "2022-10-20",
+    "summary": "최대 5.8GHz 의 13세대 최상위 24코어 프로세서",
+    "description": "LGA1700 플랫폼에서 최고 성능이 필요한 게이머와 크리에이터에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 최대 터보 전력이 253W 라 360mm 급 수랭 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "24코어(8P+16E) / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3GHz / 5.8GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "36MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 24,
+      "threads": 32,
+      "base_clock_ghz": 3.0,
+      "boost_clock_ghz": 5.8,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 58036,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13900K&id=5022"
+      }
+    ],
+    "price": {
+      "krw": 700000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 700000,
+          "title": "인텔 i9-13900K 랩터레이크 (벌크) 벌크",
+          "url": "https://cr.shopping.naver.com/adcr?x=qJKJuQ01%2BLU3eygJfrAAIf%2F%2F%2Fw%3D%3DsobY1jU3YpzlS19gTbD7vNO17VJgPmT0coHqPM7HUPkF%2Fs9TEj24NOW3UGcBrM8TEASaqljk9a9FRO01btc7MNf%2B%2F5FTUfM%2FEdAzlCMTvk06iDBNfQGv%2BbAXaXfIYdDOqIfLJCtF6xBAu660ztnAmr1aJWQismkdvXuDRkJWD8aTL%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCm3HLOpynNWoeFbW3%2BLkGdk8v0MdC1sR4PmdS%2BIfUHelhzBTNm90gfMPOYKNQ16LhIH4zoPPoX2hZrqM4R1vgmvgN8MgF0EJ5XOeiA1G2oMfJ%2Bu%2Fsl%2FCf03EFoK0xT3xNpiIjedY5oRJDvI5MTAUyfxr6kdrp7BvT8OlwZ7P37YyZp%2FuhVWf5tMOyu5R2EADu4A252F7RSCFc92dWBXXlFZQvCL0vjT7BDyew%2BppTYv%2BT75F%2BQIQJbnYp8sb8YfumS5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh9wq2QVOVcHqB3puRvzb9BJKtGa0HN2Phla3qjVjC0EdJ2mzNl1ojPzItnWHDoOaP33ISvPlmX5ebQlVvGGCBgAeP6VdCqz1Iv1Np0PPUxeoQmJhrj%2FcDdztbWs66mo%2FQA1SnDWyQwWLyKgXAJrUfS63cRXXjaf6LEYjfrtguH0cuu6hWTQwEWHGZEUDU8GMKVbUiTSKSwwdQz78F9452jIyD2Z44AkAbiwSL5oLUGOHbF%2FSfycsAIH%2BMIGHhXuNwB0cjwVm1BUYVknE7IEMpz4%3D&nvMid=59386805976&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i9-13900K",
+    "image": {
+      "file": "intel-core-i9-13900k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i3-14100F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514100F",
+    "series": "Core 14th Gen",
+    "released_on": "2024-01-08",
+    "summary": "12100F 보다 클럭을 높인 14세대 4코어 입문용 프로세서",
+    "description": "저렴한 H610·B760 보드로 사무·입문 게이밍 PC 를 맞추려는 사용자에게 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "4코어 / 8스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 4.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "12MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "58W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 4,
+      "threads": 8,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 4.7,
+      "tdp_w": 58,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 15400,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-14100F&id=5853"
+      }
+    ],
+    "price": {
+      "krw": 116800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 116830,
+          "title": "인텔 코어i3-14세대 14100F (랩터레이크리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=2wC8vQGXXPEdJzfzMwjLRf%2F%2F%2Fw%3D%3DseytI8tn5W86qYeSVhVd0VbPojVZqjc0j6WLp876J2kpbvBPONTlS7fL8HtydAjJE%2FZJ%2BXpfAsNUDFFhERt8SrIAG4dZj7bHeJ%2BoG6YBqhwS0OHOE9WpSERbDfPOJki2GvhY6gHyAyT5C79pV5txI5Z8CEw%2B%2FSaI2Xp%2BijKEVf3BhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc92mBHBSbBynPOvLmQ9BISjUBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FXIoUvD6JWW7ums1PcAhLVTMb%2Fk1CW4Ghfiy8rXePsALaoa2lSk6%2BN%2BRBA9YCfFrshjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2P3lRBzcd1aL9YtO3EITFiHFbTr5AG2q0ngOPLheYvx6VLv9QnlBR5fvs0yWgkEK2jtuADTonw2k39eKh0AyhIhg74gEQkUqxhqAG5TzH4W7uY%2BjlK1ggCEf56OldKEiawXTE%2BmI%2Fg2SUYwExDjLthZmW0tAMhR4EURiWNucami58ddgwxQh3XOJ1heTmWYsmCQyCsUASTihp%2FmscZm8FH0Ts53aIgvYWSh0OqhoJxAxyx10STFvpBdIDi8A%2FSFhM1qN3FJYHuHScK8fmVmEEo2uR79U%2F6Az3gE9mQ%2Flgn57E%3D&nvMid=88346456018&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i3-14100F",
+    "image": {
+      "file": "intel-core-i3-14100f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236786/intel-core-i3-processor-14100f-12m-cache-up-to-4-70-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-14400F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514400F",
+    "series": "Core 14th Gen",
+    "released_on": "2024-01-08",
+    "summary": "기본 쿨러를 주는 14세대 가성비 10코어 프로세서",
+    "description": "그래픽카드와 함께 가성비 게이밍 PC 를 맞추려는 사용자에게 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "2.5GHz / 4.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "base_clock_ghz": 2.5,
+      "boost_clock_ghz": 4.7,
+      "tdp_w": 65,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 25393,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14400F&id=5837"
+      }
+    ],
+    "price": {
+      "krw": 177200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 177150,
+          "title": "인텔 코어i5-14세대 14400F (랩터레이크 리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=2b0AjGZWPzsT2wuatr%2BGdP%2F%2F%2Fw%3D%3Dsl3pdIaEDtZCnlIUf%2BXUa%2B6ERx4oRS6Qm8Z%2FIWVrn9hB%2Fs9TEj24NOW3UGcBrM8TEu8I0USmZX805hu6GZwg8%2BhWAXmBsOmjktgKngPxi%2BfW2vh0fHwK0H4%2BW5JigsZPfethrKCA%2Fhdk4AGLVZdk%2BKGiphs5GaYbVwIfCqDJ3uUXFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDazMADl%2BD6ErHJnvxtPDy%2BA73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMY5B8654FVdSEJZnUZa0vFcwY5S90aDmXcmFJw2DsgGKFXfqiCwBtPYYwEdSt6i2JAagFYXpQyJeBUIfLdmaAAfZ46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1SGAqgRDEHMSgP8Z21fnxKscGPyq%2Bks12cmhtHHsY4FposhaB%2F96ejZnjRwJA%2FE04hLEaL95vIeefCkQl4gF6WWewvqrpAmlb%2FnAU3Ed4zVe4ruwI312vIl9etb3Eyr6ikAyNqdEx8e8%2BMoChfUAy%2FBl%2Fctj0%2Be%2FRlhoJP3V1o5iemVtCUne19EUKRFqwGUSjzY7vxfxT9bSCyvUXywFItA095LN5jzRAW4zK0a0cFCnawi3AZr2nzRovw%2Fo%2BZPE22BsJmmbUgCGWioehxEUhnq%2BC2w4h2rywW1y3MfMmkwdB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=91187469138&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-14400F",
+    "image": {
+      "file": "intel-core-i5-14400f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236777/intel-core-i5-processor-14400f-20m-cache-up-to-4-70-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-14400",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514400",
+    "series": "Core 14th Gen",
+    "released_on": "2024-01-08",
+    "summary": "UHD 730 내장 그래픽을 갖춘 14세대 10코어 프로세서",
+    "description": "그래픽카드 없이도 쓸 수 있는 사무·업무용 PC 나 나중에 그래픽카드를 더할 PC 에 맞습니다. 인텔 기본 쿨러 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 16스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "2.5GHz / 4.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 730"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "base_clock_ghz": 2.5,
+      "boost_clock_ghz": 4.7,
+      "tdp_w": 65,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 24989,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14400&id=5868"
+      }
+    ],
+    "price": {
+      "krw": 211800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 211780,
+          "title": "인텔 코어i5-14세대 14400 (랩터레이크 리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=JF1vIxSwTxjk5X%2FbrSXZof%2F%2F%2Fw%3D%3DsnNIuiOoyqAnr7hpzoCQUF6kxoet04NNvO1rXcuTSfE0KYLzAC6%2BrwZh4r8sQX%2BAnAL2mEeJiQTK563HRKwO8BYMZKBFie0hW0drxl8Vli3cTDM7qjNGj5SGapDy6%2F0MqIoHxjPlNPd2tnCvMygsoPzAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDues1kppxa%2B4BMgMR0LlUMyqfzpKXS32yRw5QiOYdEC4qDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6Ak%2FRX0g%2B3DMoqMpL9n6nBEC5DKr6ky%2FgOmQtD2EatMICR4GJ6T9nED8LVDz3bCknpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQw1kvWYVKoqQqd2RBTdYDnymCNPL4JYiv6vTmyL3EjlQiGtHwstQ4oYHNzpwFY82Dv%2BAyvTvpGH%2FElPzFU7FdBvdbUgitNk6tXtq0cxkl0iy8XHqI6NEsj9q0SY%2BON6I8xhddDkQshFxwQiregGAG5P65rnKKNGKkiCB82%2BIzW48%2BGq05BmnPUbuye5M%2Busx8305%2FiL3MWsFcTbnjz%2FZLXrT1b1tZwbwrsYvuRmQ5gZMW9gbf5Vze0k17AXhJcWSukBDm%2FBcAPpsoRadTPkPIhFM2OqH9l6YII5ugOGfB4CYY%3D&nvMid=89192837395&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-14400",
+    "image": {
+      "file": "intel-core-i5-14400.webp",
+      "source_url": "https://intelcorp.scene7.com/is/image/intelcorp/km-1920x1080-i5"
+    }
+  },
+  {
+    "name": "코어 i5-14600K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514600K",
+    "series": "Core 14th Gen",
+    "released_on": "2023-10-17",
+    "summary": "최대 5.3GHz 의 14세대 언락 14코어 프로세서",
+    "description": "게임 위주이면서 가끔 편집·방송도 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "14코어(6P+8E) / 20스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "24MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 38350,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14600K&id=5720"
+      }
+    ],
+    "price": {
+      "krw": 295800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 295800,
+          "title": "인텔 코어i5-14세대 14600K (랩터레이크 리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=TkbKMoF6YnsLu7hsY%2FxFhP%2F%2F%2Fw%3D%3DsOhtqwBW91mC9Fk5dCuU6xk%2FAQTqPahLDJ9Xa1WvbiklbvBPONTlS7fL8HtydAjJE8tFamF5FOMoP%2FHZNgEAYD8472ZbVA27GgfitGEOumpsTqipDgyTYEjtr25eJsr%2F6%2FCn5%2BUHqhynea8RScGa93eRYeHH8pELDTOMr3E%2FrwKJhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc9w2QXjaXLiDFZo83XySNfX8BMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FelTwkhCyt7LvbLVhWFvJcThYVnNQFlIzxdPeiPtivTzAn5PnzfTWMbPkD6yrKBhpPkEdsE4q1EEaWgjiAgITe8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPcxHC0TKDF8BWAEBgCxjTWPSqQNH%2BuLj%2FhI4p5Wli%2BOF8Wfq5Bq83Men5FHolkBH5M0mZ07JyHKwOocf%2FiXzYt%2FhqhvBLM901L8j9Ji86WdVqPsLKgLAPfySCd9I9pFQqAl1NUg9HWcNGWblBcqvgR6YLRnaGMGRF6G6XHyRLUC1spHUqTmYxmzPqgryyNDu4S1IUJypz5lT4fCTZEbLFxKyEghUEUmahJQkLUn2G4dYRtb%2BYNuu08mOlmfyD%2BnMnwWU9WYoGePdsg0%2BRU4Dh029TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=91187471214&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-14600K",
+    "image": {
+      "file": "intel-core-i5-14600k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i5-14600KF",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514600KF",
+    "series": "Core 14th Gen",
+    "released_on": "2023-10-17",
+    "summary": "내장 그래픽을 빼고 값을 낮춘 14600K 의 KF 모델",
+    "description": "그래픽카드를 함께 쓰는 게이밍 PC 에서 14600K 보다 비용을 줄이고 싶은 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "14코어(6P+8E) / 20스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.5GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "24MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "base_clock_ghz": 3.5,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 38216,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14600KF&id=5722"
+      }
+    ],
+    "price": {
+      "krw": 279300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 279300,
+          "title": "인텔 코어 i5-14세대 14600KF 랩터레이크 리프레시",
+          "url": "https://cr.shopping.naver.com/adcr?x=pZHxEPbCeXhF7xcocrUOp%2F%2F%2F%2Fw%3D%3Ds%2BFwWrq8QDLcJ%2BeDzx3gU9FLXPFFKuRuS495xCYChT6V%2Fs9TEj24NOW3UGcBrM8TEVsW6esRmjfJ%2BEXDMa%2Fnc%2BxJ767no8OcaNVLE2cGqgVgR1DKlae0evElGC8cwv0xTeVirCGvteHRtetZ6%2Fpu5789fyewiK0Ski4s2qmcgJDND4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhkehlWW0AQDiQszE%2BYP%2F1gX5FYItn7Mz27Oc6nE3nFhFuqLa3CiezmJI4CjftKR6Z09y2%2FRSFesQ%2FprY3K35IxEh5p6TxfJmUBtHbB%2FtWqpagy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSer1aw3%2B3QuI9LXodQaIRlOsVjQCpIk5kx4sJW2hrRfnK0CtySWoMfyo3X%2FsCG06pWn5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAOrYLyL8fd4Ji546aTFZOQNzVtOsmcs9dXMHQ3xuZLac4jkRqfqFyMQ7bK%2BK7Jz7DWMS87Mt4tbkvjWtXVdRk6arsIRICT76zv1R4DZ%2Bou6KBVE0pkdTVmKWBrZre%2F1hnwvsvTZQVdKRcJHQGr1YYHiLCc2z5dFS%2FKMxUwJQJVYthTQFY1F%2Fa8vKmVaAKPxTnctEXEiwjdOw2qgfqrbOcuhicchwRNwmJ84TyxvjggzF2RAnmscHm7YLrdnDcGk%2F5L4dUpx7gXsX0BYg6kD1asbHICEQpPL7Rm%2B2fyhjEhHR&nvMid=54046153367&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i5-14600KF",
+    "image": {
+      "file": "intel-core-i5-14600kf.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236778/intel-core-i5-processor-14600kf-24m-cache-up-to-5-30-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i7-14700K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514700K",
+    "series": "Core 14th Gen",
+    "released_on": "2023-10-17",
+    "summary": "13700K 보다 E코어를 4개 늘린 14세대 20코어 프로세서",
+    "description": "고사양 게임과 무거운 멀티코어 작업을 함께 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 최대 터보 전력이 253W 라 고성능 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "20코어(8P+12E) / 28스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.4GHz / 5.6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "33MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 20,
+      "threads": 28,
+      "base_clock_ghz": 3.4,
+      "boost_clock_ghz": 5.6,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 51900,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-14700K&id=5719"
+      }
+    ],
+    "price": {
+      "krw": 475200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 475250,
+          "title": "인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=yJtnjoMTA0OrxsGORsRWkv%2F%2F%2Fw%3D%3DsxB4nBMgmem%2BBIj74gy6S1sCd%2FPcUzRTrMqSZttRjx1RbvBPONTlS7fL8HtydAjJEyf2OwcBIGCmBbIGCEgycJCV1I9j%2FCNR7Np8MB8xJmwCKUkfW1cE8feZmL2nsv1u8epnRTv%2BQY%2BSvL8HhWLHiD%2Bf7HOQ%2FPcpSfxr%2BnGC8VuxhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc98ImjKXh11ZmiEFX5s6nDeIBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FvDReQbYkuJtxrG9iXSc%2Biv%2FCa5%2BVKyAE6wIXYNWF1xzAn5PnzfTWMbPkD6yrKBhpPkEdsE4q1EEaWgjiAgITe8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRP%2BbZlKO6UQmjIAL2YWp8aGur0aQZ9MfVVjJH7t0MQA%2Fh8Wfq5Bq83Men5FHolkBH5zilljDLhtuWBrRmdw3FmvWtgTXL6KDVA1viiFFYHoBBqPsLKgLAPfySCd9I9pFQqAl1NUg9HWcNGWblBcqvgR6YLRnaGMGRF6G6XHyRLUC2X9v79oXBc7Eowp%2F%2FpiI1wsP%2F3wLsIsVkols%2BDAxRsWITKkBqbau0uP76NOoQRYRAYdZDvHYWJarucq8nFfQPSEk7duPA2INLjmUY%2FfUrHQAN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=89192842357&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i7-14700K",
+    "image": {
+      "file": "intel-core-i7-14700k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236783/intel-core-i7-processor-14700k-33m-cache-up-to-5-60-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i7-14700F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514700F",
+    "series": "Core 14th Gen",
+    "released_on": "2024-01-08",
+    "summary": "65W 기본 전력의 14세대 20코어 프로세서",
+    "description": "오버클럭 없이 B760 보드로 고성능 PC 를 맞추려는 사용자에게 맞습니다. 인텔 기본 쿨러 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다. 기본 쿨러로는 성능을 다 끌어내기 어려워 상급 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "20코어(8P+12E) / 28스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "2.1GHz / 5.4GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "33MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "인텔 기본 쿨러 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 20,
+      "threads": 28,
+      "base_clock_ghz": 2.1,
+      "boost_clock_ghz": 5.4,
+      "tdp_w": 65,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": false,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 41235,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-14700F&id=5834"
+      }
+    ],
+    "price": {
+      "krw": 443700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 443730,
+          "title": "인텔 코어i7-14세대 14700F (랩터레이크 리프레시) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2F4BOOHsjJGJAaQqRBWjB0v%2F%2F%2Fw%3D%3Ds9Xj7XJdZC775jOyR8d49sGPWoejGCPn1LelbK%2BU1S0Z%2Fs9TEj24NOW3UGcBrM8TE%2FQqsAdxwDNVxTBljzwWOkkN%2Fqh%2F%2BENIsXT6XrO7gu1ZeKJi0SuRGKcd5TFZEwMzznlJi8hhIf5%2FpmYX4L5uNFpCEmb0HhjlZ5Wtj4%2F8pNdXFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDVFXsljwh2%2B8kcTijgLP58c73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYu5UWsdgmDu7aHZzEl%2FCNspVVR7bhTh8ZyR2Wpla5l15044xd93xbSyaWbaFcLMp2GRLnkbBNCx5RSG2wnOQjsYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8qgyrSPJnmbxc2M%2Bb91UK1txG7u%2FZd4aiw1cuchZrj%2BjjuEtaayKvCwHlx7PIq4u91bClJjaatBq2JvG19EZI6j83B3wX9fvG1ZuyDUEr11%2FNEDAbKPyfdr5GeSpsU6cefcxK5H9MpUnNwUDbGg4E6LCGPB48DS%2Fx7AfvZlebrp7G6eHv5kKPk0rhpJm%2ByAPJD9GbjlHJT6eBcb%2BcJhW9MrP40Faq34Tpfx2lL%2FDiPZw7QzWzsDlzBqqUDiNl4e5Mp9fzOgNHBuiD2P0R%2B1Gdi29TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=88346409129&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i7-14700F",
+    "image": {
+      "file": "intel-core-i7-14700f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236854/intel-core-i7-processor-14700f-33m-cache-up-to-5-40-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 i9-14900K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX8071514900K",
+    "series": "Core 14th Gen",
+    "released_on": "2023-10-17",
+    "summary": "최대 6.0GHz 의 LGA1700 최상위 24코어 프로세서",
+    "description": "LGA1700 플랫폼에서 최고 클럭과 멀티코어 성능을 원하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 최대 터보 전력이 253W 라 360mm 급 수랭 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "24코어(8P+16E) / 32스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.2GHz / 6GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "36MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel UHD 770"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4, DDR5 (메인보드에 따라)"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "cores": 24,
+      "threads": 32,
+      "base_clock_ghz": 3.2,
+      "boost_clock_ghz": 6.0,
+      "tdp_w": 125,
+      "memory_type": "DDR4/DDR5",
+      "integrated_graphics": true,
+      "generation": "Raptor Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 58165,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-14900K&id=5717"
+      }
+    ],
+    "price": {
+      "krw": 640400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 640410,
+          "title": "인텔 코어i9-14세대 14900K (랩터레이크 리프레시)(벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=NBc86VUF%2BWprMsbkJK7qeP%2F%2F%2Fw%3D%3Ds8vAA5scJUpsLZ66DuPJ7Ji5CDgUMCWd%2BGMeKclRrEYkKYLzAC6%2BrwZh4r8sQX%2BAnVMvU5XZ%2B7mS9seaSC3KLhbTincTK%2FcEKb3AlVrV7V4IZgpX211Fmq8aV7soIdzEli%2FbtbceNL5e2UyJGYDfHT6aaTEF9U%2FHSRFP3O8W%2BvaVLhv4nBWN6vYRnY66Pfp8UpbxzCN4YAW9h52fNU6yKtUN2dY9%2FlkvfQOzEpWgTUhRfsCa4ZM1v0N84nLTsYJ28FI7RaSrblzUwN3IJREja9LngnxQ7ssMZd09T0OjyjIxearTBvydD1LUI3JWpCADIJ3F3phesFBDiDpnBcavbO0whYONXOG8UYmMCEqW8WLTQK3JJagx%2FKjdf%2BwIbTqlafl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4ARJkLlnj2SMGpzycxq60e%2FnNW06yZyz11cwdDfG5ktpzdeo0EkHcosW32DnT%2B2tmQ6wyz%2F8HuUK41%2BJzGUZkckF%2B81SmuZtEMUDhqz%2BwpGwwXHqI6NEsj9q0SY%2BON6I8xaYP09NMsJtscyEMbkywjdk2jBpNv8c%2F5fZt5lxq3Bj30kD1YTF9tT4nC9t4KEibgKYTOF5KsHq%2BigGAc1pAeZ39%2Ba7Et4AyWrhNNs967qU4iS03%2BixJ14DmGqcUpkbHLsKpu6ANi0hBhVtcZs74NamhopkeKUdu5q4dSKA0zkoA%3D&nvMid=88346389205&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 i9-14900K",
+    "image": {
+      "file": "intel-core-i9-14900k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 225",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768225",
+    "series": "Core Ultra 200S",
+    "released_on": "2025-01-13",
+    "summary": "Laminar RM2 쿨러를 주는 LGA1851 보급형 10코어 프로세서",
+    "description": "B860 보드로 최신 인텔 플랫폼을 저렴하게 시작하려는 사용자에게 맞습니다. Laminar RM2 쿨러와 내장 그래픽을 갖춰 그래픽카드 없이도 바로 쓸 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 10스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.3GHz / 4.9GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics (Xe 2코어)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Laminar RM2 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 10,
+      "threads": 10,
+      "base_clock_ghz": 3.3,
+      "boost_clock_ghz": 4.9,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 30337,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+225&id=6469"
+      }
+    ],
+    "price": {
+      "krw": 255000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 255000,
+          "title": "인텔 CPU 코어 울트라5 225 애로우레이크 벌크",
+          "url": "https://cr.shopping.naver.com/adcr?x=78qbU0p9%2FbnXesDwZITim%2F%2F%2F%2Fw%3D%3Ds4JFXJatlYhSrAgvVhEXTiqoIjPHv0n7WxcFjj5YE57Z%2Fs9TEj24NOW3UGcBrM8TESWXgAGk5CJiAjmR2Hrm85PZSHkzDbuDK7HnTx7PCtBGzNbX9u2mPJHLpnJtOOJZq%2BKasjBrEtiz0UHdy%2BY%2FHdevj6NZv8sla2gRuBUJj4daGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSEIOw8FZyeow%2BzVNObGlZGCedOaTfHEQ5xviQhUGCMf%2BLVi%2B%2Bcw%2B0bBC0j4MU8JxK1l3gAsr%2F%2FRkoVX3l7TQO1ik6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdAE%2FPCnUNmHOJTe5N0Y%2F4uqv%2BLUWuA5eB67e%2FWQ2OMAJChMRQiGVERO33vHpO7Qn7S6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2Z%2F9DFlS%2BzucQGy5vGxZZVC7QjXcGQntCh2OcHr8jbYXWM0%2F4FpR9NTshQgl1M%2F7oOJGOiw%2Fwh3SSctE6c6Y1gb4c8W3DoFSfkfUCEBpWR%2Fwxkr2Jn4ZTyl65R9S%2FnFos8p%2Fi3oHpC5bE8zTWKfEZnBHvD%2FU98FP27RvtBIwK83%2Fv4l8Ovo8TtW5IoDOFfKNo0F4v8hjxRdaF%2FoVyxMFnVMzGuOI0FiLF0hOdcCHlr16Z0ob1Wz5s1ZMd9bQSbWWStG9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=90349574791&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 225",
+    "image": {
+      "file": "intel-core-ultra5-225.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241070/intel-core-ultra-5-processor-225-20m-cache-up-to-4-90-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 225F",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768225F",
+    "series": "Core Ultra 200S",
+    "released_on": "2025-01-13",
+    "summary": "내장 그래픽을 뺀 LGA1851 보급형 10코어 프로세서",
+    "description": "그래픽카드를 함께 쓰는 가성비 게이밍 PC 를 최신 인텔 플랫폼으로 맞추려는 사용자에게 맞습니다. Laminar RM2 쿨러가 들어 있지만 내장 그래픽이 없어 그래픽카드가 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "10코어(6P+4E) / 10스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.3GHz / 4.9GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "20MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "65W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "Laminar RM2 포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 10,
+      "threads": 10,
+      "base_clock_ghz": 3.3,
+      "boost_clock_ghz": 4.9,
+      "tdp_w": 65,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Arrow Lake",
+      "cooler_included": true
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 30910,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+225F&id=6457"
+      }
+    ],
+    "price": {
+      "krw": 204800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 204820,
+          "title": "인텔 코어 울트라5 시리즈2 225F 애로우레이크 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=hZO5og%2FoBPp0E2Cubnvcz%2F%2F%2F%2Fw%3D%3DsOMUutubCYeAASvAL4%2FxXtFnHAHDfRcl6SGMYXaQuwnkfkevqF4reJ98ZhL8NXp%2BAs%2Bt9DDOa0m3EBLa59dOspqSWu4MryUSzft0Nno3i%2ByKkifP17vLdyMMLiR2w%2BMdmuBDaa4qOsO9xjbm7zrvEqblLp5VN415%2FKm7KNl0ZlmLL%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCoDnA33pU1RTqJmxDX8vVvY8v0MdC1sR4PmdS%2BIfUHelhzBTNm90gfMPOYKNQ16LhEuYwO8iI8cFeZvQ93nXYlAWreFDtV%2BfGaNts3zxibN0m9TknjYl4Y%2FmbFNxZ0L%2BIMM4qiRaTZ2qggvR%2BIRRj12QeD%2F5KpgkZOrrsUYcLovtEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbvvZ7cy0V%2B%2F3JBsNssXBqvjfd6RASCGj9FexALligRn2fVBDMIut42nyyM8MGNK2LGlHFx1agZ7VJ8kUFqTneBvzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2c8PIx080f%2FxdbicOtfE7tL1ySQ%2BtEw4%2Bzy18NbcxHue6%2BzuO6rCq2z%2BHmPhazXmb%2BQLldWvDk31EBZXlCwQzsE7s1bXJTb8HFYg%2B45SIfyBQAXF0GKgdMNO2TwA40ZCUC0IUUFq670LH6DQXjAhDItdTkGxRBRhbJ376PFGqN7g8Tj%2FFlKoUdnnP6bXqFtCvDW6exffnWs9%2BslQcYjDXywtIYh35n85gCNF9XAudNitgCgu8TH6IETI9IR%2BJIKXcDeL7xIy3y00XUzCwkrvTIZL8GXlP7tkU7kJVWA1RSwgau4fTwOUqyF63FjwpQRls%3D&nvMid=59386805170&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 225F",
+    "image": {
+      "file": "intel-core-ultra5-225f.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241069/intel-core-ultra-5-processor-225f-20m-cache-up-to-4-90-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 245K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768245K",
+    "series": "Core Ultra 200S",
+    "released_on": "2024-10-24",
+    "summary": "P코어 6개와 E코어 8개를 갖춘 LGA1851 언락 프로세서",
+    "description": "Z890·B860 보드로 게임과 일상 작업을 하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "14코어(6P+8E) / 14스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 5.2GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "24MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics (Xe 4코어)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 14,
+      "threads": 14,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 5.2,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 42979,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+245K&id=6324"
+      }
+    ],
+    "price": {
+      "krw": 264700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 264740,
+          "title": "인텔 코어 울트라5 시리즈2 245K (애로우레이크) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=pBHHj8nrHPZiqXndcKDqPv%2F%2F%2Fw%3D%3DssuNgwp%2BQVxdFw%2Br9ZxkDsXPCfJtvBCDhhXrPlQZDGUVUSOblsUq9PBRzR19dHv5vFi%2B3S2UbMoj3%2BpBYSATsz8L0XrX%2BExBgEPL3dNxpyHUUMfxXt6QPJWtRT%2Bcn9U9o29SMHJLI8%2FB1reOQ%2Bm5G7dEqMMVInGFTIMnknL5xxY9EvqK7Ss30A1gReRlfyn6hISb95YyaO%2FVVSKY%2Bv5t1joXcsasncDZA%2FTM0m3YFHWNegvP3tP%2F31ShI3wdAf9hukI9oFltz9Xa2asdDlPUbUNtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFIyxpt7pDt3bDDg15WqzDUz19YT%2Bcv6ZIdzhyvMdbWJ5drU9gBvTOY8XVxGgpGxxdYUD4nZcE0US945P64fpRdwrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLuZf%2BHRIG0PWdyLGDjumsgqPfsyCK5CPme%2FHz9kP5c24H5Hr6heK3iffGYS%2FDV6fgBj5DYJGAIF%2BNwTegquOM7EjKaG%2BpvF7o4pSOF8o4CZrsQimN6dR8WUkpngAUzhBjHjWLXAWVlguw69LOJyCudprh1Rrq25LEgVMghwq0X%2BIkXCyD8hjWzoAkdllR2my%2BJAJTisD2oQhMmHfRPpWpo5MjzwSz2HBzzBQIGvGMfUSFgs0q8JniBZJLBosYt9fRN%2FiZlEog56X6LbwybPqJ8wdHI8FZtQVGFZJxOyBDKc%2B&nvMid=88630916939&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 245K",
+    "image": {
+      "file": "intel-core-ultra5-245k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 245KF",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768245KF",
+    "series": "Core Ultra 200S",
+    "released_on": "2024-10-24",
+    "summary": "내장 그래픽을 뺀 245K 의 KF 모델",
+    "description": "그래픽카드를 함께 쓰는 게이밍 PC 에서 245K 보다 비용을 줄이고 싶은 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "14코어(6P+8E) / 14스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 5.2GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "24MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 14,
+      "threads": 14,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 5.2,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Arrow Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 43040,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+245KF&id=6336"
+      }
+    ],
+    "price": {
+      "krw": 285600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 285570,
+          "title": "인텔 코어 울트라5 시리즈2 245KF 애로우레이크 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=GQY9zjzamD52%2BstBJHHx2f%2F%2F%2Fw%3D%3DsOuhg2PEUHq5PpfzmYQvIZKoVaf0FrMp%2FK6tU23%2BK%2FvlbvBPONTlS7fL8HtydAjJEBtWfFAK%2BU7juWpRcXIhJKwhWKScd5Pwyovg6Y%2FS%2Fg1gz9GYE7WdzWhtt1lr795YDPCvwziJ5rhB06GT5ruo9FHOj2%2FH1uk5yIwPAWTj7z6RIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFKCx42dRAvMWsG9b0Qf5wVL2%2B1FWuqPcNYp2AdShvarOcQ9%2FM2QqdQayoHRVSJcgrAwguLfYbin2msMsxk8eOyAlxFewCVLMnUCm55d9ppuV6sVx42RpkyUOGOyxz%2BHUEtY%2FH%2BZkzT3uWCek5LPsRYAn67%2ByX8J%2FTcQWgrTFPfE2e7BuE5kTwl1glmx6PBmDuFVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2Fttd4fj6K4q8uYMN4vwVVTCEhb%2B5%2BbgCLWD5ufmjwVaAKExFCIZURE7fe8ek7tCftLq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnKekH8aObi3YsI64WEdtJ8W%2BWYT6cKG05SHTIe7b8tWs8mUwVezLUz0S4HLiJ4l0pFfgABF2gfwgA7ewChKIvuOZ38cWxmYtWwUW8kzug8C0dPp4LmDHaY3p579%2BiTE9qmYDSWpom7keCvjY8PGymddKYydKHX%2ByFHjmlKPT1F1h8ARuS0mYVlWSrPzyRdKYT9IauljhWa2fqR3Z7gUKIvGJxyHBE3CYnzhPLG%2BOCDMV5%2Fk7gJ55nESEsFf1w6VUgWUfh%2BTgoACi2i%2FR3cGUaG8cgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=59386811945&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 245KF",
+    "image": {
+      "file": "intel-core-ultra5-245kf.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241066/intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라7 265K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768265K",
+    "series": "Core Ultra 200S",
+    "released_on": "2024-10-24",
+    "summary": "P코어 8개와 E코어 12개를 갖춘 LGA1851 프로세서",
+    "description": "게임과 작업을 함께 하는 사용자에게 맞는 20코어 CPU 입니다. 배수 잠금이 해제된 K 모델입니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "20코어(8P+12E) / 20스레드"
+      },
+      {
+        "label": "최대 클럭",
+        "value": "5.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "30MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 20,
+      "threads": 20,
+      "base_clock_ghz": 3.9,
+      "boost_clock_ghz": 5.5,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 58571,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+7+265K&id=6326"
+      }
+    ],
+    "price": {
+      "krw": 397000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 397000,
+          "title": "벌크 병행상품 인텔 코어 울트라 7 265K CPU (애로우레이크/LGA1851/쿨러미포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=ih1Rw5JY2r%2FDmkegNNv2qf%2F%2F%2Fw%3D%3DsmJlcyKlDfGnoeYkzaqIVC3Uq7K1fOkwh7NQmyx9OlMfLCRphwbdOm%2BcFb0ruNstHnakDji346JOOzlzdO7D4wqAQ8mEy0iUVKrdQhpFSRtxWZt4PStzFiS9pFCqXzQr2pYXqfJu%2FDvmQdTCIzZloWCnOX4DV8BUYp2bUxzVQQ%2FJhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc9xypp5uIOaVNKVdVb1Zn3ZYBMd08utobDGS01HANwraBA2Bs364bkoCGaGdH9H8whasJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8EoaiJCQLgP9wVgZSLP799%2BnfVgtQodguieYMa66h%2Bx9044xd93xbSyaWbaFcLMp2GRLnkbBNCx5RSG2wnOQjsYGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8B9HurK27ziSlEqw33sMI2Is8QOPBhmrpW9J5kCUDe1kxcW%2FJ2f2qGqQisGKGWgKxHXkb9uqrYayHDqtnK%2ByGVssJGmHBt06b5wVvSu42y0d%2B%2FE9B7uf9qFMkOFU6qLqwJJmVToItCxgHCXzxjrhYQ9x7fQugZImCIIg4tyqtHI5fFmkPV%2FZDgwcyKC8h96%2FNZbS0AyFHgRRGJY25xqaLn%2F8NCgJhTe2buDfGYrn4av%2BjrgWQ%2F0JBsjHud4pzo5y1sC91Q%2FJa6LjEVoh6aFrPb%2Bzu2bEdUNLGH8qlhurAVHOBCS8IdksHiMU%2FFNiWge94xyAhEKTy%2B0Zvtn8oYxIR0Q%3D%3D&nvMid=91362022946&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라7 265K",
+    "image": {
+      "file": "intel-core-ultra7-265k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kit-core-ultra-series-2.html"
+    }
+  },
+  {
+    "name": "코어 울트라7 265KF",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768265KF",
+    "series": "Core Ultra 200S",
+    "released_on": "2024-10-24",
+    "summary": "내장 그래픽을 뺀 265K 의 KF 모델",
+    "description": "그래픽카드를 함께 쓰는 게임·작업용 PC 에서 265K 보다 비용을 줄이고 싶은 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "20코어(8P+12E) / 20스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.9GHz / 5.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "30MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 20,
+      "threads": 20,
+      "base_clock_ghz": 3.9,
+      "boost_clock_ghz": 5.5,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Arrow Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 58427,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+7+265KF&id=6338"
+      }
+    ],
+    "price": {
+      "krw": 716700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 716730,
+          "title": "인텔 코어 울트라7 265KF CPU 20코어 LGA1851 5.5GHz Processor",
+          "url": "https://cr.shopping.naver.com/adcr?x=DWNxDi2NHvyP5%2BzMGmSpcP%2F%2F%2Fw%3D%3DskkZs5hFSjR5mKR%2Fq8R%2B%2FftHx5HmXqYIibwCE3QmRTl1bvBPONTlS7fL8HtydAjJEMZIaDEzegxMqgkg%2BT4SmVyvN6Vk5kNwohUTd9PEVQLYGH4%2BYtl1jUQWZcXtVEc3p6me%2BEVOkwxRtG65IntaN5qP1pVn3kQeAyf9HZZXJvPWGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSFfGhaV3FfA38eYLZcd%2FodVcwQU7cM5NwDCHn56KZQDOLVi%2B%2Bcw%2B0bBC0j4MU8JxK1l3gAsr%2F%2FRkoVX3l7TQO1ik6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdNxy1NoH9wZBpxA9xFx3Ag%2BfGFaiuBxAZC1W6YEatiL4AkeBiek%2FZxA%2FC1Q892wpJ6VOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MNSTCeBF8keu8V%2F8lSBc%2BsMe6mZTWT%2BXr2OnoQCuqTOMhrR8LLUOKGBzc6cBWPNg7ygtmBj5eiVSTwb9mcz2Rb0vi%2FwkpsoEVnLu0KCKdjvbRVMdVB4HSoCBG1pPcM3fa0OF29suo2Lzvkhfw%2BQ9Nump%2FHBXTCceNg6gf4aYqst1TtdRWwVlKjpejswjK3ZcJGtY0vFGtYcImi51jMcKK8Yml%2FzScbrpPiFJ8kn8R60qVGU2fYzFKiMvHXtBns3LCdDzCWgXeYpxfzWGGJnkEQ9oaKZHilHbuauHUigNM5KA&nvMid=91164354186&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라7 265KF",
+    "image": {
+      "file": "intel-core-ultra7-265kf.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241062/intel-core-ultra-7-processor-265kf-30m-cache-up-to-5-50-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라9 285K",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768285K",
+    "series": "Core Ultra 200S",
+    "released_on": "2024-10-24",
+    "summary": "24코어 24스레드의 LGA1851 최상위 프로세서",
+    "description": "Z890 보드로 최고 수준의 멀티코어 성능이 필요한 크리에이터에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 최대 터보 전력이 250W 라 360mm 급 수랭 쿨러를 권장합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "24코어(8P+16E) / 24스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.7GHz / 5.7GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "36MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics (Xe 4코어)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 24,
+      "threads": 24,
+      "base_clock_ghz": 3.7,
+      "boost_clock_ghz": 5.7,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 67229,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+9+285K&id=6296"
+      }
+    ],
+    "price": {
+      "krw": 688000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 688000,
+          "title": "인텔 코어 울트라9 시리즈2 285K 애로우레이크 (3.7GHz/36MB) (병행벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=EI%2FYcFymIqK0Sfc8hOjC%2Bf%2F%2F%2Fw%3D%3DsUlYtpRTOf0dDT%2BTZ695xsWpKeJnD5E6jWYqRTV1rP6dUSOblsUq9PBRzR19dHv5vxAjRml9aZoNZleKxE9MWuqSFc8phPhm3zH17LR3slPCgmBrxYivi1MOzV%2F4ZbtLCWwGGz11SCNh9RsD2bxxNFTIu250FPZIsyWjn5SrI58uyrdCJgNd5kucfVyiM8dhFH3qGz2Sss2PGP0f2%2B%2BHGm8iRXPr%2Bi2l%2FNiMaUPW3DVAAeia2q2ZgcefzReH3F2wwE86wXLiyxP%2FWFGLKJIXZI2c3YDP7C5IOBdkhP4Dv5BTvpFKxa0UGOc6wFCHRL0AFPUAlFo2vyxeiDGndCEb1mLngnxQ7ssMZd09T0OjyjIxearTBvydD1LUI3JWpCADIOXc%2FAxbgJkW0kbRNit8MnEDrSqWGxyBbZCuWcmqrh7mz3xM1pe82wAcYwU2SwT%2F0BnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0Xgkopjbbjb8pcaeKDxlBNjyGb6C2NGsVJEkgy5kggTAnCOVnfspG4Plj9Nt01Rl0EU4lL1Kv%2Fs37kOac4HhsQTHtNomrUsrIaRNCCU7xHZSEvEX2uGwqAiGcMcJ5v2wFUHFTNgEvyjdB3jT%2B6%2B9Iaj%2Fovj9CwKQbJj17o22RXSprmCYdtUxU0XKRPKi%2FXuhqx2vkQw7SCaukipEKGkOFR%2BvSCNsKR3YKlD9qGAl6gX9HvZO6bOEnKY3Bgg8grOUGysnHX1zkc1p8vZVWYzPJCmjyIgFdznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=52249785373&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라9 285K",
+    "image": {
+      "file": "intel-core-ultra9-285k.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 250K Plus",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768250K",
+    "series": "Core Ultra 200S Plus",
+    "released_on": "2026-03-26",
+    "summary": "E코어를 12개로 늘린 2026년 출시 LGA1851 18코어 프로세서",
+    "description": "245K 와 비슷한 가격대에서 멀티코어 성능을 더 원하는 사용자에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 기존 800 시리즈 보드에서 쓰려면 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "18코어(6P+12E) / 18스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "30MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics (Xe 4코어)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 18,
+      "threads": 18,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 51388,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+250K+Plus&id=7221"
+      }
+    ],
+    "price": {
+      "krw": 313000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 313000,
+          "title": "인텔 코어 울트라 5 250K Plus (애로우레이크 리프레시) (벌크 정품) CYNEX",
+          "url": "https://cr.shopping.naver.com/adcr?x=UWDZWyFJlrO7QHiF01EoXf%2F%2F%2Fw%3D%3DsNMQT5hDnFE%2FgC5IYr1h%2BtAXijd%2Ft13hICGOUCp2yUYhUSOblsUq9PBRzR19dHv5vXPvxrijo2VUsspXJZQ00tvmiVWpGYf4a8Su%2BKi0Vv0rUZE2PTULt9vZVTUvj0f1B7pKrIwuxO%2B%2F%2BGeoKp%2BcBXveNmUNBT9LeI19w%2FTwkM8AnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskYxN%2B6s8kFAyaHIi1QWjo2%2BEhq8i7MRPopbb0EqigSIY76RSsWtFBjnOsBQh0S9ABT1AJRaNr8sXogxp3QhG9Zi54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyAdlbmkVKSgcXLwzWdfpcePzc1qG%2Fy7cs6IrPC7FrwSXChMRQiGVERO33vHpO7Qn7S6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2ZzHWJMfgclBZGGCkiqKirKICoXQ9vcaVAeT6KVNXOCwQwklY%2BDe3Dk5e9yNeHpDHWmDNREvcQ%2FII%2Fw1FPIUHA0HIUvH74JwCuma8rqZsN9MJUF78utN3Kk%2FechmjS2NXD067AIyeezTUnMm%2FJB9pPeV0ZzhcmfsLgR4AfFUoNDCf%2F7yVwtIUtx%2BSto2A9YVfSq55zmVOZEiViy1rAvvfV0MGhVFE59m5Ligc2gxkpHbZuAKUHBQrqD9nJmgc5tH6DoFMNjSyFJAd1%2Br3f4zkCxJgfAQBtfJiWykkUHq5dAOQOhyWUIIyPFUpWztUfPMydg1QmAmnoJRdq4K9btjkCM0%3D&nvMid=91305046375&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 250K Plus",
+    "image": {
+      "file": "intel-core-ultra5-250k-plus.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/245694/intel-core-ultra-5-processor-250k-plus-30m-cache-up-to-5-30-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라5 250KF Plus",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768250KF",
+    "series": "Core Ultra 200S Plus",
+    "released_on": "2026-03-26",
+    "summary": "내장 그래픽을 뺀 250K Plus 의 KF 모델",
+    "description": "그래픽카드를 함께 쓰는 게이밍 PC 에서 비용을 조금 더 줄이고 싶은 사용자에게 맞습니다. 쿨러와 내장 그래픽이 없어 별도 CPU 쿨러와 그래픽카드가 필요합니다. 기존 800 시리즈 보드에서 쓰려면 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "18코어(6P+12E) / 18스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "4.2GHz / 5.3GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "30MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "없음 (그래픽카드 필요)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 18,
+      "threads": 18,
+      "base_clock_ghz": 4.2,
+      "boost_clock_ghz": 5.3,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": false,
+      "generation": "Arrow Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 51227,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+5+250KF+Plus&id=7246"
+      }
+    ],
+    "price": {
+      "krw": 278500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 278490,
+          "title": "인텔 코어 울트라 5 250KF Plus (애로우레이크 리프레시) (벌크 정품) CYNEX",
+          "url": "https://cr.shopping.naver.com/adcr?x=f9v0dFGzERCZJlgiEpUcr%2F%2F%2F%2Fw%3D%3DsY9us6O%2BEoIK4X%2FwRK7j3WhOW4UF5vYvpVUNrlPvhXj1bvBPONTlS7fL8HtydAjJEbSM56e50vPOSTfCq24ECKxMFLJimeMtq%2Bi5vEO%2FGtj8i6kPb%2F%2BBs5hLBv1cyydoyjmsmPDKxfqcr53nq8IyV2l0KZEKt8YKxZ2w1a2PPMKjLtayO8vp8YGu6pHNtIwGhB0tejJuLME5UVjRucYBcG7q%2F8WKFfs%2FvLLvDXwb4Nh5P38pjjr6IoduMelBbhocB90BQRW5P45jG3LZwSFRAbRApg4TpvsbyA5pgJgDsa2%2FDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqvOC9LYUTX6RWGjIeeF2U1E6Pmxqmdt7vMiPl1mbiHvfdOOMXfd8W0smlm2hXCzKdhkS55GwTQseUUhtsJzkI7GBjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfMQk8JVl%2BMyk31JNQZJ7MUzOhahXEf%2BmyUmEADsy1W5j47hLWmsirwsB5cezyKuLvWGDNfCZZPH09dBG0If27RnQ88QSy8htt8kANaDCRP6snAvIpmLygzVsOgjRJaJtfmUV0QFwzVRaDn2uXrJuARH9w8GQsfh1I8stFV4DrPBdPngKVdywT%2FkuwLa2u0UJeEqt97Fs%2Beg5rzVFlQFlOpKyZe17TSSE%2FOIefj545mf8D%2B1GzYyCQAVsDO6ulMSbljGDfJPqGfvzC4RQKQx1sq4S%2FUuIk7PwD3tuBzhvUwdeJOWdl%2B1UE9mLhtAFlw1f%2Bw4SwcLvxUEucVmH%2BcOht40%3D&nvMid=91304977850&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라5 250KF Plus",
+    "image": {
+      "file": "intel-core-ultra5-250kf-plus.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/245689/intel-core-ultra-5-processor-250kf-plus-30m-cache-up-to-5-30-ghz/specifications.html"
+    }
+  },
+  {
+    "name": "코어 울트라7 270K Plus",
+    "brand": "Intel",
+    "category": "cpu",
+    "model_code": "BX80768270K",
+    "series": "Core Ultra 200S Plus",
+    "released_on": "2026-03-26",
+    "summary": "285K 와 같은 24코어를 갖춘 2026년 출시 LGA1851 프로세서",
+    "description": "울트라9 급 코어 수를 더 낮은 가격에 원하는 게이머와 크리에이터에게 맞습니다. 쿨러가 포함되지 않아 별도 CPU 쿨러가 필요합니다. 기존 800 시리즈 보드에서 쓰려면 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "코어/스레드",
+        "value": "24코어(8P+16E) / 24스레드"
+      },
+      {
+        "label": "기본/최대 클럭",
+        "value": "3.7GHz / 5.5GHz"
+      },
+      {
+        "label": "L3 캐시",
+        "value": "36MB"
+      },
+      {
+        "label": "기본 전력",
+        "value": "125W"
+      },
+      {
+        "label": "내장 그래픽",
+        "value": "Intel Graphics (Xe 4코어)"
+      },
+      {
+        "label": "쿨러",
+        "value": "미포함"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "cores": 24,
+      "threads": 24,
+      "base_clock_ghz": 3.7,
+      "boost_clock_ghz": 5.5,
+      "tdp_w": 125,
+      "memory_type": "DDR5",
+      "integrated_graphics": true,
+      "generation": "Arrow Lake Refresh",
+      "cooler_included": false
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_cpu_mark",
+        "score": 68524,
+        "source_url": "https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+Ultra+7+270K+Plus&id=7114"
+      }
+    ],
+    "price": {
+      "krw": 455000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 454990,
+          "title": "인텔 코어 울트라7 시리즈2 270K Plus 애로우레이크 리프레시 정품 정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=VD1DFSsp94j%2B6RSOIt9zW%2F%2F%2F%2Fw%3D%3DsjwRQZsCRAc%2BOl1xOLHsqbRvkKs0JsArAWKXZK0DW2mVUSOblsUq9PBRzR19dHv5vNCPnDvBo2frWjxBvWJkLk0OGKsWJVeNMffcW0kEKZHRdlJDHcrFpKKh%2BJ%2BROI%2FTJstuyVr%2BU9Fhrn0gpQT5PsPLhqxjRjAIFMBVW2w2B3zHchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAcCoWNS90Xnl4h95D6R8G0txLpOGZD7p4YoFn%2BaDKINcxusecsxTO6bFtq1MKz%2FpFpV%2Bz5OqdY7lNz30Eeo7eaHH2rBow2U7AoW6dwJ9KypO9rwouEr1SaMJsL6ayRg0QLbW9wgxESVj4W4GO1NqizHzzniTLqrdSuwLGyMmIIAnO3FAFUYtWN8eyc%2B2sJPnzFnT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHub3FkjoFYACtFKt61ejV0aA5qt989jZjAdIUoOv4zfTgRKjRp2D9pkBhcJdqPQCXkTEPKgXv622XwFXvKRR4OmhNhB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2BpdQydZwQyWzwlR5nHHcz4KW6xahBF2RiSs0fgj3NEwwenJzAqs8o7nTGDBeUP5qtrBtmCa21b%2BtV4v5NL27BgZx%2Bz0ldTiXYx0OuPOyHeiwVfGYcfTYWXFnqWS6hBQzZG%2BUI1evE9Cmkx72I393B3nuJlwm80T%2FQPoL9ohzB9dEb%2FOme9Fx%2FtsmV7P2P95wufb8FDJ%2Ft8MkndTTOQvsjO9SR9XwEvgJEn7GXFAwY59LR%2FHf%2FvWAV9I%2FqV%2BKzV5nm%2BEaThcwm2jOjlPe7qD4n46%2FspBx9WQRtJc1dOIWBvHCSq6fdz3u5PjeVvwOtWiwapzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=59558161965&catId=50001620"
+        }
+      ]
+    },
+    "search_query": "인텔 코어 울트라7 270K Plus",
+    "image": {
+      "file": "intel-core-ultra7-270k-plus.webp",
+      "source_url": "https://www.intel.com/content/www/us/en/products/sku/245692/intel-core-ultra-7-processor-270k-plus-36m-cache-up-to-5-50-ghz/specifications.html"
+    }
+  }
+]

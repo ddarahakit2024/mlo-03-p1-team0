@@ -1,0 +1,3050 @@
+[
+  {
+    "name": "RM850e 850W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020263",
+    "series": "RMe",
+    "released_on": "2023-04-27",
+    "summary": "ATX 3.1 과 12V-2x6 커넥터를 지원하는 850W 파워",
+    "description": "저소음 팬과 풀모듈러 케이블로 정리가 쉬운 골드 등급 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "PCIe 커넥터",
+        "value": "12V-2x6 x1, 8핀 x3"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 140400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 140390,
+          "title": "커세어 RM850e ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=xYhkd7pfwiMczu38zoFkgv%2F%2F%2Fw%3D%3DsEXo3DwPvJaq8MdxltyG%2F2biRAUn%2FhgTLZlJJQVswoVqydZxCkzqUW4wsXcDGYZNlYSBS70mlyqwqbl%2BGSqelzuW2Iz8qh4o56Tu8TDYN2wDhxx96N6T161A900KhJkAqSNPudSVmCV9%2Bk1R%2FnqeiK9yGaSr%2B0dRu37W7MMIB4NFk9Io6iZoAfEBQfsbkhBMBg1rQbrnYS7DQSGGd969KdyrgYRiAxiGtUuG0PbGnipjKmw4HjJ%2B0qPiC0R%2BJBlp8Pnjqz77guKygSt%2BVOwyzDvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SlYz1ceZPD6L4eR8yKMv0x98fHNCpBSuoE%2FAQLZoF8fh%2BfoqKPiH4Ko1ektcMbF8gk%2BQR2wTirUQRpaCOICAhN7y904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE9tNYOddRzkZI9PSFNumfZ88k%2Bt8ChBMAR1GApCbMmsP93W1AGuZ%2B%2Bpe26ui7dc2SYZMKrwNzOAT%2FZjwUqKet4AAO2ZMG9MLu7H623tpuawUcLG80ntZAfM36ymQ8QDJJoKYLpkVtGtfQ6mAM%2Bxum5H2bmfKSRbeiURD01497NCdvoLRdeTzJJo5DQ5ovPMjEUzyJel5E0jv3tKa%2BLpFnzjeZT8sqJaTF6il7qIJXhgrYVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=54190043070&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM850e",
+    "image": {
+      "file": "corsair-rm850e.webp",
+      "source_url": "https://assets.corsair.com/image/upload/c_limit,f_auto,q_85,w_1600,h_1600/v1680126575/products/Power-Supply-Units/base-rme-series-2023-psu-config/Gallery/850W/RM850e_01.webp"
+    }
+  },
+  {
+    "name": "RM750e 750W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020262",
+    "series": "RMe",
+    "released_on": "2023-04-27",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "저소음 팬과 풀모듈러 케이블로 정리가 쉬운 골드 등급 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 145000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 145000,
+          "title": "커세어 CORSAIR RM750e ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=doBaUiRrU3fWznUIFF22Kf%2F%2F%2Fw%3D%3DsphqTfCCAjg0007LUyjhEHt0Y9OjoI7%2BgevikJPIOe%2BVx1ATupg6c4L%2FJQuLlp3N3Rib80B9pUkZWUPz0nNWjmVE%2BTW4p2r2anYB50YmOpT%2BnmSAzVPfGgLpaWy%2FX1fmx6GPRzs7oCQw3gFXWX7CB1eRSCGkuUffe5ybAqQwsUw55EgRFOs0Py1Y5y6DlDUng3ZKkCh57WczP7ORwwH638Z%2BmFlQeKJ%2B3LchBMKi%2F3NI73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYpwiG%2F50ip7zXdUIDp%2F1pwldozqJ2wCufRB5MFLq6tdLCAcMbjjgPp5rQo1j5jPnTwmlJCiMaBIAatwij4UnKE%2BhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5rGhCbHlheuREcKmiVZh0y%2Fl3UGIP7VgGSJbE5InHLjUBhCJ7MnKnoevobuoLr7NDmzmP%2BNm%2B2njyDL2gQS8UGYsMoNCvScfkCq0c2MoVzF%2F9jxUy90%2BV1u4GK%2BDV9DgtmzPLaBaDDTENQc8AmKqrX2U3N0kWCShHUw4vdlvoRYWJM2OpdK5vsk6MDBKyVz%2BTeyE9P5locxScn8ii3xMnluR79U%2F6Az3gE9mQ%2Flgn57E%3D&nvMid=60949742553&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM750e",
+    "image": {
+      "file": "corsair-rm750e.webp",
+      "source_url": "https://assets.corsair.com/image/upload/v1680126577/products/Power-Supply-Units/base-rme-series-2023-psu-config/Gallery/750W/RM750e_01.png"
+    }
+  },
+  {
+    "name": "RM1000e 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020264",
+    "series": "RMe",
+    "released_on": "2023-04-27",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "저소음 팬과 풀모듈러 케이블로 정리가 쉬운 골드 등급 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 230800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 230800,
+          "title": "커세어 RM1000e ETA 플래티넘 ATX 3.1 1000W, 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=SOpl8UeD1TCyy%2Bli2O0b9v%2F%2F%2Fw%3D%3DsygTN1X53I3zOtqhqw2nmErFsCV5uTq69R2rveRLKauPfWgbxnKCL2KarshLf7%2BCCxOfDA4Gm1XmlCE39cHUGe5OIgO8ZQtsL3tFl49xsFU6ZrQFpwRwyiQOnvW2mZGdNExc%2BUy%2BJ6NB4soqH2uCPTh4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnRiQ1nhiltpIjwgvR0IJTY%2B9FEdUxo2X0qTP%2BYrdOCI8KjOU8pGtoWnCycGbvPbnwIJ4c5bYXUc6XttkjdJY28cJEZINOJyzH2pUYxYG3Sb5b7SX64QSy33RS31btghCAMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6om75AjNyMin7y0KmC9GmJkCyF7%2FOEV%2BYU1qAYrijnb1i%2FVBDMIut42nyyM8MGNK2LEZnMfZ1uIn0QD%2BEHqN1vm3zQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9COmTKJfp9oyYR7DF079%2BDXke6%2BzuO6rCq2z%2BHmPhazXmbGyYzHwLJt8JB5NC1eUgTMf9CtLEDJUCZvxcVFP%2BsZ5UTigJne%2Bo6vd472UDGbeVlaZyJert6NWSCsVEJqAzfpCQDCpI77X4%2FVtja7Ovg3vaLcq%2BGAdu7ory%2BBcECPwTm67qFZNDARYcZkRQNTwYwpfv4pYkwV6e5PPw6oe0n9ABpzkHWOGkBSSwemcuek1LHUuN67gVmMqqZLi2zn2gd8HRyPBWbUFRhWScTsgQynPg%3D%3D&nvMid=60861112276&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM1000e",
+    "image": {
+      "file": "corsair-rm1000e.webp",
+      "source_url": "https://assets.corsair.com/image/upload/v1680126573/products/Power-Supply-Units/base-rme-series-2023-psu-config/Gallery/1000W/RM1000e_01.png"
+    }
+  },
+  {
+    "name": "RM750x (2024) 750W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020285",
+    "series": "RMx (2024)",
+    "released_on": "2024-09-10",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "ATX 3.1 과 네이티브 12V-2x6 케이블을 갖춘 2024년형 RMx 로, 팬 속도 조절 노브가 있습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 197000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 196960,
+          "title": "CORSAIR RM750x 완전 모듈식 저소음 ATX POWER LOGIC 공급 장치 RMx (2024) - ATX 3.1 750W",
+          "url": "https://cr.shopping.naver.com/adcr?x=kso1DR8%2FKUeQ%2FFBHeBskJf%2F%2F%2Fw%3D%3DsYc%2BO4xKqOGfaV3IJ792tTyexcqE9lic2OtQ9RacSj6xx1ATupg6c4L%2FJQuLlp3N3NHwX8iviIZqBX1Xzq8x12j7V22teSEWEQ%2BQiOu%2FLRDam6DiMJDAYer%2Bv1TyXF0%2BVazj8pZ1oOWNgvuEoNV9D0tzJhZf74HXHN8wrstsYrKthRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc90E3tbFkom0fK5MKKYJieUcBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FLYsExSwsoFi%2Bv9wgwWHyaitBiV6xwvN8EwQ6yxPNyizTJz7LBLMYi5eBGoucShtqDggUng4IQgYe0OfupdcgMIGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8iueygQMYVbQoA8pm5O3Osg6RREW1jhDRo97UKyxfO6%2FRZ75Bq9SPu548wvRmfPVfdtjNUe%2BX0UOiYkD86nSVzTYJhiaG40FbYI09Ba63XtqtvvM6MUDvfjUH02I4UvYQk6NFpDI9Uu%2BcW2fAAXYgqbNWbQuUTAD%2FsCoSpZbzVrLuVJUQxniZibMJAYzF8lPyExwHE56v%2BIFz%2Fy%2BtB1u1Qzb4qNLT9rSPOZz9ZnA2IG77MhsfqWiX%2Fpx0LVUP8Syycz9%2BGOwDK0s6o%2BTzS4K6TQgPkZh462TzHDAE5jlrKNBXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=91135457692&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM750x 2024",
+    "image": {
+      "file": "corsair-rm750x-2024.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-rmx-2024-config/gallery/black/750/RM750x_2024_01.png"
+    }
+  },
+  {
+    "name": "RM850x (2024) 850W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020270",
+    "series": "RMx (2024)",
+    "released_on": "2024-09-10",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "ATX 3.1 과 네이티브 12V-2x6 케이블을 갖춘 2024년형 RMx 로, 팬 속도 조절 노브가 있습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 175800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 175760,
+          "title": "커세어 RMx Series RM850x ATX3.1, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=zLR115WrRlDSZ2dJQDOaIv%2F%2F%2Fw%3D%3DstwsrsWqwnBoLSPSGYkZi9ld9o3lD4s6KtHYxK%2Bz8OxHmIyLBBKgwi2t%2FKofuFuPbmNB%2FAaJ5dhyUVAx7K9mxsAafgL4Dkex2CF1QdAdlJMU5u%2FSl5cDpeaPodTPBGMDDRq2DAhj87%2Fh1RGwVeW6vDB4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnGbnRFxVgfNJ8BdtaUl6EbRvB8rCm3OtJLtAMMiITkSwKjOU8pGtoWnCycGbvPbnwung3vf4jCzcgWEyy6H3CJ3S9eBKSYCULk6EDOlrr3GCDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6fpnlDvq8zvbcsHZmMOGHe1C8IvS%2BNPsEPJ7D6mlNi%2F7TCVPzvC%2FNYFn2ROjuAv2eLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHv3t672vBC7YtBc%2Bg5EENukq0ZrQc3Y%2BGVreqNWMLQR0TGTni0ZJDDvHvmoX4ssHt1CMXoF71vmvwsG%2B%2FOhypwazjiVtswzI5JAEUAmRi%2B4SIDUbUI0ZkvFU3yC3%2Bsj3%2BGy5kTkrLR02DUB27KpiTP5cIzqwFUNiRdjERYsVYyCsRpOFzCbaM6OU97uoPifjr3SvObxyxl7VREYFgS6s4EsPa8B118EFQRzKBifyewUXNjqh%2FZemCCOboDhnweAmG&nvMid=59560562829&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM850x 2024",
+    "image": {
+      "file": "corsair-rm850x-2024.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-rmx-2024-config/gallery/black/850/RM850x_2024_01.png"
+    }
+  },
+  {
+    "name": "RM1000x (2024) 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020271",
+    "series": "RMx (2024)",
+    "released_on": "2024-09-10",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "ATX 3.1 과 네이티브 12V-2x6 케이블을 갖춘 2024년형 RMx 로, 팬 속도 조절 노브가 있습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 225700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 225660,
+          "title": "커세어 RMx Series RM1000x ATX3.1, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=Hqe9OGH05ni7AkZzxWai%2Fv%2F%2F%2Fw%3D%3Dso6FiOsiHQlhDtQwQxSccQ2mDyVzIDxzmhSJEMAQFOW%2B6d02pvVAkl8JrVLn%2Fc2Rcf6yDjfQQ5XM3SyBA9OLUq%2BzPSojE2kB1HXhsLXej%2F4bonlMw98fy3D1XlpcU4IS2ZU6MFtVt3YP87x%2FfOFOmXpGh3XxiBIke8NafzLHPCMuAbCY81f975eS5nfR25FBiFNnWK%2FCSNvpUDXflJgl8%2FpS9Pyym3Lox42KfguRBAqR0wYMsLrlcTztfHfGCDSVEwda0n8IkvoM6NF1N6IdqLYZ3aXZ7ofmmlxAeVI0uiAU9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqHAcO%2FG3COjt%2FqdiLPq9QBD1nRJ4yoQ1ByXgZXYF4asWJYNATh9ZxxVLBPW%2FNXQNkhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PojJ4kONB%2BAXA%2FWkyqI3tDe4FZ%2FimAc%2FWIkrK7GvtSyVp7fPzmuun4RT3ytTak0%2BV9gN47QcMmzM8aiGAwcJQQP5yopF7qo1Xbyv%2FJtZJ5O1IkwNgChlpaaikmfUUVLsVmpNrYYgkS6xA6DFaOt1IzXEJDS2ha%2BSemzIUb4LLzCBRN64mBm9G8QruBkLDcHT6kr4jCIL8x2do773NAwpuJnsd%2B5ylpS1ixGjd%2Bbm5LrxvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=59560562838&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 RM1000x 2024",
+    "image": {
+      "file": "corsair-rm1000x-2024.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-rmx-2024-config/gallery/black/1000/RM1000x_2024_01.png"
+    }
+  },
+  {
+    "name": "SF750 (2024) 750W 80PLUS PLATINUM 풀모듈러 SFX",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020284",
+    "series": "SF (2024)",
+    "released_on": "2024-08-09",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "깊이 100mm 의 SFX 규격이라 미니 ITX 케이스에 알맞은 플래티넘 파워입니다. ATX 브래킷이 함께 들어 있습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "SFX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "SFX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 238200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 238160,
+          "title": "커세어 SF750 ATX3.1 SFX 파워서플라이",
+          "url": "https://cr.shopping.naver.com/adcr?x=87gwIDXJSk65G%2FNG8o6Vvf%2F%2F%2Fw%3D%3DsTa5gOQLaXLgANUlv%2FqBoVQniMzsqLrkyEvevqEKDnrjV5EbB8E71BWoMmcY9AcQxGcYduCgp1fivKVrWZFcED4xuqxfRAc0nu%2B1XHDVEa75adNWo5PcwlLr39BbjlY%2BwFFzlaS%2BNaHZYVNt4I7W1kmedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorHpsrKv%2BVBYZC8BVAZg8zA2Gq4DowF7s6g071i2WYWf7PMgHLFOkbxJn2IA20%2BqGGwMJzLkl86BaYaKOADj%2FRBXS9eBKSYCULk6EDOlrr3GCDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6z68%2Bz5eulnqrPG0XMsEBDmovNxFWzA781dOsDXmXgY18WOxN7YDqoF%2FskjKDfpH%2B%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFJGdrbVNGXQwA6fRaBVutPEO7bCAH0tMUJxiPm9exLC0qU3Aw%2FOgX0k802soa1fvwto%2FwQ%2BLi3E3VMKaYHqjJ399aXJWsbxy7Je%2FqjM8rMtw70Lcb6DOJKNIyJtQrFnKqXy%2Fwzu3FVJAW33ANKxvL02x3uqKnByQHQfSO6KYOM%2B1NfooVC%2B4gWn0YEjCY7gILv4YGjJCSIW1IvBxXT1wG9%2FmJteZjDPatCshNJygc6e%2BaS3oHIxSdzC1je2siuw2UDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=54190045714&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 SF750 2024",
+    "image": {
+      "file": "corsair-sf750-2024.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/sf-platinum-series/Gallery/750/CP-9020284_01.png"
+    }
+  },
+  {
+    "name": "HX1500i 1500W 80PLUS PLATINUM 풀모듈러",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020261",
+    "series": "HXi",
+    "released_on": "2023-07-08",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1500W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "iCUE 로 전력 사용량을 볼 수 있는 디지털 제어 플래티넘 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1500W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1500,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 529000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 529000,
+          "title": "커세어 HX1500i ATX 3.0 (PCIe5)",
+          "url": "https://cr.shopping.naver.com/adcr?x=cb5C0Mum%2FiJypsgFVnliDv%2F%2F%2Fw%3D%3Dsq%2B%2FJ37y36hH77aBoSGkplMu90k9Al%2FrFd8OB%2B%2FoAzdOfho66OiMIESM5DSmdKjcXUPgKvita9w7FsUu%2BvrN73gL%2FUxF071NoDq0YZynenyvOWVBH4C9NrOmEi025%2B3sbJ0CCn0VQRgbcCt%2B8XGSWdtof6jW5jHdz%2FbROY2pgmykLiAfJ3HXoWmLy01Zq2yZRtKN96FEaC2JHR%2FY5Ao5yLHMms1XpEXdDx4S36ZWX%2BpKYoSmrQAJcPfOzh9%2FjbCe8ZutJF%2BlxDyKGHCYaeaYlgvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4Sl59zUZ6XYyfNP%2F0fo%2Bf5saycWs3TjDHVv4c1SqsXutuXvGLHe4jl4TeZz4cN%2FzFyuAXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUUy0j8YNT4Fl%2F6LWn9PX7WwPWsm3oO%2BJ%2FR5AntL8IQtogAco8A2Ia7UL3fC5rVO2%2BaBCNh02YDwhBi9mU7WTWgKOGyX919ZlBfUy8geJqSW7IpQvuEt%2B8iqAnGVvic94jCFsKO2SQ7o7x7%2FGmORFThO2xDUefSrhDMBW4QhynWzQAGE2Dqk7%2F7DptJHBb9246SpLpW6L2%2FRzEGdqyz7SxM4RB%2Fb9b1dAQ8V60AuDC3pWwN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=39651759624&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 HX1500i",
+    "image": {
+      "file": "corsair-hx1500i.webp",
+      "source_url": "https://res.cloudinary.com/corsair-pwa/image/upload/products/Power-Supply-Units/base-hxi-2023-config/1500W/CP-9020261/Gallery/CP-9020261_01.png"
+    }
+  },
+  {
+    "name": "CX550 (2023) 550W 80PLUS BRONZE",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020277",
+    "series": "CX (2023)",
+    "released_on": "2023-12-22",
+    "summary": "보급형 그래픽카드를 쓰는 게이밍·사무용 PC에 알맞은 550W 80PLUS 브론즈 논모듈러 파워",
+    "description": "케이블이 고정된 논모듈러 브론즈 파워로 사무용·보급형 PC 에 알맞습니다. 16핀 그래픽카드는 변환 케이블이 필요합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "550W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS BRONZE"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 2.31"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "없음 (8핀 PCIe 만 제공)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 550,
+      "efficiency": "80PLUS BRONZE",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "2.31",
+      "has_12v_2x6": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 137000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 136970,
+          "title": "CORSAIR CX550 CX 550W 80 PLUS Bronze ATX CP-9020277-JP 시리즈 전원 공급 장치 모듈 식 전원 공급 장치",
+          "url": "https://cr.shopping.naver.com/adcr?x=hcrctOC5fXCrIlZwT0J14%2F%2F%2F%2Fw%3D%3DsBRk2xATxsUpaWs%2BtZzXOQLPLZq5xTdYurA31etfEOX1nUWb15vR50xx8XJsIllytuTgvOiPl5x5vL4cPhYV%2BRfKa%2FITpy4nb%2BAUy9M2gzFViiUwB2lDB2K7MlU%2Fxb5dnVI3TeYAWjVL3NOxQhKVCVAY7th%2Fb5X%2Fu%2F1YFVAUnhxaK4j5MTwF45Ni1%2FMJqrSg06%2BWRbsEOdaLHvBqp5sOD4IeSNuqYUiA0y9re5IJ%2FtJkn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7Fcm%2FMBLQ91WS9tG2%2B3q7AtWHGz6UxHOBLuFbAHYvev3nMK0vqnECIbwPggBRigVkfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4Af5Dlo0nyg%2B9O7afsjR8io3NW06yZyz11cwdDfG5ktpzvmhhF7zuOoSl01mavoiZG%2FNNcTOb9Dl4bDxkpNBy3Jr1dey%2BF8VEjiEkQLTVMKENWQhLd7RYsuFouhr4L4%2BZzOnMnZevJoBlpHU%2FC5fChDQm1%2FkIXMdRyIKjIKXGmmag1G2E4JpldSwG5qQFALzc4sQocLEGGa0wsleHc2pFkrcxQGbd2yx%2FLfBTxoiPh7nMtfqjmOkJL9Ua0LgUfGrYPsIQLOiEsUwkNVF9%2F9ZfbnctVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=90957123819&catId=50002927"
+        }
+      ]
+    },
+    "search_query": "커세어 CX550 2023",
+    "image": {
+      "file": "corsair-cx550-2023.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-cx-series-2023-config/CX550/CX550_01.png"
+    }
+  },
+  {
+    "name": "CX650 (2023) 650W 80PLUS BRONZE",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020278",
+    "series": "CX (2023)",
+    "released_on": "2023-12-22",
+    "summary": "보급형 그래픽카드를 쓰는 게이밍·사무용 PC에 알맞은 650W 80PLUS 브론즈 논모듈러 파워",
+    "description": "케이블이 고정된 논모듈러 브론즈 파워로 사무용·보급형 PC 에 알맞습니다. 16핀 그래픽카드는 변환 케이블이 필요합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "650W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS BRONZE"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 2.31"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "없음 (8핀 PCIe 만 제공)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 650,
+      "efficiency": "80PLUS BRONZE",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "2.31",
+      "has_12v_2x6": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 89000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 89000,
+          "title": "[CORSAIR] CX650 ATX3.1 [650W] [화이트]",
+          "url": "https://cr.shopping.naver.com/adcr?x=NnCBGXpmItS%2FOnIp9WssXv%2F%2F%2Fw%3D%3DscL7b8GUnrGveYdkeGNhZ6Gl5dyHsrHSrHvyT%2B8dCMR8Kf9t5YL2CKf0EDKPaQBNxfvYY%2BzoaMUAkR6Hi5oVRlE95LSvc7Pbh9qSB3wDN9oXoToGx0YDTbsrmkKjFyZNR7IBw0%2BMnCnDCNN47iWTCKUjyVTETOsHDhZgOexEgrVNLFN4W8nc8JCMG65HOl6GQlao24wzPYNunilzIMUG1dmM3iRTSQ4VhBbMLOY180zBRDpV%2Bhn6%2BduDEqmrJ0uJPb1iuUE7cb2Rvc2MzvnGbog709%2BQQGAfORJrB1NvIoOj3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0IXmICW5tcpP1aGkmk9mEhYaNX5JmS%2BI3bR45v3vc4Wh8WOxN7YDqoF%2FskjKDfpH%2B%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFDGNnO3k9HZG%2FzEE5H7WZtEO7bCAH0tMUJxiPm9exLC3mkrcu1hTfID7zCQDjGEicVTngOd2xhuongA8Q%2FD4KUzfKMIavtNA9iFu1cmZlyhuxmUA5Z90rcbFGDmPWWe38btbOFvq5NWHOhWBdWHrPz3R9INs9ZpxiOekV5%2FkbMXEA068%2Bzl%2FGF%2B%2BG2m000SFuYnWKsbkK2HIOQoZ8Py1qe1aFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=62097580753&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "커세어 CX650 2023",
+    "image": {
+      "file": "corsair-cx650-2023.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-cx-series-2023-config/CX650/CX650_01.png"
+    }
+  },
+  {
+    "name": "CX750 (2023) 750W 80PLUS BRONZE",
+    "brand": "Corsair",
+    "category": "psu",
+    "model_code": "CP-9020279",
+    "series": "CX (2023)",
+    "released_on": "2023-12-22",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 브론즈 논모듈러 파워",
+    "description": "케이블이 고정된 논모듈러 브론즈 파워로 사무용·보급형 PC 에 알맞습니다. 16핀 그래픽카드는 변환 케이블이 필요합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS BRONZE"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 2.31"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "없음 (8핀 PCIe 만 제공)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS BRONZE",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "2.31",
+      "has_12v_2x6": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 100300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 100320,
+          "title": "CORSAIR CX750 CX 750W 80 PLUS Bronze ATX CP-9020279-JP 시리즈 전원 공급 장치 모듈 식  1개",
+          "url": "https://cr.shopping.naver.com/adcr?x=yUrG9krf4y2d2WcXMUNel%2F%2F%2F%2Fw%3D%3DsTMeXpkVe8zvbuXdu0ImJw6oNcBz4fA%2BvWKiwynMj9hJdoPX2Hd5k66PKTzoCLbKWUAU85V8UG6GU0og9WplwYPtS%2B3bYHsxwSdpk5KdKK6oBhpKbZJ5UKvOEbyB9uwCTRQmB1Q4naaR768LOtCeA5SLL%2FEbck8Xv89zQyVX0dXNDqwmA10CKb3E%2BowKknoCiwQtZc5lX36QkHS5l9O3JzK1KfYjt7FSXYRwRlgr802csWFxuutCzxvxzkcoUPTiHJMAD9s0D2iE8qI9YZseIXHZbVXYDJkMKNYme8n5crGstu%2FziA1yojNy6ghdQCMeqxEigSqosDsAIM3xx6uLF8m0ZXABpBrt6Yq9%2Baxci60sBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FjTuaCVUMNamgHnJ2SFET8hWaWYkTj7xp9KvzGz7%2BZehTcSH68Ez5YmCI80ycB92igF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFv1M8TK%2FUviE40yvZKzPPYy6Dv%2FfMUHWHC3HcR4BPhuba8s5hT4otQx4JsBu%2BTCq9k2XkAsU54BTz8vicDQahg05Y5tUnTpvoXWnSZ1K2oDGt9vaeLZxjBuX3zadk9rjVhQWJyiX%2BNGYStVSM0Nh39iVpuKV5pQo91EYxFoVYNfZsll6uE1rOFRSEMWTAoQ%2BPR6pDh2zhmjWAHTZbiYkQmSa51MWHCeUke%2B2WKEuRapXELrzQDVxf11JZCI%2B1gUIhlWDh6QdrdLgCsmnZhkdo3h0cjwVm1BUYVknE7IEMpz4%3D&nvMid=61867278831&catId=50003114"
+        }
+      ]
+    },
+    "search_query": "커세어 CX750 2023",
+    "image": {
+      "file": "corsair-cx750-2023.webp",
+      "source_url": "https://assets.corsair.com/image/upload/products/Power-Supply-Units/base-cx-series-2023-config/CX750/CX750_01.png"
+    }
+  },
+  {
+    "name": "FOCUS GX-1000 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "FOCUS GX-1000 ATX 3.1",
+    "series": "FOCUS GX ATX 3.1",
+    "released_on": "2024-09-30",
+    "summary": "고성능 그래픽카드에 여유 있는 1000W 파워",
+    "description": "OptiSink 설계와 깊이 140mm 의 컴팩트한 본체를 갖춘 골드 등급 풀모듈러 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "PCIe 커넥터",
+        "value": "12V-2x6 x1, 8핀 x4"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 275000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 275000,
+          "title": "시소닉 NEW FOCUS V4 GX-1000 GOLD 풀모듈러 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=g6XJpL%2F2Nkjl7DD41VzR6P%2F%2F%2Fw%3D%3DsaKb5yCvQq13a5f9ZSW56vMaeED75cGQFOUqNwLweRoxE4rdpLQlprQI8OYDGislwT5OWhFnRkECW4nDLttEdmLGvn41wts2I8qenEQAf2yH04PkEC%2Fp3m%2FYgliCcBj037pro1bvLLmBQhDRB20Gi2mddOZQBB5zZ7KDkrmMvKSKGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSCd%2BhloyALaiIG17xtDBXAzbb%2FziO7rv0wrznGJnwMumW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJfFADPf4g7Yji3xbbzDcPSSxhYd5HUAHFFdgpRNLq11iGpC%2FCZH%2BqVPSNC41s4%2BvCZlQz%2FodP3xnu%2BBoMXXM5cYdJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FEApTkuFypv%2FEmvfq0g7r8pmVuOxVXFLwxDSNh7iG1T%2Bj1449pXV0Rh7HQ1nGS2pDmPQibBvAMykH%2FvT6lz8LwcrnqLcO678%2BDyjMsDpDt5wzElCBjnCAgMBwKufRv9MdoQ%2BGtKfWwlqSpnp6L22HDQycmCXG3eZvM8SscUduGL7dH0g2z1mnGI56RXn%2BRsxcVA%2FZ5gE8RNJXZvEpdAKGInekwlX7C4D7g7317SeXiNlPhLxMRBwowI2Gyot5Cd%2BPA4SwcLvxUEucVmH%2BcOht40%3D&nvMid=91320854587&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 FOCUS GX-1000 ATX3.1",
+    "image": {
+      "file": "seasonic-focus-gx-1000.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/04/FOCUS-GX-1000-Box-1440x1080.webp"
+    }
+  },
+  {
+    "name": "FOCUS GX-750 ATX3.1 750W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "FOCUS GX-750 ATX 3.1",
+    "series": "FOCUS GX ATX 3.1",
+    "released_on": "2024-09-30",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "OptiSink 설계와 깊이 140mm 의 컴팩트한 본체를 갖춘 골드 등급 풀모듈러 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 192200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 192150,
+          "title": "시소닉 NEW FOCUS V4 GX-750 GOLD 풀모듈러 ATX3.1 750W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=CcvWVFT6j5JjyctN%2FhAQRf%2F%2F%2Fw%3D%3DsAXYRM%2FJs2R0m5hTy2HqM9FGn7tKN6epRQFqe98fOslJc15n5GbDq54vf0R5GDkKbfF1LS%2FHlUO6mrDYovuBvLKGkw07Y9DRRqxQxn2PYpL8vdTa%2FbUeHTt9jE%2FwSby5KWL4mylyNz70cZW35usmFu1KTCXScMU%2BGQAHpXSStCOXffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy7ip1aj2B41%2FkR9SzlblZqFZhuxPw6BfaRYS%2B4P5S9xf%2Fr16iSh2C3l40%2BH%2BPnCRcJvOf6gVSStdN6BXSf4ZDZWOkOMdTJLnoLtIlhDxB77BxBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FZ0m51lAviPRPxpduzrBS70VjQCpIk5kx4sJW2hrRfnKfV3pMQ417Ua9vKEOxGJrLH5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAKi24Duv6PXcaz6a7yXV6c5zVtOsmcs9dXMHQ3xuZLacrdO6pOctlFBDKUl306Ya6fmca3bsf543lBIat9p8eluPevep79qp37crwYGpKNkjMpT1fVEUnVSWqtJ%2FpMr6AujhDjNlenS%2B%2FoJf8r9sgAw1EvIxdKIhxKJeB9eYMsvG2FaBTfV5yhg%2F36oM4JyxXeyYNemZ19ztRyXTdd%2FgHsd7N0%2BKs0gSFTdhwMrBXaDk5Kij8gKSMwoRg40i4Dtsjx5BjN9TY6LpzXK5VsM9cYmCqA6%2BrrPkSkQjk3bFq%2FUy&nvMid=59588106955&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 FOCUS GX-750 ATX3.1",
+    "image": {
+      "file": "seasonic-focus-gx-750-atx31.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/07/ATX3.1-FOCUS-GX-750-PSU-Box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "FOCUS GX-850 ATX3.1 850W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "FOCUS GX-850 ATX 3.1",
+    "series": "FOCUS GX ATX 3.1",
+    "released_on": "2024-09-30",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "OptiSink 설계와 깊이 140mm 의 컴팩트한 본체를 갖춘 골드 등급 풀모듈러 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 214200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 214240,
+          "title": "시소닉 NEW FOCUS V4 GX-850 GOLD 풀모듈러 ATX3.1 850W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=R1l6a9L0aMdOAVGoh3ymcv%2F%2F%2Fw%3D%3DsjsL403whjhOp4OfaeRNknrhlqE0hpvq0ZzPdidgdbR1E4rdpLQlprQI8OYDGislwrBOpSyM5V8Fu%2BoBYRuRdft0yKRLZ4hHuE12x9KdOpdvbLmkOpnYJIIcotLvNFaunEOmSKzvOW6rA2VjRSnZMAZixmwJ4iaHGg0UkzszFE%2B%2BGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0FHKDDNcywMxyK%2BR4J7sWnyTZUC1ayHRdpT36xt9KcEI750wVdwSr9V1bCiReAT2YzRR8kqZwOs%2Fs9w8cpUwijH9FWjeHhq9eNoZ8PHggM9zPWArAWFeeWWgqqfex3sIAQlffNBsS082ZOfWfHe5e9DDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqnj2HbL%2BZEn3V6ZSo3VVz109Z0SeMqENQcl4GV2BeGrFiWDQE4fWccVSwT1vzV0DZIY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj5BO2j9ggIkXvVmvEGymt0rW5GOmF1OiznSD1bDlsx9Hae3z85rrp%2BEU98rU2pNPlUGP6Jhyv%2Frok2WOPrAjKWMupi9CLHrFW9JXYUqx75CQkddSrANfCyp488IT0km2aoaMZQUaYSwBuccxaCR3TiqFlWr4f7cV2RKlcMa0TlIdD2QU8xRMrbRgpF%2BlWCaZi31Bqr59WW3spWygT6bf6UOOv%2B%2BG7P8zZs54SDuTec41MO3sy%2BpBvL0HAftOdCF%2FFL%2BFe0zcyay4sv4b0dqFt6PLVWGr8fvvH1mWvUgXPK6j&nvMid=59587906510&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 FOCUS GX-850 ATX3.1",
+    "image": {
+      "file": "seasonic-focus-gx-850-atx31.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/07/ATX3.1-FOCUS-GX-850-PSU-Box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "PRIME TX-1300 ATX3.1 1300W 80PLUS TITANIUM 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "PRIME TX-1300 ATX 3.1",
+    "series": "PRIME TX ATX 3.1",
+    "released_on": "2023-06-19",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1300W 80PLUS 티타늄 풀모듈러 파워",
+    "description": "80PLUS 티타늄 효율의 시소닉 최상위 파워로 하이엔드 그래픽카드 두 장 구성도 감당합니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1300W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS TITANIUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "12년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1300,
+      "efficiency": "80PLUS TITANIUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 830000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 830000,
+          "title": "시소닉 PRIME TITANIUM TX-1300 풀모듈러 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=QAqhBiI8yNiXPh46%2BJOPdv%2F%2F%2Fw%3D%3DsEVn8Mt4YzLzAtNMn9SYywUh66DRuiK3j6CsBeCJGY4atbftWdiuFFXP8KPwezTUk9n6Qg9NHb4bz0jXl8iRYtYd8%2BbmxjIj93jCYnuxM3qkh3xREIlzjwcU1sEuxzLKFaHFhCZFTIWNrboazCDwiEmpmjjvT6vwOqis%2FSxVJxOFhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc91jkQ%2BF7B0zCjorWSe4JtjoBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FzPAmsLtq0aHT2l7Jd3E%2BaCVqk6%2FbiI1RQgUsBc9Klz2JYNATh9ZxxVLBPW%2FNXQNkhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PC3%2BBBAPFPwXniAR6AMsNajBc6HPwWLroWcqgFGUORyYTWXVezvAsNsSpNDpoLWdjyIzSLAxTDAfP1eQOWM2y8tSJsOvK1kM3jGnGvu%2FCMKWyz7JqdA6ynaQx0m2E4mNpggGiwFDwCVri7RsbAvHRXGIp1P1eaMn4ssKTzJoKtJDTn%2BIvcxawVxNuePP9ktetdI%2BDtNaVJl7I3mUlcZ50psE%2F%2BjrdKDEEjT9Ssd3IkHDja%2FfzDO0pEm1R3Brt8kbszY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=88935042020&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 PRIME TX-1300",
+    "image": {
+      "file": "seasonic-prime-tx-1300.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/04/ATX3-PRIME-TX-1300-side-panel-label-1462x1080.webp"
+    }
+  },
+  {
+    "name": "PRIME TX-1600 ATX3.1 1600W 80PLUS TITANIUM 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "PRIME TX-1600 ATX 3.1",
+    "series": "PRIME TX ATX 3.1",
+    "released_on": "2023-06-19",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1600W 80PLUS 티타늄 풀모듈러 파워",
+    "description": "80PLUS 티타늄 효율의 시소닉 최상위 파워로 하이엔드 그래픽카드 두 장 구성도 감당합니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1600W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS TITANIUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "12년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1600,
+      "efficiency": "80PLUS TITANIUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 800000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 800000,
+          "title": "시소닉 PRIME PLATINUM PX-1600 풀모듈러 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=LhkSRojDu6GjyB8SuGnXUf%2F%2F%2Fw%3D%3DsFZb8%2FtG8K6%2BU1vi9nahUVQoPd%2BaDlJOsI0cwYPaFTLTo55ahVZjoILpoBNRNeMHpA%2FabpwKzJipsKpykh8ovlDr6AUPcD7hF%2F%2BJ%2BVErhyLBcg%2BnhznKzwHClIqKdNRA206BoT1rk27JX%2Fs%2Ba2jIsJ2xz5XqQ8Z5c9gRGxPOZt%2FW7lcNxnWgwL8Q0owt3J7dmf9tprPlvE4kEDc%2FzhzDBReadExCgSbDDSIXqye8oAAXzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEp7VuzI87fa7Zs4MfHZ%2FCd7Bo56D2IGrha1L%2FywYRLugXn6Kij4h%2BCqNXpLXDGxfIJPkEdsE4q1EEaWgjiAgITe8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPwb9Tjt1VlDDsvxnI%2Fpk925EO7LF83QxDwgU43N3yQR9kVjkyMd5YFRqR5b4nO7BoJFEkZfK5kstZgvSqCuWF%2BuWtoMTS%2F%2B0LBICeHzRJ2t48TWNyY%2FOov08JDhSasbJM5XLfSPB%2BSA3ZS7HEv4u2XRB%2BDe9fKVO4YPVOlVGEkSujrgWQ%2F0JBsjHud4pzo5y1Ecu7OHNVrgX7xv%2BMPQBG4FS1Js79OD%2BpKcQsEJy%2BpQkPT01ccIes8lKn8hdMnfGU5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=89043075069&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 PRIME TX-1600",
+    "image": {
+      "file": "seasonic-prime-tx-1600.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/04/ATX3-PRIME-TX-1600-PSU-box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "PRIME PX-1600 ATX3.1 1600W 80PLUS PLATINUM 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "PRIME PX-1600 ATX 3.1",
+    "series": "PRIME PX ATX 3.1",
+    "released_on": "2023-06-19",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1600W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "1600W 대용량 플래티넘 파워로 워크스테이션과 멀티 GPU 구성에 알맞습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1600W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "12년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1600,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 800000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 800000,
+          "title": "시소닉 PRIME PLATINUM PX-1600 풀모듈러 ATX3.1 (정격 1600W 파워서플라이)",
+          "url": "https://cr.shopping.naver.com/adcr?x=8tvUf3PnUh6V4LNNjErgGf%2F%2F%2Fw%3D%3DsY1viSO8wYbYa31YrOSO0G5b2jdfwtw0HZ9WlJCI8IEqtbftWdiuFFXP8KPwezTUkJxOeXPB4o2XEBDKlf5F0KINwwYpzUDrx4Hp75OtK9h4ITCNvNXNMSXvMw6vx8TZRr97gc%2BB4Zzj2LsUtxRjpPvmw4XDEkLcpbHhLieABYxlhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc95NPyCmBwSSlJAK370vHrioBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FSsT5Nplx%2B8eYj0vhMhprTKawd98dOhIyz8%2FI3cbEEGKJYNATh9ZxxVLBPW%2FNXQNkhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PgJ2Rg9j4QNf5feQBYMwb%2Fj43b%2B%2BYF19w1hmuXvSUKRMTWXVezvAsNsSpNDpoLWdjLbsRnTKXu7pZchZYFYp3WTAVT9z%2F7kErGTT%2BgGtMKpL5Ilo%2FTFva4xh%2B9EiQg3U2lR%2F2lLHpuEmVlwyTL%2BWD%2BnXs5h8SrHLXaQHHcQH9sQjlct9I8H5IDdlLscS%2Fi7ZdTioWSevoMGLLdtt2ZBlCM6OuBZD%2FQkGyMe53inOjnLUt%2F3N0qvoX%2FXWSTA9QF9cjMS0WKwAGnQ46O6LkBQKdOP6pvR3WTC18vlUY4TJHlwjke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=88939460041&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 PRIME PX-1600",
+    "image": {
+      "file": "seasonic-prime-px-1600.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/04/ATX3-PRIME-PX-1600-PSU-box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "CORE GX-650 ATX3.1 650W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "CORE GX-650 ATX 3.1",
+    "series": "CORE GX ATX 3.1",
+    "released_on": "2024-12-06",
+    "summary": "보급형 그래픽카드를 쓰는 게이밍·사무용 PC에 알맞은 650W 80PLUS 골드 풀모듈러 파워",
+    "description": "시소닉 CORE 시리즈의 풀모듈러 골드 파워로 값을 낮춘 보급형 모델입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "650W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 650,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 140000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 140000,
+          "title": "시소닉 CORE V2 GX-650 GOLD 풀모듈러 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=U2GIyTHJs%2FaRIn0S%2BcuYH%2F%2F%2F%2Fw%3D%3Ds98%2BGWNJ2taxT4YGH7gyBv2VjOmIxyvTd9p%2FJP%2BKdU6aJnxmWArGr1PoXlcBN%2FTGyyM%2BKeK03%2Fw4nOaqquDRd4xAqdxfPsM%2B2wDrr1mIrdTCRa6xwJkPoRp8YBM19Xu6r%2BprZDg191lNOUchBQrveOPx5P3Z4e%2B27wOdlfxyCXBuGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSPK5yWPxny%2Fydj4g9YwtRImEH2zgj34rf0qlQtGqnjOOW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJiSMHUF0YvzKTiq6hA8anJdMUM8fQMcy5b%2FaHwQl6ImZvZ5%2F6tLezybX79T3JuahzZlQz%2FodP3xnu%2BBoMXXM5cYdJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FOudJcx9Ek13%2B%2BBkeeb9Wq9mVuOxVXFLwxDSNh7iG1T%2BGcmWjsyW4WKZ1glaJutSqEOE7joKz3iHTuG9e%2F40LP24vZwU%2Br5nwng2ybwtWpfWtdKx0ZAJjGchvkWdettHHjHRDFm7mYMbhLVD73Km3X4oIzgazB0EnBqaxc5DDS0FY%2FJqEdIWFxlPiYDmwdg9kGSeasYGltNkvDx5GF%2FkURHn9hNrJJHriHCFCmWjgtUEb1NmOoRBMBsXNQGXzjfbC%2BFUQB%2FrDAzm2q1KHRsHkfE%3D&nvMid=89204685165&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "시소닉 CORE GX-650 ATX3",
+    "image": {
+      "file": "seasonic-core-gx-650.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/09/CORE-v2-Black-GX-650-box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "CORE GX-750 ATX3.1 750W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "CORE GX-750 ATX 3.1",
+    "series": "CORE GX ATX 3.1",
+    "released_on": "2024-12-06",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "시소닉 CORE 시리즈의 풀모듈러 골드 파워로 값을 낮춘 보급형 모델입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 163600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 163590,
+          "title": "시소닉 CORE V2 GX-750 GOLD 풀모듈러 ATX3.1 파워 블랙 (ATX 750W)  1개  선택하세요",
+          "url": "https://cr.shopping.naver.com/adcr?x=HjkyRhSgNNTLm%2BA5UY7S6v%2F%2F%2Fw%3D%3DsugirUt8gsutDjjTxyTAJ84HmCnzcAfVa6XAycUKm1cUgxFUjMQRXVAwsm%2BztOQutvLmcu7sLdb2WW0Qhu7zE%2BRbHvRT%2F1qUKvAZ1Wmhhv7L%2B1tiCeD53azuY8c%2BEyNRDdNBmZ5dLUvvikF4XWwAgIGToenL2qC1FkIjXlYj%2FDF9tyc3l8ZEnU3nH1EeP70UI3fisI55hPJ5pLuMjYVoMIct%2F0NtVKR3uVg1V98uU3Q%2FdlU3rHBbwtJJDMqYAbaZZR7oeFSTYVpIsPhuYKLpw9MzEygR0jFcCXlGPmUmuuW%2BXxCF5JGbfZBm8nQ%2B4nw4iFqWpUuLcB44HqMQP7MfdgRENMI%2Br9K0d9QHnpr2xp72i5no397UTRyIoCo99FV2qUYNvVXer0B8E1YcEgWLkz1nT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubfbPrDG6XTH%2FQRbEPtMAilGW0%2BV%2FgmKRTVk1Rocg1fDeGpC%2FCZH%2BqVPSNC41s4%2BvCbfVb7Cw0juTzMWuOEppdG4dJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FHHNmlP3KfpmAkN2dSU1sY5mVuOxVXFLwxDSNh7iG1T%2BGcmWjsyW4WKZ1glaJutSqDupHKYZ62aY2u4HSlYrGvO4vZwU%2Br5nwng2ybwtWpfWU6JSWoJwY4XtX%2B5Kc92dlVLKJvBAfBhQUN7MiJIjt3HKRgcXfCvGjNlMt9TmYY2A2gh7jonYkh7BxFVnshVj8VoHppXDko559q4cPByiy8VrWNLxRrWHCJoudYzHCivGkr4jCIL8x2do773NAwpuJoX%2FGYg6Cc59RNy4YLXBnqtvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=59889699359&catId=50003114"
+        }
+      ]
+    },
+    "search_query": "시소닉 CORE GX-750 ATX3",
+    "image": {
+      "file": "seasonic-core-gx-750.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/09/CORE-v2-Black-GX-750-box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "CORE GX-850 ATX3.1 850W 80PLUS GOLD 풀모듈러",
+    "brand": "Seasonic",
+    "category": "psu",
+    "model_code": "CORE GX-850 ATX 3.1",
+    "series": "CORE GX ATX 3.1",
+    "released_on": "2024-12-06",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "시소닉 CORE 시리즈의 풀모듈러 골드 파워로 값을 낮춘 보급형 모델입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 180000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 180000,
+          "title": "시소닉 CORE V2 GX-850 GOLD 풀모듈러 ATX3.1 파워 블랙 (ATX 850W)  1개  선택하세요",
+          "url": "https://cr.shopping.naver.com/adcr?x=206DdW33%2BhB%2B%2FZa3Yg7YPP%2F%2F%2Fw%3D%3Dsze9K%2FuhBZhKNfguDlO0bQ9Z0dNKd43l3kDiYZG5m%2FtWcbHK7uLxEBJfzs88tOkSYDEeoVNjEiEPYC8a0voim%2FM8wC4DyjrW6tHyCY3ThtbiB%2Bcdld%2BFl7bqtNUzt6TAzmRIK7WT2YXZ8LK%2F2ERjGvw%2FXdXkWQv7Lv7azAAMQ3Qt85mDf3L5e%2BQBpwcpNk41hJuTmOvwQNOS1j12qkxd8V2%2Bjk2vDIPAxnZRXeF3dn8S%2B7KzJIewYw1ZfGz27BU%2BmDPKcsD%2B9EX%2FX4%2FScgHFdv93%2Fi4XxU%2BlP5Gs5m%2B5hDlH%2FWXNdQJ0K7zak2gyRKWWINk6vn%2FEWdyxlCAwg9rL15mkzMLfJ0WKa5A7AYpChpWIWaPuOCz8CaX3cPkeGF%2BoQhRklcRSf6Q9IljjQx8Mx%2FH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUxzEI1JZbp7W3gNDMTa1fdgoEnYFg5UhyrliaoEAJB0N%2FlLnJwMa7Bt8R2%2FUDqQrC%2BlXJFalo236rVMhl%2FFM8Q9hB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2BpCvBoKPkHccJjXnnyVA4WfdKoi3tBbIIOV2tw7XLM01ryaZbztqpU5JRANo2SEL%2Bbtsp61zF4hbuYHd9wnPo2eyAAzy0c%2BSwZZvQ2t8OvftNRQxob2oRaO%2FUW9F37KnKXcIyU5fWTgfBarzI90X%2BPuDOgNBnFlaFjLl4lgWlVneTKDvpaNKVMLi0wmpKpA4PDBsKM%2B%2FeI7rTONkW32cLu%2BnLjf6T3EG5hIgSx3GbKMyjCkd2CpQ%2FahgJeoF%2FR72TuovmFAU6cTIpLFKhQHaZ99uhAq8a1zfntP2Q5r17LZ85Xc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=53970273187&catId=50003114"
+        }
+      ]
+    },
+    "search_query": "시소닉 CORE GX-850 ATX3",
+    "image": {
+      "file": "seasonic-core-gx-850.webp",
+      "source_url": "https://seasonic.com/wp-content/uploads/2024/09/CORE-v2-Black-GX-850-box-1462x1080.webp"
+    }
+  },
+  {
+    "name": "MAG A750GL PCIE5 750W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MAG A750GL PCIE5",
+    "series": "MAG GL PCIE5",
+    "released_on": "2023-06-19",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "RTX 40 시리즈를 겨냥한 ATX 3.0 풀모듈러 골드 파워로 두 색 16핀 케이블로 체결 상태를 확인할 수 있습니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 147000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 147000,
+          "title": "MSI MAG A750GL 80PLUS 골드 풀 모듈러 ATX 3.0 PCIE5 750W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=qdj91CcapHebSLtKn5jxjv%2F%2F%2Fw%3D%3DsXP7nKrtyghbsRNlrfA9bOhQMyVqJW5mpaQ7uOmZzoT4fGgET1yx6K%2BUM8ZQmtCyF1EyZnwQlWf10KakI7LLuxHHnWdg0orjZf%2FKfsBcOcu4aWKHbZjRSWlniw99NVIXDM208Cl%2Bqerr%2Bima1cVoz8WIwepIC9H9SgTOGX6HkvO6AbCY81f975eS5nfR25FBi03xybQraz38WDKZW%2B%2B9UW5FnPmLLiiCPBtnojPRGuysPrWIdWHLKHw%2B%2BJ%2FxJhm93utdVOsYywQcymfd421eRjMQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F0hLmQ4rYXyx4bQGqGgT0RXISFv7n5uAItYPm5%2BaPBVoDeRQlaERYSyknT5GMIn20wura0umyewG3sU16BCYUympo2Y27OMxChR1eZxI4CdAfL8xrzAm%2FP9XMd6rdMLdmfEzQPBPMQj%2BxIb1Usrl4Rfzk5pJ1XMFNgTGREtDZaF5zyZTBV7MtTPRLgcuIniXSlP1cyE2PDlg6llMlhe9eiGyM1GFZdYvmlVNED5GQdRzCsqOsLIWZXpoKW%2FtG9O1mogwqV7HiJbLGM9xa%2Bt0AlKYL4MstZXI%2F0Az60isxK%2BLT9XqP6k3H69L%2BQX%2FM%2FNqVyet9D2BNr0iLnRLI3ljSVgAYTYOqTv%2FsOm0kcFv3bjpKkulbovb9HMQZ2rLPtLEzh8SqfhkZ29YRAAPhvTEJs7A35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=59657489453&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MAG A750GL PCIE5",
+    "image": {
+      "file": "msi-mag-a750gl-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_172969279806bd5452bb9791ef35824869d85224c9.webp"
+    }
+  },
+  {
+    "name": "MAG A850GL PCIE5 850W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MAG A850GL PCIE5",
+    "series": "MAG GL PCIE5",
+    "released_on": "2023-06-19",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "RTX 40 시리즈를 겨냥한 ATX 3.0 풀모듈러 골드 파워로 두 색 16핀 케이블로 체결 상태를 확인할 수 있습니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 129000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 129000,
+          "title": "MSI MAG A850GL 80PLUS 골드 풀 모듈러 ATX 3.0 PCIE5 850W, 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=SlPNZggX%2BWqzkJDcewKVwv%2F%2F%2Fw%3D%3DsOVoFv5j9HTyjrrjECc3QOBAWCBWIbjVLryWabzTfmL7Jq27xqoA6JlsVQObZoULZ2eOMr663cMQHCM6isFLELoTq750w%2FWQa8M2IiF%2FQsmClj%2B%2FdEGsr0H3%2BmqgrWN2L6rNhfVn76X%2FY94ExSss5BdyGaSr%2B0dRu37W7MMIB4NFk9Io6iZoAfEBQfsbkhBMBHaF%2B%2BwRvhBit7uLtKfp5KHBvcF1qJgXJa0QM7oY6F%2BtKEiZte2xb9KczhLKVb0fG8p2YEew9az3RrL0W39n26u%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhcxPGDq6s6xe9GMtJmZeayTud62%2BpytT4cz6jVVNXqUPSo0adg%2FaZAYXCXaj0Al5E7qGXNqwlGxUf9C5MqV3xATYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqXUMnWcEMls8JUeZxx3M%2BCkbVD6byf09sC7uxQ5Kdwt%2BpycwKrPKO50xgwXlD%2Bara4QZ66E0m%2Bd0IoUp38%2BuENKSOdDwsIllegWyrvhmbYhJ5wuFUL2tps6R%2Bl4bmz%2Fkusivl8lWBBgrhQeMKgCOU5m0m2DrzQXFjzaJvbTSg1%2B6NRF8XIcZQ%2BlUFfyT5ocXuHiKTQIhRjuEPfuXGwAJIsc0MYIG50J%2B3qJjzwNjwdC9v4YGjJCSIW1IvBxXT1wG91f%2FII2FE%2FeZEv4QoDqxg2XidBRcec18gGzzDQlmCdjyDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=59657382858&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MAG A850GL PCIE5",
+    "image": {
+      "file": "msi-mag-a850gl-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17296927006602f4c3b6d358736fc5d1b1d42f4d30.webp"
+    }
+  },
+  {
+    "name": "MAG A750BN PCIE5 750W 80PLUS BRONZE",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MAG A750BN PCIE5",
+    "series": "MAG BN PCIE5",
+    "released_on": "2023-10-17",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 브론즈 논모듈러 파워",
+    "description": "16핀 커넥터를 갖춘 논모듈러 브론즈 파워로 보급형 그래픽카드 PC 에 알맞습니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS BRONZE"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS BRONZE",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 82000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 81990,
+          "title": "MSI MAG A750BN 80PLUS BRONZE",
+          "url": "https://cr.shopping.naver.com/adcr?x=zQ4cRjMapN6uESwHdYf72f%2F%2F%2Fw%3D%3Ds9yAapMAUPVfmpsF9C5i7cHJOlF4OmSuiLB3rvkBSwK6WFtUOIBcVwww7ErHKI%2FaPZBHXsRihjARrmyqTlYLumka6vI%2F9%2B3GYbEmAGid8sCWb3hwR098bBy20iSdTDI6azzG%2Fk7gB4qTB7OtzwqnaLmedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorw8zBOKmCUN1F4C7m7jbXEkcBBuXpkRMQp7LbpV00BZdiLAc91sAlX0AIHVK08cvw2y4ApvyRLO9jT7Bbe5%2FKmYMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnqFEaaRwl0vE6jLybGeaTOFai83EVbMDvzV06wNeZeBjXxY7E3tgOqgX%2BySMoN%2Bkf7%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIW0iW36icBywSfXH1qG0V7KQ7tsIAfS0xQnGI%2Bb17EsLeVKj3DUT%2FKE2Asbzt303x5aEozfvvlOnSe6dOaToLneXiKRs0V0f5DyejjqWMQ7ZMcQ5Zu25Vzjv%2FZHdLBrRtQNqflCgOBaqMrW5ggCOsplEW44GPyC%2FsoNwmzi8IZ0khGk4XMJtozo5T3u6g%2BJ%2BOuPzC3%2BscJUcnq8BeLegKZM%2Fjriz7Pk4v7TYUat%2BskWZ82OqH9l6YII5ugOGfB4CYY%3D&nvMid=46577172619&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MAG A750BN PCIE5",
+    "image": {
+      "file": "msi-mag-a750bn-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1702866779e78b81422c6a27d42c8bded3ec8542fb.webp"
+    }
+  },
+  {
+    "name": "MPG A850G PCIE5 850W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MPG A850G PCIE5",
+    "series": "MPG G PCIE5",
+    "released_on": "2022-09-20",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "ATX 3.0 초기 세대의 풀모듈러 골드 파워로 16핀 600W 케이블을 기본 제공합니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 168500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 168500,
+          "title": "MSI MPG A850G PCIE5 80PLUS GOLD 850W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=tofUZPv%2FflEEXIHwCaEDZv%2F%2F%2Fw%3D%3DsvZomGZzUEcqISJdaopIInoqqwGPU8AWfeFXTnWXs7e4PiVKA5%2FEKuHV0sQ%2FAiC5imepsk6aOjR4RjEIcQ3pN5KLamNw4%2BhkyvLUx%2BpOaUkCxt5KVwpYxzI8iEVsPTYidkOEF3NWIwELKwh0YjJbaOh4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQncw5TIq%2FaXgiG2dxkgQdXrXP6c%2BAf0uwF%2FWBlUL2aUBvNFEw%2FOHWcAqqZmiFWC%2Bo9rLnKIiN3et2Y2QkGv4kMFifrv7Jfwn9NxBaCtMU98TaYiI3nWOaESQ7yOTEwFMn8a%2BpHa6ewb0%2FDpcGez9%2B2Mmaf7oVVn%2BbTDsruUdhAA7vo1zsI7oKtgX54CB9ss4Io1EL7PBh6vo%2Bzr1Db8r4ssRg6M6rnCuuhkcjWmkR4PYcGeo7MLb2Y6XfS%2Fw97ypcEGjknALtUeizEszgRv2reWaRQA1EP4tYIvqt%2BrReCSim5bhwg6%2Fjw2Q2ovWpj2aCSLY0axUkSSDLmSCBMCcI5WR38UNhBzOncot3jPaRQevJ5VGOAMcdmfn8iKSVrhybWIEC51Im2wVAdR7W3i9ziyzyIiXFYUMm%2FZ7z%2FBVumWE%2B8YI569lJtQVaVz7Sx614qS1%2FHkFNTGc%2BCAr3dTUz%2B20%2Fg8w8cKe509NmMZFQPeJRGdGb7gROPoS2VpIBO6L%2B8wjjSHCHk5KUmRhorg9kL%2FjocllCCMjxVKVs7VHzzMnYNUJgJp6CUXauCvW7Y5AjN&nvMid=60097681869&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MPG A850G PCIE5",
+    "image": {
+      "file": "msi-mpg-a850g-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17296898449101c8f348d1bcacfba385000348d46e.webp"
+    }
+  },
+  {
+    "name": "MPG A1000G PCIE5 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MPG A1000G PCIE5",
+    "series": "MPG G PCIE5",
+    "released_on": "2022-09-20",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "ATX 3.0 초기 세대의 풀모듈러 골드 파워로 16핀 600W 케이블을 기본 제공합니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 199000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 199000,
+          "title": "MSI MPG A1000G PCIE5 80PLUS GOLD 1000W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=FvJCAO5%2BFgUPlBwF9YKqpP%2F%2F%2Fw%3D%3Dsj8JRZ5Wt5YU2DCMHb5ctcDhW7uEQgpEzgNCxoOhdEkn7dwk%2BsKdEHGiMsU1A7KjiUvmW6I7tHWBpczG2%2B6j%2FOHnObqUQvPURxGsCSVbYIdNYEj%2F6Rix0p07DbAln6333Ctuj1b7WXUSh9lehZyhUU2edW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorLOjH8XJDXtBLTiftuG8VaiWzyQEpx6aaNWvycn7XeHflpuRa%2F9YW450BsTEOcvwr2y4ApvyRLO9jT7Bbe5%2FKmYMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnpmST8%2FtFGzHGl6aHz2ekyBai83EVbMDvzV06wNeZeBjXxY7E3tgOqgX%2BySMoN%2Bkf7%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIXiTnyr9ulZDaRC5JB1r50RQ7tsIAfS0xQnGI%2Bb17EsLbDOnJct6LwifT76bv7qgFVqZFxUvvigoBOtKvxSLAmD905yy4I33oX4czA%2BK4bnnpYMhwe3l04Oq%2FiawUux6deBq6V3BZAN9e%2Fn7V3WObAR%2BNWPgtUKboK3eoZLak5AKDzUaLji1QUfW5FQpucBI9B7N0%2BKs0gSFTdhwMrBXaDkrbV2Yys39LnaPmmnq2zevFUNBX6bmKO8SzKHjcCW5QmCqA6%2BrrPkSkQjk3bFq%2FUy&nvMid=59458138072&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MPG A1000G PCIE5",
+    "image": {
+      "file": "msi-mpg-a1000g-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1729568760cf0146c914c4e012a6c7db36a4ef892e.webp"
+    }
+  },
+  {
+    "name": "MEG Ai1300P PCIE5 1300W 80PLUS PLATINUM 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MEG Ai1300P PCIE5",
+    "series": "MEG Ai PCIE5",
+    "released_on": "2022-09-20",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1300W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "MSI Center 로 전력 상태를 볼 수 있는 디지털 플래티넘 파워로, 세계 첫 ATX 3.0 인증 파워 중 하나입니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1300W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1300,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 727600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 727620,
+          "title": "MSI MEG Ai1300P PCIE5 PC 전원 공급 장치",
+          "url": "https://cr.shopping.naver.com/adcr?x=XRPHetqJeNzamOZwE1nmXf%2F%2F%2Fw%3D%3DsgKZfeqgAxg3OcKxRUxRVpDRc1Tu5qrsuD3YvycNR7Whelsn4PS8nGtl6Hdys33Ba7Npc9clq7YKm5bnspwVCeh4k%2F94ZsJr00LpRYbSulrex0pjZKBAGOVrHfU7M9xvwWHtmS1K2EOjB2qiL3G70Dc87YAHxTkkIi2%2BJRACbM4qKlQEyunmI5mylLOtFi8BkL9TJRnMp5QlUZL4YGFxsAgyD98Us3WR018CJvOvwBbwj5WxucUtmmBJdlVItmGAKLJIRJtLzVmOec3AmcppS%2FtlO6qNHH%2FKOY792nCw%2BnO5wd0Aa8%2FkvjUSN5cxdI8eT61WaK8Ihc%2FupAafihfp4RKsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI888adJcN0pwVbCjs9gRpW0d%2BrEsORIRDfMylxXOg5bbvn6Kij4h%2BCqNXpLXDGxfIJPkEdsE4q1EEaWgjiAgITe8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPxfcnqwcDtuEhCH7O%2B%2FQpcYErppVOmrJN4WnXzf5Tw0Fewxk6Gd3RmVOtjHj6TdlDlOV6%2FQB7tSccCO9mabC7ausvgjnsi58yyZGZlsmGlLIq5cze5104QCR8f7qJLLF7gCpjNdfPdPIYEfAbLHYGgf0pzJafQA7%2BCB8QiEMWZk5lNzdJFgkoR1MOL3Zb6EWFgcbLXqEGXYbWJpYOd7VHcctp%2BT4H1iCrsjI4MhlCslDke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=57319498518&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MEG Ai1300P PCIE5",
+    "image": {
+      "file": "msi-meg-ai1300p-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_172969188942653a7176b591d2a298e5f41d20b5f7.webp"
+    }
+  },
+  {
+    "name": "TUF Gaming 750W 80PLUS GOLD 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "TUF-GAMING-750G",
+    "series": "TUF Gaming Gold",
+    "released_on": "2022-09-21",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "군용 등급 부품과 PCB 코팅으로 내구성을 높인 풀모듈러 골드 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 109900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 109930,
+          "title": "ASUS TUF Gaming 750W Bronze EVO 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=sy3g%2FBhuRWSAS1cYFaJ52P%2F%2F%2Fw%3D%3Dsj7yl27Yy7OvmbcHaucqlBP5LmaZoZmDeZi6nHlIOKMAFhqkDhYjYA40IN2TEUCnwkNsdql5aURSdq76c840BOslrZMCAaCpKCfLBjZA7N%2BmXtWL%2BwBehKH9cZlUjXgTkMJMWi0xWYFgea28%2FdaCeTY9Wv94njNpTOFqhovouvOdjMzgsQ5nYKjR4MmLeMsGhl8tGcj4s6qkqPRzy3OM%2FXFxobUc%2BfntBvOpIGLbM4u8qDNY%2BmtyubSnqi6LBk8MrJuJLlcnR%2FeCqjcW%2B%2FFioVUNSGFqc8L6mr9wH2DTirM0RCib9aWX6SACzkb5VmLsTkQe85rwE5KLxb71SEIWh2CJC1UTRg87RL1Af0wUp4v5egvP3tP%2F31ShI3wdAf9huiihiyGhqlFINUaA6lib2D99%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh44LxBSWhXbvtp%2BHVLrchBcn1x2o6Wq794eI13lGVWOyB7xix3uI5eE3mc%2BHDf8xcrgF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFWNUCdcKiEZyXoq80ObCcYHHhqsZS4GjMxMjEUZ6oOnDJHnTf6ez7Xg7J4k9JDp7f4ZGuUk9oFJCI5uVRlz5GNRhxX8jmhVQu5puJVqr5AJDmyxuQHqGjRBM0aWKHgXJTK76MVIkbtTRehQDQqW%2FZKo0bmjrpkqhoyGd0LigxDVA2IWAinpDwg720zBf8CUKXhLnMyLRN4kg5lEAZ%2BDpOErwK5MMK7B60hctsVYgZV934WZ1N7jfFw%2Bk8%2F%2BU1Y0HlQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=62178050568&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming 750W Gold",
+    "image": {
+      "file": "asus-tuf-gaming-750g.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/d38ef86f-6abf-45ed-a19b-fb76f98f2e0a/"
+    }
+  },
+  {
+    "name": "TUF Gaming 850W 80PLUS GOLD 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "TUF-GAMING-850G",
+    "series": "TUF Gaming Gold",
+    "released_on": "2022-09-21",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "군용 등급 부품과 PCB 코팅으로 내구성을 높인 풀모듈러 골드 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 141100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 141120,
+          "title": "ASUS TUF Gaming 850W GOLD EVO, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=trdaHpwbxZB9qBk6Er7ez%2F%2F%2F%2Fw%3D%3Ds%2FGeori%2BFDI2R2fWZ8J2PR7KDmBTJZOLYqbkj5zwo3lgFhqkDhYjYA40IN2TEUCnwZOGju2n84WhenKdwabBtLmH6ZZnfjzkbso5D%2FoICwuAjmKp6Rv9AjaXoXnyKtkt3Y8k8%2BA4Dnx2nP5cImXzKeTzkKAxk4FaxhUaDDIUZ26TL%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCjl3GJSjT7UzRLm9egdM7GEQwh7V1BoSBbzeVVIwHdXHbod5AmiR9yCq5xNrtWgiIeUr2eIB6Uuyo4rKKwaUt%2BfvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4UKVXrDlQhwPuISUo%2B3jEUD69W9911okHKJ4FDVdF%2BHP2Qim0uSGV45GygZvcFQrpDVR1n6IoyHXsxenDG42sNqCtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4uoHQifnGRBpYrWffxgeFkXIJCxgMzJoDoNl7%2B7M%2FTLjmBE0x3ni7jlGTPEKBrIiuiPXFarfxg3owWmz42uSL4MEPnn7w2D0IO46z%2FaPsgUtpfXBqOuw5XXHGvbHtOPRgSH48MYSvWUQBfn29ygA7CNddxs7a5CH0woZQ4NVrhgUP6C0XXk8ySaOQ0OaLzzIxFjldetid1nRyz8YlD2gizs1%2FVxeRNMetr58vls6xz%2FYGFbDf4gHI5rSMJU1BWcIOg&nvMid=59491202047&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming 850W Gold",
+    "image": {
+      "file": "asus-tuf-gaming-850g.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/233610a2-269c-4657-840f-8c0dd7cc919c/"
+    }
+  },
+  {
+    "name": "TUF Gaming 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "TUF-GAMING-1000G",
+    "series": "TUF Gaming Gold",
+    "released_on": "2022-09-21",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "군용 등급 부품과 PCB 코팅으로 내구성을 높인 풀모듈러 골드 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x2, 8핀 x3"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 239400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 239360,
+          "title": "ASUS TUF Gaming 1000W GOLD, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=H3rBMLM2dKYHOjvEG7AQsv%2F%2F%2Fw%3D%3Dss1ZRsfSvw05dFplEozCLZ1%2FxA5g2L4aNRnl45iaSZTQFhqkDhYjYA40IN2TEUCnw%2BDbkXivbirpvoNB73yXPG6ioHoCCiAjpzXa2uvjs06Q9G28WG94syULKzpNL0wGhIY8pLhVjlJK%2BSSJUsN9n5U1KthoxeS17xfcghSOGVaBD4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhmlB3I3BORiE0cXZ4nYV7DJ8J61iXWIv1dFjuuQZw4%2F3Rd3j7Q5b6nPQLccw%2FwtChsolvDNPSW538GL2MlUt4lsn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7UlmmsMU1GF3xVBmFtivEwdRC%2BzwYer6Ps69Q2%2FK%2BLLEYOjOq5wrroZHI1ppEeD2HBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkoptRQWAYDsfjP2u6wydL3J1y2NGsVJEkgy5kggTAnCOVksMmkSXKflzvv%2Ff4cZzZENTxkQJR%2B4yUzNrlmzjPnZFR2GKiueqt%2BPqx29zRk4SfUfZYCJ2dWnkrNwuq%2BTEDeUusUNaJnPImrhQnkt%2BWaC581qeiJ13h3NSyOi9%2FXM%2BGa%2FhgaMkJIhbUi8HFdPXAb3atR5P49XjxgFTGssVgqHOVaKLlgtQxwObgrJXJqb694OEsHC78VBLnFZh%2FnDobeN&nvMid=60639402807&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming 1000W Gold",
+    "image": {
+      "file": "asus-tuf-gaming-1000g.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/ba95bb37-0da4-40b8-acb3-042c16913948/"
+    }
+  },
+  {
+    "name": "TUF Gaming 1200W 80PLUS GOLD 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "TUF-GAMING-1200G",
+    "series": "TUF Gaming Gold",
+    "released_on": "2022-09-21",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1200W 80PLUS 골드 풀모듈러 파워",
+    "description": "군용 등급 부품과 PCB 코팅으로 내구성을 높인 풀모듈러 골드 파워입니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1200W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1200,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 310000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 310000,
+          "title": "ASUS TUF Gaming 1200W Gold EVO, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=jtAM1PCZBoVBvy%2B6M08vlP%2F%2F%2Fw%3D%3DsJAcSiu9cEhM00nk%2B6ArODeUNQcRzi152i7aoB2U8uw5Fi51nqMvTAF%2F4tqv2MQgTMcm5hmb%2B2ZJ1xMq%2Bn5o%2F3HtnlAYOLNog%2FtODb0JgNuhSj17fQ2g9%2Ba%2BkjAkjYgPXT8ekzvsF%2BucCKENO6zmR8RXrEux2ouvTjRMPWk90z4fIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156mRSyzX06%2B8UCwtpemzwq4uMKqVd%2FhTud%2BldG5ZqDk03vBivRTe5dJLry2YnwV7YcmcTrRSFgn57ljRGlDR5vtSDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6o7wUELLL%2B7x%2BMfK2E6lgCxWNAKkiTmTHiwlbaGtF%2Bcp9XekxDjXtRr28oQ7EYmssfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AeweWtiLwVH%2BRV7UZDW72KXNW06yZyz11cwdDfG5ktpzPhxzBU2l6E%2FSeRo%2BeRqy0PDMWuYmzj8k7hV6D%2BZr6GrSv2rdPL35BL76WVy2FD%2ByMFVmfQ3xHFlXeFFhqG1wtEGCWBkdm9GyXPnzSp6plAydqSTQcowWbllpWtPxCdmUNauEcRynSn%2F8orOK7nc90Dp9Ozm66GELBTwIsl2%2FnbklW3SzOE7bBfNvZZd%2F5hAVXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=61272225178&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming 1200W Gold",
+    "image": {
+      "file": "asus-tuf-gaming-1200g.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/3a9629c4-8859-43bf-9271-8e7aa4a51d6e/"
+    }
+  },
+  {
+    "name": "ROG STRIX 850W 80PLUS GOLD Aura Edition 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "ROG-STRIX-850G-AURA-GAMING",
+    "series": "ROG STRIX Gold Aura",
+    "released_on": "2022-11-07",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "ARGB 측면 패널을 갖춘 ROG STRIX 골드 파워로, 본체 길이 180mm 라 케이스 공간을 확인해야 합니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 305000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 305000,
+          "title": "ASUS ROG STRIX 850W Gold Aura Edition",
+          "url": "https://cr.shopping.naver.com/adcr?x=4wwATG%2BiQHw606tZqFJAdf%2F%2F%2Fw%3D%3Ds%2BqdrFeBGUNrI3p0Pk1WlZhaM2vnFVTxm9hPxzjsh7U1KoH6QFfYAeri3P7QhzUA0ZW3KgEKxptIws3QuJJKWMpyE4ZyLsksQMw6J1IFPNinfqLcr86eC2NXxYJnD7%2F0UXHIO1EiNoss2FFnBMOJYL1AuWm02PC21lqQwp8qaTueGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0Bdp048vBKo9wbSaya8wZuA8i%2F8JWBjspWl6Cae3wx5SKMqYusZnTnA%2B5iOtTwelbx%2Fndm%2F89MiHKTlXx%2Bbe%2FF%2FzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpBPtQY0JGIviPsbZt7AqiGcqVTQPH88BQ6a189W2RF2zn6Kij4h%2BCqNXpLXDGxfIJPkEdsE4q1EEaWgjiAgITe8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPrZEDmW8A2Fxw46siBJryZsET7D9Tchf2jmrw7ju%2Fs7rd1tQBrmfvqXturou3XNkmYAU%2FTMAH41i81Ez5wapIZNWIe%2F8cRRcXRAnHgyV%2BsX407uKHRZTpG1yu9CnRo8Y4Q5HpjlhN3EweM8ZD9Qdy0pAkBIvHwP9gVs8wjDcWurd2VMwrjZd8Q%2FGALdSF0CzkEs8cFUTVf2EXpmSuc9bAhPt84jIchtnGiURPu%2BzQUKwPkS%2B8fJmzYoLNyU3U68wzaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=40228386622&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX 850W Gold Aura",
+    "image": {
+      "file": "asus-rog-strix-850g-aura.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/AAE0A500-A40B-49F4-A615-348698A0F77E"
+    }
+  },
+  {
+    "name": "ROG STRIX 1000W 80PLUS GOLD Aura Edition 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "ROG-STRIX-1000G-AURA-GAMING",
+    "series": "ROG STRIX Gold Aura",
+    "released_on": "2022-11-07",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "ARGB 측면 패널을 갖춘 ROG STRIX 골드 파워로, 본체 길이 180mm 라 케이스 공간을 확인해야 합니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 282000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 281970,
+          "title": "ASUS ROG STRIX 1000W Gold Aura Edition",
+          "url": "https://cr.shopping.naver.com/adcr?x=wAF1IkjkWnrkVrnBO%2BzFZ%2F%2F%2F%2Fw%3D%3DsoqPqBpqJ46Pna2FQyN8PurKIYzTHa%2FDeAPhkKdWkPdVKoH6QFfYAeri3P7QhzUA0V%2Fg5njlkddUASkeUI%2F7Wd%2FKOOMKzU7mizS%2BYIlPdknOjvnOiaVQcNBP6XXGvLBLz%2Bml8sOBvQscEr06hww8uMmWagmaaH9I4vJta4wniIMNIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFLIvaFlzjrNbGOLuc123SjtOj1v1RJGK83pJU6NwEygHDXbuiwxxCpgRjGKTvaTsiHWmRo1JEePE1b76ghQ3xEnDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8IdjvHqgqxSAikSC3CJVgi7JjfHfpSRoEHXNeD8pkNnvCAcMbjjgPp5rQo1j5jPnTwmlJCiMaBIAatwij4UnKE%2BhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5VVH4gvoqgHnRkeNZ6IaUgH%2F8C%2FdI0U36osh7EteQzPf93zWx6gEWcB5lp4ZNd8nmSjxsVEgP4O6%2BoqhbaMpJGy7e4oOFRPdl7JbQmq8wLEVAy6hKxC7DkCpPBf%2Bv57kw8ePw6th8lw7wHFmRTIEDhmXWlwXRREZhp0mydUHs4PT8fZhqJ%2FbKjpoAcn%2B7l3%2FdiA3%2FU2AzguC84AnoS7Lq%2BQ4vls0Qec%2FnkPmXEwVjxx%2FUvydN%2BnkiZkOFjGETnFzx5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=40229021619&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX 1000W Gold Aura",
+    "image": {
+      "file": "asus-rog-strix-1000g-aura.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/469D42A6-4F0A-470F-BE7C-F5F68E3E7799"
+    }
+  },
+  {
+    "name": "ROG LOKI SFX-L 850W 80PLUS PLATINUM 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "ROG-LOKI-850P-SFX-L-GAMING",
+    "series": "ROG LOKI",
+    "released_on": "2023-01-20",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "SFX-L 규격의 플래티넘 파워로 작은 케이스에서도 고성능 그래픽카드를 쓸 수 있습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "SFX-L 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "SFX-L",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 485700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 485730,
+          "title": "ASUS ROG LOKI SFX-L 850W Platinum, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=CzeBhqSxGgbRdy%2BzZUFyUv%2F%2F%2Fw%3D%3Ds4pJtPMRIoMFDxAFtohuTnFAAMlYacHUaot%2Fh1nPIvqLMiMKoJveg23lEpD3bs8lyyno9okCd64%2BekE6Si0xG%2FRI%2BCI3doHDfSBrCdjGzQBBX4d5qhCS%2Bi6v4QDUM%2B4xkYsdHf3ra1PCI3fMBiefvSwB%2BzpWmWBGeGkADcO6MLZqAbCY81f975eS5nfR25FBi35fZdyV9%2BicsKRfbBkLjPivdcuwsmi%2F%2BOTsvFH4hDpH9keICvR1YWLsz8rrO%2F%2FvXQnTPXu28dzyueyzLtuKVWsM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jyfEZ%2Fgw35U4pebSTVHdO5zNN4z%2BJMfaqt0EfXxHJq2ydMnPssEsxiLl4Eai5xKG2oOCBSeDghCBh7Q5%2B6l1yAwgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXwGjt8g2d%2Bg4UdX694lKt1SbHqOl0l88yWOOVTFhBN%2B%2Bk0Pts7iiMM17QpKJBk%2Fy0PTrzY8eVnutbgbx0xOG3dM48W%2FmoZAZt8kcIZHVV3gdVRJDXtQG%2FMv8UHvHKVmcCWSlCa1iyZnEzvATsJ5Uu9BRWrROpEx8pECrntZRPnEPnqzxM9wrBsDCysJqkTEFbS%2FhgaMkJIhbUi8HFdPXAb3yGOyziwvoTDOdKpT2%2B%2BEWFfrNQijhiKeFx4LHqNa6fEOEsHC78VBLnFZh%2FnDobeN&nvMid=59027847247&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG LOKI 850W SFX-L",
+    "image": {
+      "file": "asus-rog-loki-850p-sfx-l.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/74D561D3-2ADC-444C-9D30-16C1C556269F"
+    }
+  },
+  {
+    "name": "Straight Power 12 1000W 80PLUS PLATINUM 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BN338",
+    "series": "Straight Power 12",
+    "released_on": "2023-06-27",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "저소음 Silent Wings 팬을 쓴 플래티넘 파워로 큰 순간 전력 변동도 견딥니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 451100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 451080,
+          "title": "BE QUIET STRAIGHT POWER 12 1000W 80PLUS PLATINUM",
+          "url": "https://cr.shopping.naver.com/adcr?x=ArSS23WoEJskyuGtSLD0Wf%2F%2F%2Fw%3D%3DsKt7SOliQfnlUNN1nRwCUCHReF9Bk0u42Xv41T6a%2FU5bOdTn5h0dCroR9Mw5VAZ0RR6YxhfAhbU9nhiizBPfTjf4ro9ZhDnOsu6wgyIIJgAI6GuOLZySH0Bjs1%2FXOkbKmJGqQuRONJBlHyOwbHb%2BNB8vf6lY%2BDsK6rQPBrrYdSDFJbNTPcbnF8ZDz7e0E5kkRa%2BpHa6ewb0%2FDpcGez9%2B2Mmky1L0WfOch96itx7xkCiAOz6b3RcsmZFPnsqUk9UbbzC82e%2BJ5uKltb%2BzFLMpVI5TGFFlRRZ9t8Wwdxu5OMXKDi0r4Uj1RBuaZqehN%2BCicalC3EmGazYzKNYNsHc%2F19cM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jyC0uSyK1Hp%2F1v3eN97axY%2BpdcWkAqMB%2BT0cS48GV7%2F69MnPssEsxiLl4Eai5xKG2oOCBSeDghCBh7Q5%2B6l1yAwgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXyutXH2Fmfhj%2BgZNHgKeRynpsSYZrs1HqC8vjgPjxCLh00Pts7iiMM17QpKJBk%2Fy0PZZ6%2FgpjUzuPIeNkwFcXFu%2FsSNhrejye%2F%2FCfE0dLR%2FEsKyKfFCCwzOgobZtQ4yj4iyBe8z6BTfYnwn%2Be2Cvg6mIcAXz%2Fx89cBLH9Z3Y8RG4JJZVF50lq1PVv47bf%2FDj7RP4PMPHCnudPTZjGRUD3iURnRm%2B4ETj6EtlaSATui%2FvJEK5WIAGfVEPFsyOvPDbFgBNCgGhnJoYyA8V4j2ARcNDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=45004933618&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Straight Power 12 1000W",
+    "image": {
+      "file": "bequiet-straight-power-12-1000w.webp",
+      "source_url": "https://www.bequiet.com/en/powersupply/4104"
+    }
+  },
+  {
+    "name": "Straight Power 12 1500W 80PLUS PLATINUM 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BN340",
+    "series": "Straight Power 12",
+    "released_on": "2023-06-27",
+    "summary": "RTX 5090 급 그래픽카드나 워크스테이션에 알맞은 1500W 80PLUS 플래티넘 풀모듈러 파워",
+    "description": "저소음 Silent Wings 팬을 쓴 플래티넘 파워로 큰 순간 전력 변동도 견딥니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1500W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS PLATINUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x2"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1500,
+      "efficiency": "80PLUS PLATINUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 576100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 576100,
+          "title": "BE QUIET STRAIGHT POWER 12 1500W 80PLUS PLATINUM",
+          "url": "https://cr.shopping.naver.com/adcr?x=uvSDYOb62IXcEnBjtcGdiv%2F%2F%2Fw%3D%3DsxfRAYpaAplwPAEfPxJwwx2GDKPzG%2FA9lEZLzb2zI%2Bg8CtyXeZj0dWoOaqhXms0XPoG9wAZzQs22sxFi6pOxAEELvXDXvlDs7UiY9FnAeYOyubHodqd%2BWdBbmOnjvipdnC3G7DA6zwzASOf0qFx31LE0ohRUCL4IdI6%2FTRSPoVIgQVtjtgdWA5FPmSml%2BKcElgGwmPNX%2Fe%2BXkuZ30duRQYhHCGovZjw5fXn26DRcXoMxQqx64LukUnQJRR278nSR1TFCHgMyljzA756A2hmsZnfJxcGbJ5enzA%2B9KUIHqYkM%2BSwnqN0ywwk6sGxUdYB3GAiJojgHeMsa3oNAGG3HosayZJ%2BBLLTNvc9qNuAboM%2BDvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4U9b9aGzCz6aopnJILC3Fv%2FjfnTXasq0%2BJKEOSmhnYqvDokh7KNEkkbwBBKOUFOEEpmVDP%2Bh0%2FfGe74Ggxdczlxh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8OwSseUWXNov%2BlDz5C%2Fg13CytMuqNnc9UTwh8Vm2gownt5VdZRhGjv7qOOd7fBNJJxwtPa14e9R%2BGIO0PbNPPXwEP%2BWKKBaWrzt6Vi8qPPMmSTfQjwX6Vdrh%2FTT9eB9w6hqknGcx1AJuh7NL%2BVV82xbZ5PGaFSQeC4DOg0O16xprbByv4YiqygYGf1L21mGqF%2BgtF15PMkmjkNDmi88yMRcthJjTdwKfYjmY%2BgmwAcZURoLlZaM6nophq7YJpwmS3hWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=45003811625&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Straight Power 12 1500W",
+    "image": {
+      "file": "bequiet-straight-power-12-1500w.webp",
+      "source_url": "https://www.bequiet.com/en/powersupply/4106"
+    }
+  },
+  {
+    "name": "Dark Power 13 850W 80PLUS TITANIUM 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BN334",
+    "series": "Dark Power 13",
+    "released_on": "2023-01-07",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 티타늄 풀모듈러 파워",
+    "description": "80PLUS 티타늄 효율의 be quiet! 최상위 파워로 소음이 거의 들리지 않습니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS TITANIUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS TITANIUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 192000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 191950,
+          "title": "be quiet! Pure Power 13 M 850W ATX 3.1 파워 서플라이 | 80 플러스 골드 효율 | PCIe 5.1 | 모듈러 | BP027US",
+          "url": "https://cr.shopping.naver.com/adcr?x=b7nCxItZpQHWghE7A9RhvP%2F%2F%2Fw%3D%3DsSRNPBeuB4ACDsuMpYg9lCwQ6ZvIgdt1zxuXgQRnXbn2PKBNSVTeOeK17rUSJlP593n7jGquH%2Fj1BuhdqMwUTqBuQKlTYJVCbUxCc4YTciDESwf3TFvAofG75nPfBWTT%2BiF%2Bb2TEczx87hKrUUKPqpBhvf0oseUdrlMQ48XdzcPUMEZTIjQUjAFhgjko8xFuzjmxhyG4xeWdzKY%2FSIt7tV5Ls6%2Fo18o0mG6%2FslCtJNnq0COzxfEYOjPOie616a53dlYpNZMZlDrD8uxoR1RoppYs73mAf3VkSkZ%2Btgny4nIDHbhLupYM60cmLE%2Bf8qNbKlIpOEmx0qOWaHMcGo%2BMj38k%2FFyw6y0wAg3nW08YOdHFcA4gD%2F%2FDJFqzwKKPlTDJioBc7giHlbgpN7Ho8I6oc2ELOQ0oOFo56%2FsvgslpghfWAn4YE99Q1s2t8v%2BpRnm1a90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdDliFipnhKXEmIr54bHuD47Oos79v1DbFTkKPbRVEyhwfV3pMQ417Ua9vKEOxGJrLH5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seABP1XrlZdL4SX6sd1B2RTpRzVtOsmcs9dXMHQ3xuZLacWx3oDztXhocxD9W68hwpor3Y6BFcSy78EKVHRRAF1usGNAQNtDSluCcK7RorSGjXtVLok1ERIdgfMl41pveXWTmS0%2Bbpmz5drIkVVFE%2BqFO028A0wNxVE9cOEHgQG6jabWKoIhC8Fg5v0G4uRgmDCUdKsFUs4W9ahBDyUuX4XjAugiDh5S8n%2B7Rc0MeNuzgdOxmxPswKIwl%2FCzWZEeSUG5YANLj%2B3%2F6aBzzgap6VAazHICEQpPL7Rm%2B2fyhjEhHR&nvMid=60703250195&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Dark Power 13 850W",
+    "image": {
+      "file": "bequiet-dark-power-13-850w.webp",
+      "source_url": "https://www.bequiet.com/en/powersupply/4043"
+    }
+  },
+  {
+    "name": "Dark Power 13 1000W 80PLUS TITANIUM 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BN335",
+    "series": "Dark Power 13",
+    "released_on": "2023-01-07",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 티타늄 풀모듈러 파워",
+    "description": "80PLUS 티타늄 효율의 be quiet! 최상위 파워로 소음이 거의 들리지 않습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS TITANIUM"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS TITANIUM",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 559200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 559200,
+          "title": "be quiet Pure Power 13 M 1000W Supply 80 Plus Gold CertiFi 아이파이cation ATX 3 1 PSU Support for PCIe",
+          "url": "https://cr.shopping.naver.com/adcr?x=os4ZhuqBDt1f5EYaDwce9f%2F%2F%2Fw%3D%3Ds2cuD%2BMraEdDBcZJ%2B8EwQF5Lc6EFHdaGjXN5Ams7lUTYsAqF9cs32pSWMG%2B7jGBg5EZuqZRV5Ne14Nwj6EbmtSX3lkss0Sm7aDLQ0js%2FqKkAVvmq%2FRUFOplF1CmWg7jJuEKSaUcRi4GymVebVR1%2BNSsF%2FNAajjovQmWIuPRSRNJInF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69Wskby9Fm1thHbmSWaYJ3G4Pbt6uiRDDAcREq4yKpXWMp9F76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFRDpykpOqWZgZqWcBmVwRDXFVfI0TbbZB1FA6cQAsvjgPG%2F6L9%2FpO1J3ES94m7s41HNQr7gfyBwebcQ0BSZ4Suf8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hTCAY%2F8PLegs8FNe0w6HneJDu2wgB9LTFCcYj5vXsSwtxsynvP%2B1zP4K4HBLOIec6BkLXUSMxA%2BFta7K3zL%2BiHt%2B4WrP1mRbhfU2ofWPRks%2BQ3pKMPft3Rdyr9HrqrgveaugbXa4PuFytMrcXMwFL7uf0t0B%2BCqhPmua3uf0aLGOpvSjyDnHVO1OU%2F9u8GX8ulB3B9hqPCICee1WkMoM7MxooE%2FVEtTMyEnHtr0WINMgb06aRRGUlOAozwLcLpby6G9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=90950062974&catId=50003114"
+        }
+      ]
+    },
+    "search_query": "비콰이엇 Dark Power 13 1000W",
+    "image": {
+      "file": "bequiet-dark-power-13-1000w.webp",
+      "source_url": "https://www.bequiet.com/admin/ImageServer.php?ID=88e39a44933@be-quiet.net&omitPreview=true&width=1200"
+    }
+  },
+  {
+    "name": "Classic II EV 650W 80PLUS골드 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 650W 80PLUS골드 ATX3.1",
+    "series": "Classic II EV",
+    "released_on": "2026-10-22",
+    "summary": "보급형 그래픽카드를 쓰는 게이밍·사무용 PC에 알맞은 650W 80PLUS 골드 논모듈러 파워",
+    "description": "2026년 10월 출시된 마이크로닉스 Classic II EV 골드 파워로 120mm HDB 팬과 2세대 GPU-VR 회로를 갖췄습니다. 16핀 그래픽카드는 변환 케이블이 필요합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "650W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "없음 (8핀 PCIe 만 제공)"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 650,
+      "efficiency": "80PLUS GOLD",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 72800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 72829,
+          "title": "마이크로닉스 Classic II EV 650W 80PLUS골드 ATX3.1 650W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=BVZt5kZ1ZJVdoKOcBKD%2BUf%2F%2F%2Fw%3D%3DsgeT7gm2KnQtsollHqSvcBwv2kZIG%2FbiovNEZC%2Bf2%2FWMJlrqGCuLbIzvyQmxgudQU3NwsBl4O9th99aDJGWMFx75o7nx4t6DAwQhIIx5fg4IgNAUGMuFeUiXPJvo7gIhVe3%2FydAwuC7K5qyS%2BD53MTMKA9GQUViaE6wEL5D6vTbUeKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ%2FDggyPwDla7YPGmpQypCDU4M6tXvaE9EqmkLveokUO2lOOnMZ3zM0Tj7USEVVJqUUcuzYyKeX7mtj1q%2FlykEqYFbYwx57eue%2BYEHtr95I9ph5FNahTGTsrus3bCcHfInfRBp8VuVWoTl2tzJvns7jTzzniTLqrdSuwLGyMmIIAnO3FAFUYtWN8eyc%2B2sJPnzFnT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubp1Zbbn0c%2Ffq7EZNwr0z7WZ2Dh0Ex5MA74XAPT8sjagtKjRp2D9pkBhcJdqPQCXkTuoZc2rCUbFR%2F0LkypXfEBNhB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2Bp%2FunAfBjYSHWJzuOwy8HDuXsZMU4Qc6KdR0%2BHBIzUisqnJzAqs8o7nTGDBeUP5qtrmM%2BxBg7EuHPzPAjDgHwxsy3Ma5f4k4ilLyELSypbwPP6b5hNVep8un%2Fcj0Kia6aLZy6E%2FrZ%2BwTvDuTQbS8k58lAgO0Qu5kkZgbGtS9xVs5m5gAf3LTMbaqqr2Mo9AXKyAtdp7p%2B4g89pOirtCvVvqPoLRdeTzJJo5DQ5ovPMjEVifoaBFGmcdWrJZzlfeTLqrO2mG7PgBrzkhzoMDWYFgoVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=62098034720&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 650W",
+    "image": {
+      "file": "micronics-classic-ii-ev-650w.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/663096466.jpg"
+    }
+  },
+  {
+    "name": "Classic II EV 750W 80PLUS골드 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 750W 80PLUS골드 ATX3.1",
+    "series": "Classic II EV",
+    "released_on": "2026-10-22",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 논모듈러 파워",
+    "description": "2026년 10월 출시된 마이크로닉스 Classic II EV 골드 파워로 120mm HDB 팬과 2세대 GPU-VR 회로를 갖췄습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 89900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 89900,
+          "title": "마이크로닉스 Classic II EV 750W 80PLUS골드 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZNRp8SsseTOoL6AS87riRP%2F%2F%2Fw%3D%3Dso3%2BFqEVdVqffEYpju67OfI%2FWSqDe37R%2By87tGoBm9cGO5WOt9cov3XcdzzGOgPVai5Dx2vQQV3ekT8h1RQIvsDXN88jzrsVf53XMHTPPJZuL5daO4byn8ZPQQ0XUmKm8S9gD3mPfUeMSGWWnuaiWla2%2B2PRwjj0XSusdS27xJISEw6w99fRkB%2FoEw4dIhxhEYURX3wJ8DCL%2BCmw4PV9DoLNufyj0Wt4cl41DcMGWXPeBurJnB%2BXFrRtB5MzmH%2FAPATHdPLraGwxktNRwDcK2gQNgbN%2BuG5KAhmhnR%2FR%2FMIWrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPJmLaTiZV1PNC7%2B9UJnLjWqBdnR6bLyeN2g%2FUBPN8OWMf5S5ycDGuwbfEdv1A6kKwrqGXNqwlGxUf9C5MqV3xATYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqfwVg42PgwyMVkyK%2B1C2s1D3%2FEMrlnxO%2BaLDLIrnKiY6ayHi5k13Pr%2FflQzmBdh2PKshRHQh7Kmx64dlS%2B73z4KUD0PzaPxTLUHo61L%2BiWUZOE5b%2Be3EEsDIv%2BtfiYZl2c5hR%2F7dEbaPeRTQV%2BoGmK%2FcXeulWRR9vMoS41iz4Lka5x17fXQkrAxzZBm%2FpDQodHWIQ1u3zt0GFab5rzIWlsP1SZCRcqA6cuAPySqx3nhlD4z1SHJZTGMJo%2BBjcDD3Id6rnF3tbFmX%2FXo%2BiWMJKHMdHI8FZtQVGFZJxOyBDKc%2B&nvMid=91372863918&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 750W",
+    "image": {
+      "file": "micronics-classic-ii-ev-750w.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/240296364.jpg"
+    }
+  },
+  {
+    "name": "Classic II EV 850W 80PLUS골드 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 850W 80PLUS골드 ATX3.1",
+    "series": "Classic II EV",
+    "released_on": "2026-10-22",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 논모듈러 파워",
+    "description": "2026년 10월 출시된 마이크로닉스 Classic II EV 골드 파워로 120mm HDB 팬과 2세대 GPU-VR 회로를 갖췄습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "논모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "7년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "none",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 109900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 109900,
+          "title": "마이크로닉스 Classic II EV 850W 80PLUS골드 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=E9DzObtJNqBuOI5Q7G8bAf%2F%2F%2Fw%3D%3Ds8cL31iMBhHr1BFQ66W%2Bif4l64qdjHF7RkEvWxW5vFqwJlrqGCuLbIzvyQmxgudQU3NwsBl4O9th99aDJGWMFx%2F7NULyU3OlRe3whSdwzJEs%2BpHoW0EzGj7Xktnk7hmwF2oNHC9hQrgLdlPrPCfjp00KY5SX8ESwU7m1Xz4fZvvvLtayO8vp8YGu6pHNtIwGhB0tejJuLME5UVjRucYBcG4Oo03tVxoOG%2BThfMQKVvVIt%2FwYzBpRETDmmtmj%2FYDas90BQRW5P45jG3LZwSFRAbRApg4TpvsbyA5pgJgDsa2%2FDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqlf8zD0H8ad5h9cqVfW6nqIzXDGoat3Ck6Jgn2oDD1Wte8Ysd7iOXhN5nPhw3%2FMXK4BfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRTOuEgLH7fLbSf2ha%2BasK1AGza0LD4uI6JfEtlNbiaMsER6Cur84LC%2F1OKTwvAWKasYO2Sdw4JgIneA4xBvlFzIIO6TRIo%2BEWlvomMFDkkgpApNanb6L%2F%2FiIsx9DTezPd7XSsdGQCYxnIb5FnXrbRx70bD4yypP3sWGxNWKyS1UU0r3R7EKQecrtr%2FGVCDYKJ7k3L65UWZUcmTEiWfsR3%2BDcs7Re%2B72gM%2FdU4DclnRGV6WoiaxSk25K6DZOHYiXtOG9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=91380624384&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 850W",
+    "image": {
+      "file": "micronics-classic-ii-ev-850w.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/927798258.jpg"
+    }
+  },
+  {
+    "name": "Classic II EV 750W 80PLUS골드 풀모듈러 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 750W 80PLUS골드 풀모듈러 ATX3.1",
+    "series": "Classic II EV 풀모듈러",
+    "released_on": "2026-10-22",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "2026년 10월 출시된 Classic II EV 의 풀모듈러판으로 Zero Fan 모드와 애프터 쿨링을 지원합니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 85800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 85800,
+          "title": "마이크로닉스 Classic II EV 750W 80PLUS골드 ATX3.1, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=sx0L3KCOGD0kI%2BNMes1niP%2F%2F%2Fw%3D%3DshJNOFjK8jydqIhv2N7hZk9AT3KbDq%2BDZhUhUsktwrMoupJ0U4Yp68kyDIDUU7tAE665tl7LsiUSMD%2Fi6mdacfbryrgYFU4cxs7MlbniGXIe96uOz7wjGRGJUOrb7980xDLUdWW%2FgA329hI0Pgxhy0pGOSmGUUPigdOZUxXeg%2BJaHsdgT%2FxfhhQlwLmS0hK18SWzUz3G5xfGQ8%2B3tBOZJEWvqR2unsG9Pw6XBns%2FftjKNMIF0y1iYpYsd9sc0BHKH%2Bxt4WNSgLhqaYF2cTkpjInMxxTwhew7ZVxPCcOvLedcuOrSpFptWgNfKwZyDDTw2HemOu0CEAX7xr0g%2BsL33arqvLVtB3Ntehfdt3mQo%2Bab2rHIKL8833yL3qGhk2a050GXEp68lag7DtsJiQdkeKwu%2FP2qCrNCMP9SRzDtrqKmD4RDRUe%2F8Nb4DYue7mZht76RSsWtFBjnOsBQh0S9ABT1AJRaNr8sXogxp3QhG9Zi54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyGif1oR3o1sXqtUoCwqJMIsVjQCpIk5kx4sJW2hrRfnKfV3pMQ417Ua9vKEOxGJrLH5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAP6iSgydlv%2FsEoMt1eIY4CxzVtOsmcs9dXMHQ3xuZLaca8foxDfChpNcCWdk7BT81FtFZI5oCK%2B2ZP2ixzaPP2lf749Dqw9GnnWZbVcTLmeh%2B8E%2BN%2FFpH%2BnEoFTK1u6hIt8KYZYE91gCeTtPLAWcLI2JVlyCq%2FBK4fU17g1QQGcCGPWGdbKI%2Fq4dVHWoQuUk%2BhLPHBVE1X9hF6ZkrnPWwIQuu3Nzly2b%2BRTnyAZ6KniY%2FSb%2FGKarZSRrPjQy3TUcpmhopkeKUdu5q4dSKA0zkoA%3D&nvMid=62098034721&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 750W 풀모듈러",
+    "image": {
+      "file": "micronics-classic-ii-ev-750w-fm.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/1604775278.jpg"
+    }
+  },
+  {
+    "name": "Classic II EV 850W 80PLUS골드 풀모듈러 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 850W 80PLUS골드 풀모듈러 ATX3.1",
+    "series": "Classic II EV 풀모듈러",
+    "released_on": "2026-10-22",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "2026년 10월 출시된 Classic II EV 의 풀모듈러판으로 Zero Fan 모드와 애프터 쿨링을 지원합니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 118400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 118352,
+          "title": "마이크로닉스 Classic II EV 850W 80PLUS골드 풀모듈러 ATX3.1 850W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=E%2FDVJ%2BMvEZEB%2FgabnFUTev%2F%2F%2Fw%3D%3DsAeVlAnhBBSNzUzNoFgIiBE%2BUDNU3D%2FuHVyA1zZfjDHAJlrqGCuLbIzvyQmxgudQU3NwsBl4O9th99aDJGWMFxw0Yjdc4F5gETMt0k2rrUHDOWmkP6wJchpkrOPGo6JK2MTWFiEyToP5m8ppRFk%2FHju4aC%2FIn9Ang5fhXGoQW3C5V6bpOAiwhshWzlw0YY2v23IZpKv7R1G7ftbswwgHg0WT0ijqJmgB8QFB%2BxuSEEwFNmpNEgL7ngFYu%2F2698IQv9uAOpN6c17IYNkpHVnnzTFAfEYlEOG4EiDBYmGRM6HVD%2Fv%2FY6MdQMHL1a8xu1dNrPseu%2Bl3FKO53dE1VE%2B72gLxE8fhzAPjvRxqnYxzBM0K10smGrtCj4aBFdlTlcIPJNUgRgt0dfDV4lVdGLRhHDcZ1fXtNVYG9DZCXcVMWUb5r7kjSpovSNFVmQA%2BEq6BoLVi%2B%2Bcw%2B0bBC0j4MU8JxK1l3gAsr%2F%2FRkoVX3l7TQO1ik6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdFZPBSqEQ1PrIKZ%2FncczhOfUQvs8GHq%2Bj7OvUNvyviyxGDozqucK66GRyNaaRHg9hwZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKbh4n7aRt4slkwRCxTyrjlotjRrFSRJIMuZIIEwJwjlZhv3JFX7i2j2KmeZrHox4ggg7pNEij4RaW%2BiYwUOSSCl0P7rHZyPSSdVetnd8MDnOUUMaG9qEWjv1FvRd%2Bypyl1AnUTxUDhi0Blk8kWfSNvKZIF9w42vpFQ6kUtHuvooSFUTUPV%2Bx8ms%2FohQuZ1SsB53kNw1yx6UiutwU4BeSDgASzxwVRNV%2FYRemZK5z1sCEba%2FhFNnBR983Qzo6LzgSgA%2BjbD2ew52r0W0g7FpuXjBoaKZHilHbuauHUigNM5KA&nvMid=62097378170&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 850W 풀모듈러",
+    "image": {
+      "file": "micronics-classic-ii-ev-850w-fm.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/15517780.jpg"
+    }
+  },
+  {
+    "name": "Classic II EV 1000W 80PLUS골드 풀모듈러 ATX3.1",
+    "brand": "마이크로닉스",
+    "category": "psu",
+    "model_code": "Classic II EV 1000W 80PLUS골드 풀모듈러 ATX3.1",
+    "series": "Classic II EV 풀모듈러",
+    "released_on": "2026-10-22",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "2026년 10월 출시된 Classic II EV 의 풀모듈러판으로 Zero Fan 모드와 애프터 쿨링을 지원합니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 159000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 159000,
+          "title": "마이크로닉스 Classic II EV 1000W 80PLUS골드 풀모듈러 ATX3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=6CQoI8FKJ7NoZYy%2B6r5ggf%2F%2F%2Fw%3D%3DssPnfYaDsgi9Mb3m9sGLS1Xpk17yYo4il%2BGOMmY89CjuO5WOt9cov3XcdzzGOgPVai5Dx2vQQV3ekT8h1RQIvsCr6ssaa%2BA33VMeeANY2fy6Cdi22QRko2R8fSUewe%2Fg51PjTC4E0sGwoUFJgnN8FVEoPdRs7ob7ru4ZZcajULfA%2B76GrvcD2RqN7bMD8Ij%2FUGMhz%2B4V6q3DFsJ1f8mSepkuG%2FicFY3q9hGdjro9%2BnxQnIrCjRib0j1fhAQTIb5xdvZcHnsTD%2FYpaXwSiJ3BEvl%2BwJrhkzW%2FQ3zictOxgnby%2BsKOBCv3kCl64yCy4KkpFQ%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SnOquRtHi%2BeR%2FXApTPookWANbN5Dw30L1%2F41rXe9yhfX8IBwxuOOA%2BnmtCjWPmM%2BdPCaUkKIxoEgBq3CKPhScoT6GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjnvGvB7tod6qzA9JVq3yXIbzawf2p%2BZw3c0WswyUAmvO%2FoqEbegq07%2BpQKSIaAmUSrw1l8pZCmOcdVNvzB3o%2B1DYNfBSsQOK4TFtmvU4yi6R1y8wzVm2HG%2BEpr%2FEerSWabr3cmtPaPslSSbzUTosRTT4pui8RcoUDFJC8%2BALyKBOVX31KyAF6oCY5Hp3TSy0eKX%2BbeaIByIejNuhDJoGYfyGnS8%2B1LicQWJnOLxcWt0ub8pTu9DtsrH%2B70kJ843eQs3ADHWLWuCjxCN4Gleut2%2BY7RBJx2aPv1bgiR77Jh46w1QmAmnoJRdq4K9btjkCM0%3D&nvMid=91373028649&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "마이크로닉스 Classic II EV 1000W 풀모듈러",
+    "image": {
+      "file": "micronics-classic-ii-ev-1000w-fm.webp",
+      "source_url": "https://www.micronics.co.kr/micronics/admin/tables/product_description/upload/354302451.jpg"
+    }
+  },
+  {
+    "name": "Pure Power 13 M 750W 80PLUS GOLD 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BP026",
+    "series": "Pure Power 13 M",
+    "released_on": "2025-06-10",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "2025년 6월 나온 be quiet! 의 주력 골드 파워로, 부하가 낮을 때 팬이 멈추는 세미 패시브 120mm 팬을 달았습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1, 8핀(6+2) x4"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 165700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 165730,
+          "title": "be quiet! Pure Power 13 M 750W ATX 3.1 파워 서플라이 | 80 플러스 골드 효율 | PCIe 5.1 GPU | 모듈러 | BP026US",
+          "url": "https://cr.shopping.naver.com/adcr?x=aBlFQ6mOpDoEu7N0cCH%2FK%2F%2F%2F%2Fw%3D%3DslWikizlJCZZ4C2ehuYXOOYYwvdRjlpmy1dLNuFH%2Btm90B%2B2AMN8xX1OpsZwVW%2Fb3SvGQxdMBLqpigIKuTUAkUw8PhzpVp4MvIHGUX7tcW5N3FgxEsj%2BrBn5SGsBvwHwMvch8QmuHdtpvolFeWv24TZ2xJrhdW0CkFzAeCg2iY67vUVDzNjDnxR%2FsGkT14HDZA43v1L5KmIVDIdemUh%2BCpxHR%2ByRQgqgaH1jbfbN%2FcwG1gK0e5NEngU%2B6GcN8mpCKIAE%2B2KMlb5RvHRNzrYcpg%2FH%2FzmDrEtMQQfoRfwK%2BgNqPIhCSUc06u2i%2FNonxiWXoMSwQ8Ll8fOppsTDMCvFWPXEK2F%2BShlVL9c7h2Uc8huxcwBLRpZeLep8ncquJcthy%2BrSA9EMY8kzlV9WUUenUKJFKkw770%2FmafRcBKDxFsSBvbOkwehe1j5CWl2eNJ7V0X7AmuGTNb9DfOJy07GCdvBSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyEdIXmMY2CjEevRH%2BLAZ%2FIDVSavZJzl23pVEkHXNC4fMiWDQE4fWccVSwT1vzV0DZIY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj5NiLR%2BEHvHTruOk5tnqbm82uSzd41myBn29Ecw9nUhKWvVQcjJwP%2BV6o4fCKGWgFaprSBMTmxgtNQNpoBEPijmPqJ6eI87HVnrWLsNY%2BjfJYmdKKSGMKfhvupwbfAasOugrSv89%2BSw7TRNAryT%2BuFROoM1YEZP2lWUJGQfz%2F2EG5XLfSPB%2BSA3ZS7HEv4u2XSVMkd4Dus448ZmB8kS3k%2F90fSDbPWacYjnpFef5GzFxANOvPs5fxhfvhtptNNEhbucCNWi59kwpZ0crQ1mNME5WhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=60703243413&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "be quiet Pure Power 13 M 750W",
+    "image": {
+      "file": "bequiet-pure-power-13-m-750w.webp",
+      "source_url": "https://www.bequiet.com/volumes/pim/powersupply/purepower/purepower13m/XR/750W-1000W/001.jpg"
+    }
+  },
+  {
+    "name": "Pure Power 13 M 850W 80PLUS GOLD 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BP027",
+    "series": "Pure Power 13 M",
+    "released_on": "2025-06-10",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "2025년 6월 나온 be quiet! 의 주력 골드 파워로, 부하가 낮을 때 팬이 멈추는 세미 패시브 120mm 팬을 달았습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1, 8핀(6+2) x4"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 192000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 191950,
+          "title": "be quiet! Pure Power 13 M 850W ATX 3.1 파워 서플라이 | 80 플러스 골드 효율 | PCIe 5.1 | 모듈러 | BP027US",
+          "url": "https://cr.shopping.naver.com/adcr?x=b7nCxItZpQHWghE7A9RhvP%2F%2F%2Fw%3D%3DsSRNPBeuB4ACDsuMpYg9lCwQ6ZvIgdt1zxuXgQRnXbn2PKBNSVTeOeK17rUSJlP593n7jGquH%2Fj1BuhdqMwUTqBuQKlTYJVCbUxCc4YTciDESwf3TFvAofG75nPfBWTT%2BiF%2Bb2TEczx87hKrUUKPqpBhvf0oseUdrlMQ48XdzcPUMEZTIjQUjAFhgjko8xFuzjmxhyG4xeWdzKY%2FSIt7tV5Ls6%2Fo18o0mG6%2FslCtJNnq0COzxfEYOjPOie616a53dlYpNZMZlDrD8uxoR1RoppYs73mAf3VkSkZ%2Btgny4nIDHbhLupYM60cmLE%2Bf8qNbKlIpOEmx0qOWaHMcGo%2BMj38k%2FFyw6y0wAg3nW08YOdHFcA4gD%2F%2FDJFqzwKKPlTDJioBc7giHlbgpN7Ho8I6oc2ELOQ0oOFo56%2FsvgslpghfWAn4YE99Q1s2t8v%2BpRnm1a90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdDliFipnhKXEmIr54bHuD47Oos79v1DbFTkKPbRVEyhwfV3pMQ417Ua9vKEOxGJrLH5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seABP1XrlZdL4SX6sd1B2RTpRzVtOsmcs9dXMHQ3xuZLacWx3oDztXhocxD9W68hwpor3Y6BFcSy78EKVHRRAF1usGNAQNtDSluCcK7RorSGjXtVLok1ERIdgfMl41pveXWTmS0%2Bbpmz5drIkVVFE%2BqFO028A0wNxVE9cOEHgQG6jabWKoIhC8Fg5v0G4uRgmDCUdKsFUs4W9ahBDyUuX4XjAugiDh5S8n%2B7Rc0MeNuzgdOxmxPswKIwl%2FCzWZEeSUG5YANLj%2B3%2F6aBzzgap6VAazHICEQpPL7Rm%2B2fyhjEhHR&nvMid=60703250195&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "be quiet Pure Power 13 M 850W",
+    "image": {
+      "file": "bequiet-pure-power-13-m-850w.webp",
+      "source_url": "https://www.bequiet.com/volumes/pim/powersupply/purepower/purepower13m/XR/750W-1000W/001.jpg"
+    }
+  },
+  {
+    "name": "Pure Power 13 M 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "be quiet!",
+    "category": "psu",
+    "model_code": "BP028",
+    "series": "Pure Power 13 M",
+    "released_on": "2025-06-10",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "2025년 6월 나온 be quiet! 의 주력 골드 파워로, 부하가 낮을 때 팬이 멈추는 세미 패시브 120mm 팬을 달았습니다. 12V-2x6 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1, 8핀(6+2) x4"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 308800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 308810,
+          "title": "be quiet PC Pure Power 13M 1000W KR ATX3.1 PCIe5.1 Cybenetics Gold BP028JP PUR-PWR-13M1000W 전원",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZqUAFgGj7PcxTMxj7JVx6f%2F%2F%2Fw%3D%3DsVS43Ua75gzyInKDh0XpAdqhRUTEwv0BpE3pClGyz79EsAqF9cs32pSWMG%2B7jGBg5EZuqZRV5Ne14Nwj6EbmtSWgxrL%2FoR%2FFjgDElSXZX4l5OioQTgtvCXlVDsp9OmiTtEKSaUcRi4GymVebVR1%2BNSsF%2FNAajjovQmWIuPRSRNJKEostu6dTdQhh8h1d6sngREpRmQzaHzqcWzyT6QsyADZFPhssuoFEQtDv%2B3AeNy6mJfw3FLJLdkVHVOgEggUdE6mc%2BeVJBenZ1unGcQIk8qBnvsD74boiQb0yDmNT8qq4SNlDQWhD8j%2FlamoG80uktNHmLEQt0FNipSJ7IjYHzkg79N%2FCa9Qf1wzuy1x9BoQJhk3a7HYd30JYroNIsXToa90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdIs3HPiS2Maa%2BrnCcLpFTeBAW7ixYLpcsqjM1QROR6OxC9HR5tMxrjoxonRTTRT5zn5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAH2XtufxtpZifzq5F%2FLr%2BHxzVtOsmcs9dXMHQ3xuZLacK3mKEjdxKXbNeTpadRrhJ%2FgHs6NyFIqLSa0W8MJSiibEYwFEBsW%2FjCQ1VgDuzTLihrYqaG1zSul4k6S82lZ1HD8haXHXEajS%2FHwTQvjs0DKpvCVyOR8wAYkO3OWYy7shaLJeZk5zGh7LwfQ2TeeFFo8GKY8NnA621mNyvBRyVn14pq7T8C%2FUR7y35K0U%2FAPwJ56HCmX4pT4lmBsa58nTTstVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=61986689199&catId=50003114"
+        }
+      ]
+    },
+    "search_query": "be quiet Pure Power 13 M 1000W",
+    "image": {
+      "file": "bequiet-pure-power-13-m-1000w.webp",
+      "source_url": "https://www.bequiet.com/volumes/pim/powersupply/purepower/purepower13m/XR/750W-1000W/001.jpg"
+    }
+  },
+  {
+    "name": "ROG STRIX 750W 80PLUS GOLD Aura Edition 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "ROG-STRIX-750G-AURA-GAMING",
+    "series": "ROG STRIX Gold Aura",
+    "released_on": "2022-11-07",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 골드 풀모듈러 파워",
+    "description": "ARGB 측면 패널을 갖춘 ROG STRIX 골드 파워로, 본체 길이 180mm 라 케이스 공간을 확인해야 합니다. 12VHPWR 16핀 케이블로 최신 그래픽카드를 변환 젠더 없이 연결할 수 있습니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.0"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12VHPWR x1, 8핀 x3"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.0",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 186900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 186920,
+          "title": "ASUS ROG STRIX 750W Gold Aura Edition, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZAA1sDpi4ENIn3bPFZs4Xv%2F%2F%2Fw%3D%3Ds1yFJtsGXs%2FFx9M%2BQWCnVBNzDKvo9hHRNjw%2BBowxMzdU1s3dS5NaE6YKivfKdN9fXFOVKDTP5tR6rdMJl81Te6ibJA31U9PIuOTT0IKwuNmWXV6SOWoThgN2JinmJU08MKB91icwFKJybmNNdf1fN2wLfapFfcl279avJiEGRQivaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUVaEviY6ECZQLc0nMoXeQc9KvG283KXxxUm7k%2BbpC9pfVkr1Q6mYY5Lrx6ojfTtCm3WmRo1JEePE1b76ghQ3xEnDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8xxtE2H8w3vekc4xwuPQwdTl2%2FxXDe7wBjaLnY%2BrIi35XfqiCwBtPYYwEdSt6i2JA95MtJ1TvBZ7VZEoMUxaYWp46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1OCvI525udbXBP2s9OQqL2eBTbtSFdYzsu7x%2B2sWCWy7Q%2FShsnF5%2BtiwY8AnUYn%2FdO%2ByGvuIxZMPd5AzENNs2VY17SgVDVHx%2BAcUsKVvYE7hAy6hKxC7DkCpPBf%2Bv57kwQfxTgZCGNXAFn7Cc9wuX0PrPnZFod0dhZaxhnVYH6vWaQ%2BmWmqRsYCxCbWH5PGxtiA3%2FU2AzguC84AnoS7Lq%2BSCPmcL61vNAabFyrrv5MSIXQ9asljN7IXT3jERmEBSG5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=60127884628&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX 750W Gold Aura",
+    "image": {
+      "file": "asus-rog-strix-750g-aura.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/26DBC9C6-3FB0-4200-A74C-76B34C95D2D1"
+    }
+  },
+  {
+    "name": "MPG A1000GS PCIE5 1000W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MPG A1000GS PCIE5",
+    "series": "MPG GS PCIE5",
+    "released_on": "2025-02-28",
+    "summary": "RTX 5080·RX 9070 XT 급 고성능 PC에 알맞은 1000W 80PLUS 골드 풀모듈러 파워",
+    "description": "12V-2x6 커넥터를 두 개 갖춘 ATX 3.1 골드 파워로, 순간 전력을 정격의 235% 까지 견딥니다. 일반 8핀(6+2) 케이블은 하나뿐이라 8핀을 여러 개 쓰는 그래픽카드는 연결 수를 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "1000W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x2, 8핀(6+2) x1"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 1000,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 169000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 169000,
+          "title": "MSI MPG A1000GS 80PLUS 골드 풀모듈러 ATX3.1(PCIE5.1) 1000W, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=7YkP8aW%2BsZ7QEKSoO5K6hv%2F%2F%2Fw%3D%3Ds%2B7By3KuXQmvljUEoEl4ScFfS%2ByyGsrxpk%2Fp4aaws0q%2F5U4CtWxxOpHUHXyX4RWsslP%2BxYqWlHpxthY0XOJtUjmKAwkTOfrBQU5GqmiNFfxcRVOeiMykYwztcanpIT7TPHaSDQ5cxiPRLapG4a0MWRkbAoeRkvpJaJBMwPydFbM8QhkkHXK4%2FmSRy5icYE%2F27%2F4pcsHUMGOcHiDQ1fCmmrg7DIVQdomwAxXYaYXlgckfEZ9PSFEjws63rFqWMhvNl8854ky6q3UrsCxsjJiCAJ3MZMP%2FjXMfq%2B7K%2FfYLD9%2FhD4P%2Bj2CVvS6QkrpszyaIoCuwrUM2Vi5bq9fxYHuPhKSLmFPpfG%2BHXSXeTFn2EOZ4agSkGiZZPP%2FQ%2BZN4HqxWt0yc%2BywSzGIuXgRqLnEobag4IFJ4OCEIGHtDn7qXXIDCBjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfM%2Fcse5gdFvLEAuanzB%2BpyssPsxSIhBnH5EnQOxOLkIHTQ%2B2zuKIwzXtCkokGT%2FLQ2TIknf7he0osRgCPWNOi1bWStgjJOl0HYfwKweX3cPFuL2cFPq%2BZ8J4Nsm8LVqX1gkIur0THnuu3rnK4J%2FyspzcV%2FdiKxdJyBESez4qW7BdqdkuwIDtcpcneKVt6f3o146YaTWOJeoSt92yC3UOC%2FA0MYIG50J%2B3qJjzwNjwdC9v4YGjJCSIW1IvBxXT1wG91tXzg8vywezvsN3QKQYBVIjc6Oy8TM9wC0%2FIENSjwx4DhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=61319033589&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MPG A1000GS",
+    "image": {
+      "file": "msi-mpg-a1000gs-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_173622199161dcf0d54b6a9bf6cdfcfda5e6926137.webp"
+    }
+  },
+  {
+    "name": "TUF Gaming 750W 80PLUS BRONZE EVO 풀모듈러",
+    "brand": "ASUS",
+    "category": "psu",
+    "model_code": "TUF-GAMING-750B-EVO",
+    "series": "TUF Gaming Bronze EVO",
+    "released_on": "2025-10-07",
+    "summary": "보급형·중급 그래픽카드를 쓰는 게이밍 PC에 알맞은 750W 80PLUS 브론즈 풀모듈러 파워",
+    "description": "논모듈러였던 TUF 브론즈를 풀모듈러로 바꾼 ATX 3.1 파워로, 군용 등급 부품과 PCB 코팅으로 내구성을 높였습니다. 12V-2x6 커넥터가 없어 16핀 그래픽카드는 변환 케이블이 필요합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "750W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS BRONZE"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "없음 (8핀 PCIe x3 만 제공)"
+      },
+      {
+        "label": "보증",
+        "value": "6년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 750,
+      "efficiency": "80PLUS BRONZE",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 106600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 106650,
+          "title": "(ASUS)ASUS TUF Gaming 750W Bronze EVO 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=0b9zv8zZgveIfVl7PEnMYf%2F%2F%2Fw%3D%3Ds34bNs6Ulqur7uqwHVYgyVIJIifo74%2FsdTmWaxLc2XTUjceqSu31e2yeFEOkW5R%2B1Y%2FbAR81F1KKHotn3sZ2Md0DPvZwL6FeYo8QVhdeUNvIcDiBl%2B7Iq7k1tgMUf%2FbJlq%2F7HOYcKnzyVEVvK22qgvaD2BhnBJ9tN3a%2FToveaZkh%2BcUBlAoXEv6TJk9ypDV4dfLeh4XNRbQR03AdUhw4RJGSFFcCItZt9VT7oN3sTNZSaTo2DKo8AeN7TBTi%2FPgXI4gXKlTqjAc0%2BKf9jLa%2FX%2BvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4Sk2xAmsaV6d8r%2Bcg03GbbylG0c22Y%2FUvyJMf9YRjJFJxNEltBUUZbEL7ZKpsFkHdkWlTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDAgZJnPnBT5N%2BnwVse0pmk7SklUdw03hVjJQnOh9m9OKzad1F99zks4tYVIFSpfu6ThNu7%2ByZm4fXhdAdSc9gypSFDuo2rt9ej79siYEngTqrRgXjKMCL%2Fss7aCQPqooEblct9I8H5IDdlLscS%2Fi7ZdWGfbRJc5zubLTlItJm4OrTYhYCKekPCDvbTMF%2FwJQpdrcQC68rOEYazL2%2Bmky%2Fw62Z2ma4cz1s3IhxbLGfLuHva4HCNtDvYzsfZCpFc6dExB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=62177134991&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming 750W Bronze EVO",
+    "image": {
+      "file": "asus-tuf-gaming-750b-evo.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/6e43aeab-5fce-4d18-9260-04ab3bb29f8e/"
+    }
+  },
+  {
+    "name": "MPG A850GS PCIE5 850W 80PLUS GOLD 풀모듈러",
+    "brand": "MSI",
+    "category": "psu",
+    "model_code": "MPG A850GS PCIE5",
+    "series": "MPG GS PCIE5",
+    "released_on": "2025-02-21",
+    "summary": "RTX 5070·RX 9070 급 그래픽카드를 쓰는 게이밍 PC에 알맞은 850W 80PLUS 골드 풀모듈러 파워",
+    "description": "끝이 노란색이라 끝까지 꽂혔는지 보이는 12V-2x6 케이블을 갖춘 ATX 3.1 골드 파워로, 순간 전력을 정격의 200% 까지 견딥니다. 8핀(6+2) 케이블도 3개 있어 16핀이 없는 그래픽카드도 연결할 수 있고, 부하가 낮을 때 팬이 멈추는 제로 팬 모드를 지원합니다.",
+    "specs": [
+      {
+        "label": "정격 출력",
+        "value": "850W"
+      },
+      {
+        "label": "효율",
+        "value": "80PLUS GOLD"
+      },
+      {
+        "label": "규격",
+        "value": "ATX 3.1"
+      },
+      {
+        "label": "모듈러",
+        "value": "풀모듈러"
+      },
+      {
+        "label": "GPU 커넥터",
+        "value": "12V-2x6 x1, 8핀(6+2) x3"
+      },
+      {
+        "label": "보증",
+        "value": "10년"
+      }
+    ],
+    "attributes": {
+      "wattage_w": 850,
+      "efficiency": "80PLUS GOLD",
+      "modular": "full",
+      "form_factor": "ATX",
+      "atx_version": "3.1",
+      "has_12v_2x6": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 169000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 169000,
+          "title": "MSI MPG A850GS 80PLUS골드 풀모듈러 ATX 3.1",
+          "url": "https://cr.shopping.naver.com/adcr?x=Pxg1but9voPuRRrxH4SxnP%2F%2F%2Fw%3D%3DsZteT5GVLTZpGeGDE%2Bkhp2gpNOThYoxSIzZ1ut1WgZgBq9fRAOb%2B3rJOqjaL0n2%2BiVonxGgqpIvyILW%2BH11Aq8oe9kAn8lNFaWO8zvTTZfrK0xKgaPRb%2FWLusIgA1P%2BB0mzmbifGhpvDPNF795BETJY%2BIQytrVqltGB1T%2B2f6yx3boDMDs%2FItH9u7RHvoVPYgJO8fTAFEXpkHrtMxjsD9L9B4mwzL7MSRBxH4BlNU5Y%2FUdCdSeGdkrTXZ6%2Be%2FaEL9EJwZ5fbe%2BhnmiDx0dN2PtHZ4JdomB4ImLekYOBIyoTyrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPDm32W0lyzaOqrpTQCNnD0SLJhFlPfaVYQqfNXoGAPlmwgHDG444D6ea0KNY%2BYz508JpSQojGgSAGrcIo%2BFJyhPoagc8iPXZxAGy5qqstm%2FRzokFlcvgKMqhxjiJuk6GORPl4GfBa%2FR1ScmGzBdLvOT9%2FhBdysVQP2K52gjoHY05JB8VyftFP9iYXQw%2FLDGo5BbaQHbidcevA%2FQiukj3m87%2FgfgdEi8YRJ97M0lwo7iVp9SDR56hsbo1J8rNqIWEs0c77qelQBjc36hT2eFg5ZPpR2PnVvP3Gy5D7ukTnirWKYTOF5KsHq%2BigGAc1pAeZ9uwP8vVnM%2BxFO9j8%2BhBBj3ipJ4PKgfu1Ronde%2F%2FmOSnOhyWUIIyPFUpWztUfPMydg1QmAmnoJRdq4K9btjkCM0%3D&nvMid=61770652490&catId=50003110"
+        }
+      ]
+    },
+    "search_query": "MSI MPG A850GS",
+    "image": {
+      "file": "msi-mpg-a850gs-pcie5.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_173622199161dcf0d54b6a9bf6cdfcfda5e6926137.webp"
+    }
+  }
+]

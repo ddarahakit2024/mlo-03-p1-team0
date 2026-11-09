@@ -1,0 +1,6 @@
+{
+  "note": "기존 코드의 규칙 위반 개수. 사람만 갱신한다(--update-baseline).",
+  "counts": {
+    "view-states | src/views/LoginPage.vue": 1
+  }
+}

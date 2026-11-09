@@ -1,0 +1,3728 @@
+[
+  {
+    "name": "MAG X570S 토마호크 맥스 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG X570S TOMAHAWK MAX WIFI",
+    "series": "MAG",
+    "released_on": "2021-09-03",
+    "summary": "AM4 소켓 X570 칩셋의 ATX 메인보드 (팬리스 X570S 칩셋, DDR4, Wi-Fi 6E, M.2 2개)",
+    "description": "라이젠 5000 시리즈용 상급 AM4 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. Wi-Fi 6E 와 2.5G 유선랜을 갖췄습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM4"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X570S"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM4",
+      "chipset": "X570",
+      "form_factor": "ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 661400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 661450,
+          "title": "MSI MAG X570S TOMAHAWK MAX WIFI 강화 토마호크 미사일 메인 보드용 KK",
+          "url": "https://cr.shopping.naver.com/adcr?x=g%2FDPTSvFQ6Gz%2FymWX3t5yf%2F%2F%2Fw%3D%3DspTDGrYPKV6I1NFLSJOrSWRDmTPrnTLK7aPICKnoUT1GZ4nsC6P8HgX%2FHTUxKbfBYKcGsAWQghotLi7n%2F1ugyc5Ki80qa8%2FCW12OA%2BW5HoTtbEH8RjeeaYxT10Yi96kXvCmmiARyMa1IKyGwt9ceMuFzIiXC56cTm4Ct5SbpQMS5o8P8ToytnYxDeo0tjV6pY32MonLSMZVLVWkMt%2B4hQ702uJkW5e1GPCAnejevfAE89H0y%2Byl1pN82S2Gy56jO6sJGwY5PWuUjFzVQF9tIFH9NE4BEqHiL314H5N5cOlINfsCa4ZM1v0N84nLTsYJ28vrCjgQr95ApeuMgsuCpKRUPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpAJL7wNYmbMNSKxM4Zph87p18VoqO2AZA%2FKZlXwKId3OypnItXBvxWEhiNSvq%2BFYBhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PglS9n1%2F35LkxFn%2F%2F09dkl6Y7PAfqPteTqtb4mY44Oojo%2F2GGZba76i6O1qt2gI%2FZWFAmjr%2BQ35ojNneyAZr%2FxJ%2FqBk29M8hAZ%2BGJLnfaYGIYhy8%2FXqudiUsuv3Cl%2B76DDMZxQKKfb0tKuVZfPU3oWotp6uzA%2BlwUtXr5DW%2F7YSt3Pi91LtJ%2FFatd2oTDqgAzlqwBas2paz2hXoySsh80anR9INs9ZpxiOekV5%2FkbMXHBUPfVuuJb8tAcbWYAOHVrlYvBzmfxNXa6QkwoKmwAmlaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=61993862110&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MAG X570S 토마호크 맥스 WIFI",
+    "image": {
+      "file": "msi-mag-x570s-tomahawk-max-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MAG-X570S-TOMAHAWK-MAX-WIFI"
+    }
+  },
+  {
+    "name": "PRIME A620M-A",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME A620M-A",
+    "series": "PRIME",
+    "released_on": "2023-03-31",
+    "summary": "AM5 소켓 A620 칩셋의 M-ATX 메인보드 (AM5 입문용, DDR5, M.2 2개)",
+    "description": "가격을 최소로 맞추는 사무용·입문용 AM5 PC 에 알맞은 보급형 보드입니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD A620"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "A620",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 2,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 113200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 113190,
+          "title": "ASUS PRIME A620M-A STCOM",
+          "url": "https://cr.shopping.naver.com/adcr?x=78YxD8xMK4dyp43XYCBc%2F%2F%2F%2F%2Fw%3D%3Ds7fU7OTuAheRwTHv0kUH%2Bt8wnO2UrFFkxcELDb6mby4YBAVxnhFZPRYr8wZO8cx%2B7GtpuMnnynv1LMY5yi7Dg1c6vjKD4kF9CjZo8bw9MR%2F4s9DGRJisT1UIOQbbeJcrySrc%2B%2F3KFZfqFZxMNxXMO6WedW%2BMyCIcyNsWGbi%2FX%2FUA%2Fa18qhDQ1A%2FKJp3fgBDorvYwbxF1%2F%2F78lNWuoGqPfBqP%2FP3BYhpaSnbhMteHEMjRbTMMPvD9O1mcDT8y3tPKRCof9a4f9kknYVjeDkqiNCu%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhUQ6cpKTqlmYGalnAZlcEQ1OTHmOh2lT31gukwdEFIqJOiSHso0SSRvAEEo5QU4QSkdvNcZbrAROBXa0ASdRmMKHSSD6CHWHDjU5z8k4rV370kOHBt8ETLCcCqKWGT7DLOIwo9o2FPx9Epr35vJOaPyaBuqE%2BaWbttnBHbe8qqH1LK0y6o2dz1RPCHxWbaCjCY8SbvcpQQAkOv30EI9i5uD4o6DxU2Omy47QsbHnnPEpbBt8zJhzn8VzN0XzS9L0jJUEz5g7vESbIlYFzfsAvKSzZYSTRI%2B89FedagE5XibXDWrhHEcp0p%2F%2FKKziu53PdBtVJwYTgU6r14x5lbTZFPHIhX%2FDUtGatfCb99XL2zJPV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=59047751447&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME A620M-A",
+    "image": {
+      "file": "asus-prime-a620m-a.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/d00d67ce-a8a9-4b73-9bb5-a75d4dc33ffa/"
+    }
+  },
+  {
+    "name": "A620M GAMING X",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "A620M GAMING X",
+    "series": "GAMING",
+    "released_on": "2023-03-31",
+    "summary": "AM5 소켓 A620 칩셋의 M-ATX 메인보드 (AM5 입문용, DDR5, M.2 1개)",
+    "description": "가격을 최소로 맞추는 사무용·입문용 AM5 PC 에 알맞은 보급형 보드입니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD A620"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "1개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "A620",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 1,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 151500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 151520,
+          "title": "기가바이트 A620M GAMING X  제이씨현",
+          "url": "https://cr.shopping.naver.com/adcr?x=vuJWcT3qeOriYxiMNgfIBv%2F%2F%2Fw%3D%3Dsa7TuERNorQdlKNRt5Tqn38pYjM4wmFhytTrUacwh%2FcAflbSttnjSpXiiuq529MrRREhZRr8qa74kgd4N9cE67gFjVgCZRC%2Bg4Q0fcEAWGCdu3URzyMG248oCmiNsAO0xgWwJj2ySrKTdLK2UtjFbMswMYXD4ntkGKA%2FEV8MMDnFVXemfpmeX70wC2wQT5nyieNfiM%2F7HpP4pE7xVN2uXdYLGGSId3TZUckPHXC1clvr6RDpmQX%2F1i%2FlLyU7tjc1hgtUS89MXAu5DNRIuoGWjmfPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SkvRQEt6OYSTWRCQOpuTRbNg8RyhEXpFZSy7OJIOkPcTB69fpRbHbF0aT7MWP1REs1lWEov8r4qJn0G0ioiPJ1ly904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE9oacN%2Bj67vcCzZizsFJiV2vcA0PiLdNcepN7CDSPJD1N3W1AGuZ%2B%2Bpe26ui7dc2SbQEGourfc9om5u%2FVO0Dabkg26x%2FwGnm4ffrZyfeYBbl7I7TX0myvoj7rW9d7ywPACSUPEHKr3FzL4%2BBNwzq6SHt1Mje%2BeDUDLY4HOl6OOecI6%2F74bs%2FzNmznhIO5N5zjWbBi23a6KILEfHUyIT6sGA%2FdYfPEHVIHvp27m73p7HDMtVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=59857052130&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE A620M GAMING X",
+    "image": {
+      "file": "gigabyte-a620m-gaming-x.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/A620M-GAMING-X-rev-10"
+    }
+  },
+  {
+    "name": "PRO A620M-E",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "PRO A620M-E",
+    "series": "PRO",
+    "released_on": "2023-03-31",
+    "summary": "AM5 소켓 A620 칩셋의 M-ATX 메인보드 (AM5 최저가형, DDR5, M.2 1개)",
+    "description": "가격을 최소로 맞추는 사무용·입문용 AM5 PC 에 알맞은 보급형 보드입니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다. 메모리 슬롯이 2개라 처음부터 필요한 용량으로 맞추는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD A620"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 2슬롯, 최대 64GB"
+      },
+      {
+        "label": "M.2",
+        "value": "1개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "A620",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 2,
+      "max_memory_gb": 64,
+      "m2_slots": 1,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 152600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 152550,
+          "title": "MSI MSI PRO A620M-E",
+          "url": "https://cr.shopping.naver.com/adcr?x=fuqY20KTbzImu%2FADTbrixv%2F%2F%2Fw%3D%3DsGGk%2Bpo%2Bckp7NwnxUaT%2Fu1HT5JJm7YGEwBqrCTuks0y21CpEd7foKvW4eGFEmJfUcHc9uX%2Bwjc7qsYlpP7yoN2%2FYHR97bt7cf1Twey13hEzi8QmyZX81O73SvDp%2BHI%2FWZDXAqXamPYwfAuDpq2J%2FsylqjHpGbPBRJV6aXFbhuzd3sO08QBrP3TaHN9zHHZZQMXUNdC1%2F%2FIf4JmJBnVEpyFXz81lrTYgLZzkQGPuGSRSehmJF7L2i7vfxTs03PHWFu2AsaqugUq6MWP8WgOn3bhSDk%2B%2Fc8D%2BOiWlalN0NzMQIhdUHoE0pbMk3h6ziYVXFjEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2FbsFbfqvhBmyFER%2BD7e%2BrtE2fwgeugoQL1Jpb0nBL1vTEse9j9TM33g7MivnAbc9%2BIDJZbh%2FxYxtTLGfmUQHjcNezQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9COr7UA%2F%2F%2B1Y0F321qFz4InjFFHKNgTK4KuNYqCRoH6xiNaSnFwRqS5hcuHIp2owaqlBra0RIbslgkTofKp5rDSCxnPeVTWMiX4mOs1dM2mFMA8eG18bEhzHeX4ogSk7h75GiG0%2BMD09kVauJJ3YSFa1OWDObtBPiZ2yqr80UcsiPPFtMn%2F%2BUbuacgHl4JuqpRKhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=62182879554&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI PRO A620M-E",
+    "image": {
+      "file": "msi-pro-a620m-e.webp",
+      "source_url": "https://www.msi.com/Motherboard/PRO-A620M-E"
+    }
+  },
+  {
+    "name": "PRIME B840M-A WIFI-CSM",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME B840M-A WIFI-CSM",
+    "series": "PRIME",
+    "released_on": "2025-01-07",
+    "summary": "AM5 소켓 B840 칩셋의 M-ATX 메인보드 (기업용 CSM 모델, DDR5, Wi-Fi 6E, M.2 3개)",
+    "description": "가격을 낮춘 사무용·입문용 AM5 PC 에 알맞은 보급형 보드입니다. B840 은 CPU 오버클럭을 지원하지 않는 보급형 칩셋입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B840"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B840",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 259000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 259000,
+          "title": "ASUS PRIME B840M-A WIFI-CSM 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=aXdI5A8bWuUaqbgW4s5vN%2F%2F%2F%2Fw%3D%3DsxH8kuMkYrQRzY3OzG0Qz1vEWDUvNecd2pXwnjOu8cbeVIH9YWuEe7zugx%2Fq%2F3DGbetsVz1hD6CaOt1oCTiqGnYpIAQ8cd7BmqvyeO5eI1vqVWSvQx86a%2BDsgCKPXK7PSPPHrM98bytiaA1qmS1gHefUCgy3E8G2Z3t5eaP1aYQrFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDU8zx%2B60f5xmdpzt9oCUVZc73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYRjxpa4oVSLWTDrqxWSfZDMThdZ44tfN2%2Bl7XR3dCbmvsCdUTVWcWLr%2FoWhRoOzx7gF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFew%2FQObtoJMWNNk21yTIuqLsCJFSu5mIoFFblgL6oA3BkXf%2FLIau3Eq6EyFKNNSFX5eYJrTcj6huNlQOW7NAI6QkQb1nnq0DdFUIbtr5o9AWGfSSr2l%2FxP9w3fbaeEfWwc%2Bg3B%2BxJV0t%2Bg%2BIT3SFqS0rU2FphVWKIyRlM7xEx39cP7UbNjIJABWwM7q6UxJuWMKxyIO46PTVGbgXBcd5DyQzOPIEfE18%2FDZQfQ2dMWZhQ0eYPZRjdCWFcvYMvIQbBgqgOvq6z5EpEI5N2xav1Mg%3D%3D&nvMid=88927870537&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME B840M-A WIFI-CSM",
+    "image": {
+      "file": "asus-prime-b840m-a-wifi-csm.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/8f19c569-0ee9-4a97-96e9-bb38d082087b/"
+    }
+  },
+  {
+    "name": "TUF Gaming B650-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING B650-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓, DDR5, Wi-Fi 6 를 지원하는 ATX 메인보드",
+    "description": "튼튼한 전원부와 넉넉한 M.2 슬롯을 갖춘 라이젠 7000·9000 시리즈용 메인보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6, 블루투스 5.2"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 259400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 259360,
+          "title": "ASUS TUF GAMING B650-PLUS WIFI  대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=nPvvWml93gbF8wsRxIM4d%2F%2F%2F%2Fw%3D%3DsIWtcJ7wxz0ZvYFC3wF31MKWqG%2BI8z19eN47oxeA65Rm7BP%2FkDqu3ijxB%2B%2F8k0WcCrnEgtZoaSZdyB8y5Toz5dJ%2BSMExx28muPwPYOLtEhzccgkFRPkeXIZL06Mifn8sUNYy5D8Q6znLrVBJdmBoPBzOVn0Hc2tCEClHUtHwMOUXIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156q8ny9TYa0rHgkXx2oPezWuMKqVd%2FhTud%2BldG5ZqDk03Co9xetaWFsSOrl6LeJ4L6POLseQanT1gkaMGIm03QGc9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOq5TFzoA7kXU%2FC7FWWylNftSEhb%2B5%2BbgCLWD5ufmjwVaCLm%2BnJNCGjhY0niW5X4ZNxLq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3ZnmdY3hRqpienp2%2F3Fo22xnGa2EcuALx448Gl9Iqy3O1w8mUwVezLUz0S4HLiJ4l0pjaG5Jam7fwELMI5Qr1zkFU%2F%2FBf%2F5%2FfnX5evXbrIDrmt%2FUWE9jOrkT9oQwHMSeRVli6Ay1VXJT4b4%2Fha6woBF9dKjlhI4tcoJq3SESCgcAfNRN64mBm9G8QruBkLDcHT6RR0Qu4mBvrEhaHB64Kwd7%2BCyGkD3DoyXAIbnHKC%2Ba5JvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=60027646510&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming B650-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-b650-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/d52e1dd0-6b0b-4c62-a625-01c5e41a8b07/"
+    }
+  },
+  {
+    "name": "PRO B650M-A WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "PRO B650M-A WIFI",
+    "series": "PRO",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 M-ATX 메인보드 (가성비 AM5, DDR5, 무선랜, M.2 2개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 166100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 166100,
+          "title": "MSI PRO B650M-A WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=AnvtosLHyTRa43QbBTeiFf%2F%2F%2Fw%3D%3DsnbjJfMy1jkw0LTLEGSG2TzkzB2V7IzQSLb%2F%2BFZaTDxa26XdR5fI0JpUOniS9YEPpPc6VA2Seb6j09d%2FyOCmhjqTpAyhMzp9vZBa4LGpdzWtZuzXHc2RIEoNtQqrbQfjugteRqJ9n3aTMLbcwLo3rimIwepIC9H9SgTOGX6HkvO6AbCY81f975eS5nfR25FBi35fZdyV9%2BicsKRfbBkLjPl44UM5fkdkmZu%2FTsrAzi36E2VDgRRgV0p7EfbQclaerJ15IfsViG0K4MyGaSjcPrMQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F1u2DOIDgFymzY162UTcJNyISFv7n5uAItYPm5%2BaPBVoIub6ck0IaOFjSeJblfhk3Eura0umyewG3sU16BCYUympo2Y27OMxChR1eZxI4CdAfL8xrzAm%2FP9XMd6rdMLdmfq9cn74wpZEbJtMtfdASLa%2BhMG%2BkUP5%2BC40sYew%2Fn2PzyZTBV7MtTPRLgcuIniXSkgSmQLghBgPI7Y%2BNcHXucZGAG54cuGxKW93nAwwc3NNDzdggl2WgaMdmqQSnhvtxzK2dzlwKLSeitxQGIYigSApa14gG%2BlmESn3S8ga6m5s7%2BGBoyQkiFtSLwcV09cBvc8pcVGBVuLpd6U%2F2ddtKIsByNqSzuDvItbB4WW4puSPw4SwcLvxUEucVmH%2BcOht40%3D&nvMid=59047407018&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI PRO B650M-A WIFI",
+    "image": {
+      "file": "msi-pro-b650m-a-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/PRO-B650M-A-WIFI"
+    }
+  },
+  {
+    "name": "MAG B650 토마호크 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG B650 TOMAHAWK WIFI",
+    "series": "MAG",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 ATX 메인보드 (튼튼한 전원부, DDR5, 무선랜, M.2 3개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 254000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 254000,
+          "title": "MSI MAG B650 토마호크 WIFI AMD 메인보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=m%2FGMNVtY%2FwlKA%2BEoLV1W1P%2F%2F%2Fw%3D%3Ds5VrJ%2FJXyPcCzZy87MiGgSvuUHVMfD4cVUO8RvLgHsYmytehEYymLtzueZOM1Mtnx5tOFF%2B4KCZg27%2BzrdkQcRhD51r7MPlnlPuSbrAvqdJhPn2NUqrqhjR7%2BFBdisafEfxxVJFL5qk%2BvEzPWYPf4iQDlDzTMe6bY28l%2BLSmHIhg2kmZ8vtTIEnyRuaHE0UDY9ayL7mz9v%2FjRdrE0WNoRFecfwoaxGYKol4n%2FjG8Okd7DOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8ZHZb4rT45zyHrhy4NN6dhUTD7kTdCyGm%2BgLBHyTggzZXfqiCwBtPYYwEdSt6i2JA2a2DXEjxU9jdSj7FwVlNXJ46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1NLLa17k2dVDc8p7hHea6uYNgYL4cYnNEG%2B%2BrlQeszx7Uj%2Bbz4ZS6hjm9Mzmh8geSpT0WI7IRRfE4XHatIyBkehAH4qTAwPT7yMW41XXDqXHcL%2Bek6smqjF5N%2FCCOzF107LBjAK42boXdiULVOSpgTgYvX3rJhsEHKOX4s%2FomhGrTn%2BIvcxawVxNuePP9ktetbRvBRAMDHP3EDS6eqRBUrsdbPzcLf76Nkq1BagVX%2BV6GYCcHVQm9qQGWZGeH9DBgzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=88493546577&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MAG B650 토마호크 WIFI",
+    "image": {
+      "file": "msi-mag-b650-tomahawk-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI"
+    }
+  },
+  {
+    "name": "MAG B650M 박격포 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG B650M MORTAR WIFI",
+    "series": "MAG",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 M-ATX 메인보드 (M-ATX 인기 모델, DDR5, 무선랜, M.2 2개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 198900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 198860,
+          "title": "MSI MAG B650M 박격포 WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=3hjEIVNnfhZ%2FPzc5yuCmbf%2F%2F%2Fw%3D%3Ds9ketpOVmNrJuF%2BTaeMHIb2MkU5KPn6wvte9igJXRuc%2FAHcJfwewmWOmtIgP6A04i9cpX4bvTpneZII92yl0Rdtj44HcY8ahm6DfYsirlpXVoPcmoXZmLVNIe3nzeEKtVt4934WNodd7groJ3olVZZgrbyKOHIAUN%2BZUksep9Ym1D4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhtq3Vd4HGZYqxoW27TcuKV0O1JainEJT5%2FnfrqC3U%2FDY9dLq9XDKfHeLTWRs%2BP6CKA8%2BcoA9qGorseSjnO4WKFJX8Bam36niIkw7sdV%2F%2FY14xBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FaTkdivA3LZFcYKwsjfkRHAVjQCpIk5kx4sJW2hrRfnK6e5YEtJ69c%2FUSw%2FdvRpAIH5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAGbbb7HRJ%2B63qZFZbGy6cLVzVtOsmcs9dXMHQ3xuZLacxZMW4lTVXhEpJpanvzdkpLbu49p9U1bOfC9fr%2BxTVCKtCLEq7bOCubkxUSV7hMXWxl%2BJLpTFrMk9hnj1oJ6PDo5QBbx%2B%2FlMAMMeZj1mxvbgU3MPP0c5h%2FB3h0AL8RoceiA3%2FU2AzguC84AnoS7Lq%2BYyI%2FTdZRYsCQ82XtmXPNjhXTTxxZs6axHBWKVEFFqNv5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=59047406899&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MAG B650M 박격포 WIFI",
+    "image": {
+      "file": "msi-mag-b650m-mortar-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MAG-B650M-MORTAR-WIFI"
+    }
+  },
+  {
+    "name": "B650M AORUS ELITE AX",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "B650M AORUS ELITE AX",
+    "series": "AORUS",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 M-ATX 메인보드 (PCIe 5.0 M.2 지원, DDR5, Wi-Fi 6E, M.2 2개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 239000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 239040,
+          "title": "기가바이트 B650M AORUS ELITE AX ICE  피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=qeeNsYyjd7uUvX712d1op%2F%2F%2F%2Fw%3D%3DsB7DRKUzaLkmN16%2By9XM1WBUHuRPpcCcoZHNKqGiPg5OeOFhIQyG3iwaOni3sGO17BNCPzkZvfXnzo3hZhybJSRti7hHahYUJWf8q6NY62lhNCxqGS8RpMvDlONJ3c2C0xD3Dp7ziBopQi3P%2BqMzhgXLq4zNAtu8prVPz5ru%2FRe2GZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0BRd0HdTn4eEAyoAWe78nvpwWR3JH3LtLJBetjqHWRJRyI7ZMftVtn0zwnAp1Ybkvrkq%2B%2BMfYWpg90P6T7KYE3g9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqjYxWtajsKsCVPh19OAewej1nRJ4yoQ1ByXgZXYF4asWypnItXBvxWEhiNSvq%2BFYBhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PfglZklCP7zbAFBRwBFbCYvSAXQIvwvof8t6eH%2FHCaO9p7fPzmuun4RT3ytTak0%2BV0dlDqv6XEvEkGo7rktJkFl7rstad6SAKSn7TFUCfyk3N45BSfA%2B1k5benCSOtkFNwHII1vMKcl94FTcUpCnO%2BecrEUIKk1LjwAYGXKnez09RN64mBm9G8QruBkLDcHT6kr4jCIL8x2do773NAwpuJjI1aPjhZ2ir3xaroEzv2ttvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=58983152229&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE B650M AORUS ELITE AX",
+    "image": {
+      "file": "gigabyte-b650m-aorus-elite-ax.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-AX-rev-10"
+    }
+  },
+  {
+    "name": "B650M Pro RS",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "B650M Pro RS",
+    "series": "Pro",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 M-ATX 메인보드 (M.2 3개, DDR5, M.2 3개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 무선랜 모듈은 별도로 사서 M.2 Key-E 슬롯에 달 수 있습니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "없음 (M.2 Key-E 무선랜 슬롯)"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 3,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 192100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 192100,
+          "title": "ASRock B650M PRO RS AM5 AMD B650 마이크로 ATX 메인보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=SzL%2BeOjq%2B2L1DstZvqcbC%2F%2F%2F%2Fw%3D%3Ds9HYhBOxr87EbzzRDCqlB8GvoZd9bXZw%2BqwZ802SBtaIqagAWexXcffjSPfEdoEQwf9ziYYWYj2J96LtCPVEBAKBUGwifuxbWkvVMiu1AIYU3HPwk%2FLEK9UChiTEvGTkwakVUXxMk1zltzJOzt3cvEZTLS6Ypn%2FrO8uCinAlkfGPK8DAttUTmDAnHaDxEKF1qD5P4qmfbXQFTC%2BaZWKDo1sGzuCJOVkelBZGvfbidF8dssXJMc4%2B%2Fwxf1BtqYYCFexlNMww8Bke%2FgkRHSgcW5lqdviAZw3t17TBFnXZCBdUs1yv6q6U01ehkI9YmtcDsTjLxCEL8MdQ%2BzcKrDmKi9mswF9w%2BCcmIFdZS9JTYuu8Y9J6n5awDXRBgPMnG7KggGi9exdWObvYywc61OUFzsIbS39s0PX1QHJ4Ez7zftraI9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOq%2BfKyfRAr1McjkXxTKfBfmWy%2BolSha4oez%2FsDRyPrVcDTJz7LBLMYi5eBGoucShtqFnYtFQW4LI3SGrRZ7IqboIGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8NX4NSYXM%2BlFr5AQSWfAWnavoJZGebk3wd1ax6ycTjwRVCdlSU5sFCpHxs%2F2R0kMhpSdVwHtxDjII6LUW6Ni4mWo6L8beAblvZeAqpy7DLq2RCB%2BMe28fasPPpudrLIUxM06h%2FEkyg2bnht2TxrL2azJJxBpCj3eWKplYrZmwWVZ8qlIEfatjuvGb3pBuD1w1y9O26Di8KMS%2BiGo7JDPn2RnLMcjZGkEFkAh3ROSDcyvtAHN2fEaIja5eVGfIC8MlaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=60703252744&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASRock B650M Pro RS",
+    "image": {
+      "file": "asrock-b650m-pro-rs.webp",
+      "source_url": "https://www.asrock.com/mb/photo/B650M%20Pro%20RS(L2).png"
+    }
+  },
+  {
+    "name": "ROG STRIX B650-A GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX B650-A GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2022-10-10",
+    "summary": "AM5 소켓 B650 칩셋의 ATX 메인보드 (흰색 방열판, DDR5, Wi-Fi 6E, M.2 3개)",
+    "description": "라이젠 게이밍 PC 에 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B650"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 266600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 266560,
+          "title": "ASUS ROG Strix B650A 게이밍 WiFi AMD B650 AM5 Ryzen",
+          "url": "https://cr.shopping.naver.com/adcr?x=KRuSBl5I3OUN8S%2FhxNdv1%2F%2F%2F%2Fw%3D%3DsodTcsPT541O2QSgxte3wrA4x3virF9y1a8r9P0LhhLE1s3dS5NaE6YKivfKdN9fXioNX2PzYrjru5zJ480gneitovHFBW40uhpyWkUokP4Ial%2FJY8NUVkeSbVaQvPSAqZJE8%2FzUmvqWZ4nScuovh4FuNVGn4FoMQM5RsXMyo%2Fo%2FLtayO8vp8YGu6pHNtIwGhB0tejJuLME5UVjRucYBcG%2Buf2%2F2oUyC0vUnBuGlMTz8WJ%2B8GTS7qJxiO8Ej4%2B8Dj90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdBMQcLsjkItuzWk4%2Fpg%2FMVraisAb9s0dsf%2BkIokW3au%2Fi5vpyTQho4WNJ4luV%2BGTcS6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2Z%2F8Ek7tp3No9qXChqMirjgvyx6CjfuZRJdzQYqyoEvG3QRWuHppQ9sJB%2B%2BDz0RdTyOdFdJAGyVptdJM2gxjNvNllCcPIay5AbJYq7XYwDa5biwTokm8bAQNj1k6ay51Xgi1wcRVx%2FYYSoIxI%2B%2Bm7BNA6l6L%2FHP2N6pLBucToJI8rNiFgIp6Q8IO9tMwX%2FAlCl3er99WfQ4fO5VhBVtoroOsfu6uA3p92TIKeWqY%2BJjCJzTBAAsDZHUDR7G8m16MTy8cgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=91158538277&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX B650-A GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-b650-a-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/8B4FE1A6-E69B-4214-A278-8FB708F3AD97"
+    }
+  },
+  {
+    "name": "ROG STRIX X670E-F GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX X670E-F GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2022-09-27",
+    "summary": "AM5 소켓 X670E 칩셋의 ATX 메인보드 (PCIe 5.0 그래픽 슬롯, DDR5, Wi-Fi 6E, M.2 4개)",
+    "description": "라이젠 고성능 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다. 출시 초기 BIOS 라면 라이젠 9000 시리즈를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X670E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X670E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 532800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 532800,
+          "title": "ASUS ROG STRIX X670E-A GAMING WIFI  대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=8yA1q5TJ6Wx9yx23VJoNo%2F%2F%2F%2Fw%3D%3Ds5ZqO4d%2FMchjq8VOP%2FFtFfcgYIr9CpAUroNdRIY9XqgZKoH6QFfYAeri3P7QhzUA0BcTe2JipmURV4t2hrpvAuNlgKsl51xeeqI8oeGHqEVq57ZqrxRQvh8VWEtzb4JEBtoX2I8AYXTFImZzjLlQnxqutceQ7jw68jU4kUYKlLO9JbNTPcbnF8ZDz7e0E5kkRa%2BpHa6ewb0%2FDpcGez9%2B2MiAuBW2%2BG%2FSbP7Q27dQbi6zB71XpBB%2FN9QM2D8wiwAdpCpBmb%2BTGcc%2BggUMd41IRjYkX4PzUNlUQhg8RHH%2Fb%2FXliP7DXkxFFrto%2BVRLxFNe%2Fgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSei004LitsTQvkc4%2FAsVqhKVqLzcRVswO%2FNXTrA15l4GN4NqgWIVBt%2FQvFizV1bA1ZP8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hSuYGEUu2wJJoNYBOGzVk7tDu2wgB9LTFCcYj5vXsSwt0Ifv%2F21F74ZzYG1I67xlGUzCfDAzPDFjOj8xqid5ER9fK1w4pUDdIhwvU87blr0XJ8N0Pm74K2%2FoJgtcTou4hygiMvP65%2FKq9V0AzVgn9hU6Gc3XRn7S6S%2F9UCEPy0VHT%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7wIcis%2Fox0%2F%2Bb5vOmabboNBnLywBF6TPdyrHi5pSyQkVg1QmAmnoJRdq4K9btjkCM0%3D&nvMid=58982818968&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX X670E-F GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-x670e-f-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/FD1C240A-52A1-42B8-855C-43E155E98B4B"
+    }
+  },
+  {
+    "name": "TUF Gaming B850-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING B850-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2025-01-07",
+    "summary": "AM5 소켓 B850 칩셋의 ATX 메인보드 (Wi-Fi 7, DDR5, Wi-Fi 7, M.2 3개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 292700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 292690,
+          "title": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
+          "url": "https://cr.shopping.naver.com/adcr?x=yLPbZTrbXO4JtiQrC0W5rf%2F%2F%2Fw%3D%3DsXaggInqe%2FzkoWGLSNtMKyBtHS4jB2IXQgylgXhrSjPBFi51nqMvTAF%2F4tqv2MQgT2XRsxokm67RZVrE0hpDlXyMTIOT%2FAw%2BW2pv5VMCbhe8GS7DrHzearjl8riw%2FnX5B0ZGurKb1XgrdeFW6xq3Y7jTnkMQ%2FqEHXdUvIOhYndgvchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAYXlp%2FaoailhYl7nTlBy7QxDjPZ39xa%2B0i4YNBnEfhKaYTojbSATAczc5TG%2Bbls%2Bt3HpQnsWx9r9bH6dpI1ab3%2FDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8DgpGjeTIETGTJPOytSp6UHREU%2BOuu%2BLaibqTdb7Ub0tXfqiCwBtPYYwEdSt6i2JA2a2DXEjxU9jdSj7FwVlNXJ46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1eAcYo%2FCIAoVMCsLCpxYl4iDpaAADAcO1kdfiwi2lsoLQ%2FShsnF5%2BtiwY8AnUYn%2Fd6piGA3WvEefqK66eU5OdE6U7PksAHOmfTBJfKkXyWr6xtNHu8wjSDOwEk5hHCyHZh67wHvHt8o8TSWEGjv5J7lc6B%2BPcVwUYsXYB7Dj5ZrI1AJpXgPGkPiKHzQfxZ%2FVpezdPirNIEhU3YcDKwV2g5EWM25IBFC%2FuM9gooa9qMAWQkCA1lR5v4nwpQguodUdvgqgOvq6z5EpEI5N2xav1Mg%3D%3D&nvMid=59047655155&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming B850-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-gaming-b850-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/fce63e75-628b-40ef-a425-99430373150d/"
+    }
+  },
+  {
+    "name": "ROG STRIX B850-I GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX B850-I GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2025-01-07",
+    "summary": "AM5 소켓 B850 칩셋의 Mini-ITX 메인보드 (소형 PC 용, DDR5, Wi-Fi 7, M.2 2개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다. 소형 케이스용 Mini-ITX 규격이라 메모리 슬롯 2개, 그래픽카드 슬롯 1개만 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Mini-ITX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 2슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "Mini-ITX",
+      "memory_type": "DDR5",
+      "memory_slots": 2,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 393300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 393330,
+          "title": "ASUS ROG STRIX B850-I GAMING WIFI 인텍앤컴퍼니, 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=P9VkKrAt0BUYDdutEcdc6f%2F%2F%2Fw%3D%3DsAu5DFCUjqPSc9SKwaG9uTsINbAQNfXfRgYUGFsYQpi1sGiY6TfYsvJm9vNfjzlhk%2Bz%2Fe7b0lXHRU6sa%2Fz2u542kfgZ5NPozt46SwLH%2Bbwq8JPzWjczRNYbSGjEnUawg4DQgabQDLNT5Nn%2BgRRunuZd8Zl3jBwTtvgpmQK9Oq5b7aH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUdU7eHADt2MPZM6aGSPO7hP2QgyrN4cRLnPMmwaYkg83LL0B4i3OTvsfwyC%2FTgQg6cdKU1CV4M8tXlPSi4ai8QCyFUXzni3liqHP7jRIIbgL76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFrfI3qLRbCY05w6ndE7z1KGbVXh1v7%2Bh0WiO2lsSDm4j1QQzCLreNp8sjPDBjStixyWW4f8WMbUyxn5lEB43DXs0GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtgzTgFwF6SMnCBa2L7wvQjvSN%2BBNAmQO%2BFNzmiOODMMzuvs7juqwqts%2Fh5j4Ws15mP92OAradnUDpr9RA2HxnsJC4%2FLlTP6EWPGf4araeNDi3ZChQuXb3guWUOo7OMKf0Un9yLe%2Fy7%2F1Tiqhgu08r7jJTVB3p0q4yRo1Pn0OiYTWj39e0cgrhbjIfPO2QH2ZeKmwH4J6RKEmjMk2NtKo7Xg1q4RxHKdKf%2Fyis4rudz3QbVScGE4FOq9eMeZW02RTxJNoRISjpzqWRAxCJNZw%2BI1dznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=62096238863&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX B850-I GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-b850-i-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/232D5674-266F-43B4-B4FD-6C0D87A5157C"
+    }
+  },
+  {
+    "name": "MAG B850 토마호크 맥스 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG B850 TOMAHAWK MAX WIFI",
+    "series": "MAG",
+    "released_on": "2025-01-15",
+    "summary": "AM5 소켓 B850 칩셋의 ATX 메인보드 (M.2 4개, DDR5, 무선랜, M.2 4개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 329000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 329000,
+          "title": "[MSI] MAG B850 토마호크 맥스 WIFI (AMD B850/ATX)",
+          "url": "https://cr.shopping.naver.com/adcr?x=kwPcjq4r2za7c23dtKLjUP%2F%2F%2Fw%3D%3Dsxw%2FDoSbAg6EFGJobhlT7nyHI01WW3SJhAfbI5DRD3lNakznpWK6CcwL3AwRtiyfmmAdE1HIL3PNZuMm6GqGAPFkSNrFi1tjhktVPNw7OIHMKEfRHIJZfwHQ2N3ZkY0dsgMsbE%2BX%2FCeO8LFomQsR7gFTqo4z7KcB%2Bt4hrC7zkJinLtayO8vp8YGu6pHNtIwGhB0tejJuLME5UVjRucYBcGwtQsk0XEgvNOuwsVGKQRQCExQygB0MlaFjy3rB7VDHS90BQRW5P45jG3LZwSFRAbRApg4TpvsbyA5pgJgDsa2%2FDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqhsy6AmV9%2FU96moAc1IYJU40og6zvQgLTMCPA641wQZtsqZyLVwb8VhIYjUr6vhWAYY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj8LmLpI0VnlLXkZWJNCfCEDShSdSxLYT5HziHksMVinmyCu1BesxEMBxG9F69pU0CLHl7WVS9Sbb8tjYBiggDjjszN8nfk%2BBRKZDCToRqPQaFqJXlTPDF%2F7dnghZld14bdWDzL38f9FrgAnmOUt96sZVhVuqyXytGlVvnS9s3qDco64FkP9CQbIx7neKc6OctVOI7nASqmTkegX474Nk9fzRbhggMwr%2Fchy79uj45GnZkLumTykBzEYUP1xkZh4Z0uR79U%2F6Az3gE9mQ%2Flgn57E%3D&nvMid=88968292348&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MAG B850 토마호크 맥스 WIFI",
+    "image": {
+      "file": "msi-mag-b850-tomahawk-max-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MAG-B850-TOMAHAWK-MAX-WIFI"
+    }
+  },
+  {
+    "name": "B850 AORUS ELITE WIFI7",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "B850 AORUS ELITE WIFI7",
+    "series": "AORUS",
+    "released_on": "2025-01-15",
+    "summary": "AM5 소켓 B850 칩셋의 ATX 메인보드 (Wi-Fi 7, DDR5, Wi-Fi 7, M.2 3개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 288000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 288000,
+          "title": "GIGABYTE B850 AORUS ELITE WIFI7 제이씨현",
+          "url": "https://cr.shopping.naver.com/adcr?x=40V7VQya4Wm0Kxza4IVWyf%2F%2F%2Fw%3D%3DsxUf%2FAN0RN1tN4xiNBtRizBrVGLFvmP1t%2Bf8%2ByNF%2FRSYIJ%2BZ4C5NO7zoJ4Z08RAYoMD90ADopJ9EM57i4xOMhls7Y7yvmPPqEnn1tZgTA6Fco8YU6EFu1EdQXSX3r1ehcJYTlmil68lwcA8IHAJno9OSWjDXesMzd5lJxd4oqiVTJrHFGbgfwdxgOLQHcHeJCZ9BPu5bC%2FF3Pycy%2BFcIoXYP4Mly6jrwp%2FoVeh%2BjW1E0WaPuOCz8CaX3cPkeGF%2BoQhRklcRSf6Q9IljjQx8Mx%2FH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUP4Le0GoHrCrf1i3LQftrCP%2Faz6OG3Z1QeuD6S8mxgBp%2FlLnJwMa7Bt8R2%2FUDqQrCYzcf3b%2B71U19ltm4FOyWwthB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2BpvSqcVTGbOmyTx3Hmcp4PIF2R8W6Ir13jf4n6MtlgoaMyL%2F9tKDRNgASwTzgkxS1WM4fsMrpPdScxvhy933NiDBOLiQvA932AOUZrWFrxMRhXtESbtCh5zQK9IgDlvAgs0RiGOKSefIwbSrSuAA2MGw1ok27SlqWrEqRm39DKMZxrWNLxRrWHCJoudYzHCivGeoxdTdREP5Y7Jvem2ggxXK0w94gfSh3WISX2dpgD0YZ2FN4BR6pSyWmGGwC04DLIy1Vhq%2FH77x9Zlr1IFzyuow%3D%3D&nvMid=90602081142&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE B850 AORUS ELITE WIFI7",
+    "image": {
+      "file": "gigabyte-b850-aorus-elite-wifi7.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/B850-AORUS-ELITE-WIFI7-rev-10"
+    }
+  },
+  {
+    "name": "B850M DS3H",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "B850M DS3H",
+    "series": "UD",
+    "released_on": "2025-01-15",
+    "summary": "AM5 소켓 B850 칩셋의 M-ATX 메인보드 (B850 실속형, DDR5, M.2 2개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 2,
+      "wifi": false,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 158600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 158630,
+          "title": "GIGABYTE B850M DS3H ICE 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=eofNziZ9nXUI0EZJuBwWZv%2F%2F%2Fw%3D%3DsRCWbZbQBk24A9vF8q8F4FKMsRK0O8Lzmvk7X3LLTF%2BXRo1h0V3UEDaOMh8Rns3ZURfHbuIGZjG4if38NXukgB77%2BwGdJifWuubh6cpxwfhQLRNKtPuIbEQdzEWXGO1ZJno5sEYMXthWt%2BAQK8mbdOKxUTfizNciQK%2B%2FJMo5kHrlWrxaEGYqB0DQc4FejQVgOC3NXVtGoxtOKY7bOwu6sIk0%2F7htETbvQObH5wXSaPvQhdUHoE0pbMk3h6ziYVXFjEOMR3H1NiPotdubHYSKhVBCGSQdcrj%2BZJHLmJxgT%2Fbs6XfOqR5Sce748zutAss8pf%2BAqJMzBgMW2kYyEryO6Hu4mGcLM55pRFSBsTnJmAyhHbzXGW6wETgV2tAEnUZjCh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8VKZzPiWyYVDxCbLjY5YH6GZW47FVcUvDENI2HuIbVP62fcRfzBoicAr7BBZzmXzYl%2FZDwj%2BVrQP6KnGetnawuB%2BKCznRhQLFpb58erlJK9sFNEuQV8DEBu911k755Oac3c1aoxLkQxXfYYVxjbYTdnR9INs9ZpxiOekV5%2FkbMXEhLBLROk9e6CzRwsw6PxY59PKj17ZU8WSL6wASGuK%2BuULbrKCG3bvy631EkJtgzfoOEsHC78VBLnFZh%2FnDobeN&nvMid=89126895742&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE B850M DS3H",
+    "image": {
+      "file": "gigabyte-b850m-ds3h.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/B850M-DS3H-rev-10"
+    }
+  },
+  {
+    "name": "B850M Pro RS WiFi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "B850M Pro RS WiFi",
+    "series": "Pro",
+    "released_on": "2025-01-15",
+    "summary": "AM5 소켓 B850 칩셋의 M-ATX 메인보드 (M-ATX 가성비, DDR5, 무선랜, M.2 3개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 207000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 207000,
+          "title": "ASRock B850M Pro RS WiFi WHITE 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=OYJYGHxyWr5CQdJH%2FGCa7v%2F%2F%2Fw%3D%3DsGg5ruJwRUjr15IELiCMUUgO45%2FRByfHPKSTEwJPxrRmQSkhKJmrvu9Qhgg4y%2Fh0sXuiEFST6jd%2FIxT0UHTUUsRh6HjMjy1%2B%2Fn34oowGoHZkWeR3LkHkeAAMl9mZOlmUWfhrDOkZQnGKA4c2REWz7REOtkoAVxaKtSkzMZZLPpoC84OS6LYm2VrPehWjlu%2Fp3jj9KGBW69ZED30eD2DXGkKjGYjBLiUv5%2Fo1efLxLgao9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqnR1xuSSpjYEoPPJ9kzeLJBgTRT%2FMfd%2F6UH8jBMgFl%2FEevX6UWx2xdGk%2BzFj9URLNZVhKL%2FK%2BKiZ9BtIqIjydZcvdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPCJ8Tv7dRcH3xIewkRTYUWw5stlvDWHimOICoX%2FVtf7S9AL1M%2FidjU%2FBrl21bLbkgftFEBC8LRaMgxtTLTBlR2%2Bj4lHI13SreGCdVcAwR9%2B5YDIZXJJC4XfNS9DX7SmSOtnM8bcLmuyYDtmvHHYM0WwvcdyYTnBfnljMy%2FX75cDUphM4Xkqwer6KAYBzWkB5nwjd4kDiq0eBmJ76XazujAcN0Jnm1tne6INgYi5gIXoN9%2FE5JmK35D5T0F0cVMK5uaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=91178451129&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASRock B850M Pro RS WiFi",
+    "image": {
+      "file": "asrock-b850m-pro-rs-wifi.webp",
+      "source_url": "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS%20WiFi/index.asp"
+    }
+  },
+  {
+    "name": "B850 스틸레전드 WiFi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "B850 Steel Legend WiFi",
+    "series": "Steel Legend",
+    "released_on": "2025-01-15",
+    "summary": "AM5 소켓 B850 칩셋의 ATX 메인보드 (흰색 디자인, DDR5, 무선랜, M.2 4개)",
+    "description": "PCIe 5.0 그래픽 슬롯까지 갖춘 메인스트림 보드로 라이젠 9000 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD B850"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 286200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 286180,
+          "title": "ASRock B850 스틸레전드 WiFi 디앤디컴",
+          "url": "https://cr.shopping.naver.com/adcr?x=NqkoUIjsAaTuM%2BYk3jilAv%2F%2F%2Fw%3D%3Dseaz1taeuebp84lTjQXzu3tDlZXh1enUt%2FIQmz%2FDOuL9cgHYBwnjJiurwLaGyLl08QpD%2FSibLwJLzJy%2B5YUkFrBwsP%2FjcaCANjhwbAZf91r9SznK%2FSZDVIA3tO3JYiIfl7ltceP4rKyVeeuRQxs4IXbubBoRT5gMp9yzRdcUJ6bQnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskdMQTSKQ5agYHk7YWZd65DRMNC1cKFxCylGo%2F7qiU7zv76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFtw%2FxhWLOzVOefuiOYPXy7EU3UElIYaeRrlhSmRNsiODuJhnCzOeaURUgbE5yZgMoR281xlusBE4FdrQBJ1GYwodJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FE0l76v6l06rOoKWNUTB7A9mVuOxVXFLwxDSNh7iG1T%2BnvstDZNXinLQYp%2BTjqzy%2FStpQNmaEWtcVKXWjZw0jtR6nhHcSUjxWWRPsR7Biakp1YPMvfx%2F0WuACeY5S33qxqJa7gqku6HCCi4HsJW%2BgiZ8ONIISTWe5T2uqxqyKz8IOzndoiC9hZKHQ6qGgnEDHKHlxcmDNShBG8SpC5CCGY4rUrJa%2BU9cEGoQlRkOQkf55Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=88908646807&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASRock B850 스틸레전드 WiFi",
+    "image": {
+      "file": "asrock-b850-steel-legend-wifi.webp",
+      "source_url": "https://www.asrock.com/mb/AMD/B850%20Steel%20Legend%20WiFi/index.asp"
+    }
+  },
+  {
+    "name": "TUF Gaming X870-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING X870-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870 칩셋의 ATX 메인보드 (USB4 기본, DDR5, Wi-Fi 7, M.2 4개)",
+    "description": "USB4 와 PCIe 5.0 을 기본으로 갖춘 상급 AM5 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 318600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 318640,
+          "title": "ASUS TUF 게이밍 X870PLUS WiFi AMD AM5 X870 ATX 마더보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=MsQewg6debdQEEnrNhWesP%2F%2F%2Fw%3D%3DsJsal%2BjbYyILhjCguKwyT5jKLNZingAc0YWZ%2FW7Vm0sgFhqkDhYjYA40IN2TEUCnwtGP3onjmsW9SsVUJTSPx2AVZ4US57N%2Bh9ijynv9l7QjMqKT8GWPqbkjzeX7LxrYs%2F4hgUFue%2BW0hXoREOfww8QslauLKSXBMrLvb3Pk5cciGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSPgb0dn9%2FaDB7%2BqwhMKXczsaNvur0NK5wqUcxFDQqFfNW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJA%2F%2BL1w%2Bs0kY%2BlahR%2FI6GifiEz0%2FVfqKbgfBB2ocEOYxv1%2F1Oy2wGa91FFG%2BlL%2FdaR281xlusBE4FdrQBJ1GYwodJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FEl0PEVnlG%2FrucY6sUSi8WhmVuOxVXFLwxDSNh7iG1T%2BH6IUp5QMIgOXVBZtZK%2FB4%2Bu5tacxn8p2EtzzqeGhQ5gm8F2pyaW5VXi3SEUkZAUJ0b5YGTt5KupVFnUGsTMlenqRrzZYPtj9pjy%2Brstljo1WP6jhYRwkafnIvLlsBWwbLNJrkvangcL749DcVHhYerjNit%2BJd0%2B07PK%2B2O9gEq%2Fdby5%2BBDTqH4qhFA%2F6KVl%2Bf7YlD1mLuOLySSU6AKYehldznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=90929861790&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming X870-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-gaming-x870-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/2f4080b0-9c80-4e05-8267-64052d58773f/"
+    }
+  },
+  {
+    "name": "MAG X870 토마호크 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG X870 TOMAHAWK WIFI",
+    "series": "MAG",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870 칩셋의 ATX 메인보드 (5G 유선랜, DDR5, 무선랜, M.2 4개)",
+    "description": "USB4 와 PCIe 5.0 을 기본으로 갖춘 상급 AM5 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 360300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 360320,
+          "title": "MSI MAG X870 토마호크 WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=coQyLb9c9O8Y2cjuxA2Ej%2F%2F%2F%2Fw%3D%3Ds%2Fe41fcjID8YTcfH0ISBfOR31DRw2z4ipcOeWWSHrimkt41cUZE%2BPcEZ2tskF6j903K4tNTusmgrNOR3P1ilVUp7tGiENRBlMIuk4O%2FkXMmMUgcRuTztOcRSdxwvTdK%2Bpyje5eqQ11nuMz5PI9GVcpjpe%2BKBS1BlaDPp4tTagufbchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAR196AzI%2Ficf0PRX5cv9vOQbz4HweEm7msi4QWl5GHXPoGI731f5DJDfBbogrlE6r2RsVVcOj%2BLKPTc6uo8W%2FKgcijbtZUUrZ%2FcBAVNLtlHGYj%2Bw15MRRa7aPlUS8RTXv4MtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnpzLZ6IMClmEIGTlgmUvJ75FY0AqSJOZMeLCVtoa0X5yunuWBLSevXP1EsP3b0aQCB%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgAVeud7%2FTyFH%2BRWkmq193o%2Bc1bTrJnLPXVzB0N8bmS2nMWTFuJU1V4RKSaWp783ZKRoBNYlQF8xduSbmFx4Yd7QZufkLOq9LlOZpZRNJgSjecf05v3JDFW7M%2F5GiK3bEnZycX5KP11pvFjITwsao311DaEM2wB2u6ExcQBrvAOT551KU85kE3pXnhNMvq7%2FMWwASuJKQkeAnx99APAGDzdwWdkrSLtyjNw0fkuJQSGYsVaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=59660789134&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MAG X870 토마호크 WIFI",
+    "image": {
+      "file": "msi-mag-x870-tomahawk-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MAG-X870-TOMAHAWK-WIFI"
+    }
+  },
+  {
+    "name": "X870 AORUS ELITE WIFI7",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "X870 AORUS ELITE WIFI7",
+    "series": "AORUS",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870 칩셋의 ATX 메인보드 (M.2 4개, DDR5, Wi-Fi 7, M.2 4개)",
+    "description": "USB4 와 PCIe 5.0 을 기본으로 갖춘 상급 AM5 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 330300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 330257,
+          "title": "기가바이트 X870 AORUS ELITE WIFI7 ICE  제이씨현",
+          "url": "https://cr.shopping.naver.com/adcr?x=K0MGGt10OvG3h9zh7vc6fv%2F%2F%2Fw%3D%3DsE90fZkJ6mvoiVfMwABTu3l5dxOHEC97PYLeS3%2Fy4vA2VKU0Nxzni2frBbkyjbj%2F1Pp3Gpm3yff4s0hE1Ebl0P5ltFWBl3p2ZSrZAB11J556OUgrcVyxuJoPPpbjlT5EWkH7QCh0AH9A2PNnBt2nByAQvUMc2zbDFyEmREk9lpznaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUTaFD8ag31nqu9HHM6QP576FO%2FlWP9STWlVfYE4Dsx%2BTNm6hfS8iO2KsoaPs5tG5lpfQ1M%2FjHtBNaSac56RVJ17DOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8qHrVdJc3Z9x8hQWV%2FE0gRH4xCNKxHf6ChtQcm6Q0pdPCAcMbjjgPp5rQo1j5jPnTg%2BZOA5x0q2tRvmIL6oXziehqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY53k%2FlXISjtyBzLQ9RAcqcXHpjtQLwczWu8XJNOpGWDSj93zWx6gEWcB5lp4ZNd8nmOistnDNzxRjVB63%2BGujvbPtSgxaIkRwKRprj8YHoJxnlxJgp%2Byp%2BFh7d%2FKQfbYqCaR21CVw7s01OTO9epMmo%2BNGO6VRZzUj2XzEhWjQRhN4cjeRAv12jRsVpTRRQGjxKv4YGjJCSIW1IvBxXT1wG91Tbvotn2bMqCikvvRUeT54S0H5TtaV7tpaZDI5yWL%2BlDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=59285028908&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE X870 AORUS ELITE WIFI7",
+    "image": {
+      "file": "gigabyte-x870-aorus-elite-wifi7.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/e7990410d05341c23edea622a05fa58d/ProductRemoveBg/42383"
+    }
+  },
+  {
+    "name": "X870 EAGLE WIFI7",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "X870 EAGLE WIFI7",
+    "series": "EAGLE",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870 칩셋의 ATX 메인보드 (X870 실속형, DDR5, Wi-Fi 7, M.2 3개)",
+    "description": "USB4 와 PCIe 5.0 을 기본으로 갖춘 상급 AM5 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 287400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 287370,
+          "title": "기가바이트 X870 EAGLE WIFI7  피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=SU%2BlP7oVRyXtea2clfX%2BAf%2F%2F%2Fw%3D%3DsCH3z%2F5aM619ur48h4dEZFsudd%2FhLf%2BC8AxbTrMqbsBKNQTgZJghBsakJuE1BGvlzf0o9dhC%2FyvdLJM%2BQaVgmovh93iWXdKcDwaJOtMahGs62nWb5QfXjqdTA4dZLDimjx%2F9skFuGHd5ytee9b2u02ulJtfWDd%2F3ybC2lQTZ063Tffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oyxK3uDNEnbB9JhrR%2FN7BSTWANNFyXIa%2FnJgweqS1z8nVY3dg6wfD0CTTEC9u7Wa4Dg5k%2B2W8EImGb5FRugJtuufvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4U9b9aGzCz6aopnJILC3Fv%2FFBofVhsgzMkwrllnFLywEzokh7KNEkkbwBBKOUFOEEpHbzXGW6wETgV2tAEnUZjCh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8ITyw%2BJDiTJph6R8ew%2FAWEyytMuqNnc9UTwh8Vm2gowlQ1Y2wstSH11wbghnCrornat6sale4K4PKS%2BFAuRZswaCqfkJc3OemNaNAgcTV7qY%2FBxNu0lrbAGjU0DLy2hTI8CkeBL1emHsvpUfOhouKYk%2Fg8w8cKe509NmMZFQPeJRGdGb7gROPoS2VpIBO6L%2B8G%2BQIS9CITp6VqkK3O3xYh8sTe7KMH92wbM0zhTUMbwkNUJgJp6CUXauCvW7Y5AjN&nvMid=60014096391&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE X870 EAGLE WIFI7",
+    "image": {
+      "file": "gigabyte-x870-eagle-wifi7.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/d893116db0e810d548b322898f5f340a/ProductRemoveBg/46095"
+    }
+  },
+  {
+    "name": "X870 Pro RS WiFi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "X870 Pro RS WiFi",
+    "series": "Pro",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870 칩셋의 ATX 메인보드 (X870 가성비, DDR5, 무선랜, M.2 3개)",
+    "description": "USB4 와 PCIe 5.0 을 기본으로 갖춘 상급 AM5 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 325000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 325050,
+          "title": "애즈락 X870 Pro RS WiFi  에즈윈",
+          "url": "https://cr.shopping.naver.com/adcr?x=d6lwUoqjbDwTFkXIkCuVaP%2F%2F%2Fw%3D%3DsNHpRiJLmgOcnemiaopbIRQF35qo43wiCkISvK2bWPCBwaoGeBxmmTmaT4cx44A%2FbbJhs8XqkPTv0uxg%2FvJYtFc4va2utUJ0snt5pIdehFskNN3zcprB3HqsIYxHbs%2FLStf8x6JzPEK44iC2F1pr4VmtNv2mlSJa7kKtjMVeHbo254J8UO7LDGXdPU9Do8oyMm2FO7M3BbMZ8RqouPQRREjdmjC5yoel91gR83HWqLfAZnbSHCBGSoj0%2BZnDPSHuXvpN7ckcpN78ViiNns0be9PPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SkzSYDYlbl2pHwDmSS1K%2BKnbSaYUAR5OgK45HyKFf50r%2BwJ1RNVZxYuv%2BhaFGg7PHuAXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUV62n%2Fo7RG1B%2FBnAyqafsFs9nUfun8a4hdN6lKg5ulTswAco8A2Ia7UL3fC5rVO2%2BZfPlDA%2Fw9Xtby9rrNUDmIf30bNMMxR83N0jv7JlMtLZcoYPwRwuUpC%2BKCOUm3E7%2F8GZhTSRnTxpp4SzKDXIgBryLUoKA3QMiw1kWA0TRoAmhLPHBVE1X9hF6ZkrnPWwIQ5Y5VxSex4ihxLFmWhozYijRTAa%2BBfYSeV%2BsR8fgdizstVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=59969532433&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASRock X870 Pro RS WiFi",
+    "image": {
+      "file": "asrock-x870-pro-rs-wifi.webp",
+      "source_url": "https://www.asrock.com/mb/AMD/X870%20Pro%20RS%20WiFi/index.asp"
+    }
+  },
+  {
+    "name": "ROG CROSSHAIR X870E HERO",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG CROSSHAIR X870E HERO",
+    "series": "ROG CROSSHAIR",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (하이엔드 오버클럭, DDR5, Wi-Fi 7, M.2 5개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "5개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 5,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 925000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 925000,
+          "title": "ASUS ROG CROSSHAIR X870E HERO 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=xyN%2FYmcjm%2BWYq17M09bVDP%2F%2F%2Fw%3D%3Ds7dC3QZmzPtd6CxcCcXlXS1kIYJmnqex4ci3kjJtFEiKaEpxXoV24T9teHLWoDMLTHwFGiVzlqeI811lyPlIW%2FuyJF2m8H58UQ%2BXsleNw3xtZHZMjIBom3vRZxa75VvbsnA97NNJCqCX1kFiiEcYOmnlGOdetB53jCSzX3du5%2BpbaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUVivO7SHbeYec65RJbvJJIeY9P%2Fc78%2FoObGDABAPMpIpQ%2Bt%2BtvvnI65ay4zIi%2B0o3Sc6fKpSmHhtA7iQbWyiUoDzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpXkAHA5xTRLvKG3FCIub%2FkkV01upKJ%2B43NyWMCgb5wHbTJz7LBLMYi5eBGoucShtqFnYtFQW4LI3SGrRZ7IqboIGO1gnf8PsGryOnqMFIyCJysDD1ikffmFhL4zWwWCV8OpxsV12QGUhogwTpzRv13fbihfYfxV0w4MvIjL%2FV7CFND7bO4ojDNe0KSiQZP8tD2e4r5T3brWtfZP7WRK6dQOayzcW%2BxVwaa%2FB5qYGJfUD%2B6gpwNvOJYBrT65jaKz4krJK4b6yCGw3CLmu8OBfgml90dPReDsDmE%2FdOVVyhX%2F3C0hiHfmfzmAI0X1cC502K9KmPva7npcJYINAC3uvHOOLeHEdtqwQaglG%2Fb7faJpToS2unw3GHyRDQFVkRZguvBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=59747209771&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG CROSSHAIR X870E HERO",
+    "image": {
+      "file": "asus-rog-crosshair-x870e-hero.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/CB19300C-299E-4EEC-B3F1-8F3BEF6ECD48"
+    }
+  },
+  {
+    "name": "ROG STRIX X870E-E GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX X870E-E GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (M.2 5개, DDR5, Wi-Fi 7, M.2 5개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "5개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 5,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 546800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 546770,
+          "title": "ASUS ROG STRIX X870E-H GAMING WIFI7 STCOM",
+          "url": "https://cr.shopping.naver.com/adcr?x=Mc65TTKAaPUU%2F6QrXiNGVf%2F%2F%2Fw%3D%3DsYOwuOqv9rb5TbmQZSyzLy5mB1LvPkJ6Lcft14%2FwMtQY1s3dS5NaE6YKivfKdN9fX1eZ8A773FQeLjhW%2BH1muqC89evsAbqvKabc4wHSE2qC%2F%2FjHMK%2B0WoqaNzArO236%2FBq6zZaPhlJU0syRcsIHzybFwaL2QsXzkyK4JzYrWi4dnnVvjMgiHMjbFhm4v1%2F1AP2tfKoQ0NQPyiad34AQ6K40j8SyNMWvWWcptjWAgNPKm8OMea%2FKg5ru4OcjeKvmtWoSqYlCZJJ8mjvEvLs%2BwRLNiP4KW3IfrTjdvaWjRlTS43KzTxm5APKdwQv5B7%2Bb7xBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FVSj%2FaIqOvoHAEY6RNZbb38hIW%2Fufm4Ai1g%2Bbn5o8FWgi5vpyTQho4WNJ4luV%2BGTcS6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2Z%2BAswj2S86TMLj0zKhWcckaVmzEAztjnMvG5Prw2Tb8SPJlMFXsy1M9EuBy4ieJdKVWElqqM5ywfJdml8SrmAtgpXiDMs08qt16NbqCvzF7mM49RNDd%2BmMVmIkesK6j5X%2BIy%2BAWauDFHCcVSGmakqQud1jbFglnznAvaLV8JmNu4pwGylWYDb9TAw3KMFgso137%2BKWJMFenuTz8OqHtJ%2FQDxrSSFO%2FPBO2fy5%2FdPK3Omnr1ALJLpDdK0Wtp7R%2FggT0HQIiXcF4qwUXZ2sX76wW8%3D&nvMid=60039991461&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX X870E-E GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-x870e-e-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/C2A10896-76C0-4772-9A3A-69D7B0C00441"
+    }
+  },
+  {
+    "name": "MPG X870E 카본 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MPG X870E CARBON WIFI",
+    "series": "MPG",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (5G 유선랜, DDR5, 무선랜, M.2 4개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 675500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 675470,
+          "title": "MSI MPG X870E 카본 맥스 WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=7vp%2BkiI7ruI2sOUDCcSVSP%2F%2F%2Fw%3D%3DsLrn5jMTBSi%2FK%2BAAXbjrXlOSqW5hktXz40YpsFtizocQz4tbxGLGkr2jdWgikwuUsvjT1PBRiO0%2BscknXkbwnAmPXUzWSbTPX1mV60jt8zt86qBtyP%2BqKBGC%2FQ6vZbWO91Eu56oJ8k6YK9fYv6ia0%2BsnJySJ1RV7uBgvO%2F83Ohrnffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy%2B6OiVh5cOC30oIW0Mm%2BJIYQQDFgqqKdCyZVCC8gHwxaBE1q4H7yE6YsK3TkzVoTvp4RyduLC5ys%2BkB4qxxNQHOn%2BQeZKSnqk%2FJ8GYvb8aHDW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJxjRLwlArpGwD%2FlepJfLVpz5jwbwqOx5DmQHdjJeq4b71QQzCLreNp8sjPDBjStixyWW4f8WMbUyxn5lEB43DXs0GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtgzTgFwF6SMnCBa2L7wvQjgXbJ1UqsFlQPaH6TwSNJSnuvs7juqwqts%2Fh5j4Ws15m1a59XthZp6rpknevw19B1zinQm2MTwi4muDvBexcICVyhX7DN8yZdcf3l7XovETOQkslVHLRmFu36FeiMx3K7gq8yRrN7hC33JHx24u4%2ByZ%2FKmgoy4AkqNNokqilLY1oEaThcwm2jOjlPe7qD4n46zIo7GK7aJQJM7SFMocXGTc%2BaXJqKjsPzYQaAJt9Iv8zzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=61980860817&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MPG X870E 카본 WIFI",
+    "image": {
+      "file": "msi-mpg-x870e-carbon-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-WIFI"
+    }
+  },
+  {
+    "name": "X870E Taichi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "X870E Taichi",
+    "series": "Taichi",
+    "released_on": "2024-09-30",
+    "summary": "AM5 소켓 X870E 칩셋의 E-ATX 메인보드 (플래그십, DDR5, 무선랜, M.2 4개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다. E-ATX 규격이라 큰 케이스가 필요합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "E-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "E-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 797500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 797510,
+          "title": "애즈락 X870E Taichi 디앤디컴, 화이트",
+          "url": "https://cr.shopping.naver.com/adcr?x=LlUhwzRTHKK8MjaJPv9Vef%2F%2F%2Fw%3D%3DsB71QtRfDZdlcb2dxfJI0gGQ%2FwHTWTq1LSdIdJDOvEUYlWLrkx9mVDn32ialmdNpAfW2Kj5SWVlkJNHJGDeYhrdyDkUYR1YzrZvehrrXZp4qg%2F7pC94RKxcZv9gdZ%2BVHUneLpO3wivD54yUUEFV57oh4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQno8Pzk7SDeNhQ7flitFjBUle6gfUfsyVVTOepvj5gs86200r%2FPhhTaB%2Bguvc9Gf3KZ4wsQWSnBz7aNOqzAk36y%2B%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhSe%2BwWnuWri%2BrdilaYJI6sCJlqYDewb2r9M5Nk%2BjvX07ZCKbS5IZXjkbKBm9wVCukD4K7Ia27GUzVXYD%2BV6Kaz4K28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi4V%2FYT4G9zAT2h5iLpI1IRwgkLGAzMmgOg2Xv7sz9MuOZngmZPES4t39JZNuOOvvqP0IhA0wlLPcTOvFLbBkEP6srsHPYKtP84MjllFSVgpSU3lcaaQrwF8WPmDV5iE1tj65gIWBIZCVkiZ%2FCIMQBId9K%2BXVcOJNrk%2BuzmMUYHaeI6%2F74bs%2FzNmznhIO5N5zjXSqXLA36nHX662Jy39BGDnG6DZ4rud3Yn9FPsn%2FnG7cstVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=61502956486&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "ASRock X870E Taichi",
+    "image": {
+      "file": "asrock-x870e-taichi.webp",
+      "source_url": "https://www.asrock.com/mb/AMD/X870E%20Taichi/index.asp"
+    }
+  },
+  {
+    "name": "X870E AORUS PRO X3D ICE",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "X870E AORUS PRO X3D ICE",
+    "series": "AORUS",
+    "released_on": "2025-09-17",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (X3D 튜닝 기능을 갖춘 흰색 모델, DDR5, Wi-Fi 7, M.2 4개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 617000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 617000,
+          "title": "GIGABYTE X870E AORUS PRO X3D ICE 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2FlptvP8QaqspHkGKPzxhAP%2F%2F%2Fw%3D%3Ds5u36RFdyBnK26LQVqScRFRR0qIYp%2FsnP9zIuNvcV1pl%2FtVowZdAMaw9psYCOeIYvEgUaD8hqB5aGPhYpXiuhBQfUlY%2BSLZIhLRuxwSNoL7i63PxF%2FGRBNyWmCeOv0zC2PKHPBiUyxHRd662WUpTuh0JEQ1fiTxnhP56Hd8rid1YnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskUjGnfPZ%2BK7DygFCTxWFBM%2BdV5d16IQKzxQjnM5%2B59Ms76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFl%2Fmm%2BQrk1gcy8SwQPgmQUR3U8hHcOjgwABaPYRdqKOKvGfcWCgHnl7rBsTIEcSdER281xlusBE4FdrQBJ1GYwodJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FI4m2MRTvYHUDYE8%2BoY9b0NmVuOxVXFLwxDSNh7iG1T%2BTblRy4v6bYEfAiFvc0ajY7lLY9XnfVMfX2FyITt70BOD1gHytJOAsMQ4pXWTJo3vICqcQvn2sUtUHbRZpHO8MS0YPpoBOlMOS%2Fglz10EtDTE4YRX0k5xpeDoJzRW7HBgKgDts8nv2lKveQ%2BmYOwwm7Lr%2BPcV2YF52as00MTSLpD9p6%2FRcaswfCwPaWcPQT0KA35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=90035862139&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE X870E AORUS PRO X3D ICE",
+    "image": {
+      "file": "gigabyte-x870e-aorus-pro-x3d-ice.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/a5bc91e2d7964de1e1ca2c321cda35de/ProductRemoveBg/46687"
+    }
+  },
+  {
+    "name": "X870E AORUS MASTER X3D ICE",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "X870E AORUS MASTER X3D ICE",
+    "series": "AORUS",
+    "released_on": "2025-09-17",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (10G 유선랜, DDR5, Wi-Fi 7, M.2 5개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "5개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 5,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 788300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 788290,
+          "title": "기가바이트 X870E AORUS MASTER X3D ICE 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=fEySqFCGF8xeRPtpjBjf7v%2F%2F%2Fw%3D%3DsnYLmcZUvueLAJ0ooKlijIJhxN7zFC288wTH%2FD0B77p1%2FtVowZdAMaw9psYCOeIYv02swRPWKiediROvO4zZTbtxGFY3xQ%2FC4kpkSGR4cjQLXO7T0BbW%2BG9o5yqhzpDnpZPBZShtuwGDt0dHaxiwkho6xWm%2FbjD8PEnEp5J6eB%2FgeKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ4XI9hAUlK0dDYj4PbBFHt%2B%2F7kNVcYbSdxJH7sbi9L%2B3jHrK5KqMSf29hdrLJv0ksax9ktShFnTpGCeo8xAESX1KyKmjU0xkWeRiPcqa63%2FIxBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FS8pqrY738s1XVLJEbsDhSOzaLo3YojXuQJMvdaZ%2BI%2FyYif3i%2FdGRH4Fcw1xQzyCtKVOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MIlPCom1Q8KUjqDYdn5jSzQ9YKCTNZlann9N9zg9C%2BSi%2BtnIgYrGh4gBbEg%2FL5am4uvD4E7zyDBJ6sXOqPuTIMqURfSKLB4er8hs11EGjmP9lMnf9zf4ZYksYOcGGrEotf%2B%2B7CZL42lBy9r45pGAlI49YxpBzNoz2YQ7nUYhZngcAYTYOqTv%2FsOm0kcFv3bjpKkulbovb9HMQZ2rLPtLEzgP6xmhgHA1pta%2F40t%2BaVsfA35CyMrpXQUt3%2FJvHupy5s1ITc7NlRPvorKrNyQBKaY%3D&nvMid=61528127227&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE X870E AORUS MASTER X3D ICE",
+    "image": {
+      "file": "gigabyte-x870e-aorus-master-x3d-ice.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/2d028217a64bee3686e1148da5e3d6ae/ProductRemoveBg/46588"
+    }
+  },
+  {
+    "name": "MPG X870E 카본 맥스 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MPG X870E CARBON MAX WIFI",
+    "series": "MPG",
+    "released_on": "2026-04-17",
+    "summary": "AM5 소켓 X870E 칩셋의 ATX 메인보드 (2026년 리프레시 모델, DDR5, 무선랜, M.2 4개)",
+    "description": "라이젠 9000 최상위 CPU 와 여러 개의 NVMe SSD 를 쓰는 하이엔드 PC 에 맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "AM5"
+      },
+      {
+        "label": "칩셋",
+        "value": "AMD X870E"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 675500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 675470,
+          "title": "MSI MPG X870E 카본 맥스 WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=cz0ZF9eSpzNSdfaKoJ1Ku%2F%2F%2F%2Fw%3D%3Ds5Nb1swkSowYYmF3pWwG6HzeuJvxTwGdERiRAABoBp51iCYfxxy2Z0nRhcONj8IGO1W0DxV0xVGunpiLkV%2FjJRGsTJqBpwQ3UMv81OF2icvMo31uwL8DwspOYrn3S6lSZdA3vTaErWRnq0BsNHmyDL6NOpLV8%2BtMw8S7kyQdB8SpIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFEKB86VatHoPVqiLZnlNwu5opiOb%2BRBLLoD1c%2Bes6d5WDsEWxaSFGwOzGCLr1VOo%2Bf5KfGtcmdQti2E3h75CB%2FNkMMrGBJWO6%2FRMxNcD1QeqNL7W2x69ZMxcwQM8nyGy3MQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F0f3OqQ1XnvuhkTMoczOyOCFY0AqSJOZMeLCVtoa0X5yunuWBLSevXP1EsP3b0aQCB%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgBUjtEqVqWK4HxqtvuWcz9pc1bTrJnLPXVzB0N8bmS2nMWTFuJU1V4RKSaWp783ZKTGovviodHMIqtaq%2FBkOAfHrHSUqQBvzjym7xAuyLwF47wVrOV0QtnhKf%2FTqc8PnYne5lEKaMYyuLIQYy1iuPR%2BVbIieoHWODj0oABFfoK%2FKlE3riYGb0bxCu4GQsNwdPqSviMIgvzHZ2jvvc0DCm4m8colxkHSM88pSxy0hmd4bG9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=61980860817&catId=50003108"
+        }
+      ]
+    },
+    "search_query": "MSI MPG X870E 카본 맥스 WIFI",
+    "image": {
+      "file": "msi-mpg-x870e-carbon-max-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MPG-X870E-CARBON-MAX-WIFI"
+    }
+  },
+  {
+    "name": "PRIME H610M-E D4",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME H610M-E D4",
+    "series": "PRIME",
+    "released_on": "2022-01-04",
+    "summary": "LGA1700 소켓 H610 칩셋의 M-ATX 메인보드 (인텔 입문용, DDR4, M.2 2개)",
+    "description": "가격을 최소로 맞추는 사무용·입문용 인텔 PC 에 알맞은 보급형 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel H610"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 2슬롯, 최대 64GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "H610",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 2,
+      "max_memory_gb": 64,
+      "m2_slots": 2,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 109000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 109000,
+          "title": "ASUS PRIME H610M-E D4 코잇",
+          "url": "https://cr.shopping.naver.com/adcr?x=I%2FihfrcSsQhKsowCtUjrHv%2F%2F%2Fw%3D%3Ds%2FJ5KIqNkd7VqlehBGrg0KRI393iJqhWe9f2flUJQtKv%2BTQTMYlOWNyxNEdn5Hu1OLekJoR0Wl%2Beu4EzHeIk%2FFQyGFQLCyZUqUyPbOP00kn9kTrEfYGYg7f67K9VMh51umvwKRWmTMWshDCSk80DwCYkFMyK1hdAJSInmRb%2FS9GlVXemfpmeX70wC2wQT5nyiam%2F038%2Fw%2FOVdoGw19Sygac4fyekQjwM4f6nDrN4BU8cCDNTXipGZEtZ6vySG0emOfMFcQTqH57cFQHX%2BqE6DkD1gKwFhXnlloKqn3sd7CAEJX3zQbEtPNmTn1nx3uXvQw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6p5XqnDXeVOYDw9wN4Fe9e77pPdsO2laUIQ4dxtyds9romJlgpiZ%2FTrwWoZwHhWA16AXwThr673CyhkvrpUJmG9f6wahWAHZac4RSbRs9xGZseSUKxMWj%2BG2030hmbwMUVQxHtMq1cO0jWkuA9lCl5bhARFQxk2sQMa1cvOJPhd2gAco8A2Ia7UL3fC5rVO2%2Bb6etqDu%2BLEtJ184gdZjXBPPHYqGe%2BBnwotO6g4zC9j02bQ8rb6eYJ2JRbWMBLES%2FjbkPMlcsO8TS%2FfIJQTQPDgHaa70V2tB4qykZGa7YP5Yo6%2F74bs%2FzNmznhIO5N5zjUMoApYQIbdmQCCeBDV9VF2oiPRjosVe37GMFtQxPkCpoVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=60054126484&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME H610M-E D4",
+    "image": {
+      "file": "asus-prime-h610m-e-d4.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/9457bb86-f547-4ee6-8648-cba3963376b6/"
+    }
+  },
+  {
+    "name": "PRO H610M-G DDR4",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "PRO H610M-G DDR4",
+    "series": "PRO",
+    "released_on": "2022-01-04",
+    "summary": "LGA1700 소켓 H610 칩셋의 M-ATX 메인보드 (인텔 최저가형, DDR4, M.2 1개)",
+    "description": "가격을 최소로 맞추는 사무용·입문용 인텔 PC 에 알맞은 보급형 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel H610"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 2슬롯, 최대 64GB"
+      },
+      {
+        "label": "M.2",
+        "value": "1개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "H610",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 2,
+      "max_memory_gb": 64,
+      "m2_slots": 1,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 85900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 85920,
+          "title": "MSI PRO H610M-E DDR4 (인텔H610/M-ATX)",
+          "url": "https://cr.shopping.naver.com/adcr?x=E8ev5hgRs044oiAA5wYp6%2F%2F%2F%2Fw%3D%3DsJ0%2BRgAWpTnQRaL1v%2FSTYamJ3xDswe2MX9ymvzQtQOaxt2Jkkoneg4bZ%2FBuhPY8nNPsC%2B4tEZq8263lC3TIqmbot7fc3MgUyhQdOWDPL8rhCfQit%2FVfOoSYuIM96hSGsLBye76xVvoQ%2FDv8wbSIYGyjAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDuSUosaLtY802YpGY5twLnBRoe%2F445ovP1GCACkxXh7BGDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6%2FeF6G748mx9xll77ntIBloj3Zj5zJrJJKGQuuBybTesDiuBomcELivZ%2Fhu9Vw34ufl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AkOy3iVQMLgs5v4XMfuWQyHNW06yZyz11cwdDfG5ktpy4Vtpt7IbmgHqhk5DcH6OtrizlD6s6wzB%2F1tpaQtDVgDIhz201IP%2B6ah%2F7GS7jtBmmbIk8Dfr%2FzeRbZs9zdICwYXYZ%2FLXQcNRBIBW1HuPTBSmEzheSrB6vooBgHNaQHmer21J59KJmnjokpQSUexgtxAkYIKQKl7kJ3Q%2FEecmIHDWPBcPe%2BbT4hZsWudGdrmBoaKZHilHbuauHUigNM5KA&nvMid=91272166554&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "MSI PRO H610M-G DDR4",
+    "image": {
+      "file": "msi-pro-h610m-g-ddr4.webp",
+      "source_url": "https://www.msi.com/Motherboard/PRO-H610M-G-DDR4"
+    }
+  },
+  {
+    "name": "PRIME B760M-A D4",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME B760M-A D4",
+    "series": "PRIME",
+    "released_on": "2023-01-03",
+    "summary": "LGA1700 소켓 B760 칩셋의 M-ATX 메인보드 (DDR4 가성비, DDR4, M.2 2개)",
+    "description": "12~14세대 인텔 코어로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B760"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 120700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 120740,
+          "title": "ASUS PRIME B760M-K D4",
+          "url": "https://cr.shopping.naver.com/adcr?x=wElnhQ5K8qf2DinH%2BFzwjf%2F%2F%2Fw%3D%3Dsk%2FUS7DRD3wR0BMWsdAbJYx9PXjrpGTp4ZaZDBHSfLCYIhlVlT00ARBMlEzJmeLhJNYCVoRLGym%2FVHdDrx1SEpkVmVOMC5q6p%2FwvDWY3RhlfP8wgjVXt%2BT7c6lR68AFjGr%2BckPDk7jPlnou0JUVqQcf4aa%2Fv2S%2FC2g%2F0Rinj9vEq54J8UO7LDGXdPU9Do8oyMWU4YbSdXwftUN5osY4QngSoFMKdvQrO2%2FuGMx%2B3nCPAPT7MwBzGN8mtduxvOmO%2FXvMyBHehE09N1Aw5hlcz9%2FsQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F39DHLr7p2AtO93Xn3njvMUs2i6N2KI17kCTL3WmfiP8tJSmGumlT8Hrd7xir4K9gClTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDDh0Cnauw6i9qs4NsXbzLWO4ylxvrvFazI2BKyfFSlLw%2FrZyIGKxoeIAWxIPy%2BWpuIs28GKOfDIJiCZvkRf4TniJlNo1PQwF1CGb5T7DucHV1OdKHdMxQ3V0k1X1Ph1l%2FCr58uY2nAdfGroJVsb4zOKDzHXTcox8IHyknkLY%2BWf57%2BGBoyQkiFtSLwcV09cBvfdM%2FzytB9feC4wDv3FNwJxqZYccO4ChDeJcVqY2FAIqIKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=37257803620&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME B760M-A D4",
+    "image": {
+      "file": "asus-prime-b760m-a-d4.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/48925aaa-88fd-4f69-9e73-3598a9c6fb1b/"
+    }
+  },
+  {
+    "name": "PRIME B760M-A WIFI D4",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME B760M-A WIFI D4",
+    "series": "PRIME",
+    "released_on": "2023-01-03",
+    "summary": "LGA1700 소켓 B760 칩셋의 M-ATX 메인보드 (DDR4 무선랜 모델, DDR4, Wi-Fi 6, M.2 2개)",
+    "description": "12~14세대 인텔 코어로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B760"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 120700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 120740,
+          "title": "ASUS PRIME B760M-K D4",
+          "url": "https://cr.shopping.naver.com/adcr?x=N8fPKKOG9V6gFo%2BKJoE9jP%2F%2F%2Fw%3D%3DsZS1br0etgL0QQmG5qp2tFh9PXjrpGTp4ZaZDBHSfLCYIhlVlT00ARBMlEzJmeLhJhrtAgF8sc1YNYkArvz3tKtEFDAukBEMgsZZZTBTlTggkaBid0xBya%2BXrANx7%2FUqAlxOyvQKpU3d%2F5RbtV9Tm6FszoZYr2SMLgTCFzqjWUN9D4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhi0osXQpO88h2RHHXJdvjbUohCBgiRDjjDWy5Yjy4%2ByG5ADK33MPoaz%2Fh6q%2B%2BEoMBLdvvLFP%2BqcZkGglmSZ%2BnGwn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO70dbWo16o%2FA4dqi8tD26TpdRC%2BzwYer6Ps69Q2%2FK%2BLLHMUQyxveZLxND8zBc0tvqSBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopQpsaQwmMtdPO5A9kHto9pC2NGsVJEkgy5kggTAnCOVmOVtgZKSl0ZNloNatS7LnI%2FkwKXqeYIISq%2Fpk5AMCM0aiopQQGkTd2RrYVtnHQ58gZ0If3tI1V7jpxqvXb3IWb%2FyElLtCfwiwrBjvsZm8QBMLSGId%2BZ%2FOYAjRfVwLnTYrYAoLvEx%2BiBEyPSEfiSCl3pTYhuxf6daLr6n4u9boxBGFR4PvKHj1XbzJBXK1HAswGruH08DlKshetxY8KUEZb&nvMid=37257803620&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME B760M-A WIFI D4",
+    "image": {
+      "file": "asus-prime-b760m-a-wifi-d4.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/43e9c0fd-f9b4-4e45-9bdf-f14495af40b7/"
+    }
+  },
+  {
+    "name": "TUF Gaming B760M-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING B760M-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2023-01-03",
+    "summary": "LGA1700 소켓 B760 칩셋의 M-ATX 메인보드 (DDR5 지원, DDR5, Wi-Fi 6, M.2 2개)",
+    "description": "12~14세대 인텔 코어로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B760"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 2,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 190800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 190800,
+          "title": "ASUS TUF Gaming B760M-PLUS WIFI 코잇",
+          "url": "https://cr.shopping.naver.com/adcr?x=3uyV2nNqKKlolNyvMvm7vP%2F%2F%2Fw%3D%3DscAs5oEz6yzEWAcu4h7fomeWutXw8xB1T2xnmGjnjhD0FhqkDhYjYA40IN2TEUCnwl6thX1lOukPUZA2fHOSIrGYB4fG13kK5h8KnHqERVjfQ%2BgHWvYQgtZe11x9uSuEASptVn9pl%2Fng2Pnpf8ztyNuUlAKMFtYx5G9XEAYcdh5LaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUWzkzOQyJ19%2FkczMCAVPc80Z5sR2qi5rICrHKcEODEimvJADWUCEWNHmzZVCMQfznvjxnZ%2BI3JFErd3Se4lrXX3DOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8jkzvR5QgI%2Fvo2Tpc4CMqGcspZxJm%2F1YJYlZai3N7G1XCAcMbjjgPp5rQo1j5jPnTWLmfB7rsyZLvRySNSY1dQ%2BhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5BzipBTRJYUeh46d5ZCzKYkLRCwWU4jNQptaf4Ku0HqH93zWx6gEWcB5lp4ZNd8nmz0gAdtVK7YaHU1lt3ANk3tzuT%2FdOQkcnb2zOXbZhn7E9V73SrW8beNhXdFM%2Fbbk85KfW8lGoiiJgNmTwF6a%2BAi5BEtIMZQB6vKZxR12CEDN6QInPyijImsBLGSgsEAg5iA3%2FU2AzguC84AnoS7Lq%2BTJJ4FhPR%2Br2qN%2FSzXYKlAMSJofFEf7MoBbjjD8x%2F66a5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=40326131618&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming B760M-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-gaming-b760m-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/f1de03d4-8d12-4004-9f81-6d12825e1450/"
+    }
+  },
+  {
+    "name": "B760M DS3H D4",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "B760M DS3H DDR4",
+    "series": "UD",
+    "released_on": "2023-01-03",
+    "summary": "LGA1700 소켓 B760 칩셋의 M-ATX 메인보드 (DDR4 실속형, DDR4, M.2 2개)",
+    "description": "12~14세대 인텔 코어로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다. DDR4 메모리를 쓰므로 기존 메모리를 다시 쓰기 좋지만 DDR5 와는 호환되지 않습니다. 무선랜이 없어 유선 랜을 쓰거나 무선랜 카드를 따로 달아야 합니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B760"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR4 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "2개"
+      },
+      {
+        "label": "무선",
+        "value": "없음"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 4.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 2,
+      "wifi": false,
+      "pcie_gen": 4
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 122500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 122480,
+          "title": "기가바이트 B760M DS3H D4 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=CQHWbjmCTd4dDkgeOvKY%2Bf%2F%2F%2Fw%3D%3Ds3N62%2FNjyPIyPhiezgoRftLG%2FvULAHFaqEtjnwiI0E3JFZ2jTeca%2F0jhc3iuRdRQ%2BahYXUCpJoFZE9tpJRv53xOSZG6wlrRqnjfnL4sTZVyulj1PZsnd%2F5vHvC9BdzWBpCu31GitqhZyySUNmc5nuH0eJcUmqysBdh24t0UbvCtKAbCY81f975eS5nfR25FBi0AouHxJYr0ktwaJpy92ND4c3DcF7YgJCOQVhLrVoWSBHLZEhZvsVSTqjV8jKb96vk%2BKsnAmsAEwnG%2B2KVDdeSj1gKwFhXnlloKqn3sd7CAEJX3zQbEtPNmTn1nx3uXvQw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6paxARiSokQWq8x4fKkfuFlPWdEnjKhDUHJeBldgXhqxUALzSc6LszAH0pCdAy0hw%2BGNyOqIahPEqp3lSsWBuu1%2FlAH%2BEc%2BV7qDBpygIMoYzgqWd5%2BUY5g3Bys6DRcGzY9ORFkjER649BHbzttfbCH8lAkCjkXdjDjtpnNx%2FPE162nt8%2FOa66fhFPfK1NqTT5WHRPVuCDPRpckkdv%2BXQpMU67Cpm8jFVThiZVDeh5dZPunsPpwExrISRpTUXZ5xSqDrNtRp1%2FaJz0zVRbbhDrLAizBba%2B%2FUN534FhJhnAMP31bUiTSKSwwdQz78F9452jIvCJIBkyOMDOipJiNBNFOQLKtZGariH9eYzauTl4BLKkHQIiXcF4qwUXZ2sX76wW8%3D&nvMid=58812124339&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE B760M DS3H D4",
+    "image": {
+      "file": "gigabyte-b760m-ds3h-ddr4.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-DDR4-rev-10"
+    }
+  },
+  {
+    "name": "Z790 AORUS ELITE AX",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "Z790 AORUS ELITE AX",
+    "series": "AORUS",
+    "released_on": "2022-10-20",
+    "summary": "LGA1700 소켓 Z790 칩셋의 ATX 메인보드 (M.2 4개, DDR5, Wi-Fi 6E, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1700 상급 보드입니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z790"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 322700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 322720,
+          "title": "GIGABYTE Z790 AORUS Elite AX 게이밍 마더보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=MwKE0UxtZzP9dMy5Uww3u%2F%2F%2F%2Fw%3D%3Ds9ng1VHbqpdKhXtnANyHsQhd%2BsERgF3TjVXmNF0Ih6SyLvP600fNPJ3l%2BeZY72XTPuhmy1YWE3ezagnL8mtJXkDwMQFDVfbKcq3hJvZBebx5VhejtwNijysZKiq%2FbIe4nVD25wHNN8ByT%2Bhyo23zSkprf68hGSET6W9yRQv8cn4qLdmQNBaVQpng7q5GBeXJsK7AfS0VK4mOKbSwt0TgkLqyLxQAd8S7ucWgI5nzS2Qb5DQZTxoykm5r8H6gNl2K9H1PHvNeCNXP%2BQt7m6VTQzBZo%2B44LPwJpfdw%2BR4YX6hCFGSVxFJ%2FpD0iWONDHwzH8fixgQoZAZewjbdLhZ3rBnSVdN3LpKf%2FbKuiZi7z1XJTxi%2BiN9bRadq0t8wElf0qIeoZXS1Qb2%2BsNBhnBCQ%2BEb8IBwxuOOA%2BnmtCjWPmM%2BdNYuZ8HuuzJku9HJI1JjV1D6GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjmj3MbnTBev%2BDhBgIwIQbrVy7WC9VfqDkOshOL2O0FaekYNU1LFfLWSjjH%2FbZdLvj%2FU0%2BljjjwP3H5ytTl%2BBVr0fEiSzcKRp26g%2FoxwU87lwmNpWQJ95ntY4if4qSBIcn1YF6Xog3ab%2Fr%2BzUY00BLJVv6dGsHdq7KSGqym03Cg3hUeqQ4ds4Zo1gB02W4mJEJlIILpiJIvbkDFwBcMcN24rM3coN9Ge4n3OWhHo41tIT0X50miLOvFW0ZtpYc9ERq8dHI8FZtQVGFZJxOyBDKc%2B&nvMid=60823207683&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE Z790 AORUS ELITE AX",
+    "image": {
+      "file": "gigabyte-z790-aorus-elite-ax.webp",
+      "source_url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-rev-10"
+    }
+  },
+  {
+    "name": "TUF Gaming Z790-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING Z790-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2022-10-20",
+    "summary": "LGA1700 소켓 Z790 칩셋의 ATX 메인보드 (튼튼한 전원부, DDR5, Wi-Fi 6E, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1700 상급 보드입니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z790"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 325200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 325200,
+          "title": "ASUS TUF 게이밍 Z790Plus WiFi LGA 1700인텔 14 12 13세대",
+          "url": "https://cr.shopping.naver.com/adcr?x=8Z%2B%2BfRx7IRaZsnoFYtnIXv%2F%2F%2Fw%3D%3DsHyo%2BoCrPSjvh2j3K6ld8mARDRdnovknmHU1U6TqeSY1Fi51nqMvTAF%2F4tqv2MQgTDRJIFnlcXabXy6RB7riQTqS2NopWAMvD887tciMnVNrM2MyNpHBlUJbly2wThfnuqGv%2Bieq6zAgp73s6bdRpjya0trtf414K65HDzHS9WScnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69Wskc8TeA5ifuIcai7S7ndBrStks2nYQPeh%2BsQtHD0TFcz576RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFRDpykpOqWZgZqWcBmVwRDRRSD6qjv5MPY5voWODEfPT5rK7RvqotxH2EE1YlekbGohTKgMK2jDUml6DZ6k3sCP8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hbu1KnHkOVMn1DESQiU29j1Du2wgB9LTFCcYj5vXsSwtmIk15rJGvLX6DBQ0eqwiMlEdaufQwjLMdeCKivp1OT1ttkc9jWCqW7T9NAb4dhZd23lqa39Th6NL8scQS9Q6sYatI0mmnE57OjDwdygYnN5FjRF4vEa8esN6v%2Ffe2UDR74IAWnIKbEKJbYhXuV5322sbPcD9vA76vn9UAagqfP8RnPoIvA%2BpCzRYLBV7lBHTzjQj4qyHYJ0gYWcDJXQ2Em9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=91045965261&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming Z790-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-gaming-z790-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/391f8852-89ee-4429-bf08-48b3be125099/"
+    }
+  },
+  {
+    "name": "ROG STRIX Z790-E GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX Z790-E GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2022-10-20",
+    "summary": "LGA1700 소켓 Z790 칩셋의 ATX 메인보드 (M.2 5개, DDR5, Wi-Fi 6E, M.2 5개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1700 상급 보드입니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z790"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 192GB"
+      },
+      {
+        "label": "M.2",
+        "value": "5개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "m2_slots": 5,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 793100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 793080,
+          "title": "ASUS ROG STRIX Z790-E GAMING WIFI 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=x0rdAWaNOB7l9dgPAd1iRv%2F%2F%2Fw%3D%3DskxwzqxM26Jve258rdft8kMUtScbjQ2rTHz8ET8Xd22NKoH6QFfYAeri3P7QhzUA0npIJAZ4tdwO3v92h%2FCWuVMtCjwpT8aAustPaxMV68Kzivk89ZYORM0QsE6E5O%2Bk3fg0AEyLPEBYq%2BJRkEHu%2F4vBSVFfNasa2%2FrDLIpnjLJlGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9uzEyMsfOgsSuRs1ZNTiRSmzFSFWupZ50F4aBpdGwQO2YLswWA1WHkJ%2BvCNYuXJfOU97sLJBXukpBWTHgntniD8gPpef%2Fw5Bm%2BGmGxkq0TIX2J%2Bu%2Fsl%2FCf03EFoK0xT3xNpiIjedY5oRJDvI5MTAUyfxr6kdrp7BvT8OlwZ7P37YyZp%2FuhVWf5tMOyu5R2EADu8%2BxgYtreGWHH4uGjSqQCTLUQvs8GHq%2Bj7OvUNvyviyxzFEMsb3mS8TQ%2FMwXNLb6kgZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKc%2FpU75Ymn6vJMfi4Gq7L68tjRrFSRJIMuZIIEwJwjlZ5TTOtQlZOMhBmLREisdB75p6EQ9uRIyt59cTSUiT%2F1MfDso9FVrAVDbe5hdgJ0OZIweMahWp7rUe420tmB2yZnPbH8cep7sJ8WqjDgU6ZPInHiehkDOicM6cggkfXLC81f5c1MSD2MqoGA4kKfLonlE3riYGb0bxCu4GQsNwdPqSviMIgvzHZ2jvvc0DCm4mgrTMuxYoV9Or8uJnz7CyYm9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=37527380624&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX Z790-E GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-z790-e-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/A14B0E0C-2EF6-4A28-9E30-089DCE5BF278"
+    }
+  },
+  {
+    "name": "Z790 Pro RS",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "Z790 Pro RS",
+    "series": "Pro",
+    "released_on": "2022-10-20",
+    "summary": "LGA1700 소켓 Z790 칩셋의 ATX 메인보드 (Z790 가성비, DDR5, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1700 상급 보드입니다. 무선랜 모듈은 별도로 사서 M.2 Key-E 슬롯에 달 수 있습니다. 출시 초기 BIOS 라면 14세대 CPU 를 쓰기 전에 BIOS 업데이트가 필요할 수 있습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1700"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z790"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 128GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "없음 (M.2 Key-E 무선랜 슬롯)"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "m2_slots": 4,
+      "wifi": false,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 273200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 273200,
+          "title": "애즈락 Z790 Pro RS WiFi D5 디앤디컴",
+          "url": "https://cr.shopping.naver.com/adcr?x=olXEYgbB5JBCj%2Bs0VHzcUv%2F%2F%2Fw%3D%3DsCKyLsAavueEDgYfcr%2FUASKqJrvwAv5D2bM%2FEzV0pCN%2FQ4a%2FrzJ5GZL56QGdl4yoJtO%2FRUZsC2y31EF40wVSCbgWqT9JHYkD6ib1a51vGwlsjMQiU8EGMY3m82EW2Ezi6lc3GP%2Fp9CCBDW8woeATbdWtNv2mlSJa7kKtjMVeHbo254J8UO7LDGXdPU9Do8oyMcPVOgB%2F2f8nO6h0T1XYoEQqrMacRLMc1bgxuCP5NwTl1WbOtIxPhOn7MpSEWpUMOvooTCaf0CxhG7ljg78xnDD1gKwFhXnlloKqn3sd7CAEJX3zQbEtPNmTn1nx3uXvQw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6ocHMUlb%2F4NgzNIuIh3mtEUPWdEnjKhDUHJeBldgXhqxUALzSc6LszAH0pCdAy0hw%2BGNyOqIahPEqp3lSsWBuu1%2FlAH%2BEc%2BV7qDBpygIMoYzgqWd5%2BUY5g3Bys6DRcGzY97S5%2F5UtvUbGGpOev9IT0o0SUDqsLZa%2Bl5Q4ACGYuXiGnt8%2FOa66fhFPfK1NqTT5WvgdWu34rRK21bOSED9GL0W1be%2FCIK6BshLFTRNrJfsxEIE7DsT6t861zIEtD2gVHxCGtzc5nhef%2BVQSJcrJX%2BzegGsJnmtqc6jnSyA8UxMjTdwezVFSF1FtPspHmLnVn6C0XXk8ySaOQ0OaLzzIxFShFO%2FJ%2FMFd0dFg3W%2BokudX%2FHcMzMhnCtq9TBgugsh7uFbDf4gHI5rSMJU1BWcIOg&nvMid=37309058618&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASRock Z790 Pro RS D5",
+    "image": {
+      "file": "asrock-z790-pro-rs.webp",
+      "source_url": "https://www.asrock.com/mb/Intel/Z790%20Pro%20RS/index.asp"
+    }
+  },
+  {
+    "name": "ROG STRIX Z890-E GAMING WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG STRIX Z890-E GAMING WIFI",
+    "series": "ROG STRIX",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (M.2 7개, DDR5, Wi-Fi 7, M.2 7개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "7개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 7,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 809000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 809000,
+          "title": "ASUS ROG STRIX Z890-E GAMING WIFI 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=Rp3E1UHc2mfN2UhucQjWC%2F%2F%2F%2Fw%3D%3DsVtNYYhlaCDgt%2BFfzZcDdenqKh7Op9oMdBfHXS%2Bac35s1s3dS5NaE6YKivfKdN9fXuiAT9JnYJgKX3bBWRFWNItp9k2hxfUxSpmo3tlONxH7hUqiMiDO9cmSoB2dnJwG3%2FL9cCqFs9ViM%2BGD%2Bu3T9NClEZvQVfoBZonL89GK7n0keKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ968XyP1r1gENWX%2Br0l5f3pNksYVdfkvrnRNsJr3NLAfKCPhyS5Vs2%2B01ycQXxyn%2BOcNzG%2FhA2u4UUDVKRJeABxiP7DXkxFFrto%2BVRLxFNe%2Fgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSeq3weJRHxNVuqdlc0RmUszwVjQCpIk5kx4sJW2hrRfnKA4rgaJnBC4r2f4bvVcN%2BLn5eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAAZtuPFMZ%2Fq7SZYvJy6jkR1zVtOsmcs9dXMHQ3xuZLacvS7Z0DSdTUE4zG4b70nEDDy9AI6HgUKy%2FGzd6KgYPwmmGTJA85G0m0dF0dfTM2YP7zDfMC9c94YzncQXvhL18JRmgZ5nkahYvnBygK69WO2gBrB08yttNce3ikIrbJx1UTeuJgZvRvEK7gZCw3B0%2BpK%2BIwiC%2FMdnaO%2B9zQMKbiYoxOHMWrnXkbvAzR5YaUabb1NmOoRBMBsXNQGXzjfbC%2BFUQB%2FrDAzm2q1KHRsHkfE%3D&nvMid=59748593682&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG STRIX Z890-E GAMING WIFI",
+    "image": {
+      "file": "asus-rog-strix-z890-e-gaming-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/9DA9750F-E81D-4F36-B0B4-D38F07B6E8EC"
+    }
+  },
+  {
+    "name": "TUF Gaming Z890-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "TUF GAMING Z890-PLUS WIFI",
+    "series": "TUF GAMING",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (Wi-Fi 7, DDR5, Wi-Fi 7, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 390000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 390000,
+          "title": "ASUS TUF Gaming Z890-PLUS WIFI  코잇",
+          "url": "https://cr.shopping.naver.com/adcr?x=q9%2FIrJybKEvVhCtR0mqdZP%2F%2F%2Fw%3D%3DsNRKwXZxDOfBjaK8npiDAXTPZTPzR1v%2FjZ7BtRg1V8oEFhqkDhYjYA40IN2TEUCnwIAyLpRjnQd8eWUuP2K3sBHDCj6S4RdYYOxDnyDWcoDPeTj0h8qOb6dlX2a9dca5HZTWgY4mF0ZD9TwVNMLiNnG5cN8esNu35bt9O0kTI9L9IAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFDpEAKNeGx4iccg7lQu8UQgpRsAqTsXJN2azg0FTQJjvsd3KU7fy7iPWDpMKs2362LfDiIb2iyJRy2QjJIFrU7zzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpIrJ9BfCtS1aBoKfQ4SYQ3zYQAfqbcoPZ2G0Eh4OMQoUevX6UWx2xdGk%2BzFj9URLNyH3SBmYmUUGO5i0d%2FW90g8vdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRP3iQKLgYqTTlFQNmK%2F0xGapYmj68MznAr3YV%2F0tdagmPd1tQBrmfvqXturou3XNkmCvWUXqB7ftTGUHqASVqRP%2Fo4DjqIHJyRa5JlxJhr5z4ikii2aXTnaXSGpqD%2BzVN8nLTdee%2BzWul0HG5t39tDx9N8q%2B5yIRK%2BtuTJt3xu1NWUy967mlSa3mZfqZTLi6DqtpPgQUBBobxKZazoVaQIhsldPzqBlhL6ek%2FH2lbu0GBUKBlhkAN64t%2BHrR1p3XW2QdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=59586350300&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF Gaming Z890-PLUS WIFI",
+    "image": {
+      "file": "asus-tuf-gaming-z890-plus-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/219d3768-2881-4ea0-88f8-60b40e3b3d61/"
+    }
+  },
+  {
+    "name": "ROG MAXIMUS Z890 HERO",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "ROG MAXIMUS Z890 HERO",
+    "series": "ROG MAXIMUS",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (하이엔드 오버클럭, DDR5, Wi-Fi 7, M.2 6개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "6개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 6,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 919400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 919400,
+          "title": "ASUS ROG MAXIMUS Z890 HERO 코잇",
+          "url": "https://cr.shopping.naver.com/adcr?x=SPLpr4HZlXcIpVx%2FV4vYRv%2F%2F%2Fw%3D%3DsUWFracG8CWodK8PTpaBuS%2F3wJfoDtkLGpj%2FPV29bb3HvvP2uGFmccX7%2BVAlivj2bukw7k9POBXnExVX6seDtEYEFKCAW7i6Vs3UscqlCwyzOhpr36B1%2BRrF4g05ZJpR1Y6Vmnt4cfqA%2FfI33T424uh%2FXvG5wQZdP5NeIho%2B%2F%2BRvIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156ohLvTHJVUXRlcqBN%2BnmYN%2BXLY%2BMFnVY6SJZpLN4LB2qux9sqSJ85sAHxZfoSg6SzSFXH7z8NOhCuHGW%2BB1Tpw%2BDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6IDIbiWrkw81io5dY%2BxUdvhWNAKkiTmTHiwlbaGtF%2BcoDiuBomcELivZ%2Fhu9Vw34ufl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AMVR5g3fOs1jMBh4OdGcdIXNW06yZyz11cwdDfG5ktpy9LtnQNJ1NQTjMbhvvScQM7Tbs6NpRKfP7sMA%2BT72pvTAky%2FCGqC7C%2BpoXtGJxt1jqp5n%2F0%2FIXsPlyakhOZ4NJcVnK8I6PHSzU97PSgt%2F%2FSvMiXP9fAmocv2u6yQhjeLUSzxwVRNV%2FYRemZK5z1sCE4D9dvw43tUWNVBzumy1OrcsL6FCQ11IhwAzPXhozFuhoaKZHilHbuauHUigNM5KA&nvMid=60001340856&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG MAXIMUS Z890 HERO",
+    "image": {
+      "file": "asus-rog-maximus-z890-hero.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/616785F3-741B-4186-8262-57EF5E2B7CA3"
+    }
+  },
+  {
+    "name": "PRIME Z890-P WIFI",
+    "brand": "ASUS",
+    "category": "mainboard",
+    "model_code": "PRIME Z890-P WIFI",
+    "series": "PRIME",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (Z890 실속형, DDR5, Wi-Fi 7, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 388000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 388000,
+          "title": "ASUS PRIME Z890-P WIFI-CSM  인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=QQ9G5e9RzEA56ygiDu0Enf%2F%2F%2Fw%3D%3DsBKWDIu5bzS%2BykIBnP8UYU%2BiBVE4SDK%2BfyzuLBWdBeRGdi3xNW4uRsYD%2BKepP4Du6fPzFSb9E%2FQHLjM8EkDE0wRjCV0LvAeNQkQafMRKT0Zc5mB7TecdmJr1w9Anvku5wG36vX39qjT58YG%2FYnvxzh9nR8xBNSSGyDkTrhxBQ18mAbCY81f975eS5nfR25FBi0AouHxJYr0ktwaJpy92NDw1n4j3T4BvzlEjVpAFf70BBTrEdvgvVc4Hw2r%2Fjd8xo24FV0Ze%2B31pUFHG0iwuXeD1gKwFhXnlloKqn3sd7CAEJX3zQbEtPNmTn1nx3uXvQw6ZjbtkbN7RD61dGUzg7G1qsmhWtsS26cBgiQoajA6rvMfL7Gk%2BNT975CPoA7%2FFaPWdEnjKhDUHJeBldgXhqxUALzSc6LszAH0pCdAy0hw%2BGNyOqIahPEqp3lSsWBuu1%2FlAH%2BEc%2BV7qDBpygIMoYzgqWd5%2BUY5g3Bys6DRcGzY%2BLhpp97FEml3N4yliFPyt1aJ9St7BDJoLUT9F6GK0gEWnt8%2FOa66fhFPfK1NqTT5WGdJ0BDZTrLyIa8k%2BtRpOCScA4SSzSWaywbgzcPJMyYdwRl45KVpzLKQr284qoFz0jIqqaNQ9i7HlkLPfal0abQpehP6jsLSUkrRYlwvnU6Q1q4RxHKdKf%2Fyis4rudz3RnwjcvpHrpoqAocJi48hpobUt0KFWfOu28NXTw2qLgnVdznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=58890216267&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME Z890-P WIFI",
+    "image": {
+      "file": "asus-prime-z890-p-wifi.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/4a6cfe19-0dae-4fec-b2fb-0b94a48b067b/"
+    }
+  },
+  {
+    "name": "MPG Z890 카본 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MPG Z890 CARBON WIFI",
+    "series": "MPG",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (M.2 5개, DDR5, Wi-Fi 7, M.2 5개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "5개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 5,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 599000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 598990,
+          "title": "MSI MPG Z890 카본 WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=1fteqPTDp0CnTYQIPYNgB%2F%2F%2F%2Fw%3D%3DsrT8JtlDwmfmR2UgKwt76t1MULwRbMaaj5oWoJkOHTmKjOAbDJBSvSaJvVxQMeooEuq3fU8aN%2B17boMZUbswOhuc4zop%2FplIoY%2FOBKB1ifyjdpFTo5oneo1AxQVWQLCRU5iRNys6utA41ZhORwx8ibSYKS9JHI%2FmKZ8JGRxVDwYiAbCY81f975eS5nfR25FBiHi4%2FJCEYlZDqQaqVW1sVwH7gMHEDd2lq0sNAS11CdpYpn6Pwl4m73Vvk2T8YpO2EFvpu1vMIJRjNkB9H5N0wUrMKuO0WtlAVV5%2FOmZJ68LE9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqUpXzjN1rl0tp6vhtES9t9SEhb%2B5%2BbgCLWD5ufmjwVaBZxZ5%2B%2BHr7RJ9RQgp7xke9Lq2tLpsnsBt7FNegQmFMpqaNmNuzjMQoUdXmcSOAnQHy%2FMa8wJvz%2FVzHeq3TC3Znc6qOKx4qf%2FMZEfoTJfSOIxvO%2BXqgXzyU9IXgQTV3HMk8mUwVezLUz0S4HLiJ4l0pVINwqW0xv44%2BH8JD5cjNYnKFfsM3zJl1x%2FeXtei8RM53m9TKX22ysYaG5USEsFKAtqGhcMf0ZT1a8cpG63vEWjknOPln7sCubDZkdWDvbVMRpOFzCbaM6OU97uoPifjr1uhKzqGSLYTdRMRk4BgfSwoYo%2F5osF9SXFYeLOQf0%2B7Njqh%2FZemCCOboDhnweAmG&nvMid=60140062192&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "MSI MPG Z890 카본 WIFI",
+    "image": {
+      "file": "msi-mpg-z890-carbon-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/MPG-Z890-CARBON-WIFI"
+    }
+  },
+  {
+    "name": "PRO Z890-A WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "PRO Z890-A WIFI",
+    "series": "PRO",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (5G 유선랜, DDR5, 무선랜, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 386500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 386500,
+          "title": "MSI PRO Z890-A WIFI MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=mq9rRfbjeTIew4rAwRfsM%2F%2F%2F%2Fw%3D%3DsvD5yxiyiCRuvtu459wzpD88P04H8iwRVW8mMUiPSJ9hhIcnvOhrLIKiNLWdrkZXSJjazhqgE1NlGfJ9oqQ5%2FCK5rXJEUYh8fOeVG1jL%2FU59%2FDypj6fPz9oC7%2F7SdtoMzokbXk%2FT4qHKzAmrJ3tP4mG3zn5KzDW0lR%2F%2FEaArCfhy54J8UO7LDGXdPU9Do8oyMtSlar%2B0ZdN9ix8pgZrKU83i%2Bmv9HBg68INdvV2TFtp0F0HG567PnO%2FqcMVq47K7tYj%2Bw15MRRa7aPlUS8RTXv4MtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnpSVUpprWznWiAdBUyuWDwrFY0AqSJOZMeLCVtoa0X5ygOK4GiZwQuK9n%2BG71XDfi5%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgBzJ6NMh%2BmLbfPX7USEjPd6c1bTrJnLPXVzB0N8bmS2nKD%2B%2FeK2JUziEIhhZVk4bHOl5mA0vgH0YJkkwueq5xj%2BYZPZjjo%2BGakhoUCopovwMkfp%2BE6KbbuNnlmJOGNQ2fH97hLbHJ%2F3nn6t6wNuCHMKlMveu5pUmt5mX6mUy4ug6raT4EFAQaG8SmWs6FWkCIbQi%2FEEXn4ls96p81HckyHyzdtBweXd5cMdZaF%2FiZ04hQau4fTwOUqyF63FjwpQRls%3D&nvMid=59361907190&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "MSI PRO Z890-A WIFI",
+    "image": {
+      "file": "msi-pro-z890-a-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/PRO-Z890-A-WIFI"
+    }
+  },
+  {
+    "name": "Z890 스틸레전드 WiFi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "Z890 Steel Legend WiFi",
+    "series": "Steel Legend",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 ATX 메인보드 (흰색 디자인, DDR5, 무선랜, M.2 4개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "4개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 4,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 369000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 369000,
+          "title": "ASRock Z890 스틸레전드 WIFI 디앤디컴",
+          "url": "https://cr.shopping.naver.com/adcr?x=N%2F0zzGZL8L%2FwW%2FtyWPPSJf%2F%2F%2Fw%3D%3DsVHD9bw%2FDmgotgudtLtWt6Dkg4%2ByI8rSMOU6RXzBqHEQ758iY3iG3GbU8RPhNNje6QpD%2FSibLwJLzJy%2B5YUkFrDa4u6%2FFE%2F0NKrFWL%2Fiswcga%2B5Danf3w7%2BwEkcsiDFSrWoM8P0tCEyDRPrPwvR%2F412Hl3h9E1lZk%2Fzn1WH5wiWYnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69Wskfbx3d637Ar2g9U7X4OvHBtWg%2FWnptcEUsDMuFUeFQ7e76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFXHU%2BrNkTdk5Ovwp%2B6GmCpJZPKe2iE2rmKbZxcDkCCvTP7yby5lWZA686mf2dglqWzFEMsb3mS8TQ%2FMwXNLb6kgZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKZsu052l5veO6%2Btijmr9pKQtjRrFSRJIMuZIIEwJwjlZF1BCsbjAGo0FqEKUGjIhNT7QtiD6cmbIubD90W8z0040YrkDqgWDPVt01vfxS5jSWBel6IN2m%2F6%2Fs1GNNASyVbyXXeAKDXqzr%2BcQAU1V4E081Gi44tUFH1uRUKbnASPQEy18NprULpRQuEHqT%2BEX3VkLBJzoyx6xuNewSIaRGdFgRt7UQjhRwYojmX1kN5IGV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=89221856333&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASRock Z890 스틸레전드 WiFi",
+    "image": {
+      "file": "asrock-z890-steel-legend-wifi.webp",
+      "source_url": "https://www.asrock.com/mb/Intel/Z890%20Steel%20Legend%20WiFi/index.asp"
+    }
+  },
+  {
+    "name": "Z890M AORUS ELITE WIFI7",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "Z890M AORUS ELITE WIFI7",
+    "series": "AORUS",
+    "released_on": "2024-10-24",
+    "summary": "LGA1851 소켓 Z890 칩셋의 M-ATX 메인보드 (M-ATX Z890, DDR5, Wi-Fi 7, M.2 3개)",
+    "description": "K 모델 오버클럭과 고성능 그래픽카드를 쓰는 LGA1851 상급 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel Z890"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "Z890",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 295500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 295500,
+          "title": "기가바이트 Z890M AORUS ELITE WIFI7 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=zefw0L60Znu2oQeBJiH33f%2F%2F%2Fw%3D%3DsIzzETqeWTiXvsCmIkFgCGuy7djHH89t%2BfggL%2BRseBnq0qt%2FTLEsNoHjLG3Cz6gadMD90ADopJ9EM57i4xOMhlv0xilq77v3QrwVKbfO8HmWdypnvf3OLWohsnn1B0OdEuXf3iUcPJWs6OFDYLV6Enz9uMG6cfidezssyLKtatRXIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156tN4hhP7mVaUEcaDv1GGXdsDJ8fS8qPArlYr8RFK6lxiad7NQI7vkjICTXNXPkVoWB4mUV8V073Ff0ny3opwrC7zzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpIveq2kKryyn2N3%2BuuoQTiT1nRJ4yoQ1ByXgZXYF4asVAC80nOi7MwB9KQnQMtIcPhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PxOnF9oyPCqm%2FTmDaGmFYjqm3bAsH2PKNnK9ANIYwmxhp7fPzmuun4RT3ytTak0%2BV7HmFIBwuzYBR%2FFEHZYQ%2B6iH9LSyRs29xPgtGRFjWwiIHcQIT5sjx9jJtO07IqxKAGGB%2BR9cvZbAFjQjOKtmQikxn9roWbI5esT%2F0%2F0V2T5udSlPOZBN6V54TTL6u%2FzFs0RsKGWN0wO0glDBJ%2BWaOFB317x9BTEX4hk7NDAsiAYZWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=59616281568&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE Z890M AORUS ELITE WIFI7",
+    "image": {
+      "file": "gigabyte-z890m-aorus-elite-wifi7.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/5d5087d9aec71404cb9ce4678b51735a/ProductRemoveBg/42080"
+    }
+  },
+  {
+    "name": "MAG B860 토마호크 WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "MAG B860 TOMAHAWK WIFI",
+    "series": "MAG",
+    "released_on": "2025-01-13",
+    "summary": "코어 울트라 200S 시리즈용 LGA1851 ATX 메인보드",
+    "description": "5G 유선랜과 Wi-Fi 7 을 기본으로 갖춘 인텔 B860 메인보드입니다. M.2 슬롯 3개와 PCIe 5.0 그래픽 슬롯을 갖춰 게이밍 PC 에 알맞습니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B860"
+      },
+      {
+        "label": "폼팩터",
+        "value": "ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 7, 블루투스 5.4"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "B860",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 289000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 289000,
+          "title": "MSI MAG B860 토마호크 WIFI 인텔 메인보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=T%2FNEWryFxJ6ki10eyXnM2f%2F%2F%2Fw%3D%3DsIdZKlaWmWwk%2Bwg%2F1nMRHYq2fmX%2F7etMdDbyZf5O2FpS1a7JWqrOYuIIRiVFLO5VR3K4tNTusmgrNOR3P1ilVUqjWpyRZms04nwGHaQMo4%2FXp6PODzk%2FHLFwvx39VTKGdXJtTchek1649AfQ6dBl9OXuBHXbjjzmAZ2vl6DrRDPonF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskXMNKl3LZMh%2BPdVH7QAzkehIsVUqHYeSdsNWVmfF5tf576RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFRDpykpOqWZgZqWcBmVwRDXDRJtOewTovuPrPlKR8yPA6cqSBNk23KnWXKszTW5JWiEmBnRPmlDbTGlK2koixQi5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh6DrqElM7JfmYJV8ojbne0FKtGa0HN2Phla3qjVjC0EddHSfxIf%2BvtMdeuzoN0gVttyuLTU7rJoKzTkdz9YpVVK3sAiJ5%2FZPTL%2BAYoSNcsemCPFVzQM7Sdj90XpxCixEfaqT1RM%2BwrBwxAIPUxa7SqyjIteERT1ilaZnaxXOA1wGrBr0mWZyQNskAlQQa9x8QY%2B2ZlWBQRnokeairfjmoLaQfYnImTGLGS0o%2Fkd1%2BtUgwHTwBPFmkEmFOJDvWVkzWkHQIiXcF4qwUXZ2sX76wW8%3D&nvMid=88922226485&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "MSI MAG B860 토마호크 WIFI",
+    "image": {
+      "file": "msi-mag-b860-tomahawk-wifi.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_173615996979b5c90f37dae454aac33eba0b89f1d3.webp"
+    }
+  },
+  {
+    "name": "B860M AORUS ELITE WIFI6E",
+    "brand": "GIGABYTE",
+    "category": "mainboard",
+    "model_code": "B860M AORUS ELITE WIFI6E",
+    "series": "AORUS",
+    "released_on": "2025-01-13",
+    "summary": "LGA1851 소켓 B860 칩셋의 M-ATX 메인보드 (M-ATX 가성비, DDR5, Wi-Fi 6E, M.2 3개)",
+    "description": "코어 울트라 200S 시리즈로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B860"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi 6E, 블루투스"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "B860",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 251000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 251000,
+          "title": "기가바이트 B860M AORUS ELITE WIFI6E 피씨디렉트, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=9etW%2Fi1rLGLw3geGxPZuk%2F%2F%2F%2Fw%3D%3DsDIcGsWxXNk7WKIaYKnUamele4IITXuqjNE7iPxlFi6P26MBn7%2F0E%2BW2gm6pCXrznnThEP2LMRYj2fcc1VEETgEv1fpcyHd%2Fv4XMbKiqq0K%2BNX9KUsycozmAzqKM12AEeYE9PQFFV97vnxRaccPgyx%2FaeQAqPqlLKccKrFHeJy3dGwKHkZL6SWiQTMD8nRWzPEIZJB1yuP5kkcuYnGBP9u0jSgGfh2EoxkH1DxM1zDqk274L4x5M339jyoqftM2nsTN4MOqe9WTswQxuEwE8hVJB66pBhfRhM1jtYYr0D2S8byWq%2BprjJLhxMSxKXjmq576RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFcr4hLl%2FToNsLUajxL9%2FkuI7gbFt4fpO22HJ5UQlDE3FkIptLkhleORsoGb3BUK6QoMRMekvxMwLm6d598BzpVgrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLmEwQpZ%2ByiMURMcoO1A1mj%2BCQsYDMyaA6DZe%2FuzP0y45gY2S3v71V8AvlLoxguTYNT6dxqZt8n3%2BLNIRNRG5dD%2BoMmMVk8xkbHGT%2Fsyp6BuA0bwksGDO5zEMLZIsLrWsAGoGqvUD3dWUep1DR8mgSKxaAihJKqYXH1w6ZegA%2BZ%2BULpvqMEGwPV0l80VzWa6EqvoLRdeTzJJo5DQ5ovPMjEUyLNnxxfuPq8bDuVfJfjWdPwnc0%2BYVDVxnGcaeTu5tAIVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=61528330070&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "GIGABYTE B860M AORUS ELITE WIFI6E",
+    "image": {
+      "file": "gigabyte-b860m-aorus-elite-wifi6e.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/0fac637e01ec3c9f4ba2d1b43babebdc/ProductRemoveBg/43122"
+    }
+  },
+  {
+    "name": "PRO B860M-A WIFI",
+    "brand": "MSI",
+    "category": "mainboard",
+    "model_code": "PRO B860M-A WIFI",
+    "series": "PRO",
+    "released_on": "2025-01-13",
+    "summary": "LGA1851 소켓 B860 칩셋의 M-ATX 메인보드 (5G 유선랜, DDR5, 무선랜, M.2 3개)",
+    "description": "코어 울트라 200S 시리즈로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B860"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "B860",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 209000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 209000,
+          "title": "MSI PRO B860M-A WIFI6E 인텔 메인보드",
+          "url": "https://cr.shopping.naver.com/adcr?x=bV2Ro39KZ09exo8VJ6kwCv%2F%2F%2Fw%3D%3DsHbgHO0C9XJDtijgbyETlpgDo2PLGpYZdkl6RcWIA1%2FXrIlgW5XUM2dCYx091yX3UKJ8Po24FCsI%2BlLAnzE%2FyjtAqi%2FF3dUoCcttlpLfUuJD4qAPq8ZbeJKpphDvH%2FMLwunV8IF3r0Drc3%2FJAOdM58TAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDuGf8WGcRebgyOwPb6k8GlruNhLH%2FgYzGmxvNqMaPHL2uDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6HrGDFvBqIKZm6hyutsspUbYKhkILqeBhmrCrtIKoPlbSUphrppU%2FB63e8Yq%2BCvYApU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwRngTmxjk%2B%2Bg0F7m%2BaZlrFbo29X5UpHTfvQ6Fr%2FcfJwl8TN8XiwEoVxtXSkDCafaLcHAS6jdGL1weZ14uew1ppd3CX0IlLekvQvoTx8p6p54UpulwLA3wDq9g0fjLGIE8lOzH3aFTPmmD%2Fg2WQ7GwHjQxggbnQn7eomPPA2PB0L2mkNEibaWl8TsBgIER2NYHiloYTocz9ivQCNgzAVwopKeTAuR3z5CkVMCO14wTGHJWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=91246837064&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "MSI PRO B860M-A WIFI",
+    "image": {
+      "file": "msi-pro-b860m-a-wifi.webp",
+      "source_url": "https://www.msi.com/Motherboard/PRO-B860M-A-WIFI"
+    }
+  },
+  {
+    "name": "B860M Pro RS WiFi",
+    "brand": "ASRock",
+    "category": "mainboard",
+    "model_code": "B860M Pro RS WiFi",
+    "series": "Pro",
+    "released_on": "2025-01-13",
+    "summary": "LGA1851 소켓 B860 칩셋의 M-ATX 메인보드 (M-ATX 가성비, DDR5, 무선랜, M.2 3개)",
+    "description": "코어 울트라 200S 시리즈로 게이밍 PC 를 맞출 때 무난한 메인스트림 보드입니다.",
+    "specs": [
+      {
+        "label": "소켓",
+        "value": "LGA1851"
+      },
+      {
+        "label": "칩셋",
+        "value": "Intel B860"
+      },
+      {
+        "label": "폼팩터",
+        "value": "Micro-ATX"
+      },
+      {
+        "label": "메모리",
+        "value": "DDR5 4슬롯, 최대 256GB"
+      },
+      {
+        "label": "M.2",
+        "value": "3개"
+      },
+      {
+        "label": "무선",
+        "value": "Wi-Fi, 블루투스 지원"
+      },
+      {
+        "label": "그래픽카드 슬롯",
+        "value": "PCIe 5.0 x16"
+      }
+    ],
+    "attributes": {
+      "socket": "LGA1851",
+      "chipset": "B860",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 256,
+      "m2_slots": 3,
+      "wifi": true,
+      "pcie_gen": 5
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 209000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 209000,
+          "title": "ASRock B860M Pro RS WiFi 에즈윈",
+          "url": "https://cr.shopping.naver.com/adcr?x=nzq0vik55pTBnJhwxYnvr%2F%2F%2F%2Fw%3D%3DshgNO1F4bOSK023bE%2B6SixNvoMHCWZrsm%2BMV%2FzIRPPRKuIKcmXKR3FtPhn9%2BaebheEVgd0G8qUnYQB%2FWD6y3i3V2bmzIOF9iG5XjkKrd%2B7%2BKvEbyZnj0vpZoWjkmuEBcmfGGTEFFSykpGvtVslMpsH%2ByMvImS3yMqJyZCVEDUuc3mtDtk1%2BxiA2Vt3XvL41PMskGnh3wHx3D2EJr0NLRpvd%2FWTB7uDw%2F6%2BNvJCE%2BJvA7EEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9HCZYqEJPNuy2Prr%2F1%2BKAT4tRNgNMiViyt9oWC%2BrgEY3SUphrppU%2FB63e8Yq%2BCvYApU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQw7Dh11qjbj5WuEyTsaa8O2pqZLeVmvTKc045H3dBLsrBNI6TTKg0mOhfvCepCCFz%2BQWKJbgHH4%2FR79jNZyUa%2BeRcc%2BT2Gt1shzI0sU1tgMKj%2FdVZDNVgbj6BhPln7mRqsJgk9O6Mwr05sLVQki6RNYHR9INs9ZpxiOekV5%2FkbMXH18HM0zHa6tZ%2BjINdloG4J7p1yz4X2kuiieeI5FNuNecTz6CDrXvUug0N%2BQKCjFWkOEsHC78VBLnFZh%2FnDobeN&nvMid=91259433443&catId=50003107"
+        }
+      ]
+    },
+    "search_query": "ASRock B860M Pro RS WiFi",
+    "image": {
+      "file": "asrock-b860m-pro-rs-wifi.webp",
+      "source_url": "https://www.asrock.com/mb/Intel/B860M%20Pro%20RS%20WiFi/index.asp"
+    }
+  }
+]

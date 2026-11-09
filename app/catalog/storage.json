@@ -1,0 +1,3411 @@
+[
+  {
+    "name": "990 PRO M.2 NVMe 2TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9P2T0BW",
+    "series": "990 PRO",
+    "released_on": "2022-10-01",
+    "summary": "읽기 최대 7,450MB/s 의 PCIe 4.0 NVMe SSD",
+    "description": "게임 로딩과 대용량 파일 작업에 알맞은 고성능 SSD 입니다. 5년 또는 1,200TBW 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,450 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7450,
+      "seq_write_mbs": 6900,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 779000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 779000,
+          "title": "삼성전자 내장 SSD 990 Pro NVMe 2TB MZ-V9P2T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=uavYQZn3CZVO3A%2FGS%2BVYhf%2F%2F%2Fw%3D%3Ds2MnWT0j%2B1trXO9HJZRt9EURLwUXLoF5KYyhhsvSIr%2F8SNdTlJT%2FoSOEDc%2B9B6FjVzFZYK5TMdi64ka6Fwf1si0EJ64ky6NaDuXkdSwLHf0cpl2an%2FCMMw%2BdHIC7ZzZ92Pzy23n2JlI6UgsNYIpNbHatSGi4paISq8oq6uKjFrOlfScPvO9D6856wlEEaVUyb5rQ7ZNfsYgNlbd17y%2BNTzFLnc2ZeebfwP7PKtffD9g5hF2WAM%2BxgIv8lywsjzsWexBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FZDp7BlamHYC%2ByfauQONpSwRXB9UZY2ocGw1%2FQZpXzDu3yTd6buhb5uUL%2F986yGRHIY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj65%2Buw3d1FgGaxV217%2BCx%2FD9YXiN6zUIitMq2r5aPPKeVNaIbjzO%2Fksj7Q4B4CpgQFwicDIqNmRrpEsPBkbdOA5fTZVYGsLLEtgVk3rlSjneEqmv%2F3lOUaQNmv%2FEFQkZUw1pzizLlpEsayKVIwIWE4s1r6rB2QKGIJ5nYZbUDG1k05%2FiL3MWsFcTbnjz%2FZLXrSElqCgw47EjbRmqcwLd3AaC%2Bl2k8T77igQLk1KfuItOqpcDLzBk9IqE0%2BhjItrwPM2OqH9l6YII5ugOGfB4CYY%3D&nvMid=88787532137&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 PRO 2TB MZ-V9P2T0BW",
+    "image": {
+      "file": "samsung-990-pro-2tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-v9p2t0b-am/gallery/us-990pro-nvme-m2-ssd-mz-v9p2t0b-am-551141318?$product-details-jpg$"
+    }
+  },
+  {
+    "name": "990 PRO M.2 NVMe 1TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9P1T0BW",
+    "series": "990 PRO",
+    "released_on": "2022-10-01",
+    "summary": "읽기 최대 7,450MB/s 의 PCIe 4.0 NVMe 플래그십 SSD",
+    "description": "삼성 자체 컨트롤러와 V-NAND 를 쓴 PCIe 4.0 최상위 SSD 입니다. 게임 로딩과 대용량 파일 작업에 알맞고, 5년 또는 600TBW 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,450 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7450,
+      "seq_write_mbs": 6900,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 386900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 386910,
+          "title": "삼성전자 공식인증 삼성SSD MZ-V9P1T0BW 990 PRO M.2 NVMe 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=WqpWN0fgJWCKL6OyNeSqvP%2F%2F%2Fw%3D%3Dsz51ajjNcQKa5EduBZLoemTlxin7Ozs7Rey2GICNRTF9oKpxV5B8b3KMWFpGbtn3RpiNJ4XsID5Er4yLbfncoY6iACm%2B06pxDo9lv2DqCpJjiSRK01gjCeCg6aNlF4On4BGcmRzhQ9evpbYREq47FXa%2BcbTU4snFkOI%2BJT0hE%2F3plKidFozrqGBS%2B8%2FLhPxXU4NwbKIcY2ltIpyxG3ay5SHKAXogdW3vjR2pPp8I2Lr%2BbKwTZkecovVR%2B1nb0rwuuoZiRey9ou738U7NNzx1hbmEFOI6fwBIhf4Nor3dSZwf3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl06IH%2Bg%2FFi4QvPtjwGyVW2rIakL8Jkf6pU9I0LjWzj68I0A909I9DpiB830gSWXnYDh0kg%2Bgh1hw41Oc%2FJOK1d%2B9JDhwbfBEywnAqilhk%2BwyziMKPaNhT8fRKa9%2BbyTmj8YugU1MX8snIyB4LA%2FogfPGZW47FVcUvDENI2HuIbVP5coJIsSboRKwfoDGtc%2BUB%2F7vY%2BfXmrH8JihfbOHmGUts%2BvWe%2BGYXtyHOrMmCMx%2F7YYB0S%2B7lOUGxPdxnkxQgX%2BaJj7Ef8%2Bi4ASEJ4%2FAcDNv5LF6c19FsYLJiox4utMBGj7dSiPs7CUvFI%2BBw6boQVmfAl5dudTqZlos35c9ihFnDUdny5rmill6X8b6CSHRRFmihgzW%2BR9Ml1uJLQFweuhzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=50165831873&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 PRO 1TB MZ-V9P1T0BW",
+    "image": {
+      "file": "samsung-990-pro-1tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v9p1t0bw/gallery/au-990pro-nvme-m2-ssd-mz-v9p1t0bw-533718266"
+    }
+  },
+  {
+    "name": "990 PRO M.2 NVMe 4TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9P4T0BW",
+    "series": "990 PRO",
+    "released_on": "2023-10-01",
+    "summary": "읽기 최대 7,450MB/s 의 PCIe 4.0 NVMe 플래그십 SSD",
+    "description": "삼성 자체 컨트롤러와 V-NAND 를 쓴 PCIe 4.0 최상위 SSD 입니다. 게임 로딩과 대용량 파일 작업에 알맞고, 5년 또는 2,400TBW 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "4TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,450 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,400TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 4000,
+      "seq_read_mbs": 7450,
+      "seq_write_mbs": 6900,
+      "tbw": 2400,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1499000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1499000,
+          "title": "삼성전자 내장 SSD 990 Pro NVMe 4TB MZ-V9P4T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=y%2FL5GhTtOmF8HAD2vkvfoP%2F%2F%2Fw%3D%3DsDLLQf%2Bqf44bKaHGeVA0pLp8hL%2FrmKbok1BIOPHSsSeWEQRj25iNr3i%2BHcW1mGd3ubM68LfRm8bE2JjnSBIyYaOUNr9tvk%2BTgP%2FONDbaX0mIOurTaekxiF0fmuxhgrNp3%2BpYaGenIBBFLMbuNvjRtLBxaVcu3S2A1fnlZdOC%2FYLgGO7Yf2%2BV%2F7v9WBVQFJ4cWiuI%2BTE8BeOTYtfzCaq0oNGzhGs9534FOActJw3qQvQhwR9OE1cgbMfUxsfYuUQl4J%2Bu%2Fsl%2FCf03EFoK0xT3xNpiIjedY5oRJDvI5MTAUyfxr6kdrp7BvT8OlwZ7P37YyZp%2FuhVWf5tMOyu5R2EADu1lSBGW9vcy37nKDeJHt3Pv00FGB%2B3AYwMfDQ%2FVQu9IbjKQFOHIRnJxFCQIFxwuPRgZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKQddSq35FX2iWhZhdwndaYAtjRrFSRJIMuZIIEwJwjlZ77JnBV%2Fl3nCdBaJx848km%2Fn1jElTcUO7bY7oKjMZX75E4Uyml6I46dUxlIgJm8u3xQyw0shs0ply4oZXI%2F5maso6b27dYJGSrF%2BDEJa128vqePlPotHjq8z7QlY%2F%2Ff2qD%2B1GzYyCQAVsDO6ulMSblravuf7t%2FtRuD64LxazvyrvwnYXwtXTyxOu2%2F%2FFaKBJcihK%2FbiOoWc5BjecKv%2FY2OIKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=88787545378&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 PRO 4TB MZ-V9P4T0BW",
+    "image": {
+      "file": "samsung-990-pro-4tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v9p4t0bw/gallery/au-990pro-nvme-m2-ssd-435778-mz-v9p4t0bw-538412053"
+    }
+  },
+  {
+    "name": "990 EVO Plus M.2 NVMe 1TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9S1T0BW",
+    "series": "990 EVO Plus",
+    "released_on": "2024-10-01",
+    "summary": "DRAM 없이도 읽기 7,150MB/s 를 내는 가성비 PCIe 4.0 SSD",
+    "description": "PCIe 4.0 x4 와 5.0 x2 를 모두 지원하는 보급형 NVMe SSD 입니다. DRAM 대신 HMB 를 써서 발열과 전력이 낮아 노트북·소형 PC 에도 잘 맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,150 / 6,300MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7150,
+      "seq_write_mbs": 6300,
+      "tbw": 600,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 331000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 330977,
+          "title": "삼성전자 삼성 990 EVO PLUS M.2 NVMe SSD 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=qta4fmNUKmIx9eZ5qZkvW%2F%2F%2F%2Fw%3D%3DscyZFo2zrW5v0DJF7A5iV26vy7CnE5JEi5jYInqGPf2poKpxV5B8b3KMWFpGbtn3Rh4z8KFuIdLTDC1OGN0L6fzOYLuT8jM%2FAk2OMVto%2BQ2hTL9ostpiMhFXlKu8CDGFHc9nZ9HX1t%2BqqvZlWNiWseVvFKGd8Qw72b1%2BF3NPOSKBqincWWJa45AO5JE8CJ1K8y%2F6MHZ6u%2F5n6uuzlUc6JNCAYTv5lq0qN%2FmER%2FVdy2QqZz5iJRMnl4KhkiwBvuYQs4RvgFsF1jGgBoinxmpEh7B1J7%2BSQOXt2tLOOteG4pQk74ig%2BPLVDzZADfolLW1082%2BkwvuRbL6qrO2ngB6H58S4x275olEfy0iivcJ4KLVTzzniTLqrdSuwLGyMmIIAnO3FAFUYtWN8eyc%2B2sJPnzFnT%2FnLUcgiwxRqHDNeQNWEHs%2F2PHkpmvWjL2qy1nHubtRWzrifKugXMrgRox6XwoKxKQCwa1zzGk5BRX95v2xT1QQzCLreNp8sjPDBjStixZwzPFpjECKtmWt0IhdYWmM0GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtnPDyMdPNH%2F8XW4nDrXxO7exopbOZUMYfW3GkfVUHks3uvs7juqwqts%2Fh5j4Ws15mvUDDG%2Ft8eSUrKn%2Fh70xVonvyv8H4HZwxp0aH%2BTEPCDvbh4GVbRhIQ%2BzJiZvgkkRYlhhyTi7gdSx4LCOqN7SuxXiebX%2FPCy5174kB6yCdPQ9YuKpeABoWlDya3F6dUD9w%2BgtF15PMkmjkNDmi88yMRY%2F72vf%2BcOoA7yXF6Dlqb4SP1WT4d34R6DUGYaUf3fNvDhLBwu%2FFQS5xWYf5w6G3jQ%3D%3D&nvMid=51929542454&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 EVO Plus 1TB MZ-V9S1T0BW",
+    "image": {
+      "file": "samsung-990-evo-plus-1tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v9s1t0bw/gallery/au-990-evo-plus-nvme-m2-ssd-mz-v9s1t0bw-543796191"
+    }
+  },
+  {
+    "name": "990 EVO Plus M.2 NVMe 2TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9S2T0BW",
+    "series": "990 EVO Plus",
+    "released_on": "2024-10-01",
+    "summary": "DRAM 없이도 읽기 7,250MB/s 를 내는 가성비 PCIe 4.0 SSD",
+    "description": "PCIe 4.0 x4 와 5.0 x2 를 모두 지원하는 보급형 NVMe SSD 입니다. DRAM 대신 HMB 를 써서 발열과 전력이 낮아 노트북·소형 PC 에도 잘 맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,250 / 6,300MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7250,
+      "seq_write_mbs": 6300,
+      "tbw": 1200,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 864000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 864000,
+          "title": "삼성전자 내장 SSD 990 EVO Plus NVMe 2TB MZ-V9S2T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=WGx4XcrPheKi69%2BH10FhUP%2F%2F%2Fw%3D%3DsAC72kWt72d1WSZlAcOntll5qB%2BKwWrRSOXjru5BxkAASNdTlJT%2FoSOEDc%2B9B6FjVBh9XsdoSPt9E0UANCrKrJVworATYZVKxx1jBpPgjZrd7hkIizEIC3jRCJFraYRKauflatLJPKrd7Cuo2teUisodyZYZADhZeppeLLuB2fFSZp%2Bdwhtlt0IXMSDJrIQAnRL6iu0rN9ANYEXkZX8p%2BoSEm%2FeWMmjv1VUimPr%2BbdY6YgVtjNEjJfib9UCvQlMEKXoLz97T%2F99UoSN8HQH%2FYbpCPaBZbc%2FV2tmrHQ5T1G1DbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhUQ6cpKTqlmYGalnAZlcEQ0eIUzjTfkQMsxuUwJAHqsM9NBRgftwGMDHw0P1ULvSG4ykBThyEZycRQkCBccLj0YGeo7MLb2Y6XfS%2Fw97ypcEGjknALtUeizEszgRv2reWaRQA1EP4tYIvqt%2BrReCSine7h61gdLqaFl7zd8B4rbNLY0axUkSSDLmSCBMCcI5We%2ByZwVf5d5wnQWicfOPJJs26VblDwqzUTAhTrYVeNRHk3P0Mx1kQ85zqLNlDmEVFTTOhpqDKCxT9i13xoIx%2FXP0NBnHu7D5YXIHCbL8Huc3Frc6DjE4qU12EVNkmZsmnSmEzheSrB6vooBgHNaQHmdeNEX2M3odzqhwQ9pqCAqVWt4qLBRQuNGGa6xEVJqLobREY41yfgU01ILHWEdZiwpoaKZHilHbuauHUigNM5KA&nvMid=88801131372&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 EVO Plus 2TB MZ-V9S2T0BW",
+    "image": {
+      "file": "samsung-990-evo-plus-2tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v9s2t0bw/gallery/au-990-evo-plus-nvme-m2-ssd-525138-mz-v9s2t0bw-543796407"
+    }
+  },
+  {
+    "name": "990 EVO Plus M.2 NVMe 4TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V9S4T0BW",
+    "series": "990 EVO Plus",
+    "released_on": "2024-10-01",
+    "summary": "DRAM 없이도 읽기 7,250MB/s 를 내는 가성비 PCIe 4.0 SSD",
+    "description": "PCIe 4.0 x4 와 5.0 x2 를 모두 지원하는 보급형 NVMe SSD 입니다. DRAM 대신 HMB 를 써서 발열과 전력이 낮아 노트북·소형 PC 에도 잘 맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "4TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,250 / 6,300MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,400TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 4000,
+      "seq_read_mbs": 7250,
+      "seq_write_mbs": 6300,
+      "tbw": 2400,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1400000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1400000,
+          "title": "삼성전자 990 EVO PLUS M.2 NVME 4TB SSD MZ-V9S4T0BW 국내정품",
+          "url": "https://cr.shopping.naver.com/adcr?x=umz3y6BO5kk%2BK5Bk90AViP%2F%2F%2Fw%3D%3Ds2347FwvwUOT%2FMHpSu4z24JL9lXok15NuiUlc5%2FPCAOxoKpxV5B8b3KMWFpGbtn3RK4pjWqrLDxWUB%2FWi4rGtV3hsTSKZ%2FYGfyORzt2NMM16ukv3DWrJoj9P9FYfn1%2Fzg0P2PTkIWK8J2PCi8lGmIA8yOdLURYfCSxR4XiwGukUPamMZHqodH8fKVbgnduW4ixUiFRNirYnXAXhdwoPYA5aQ4Ddlq14b9jx4rHBfUTQ3QnuU4MxWCvbSCXG2ZkuYTPWArAWFeeWWgqqfex3sIAecs5Fm%2F2OtMjUhqExrmahR%2BLGBChkBl7CNt0uFnesGdJV03cukp%2F9sq6JmLvPVclBqLDmOGBVjG%2BXhZWqLsSGeYqhVPV7DBQchavU8xyKvCf5S5ycDGuwbfEdv1A6kKwlfqUo3F7gYyEovMwptqX9jYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqY6uIZgBHS8XUgJK%2BUn2lPxjESVj%2Fa3I9UfNPlxLFv7G68C4bLtluSjM2viK%2BNU0nc8FM36388B5%2FFh8XzAAkKR6saXnGGssyDTu87sjJhGNBn0tZOHpfISPf3ZVwFIOpS7yPbBw%2FeMXSRMssuClgBL9FNjdrJacckElGG7fyhuUX1aTrlq6NnHDGbLguG4mYGw%2FFEqg7RU7%2FxUxt5EkA%2FYOMi0XzpdQOQuTH4Cah2Kqkm%2BgCs%2F4sNDhNoIMqYHtovcRllPrhJYGJLDdg%2B1XEZoDfkLIyuldBS3f8m8e6nLmzUhNzs2VE%2B%2Bisqs3JAEppg%3D%3D&nvMid=82067408383&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 990 EVO Plus 4TB MZ-V9S4T0BW",
+    "image": {
+      "file": "samsung-990-evo-plus-4tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v9s4t0bw/gallery/au-990-evo-plus-nvme-m2-ssd-525138-mz-v9s4t0bw-543796424"
+    }
+  },
+  {
+    "name": "9100 PRO M.2 NVMe 1TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-VAP1T0BW",
+    "series": "9100 PRO",
+    "released_on": "2025-03-18",
+    "summary": "읽기 최대 14,700MB/s 의 삼성 첫 PCIe 5.0 PRO SSD",
+    "description": "삼성 5nm 컨트롤러를 쓴 PCIe 5.0 NVMe SSD 입니다. 최신 메인보드의 Gen5 M.2 슬롯에서 제 속도가 나오며, 고부하에서는 방열판이나 메인보드 히트싱크를 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,700 / 13,300MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4X DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 14700,
+      "seq_write_mbs": 13300,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 401300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 401280,
+          "title": "삼성 SSD 9100 PRO M.2 NVMe MZ-VAP1T0BW 1TB_K1",
+          "url": "https://cr.shopping.naver.com/adcr?x=Li%2Bad0E%2BB%2BRsNjtV3%2F7Rf%2F%2F%2F%2Fw%3D%3DssAqV122NStwiFkvev7MyCHcfL5wJyuasmt6zk7oUeppoKpxV5B8b3KMWFpGbtn3RM6S%2BHYKRBmOqWBLq4AFYxtIcF30EamjCbfIncSu6tM7MTP0%2BR0tnDI%2Fnkm23wMZGeLYS%2F6oiZu4LwQfUXXGpnFFlz2a0QodWIS1KMX0OdohFfFS1PpxnbX%2FPRD34QKfu1Uouy0Z18JtbU4d1iL8JzmpIq0J7pz2QnHYQJMyfaW4DxTfChFEOPpYFJAJkepla2GNvvKS8vtbLBsMiQ08ZlhjEWvck1A8hhHyQDb%2FvCtg9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqrZoLQqQluLP4auH8%2Bv0AP7ArwJXBU9JLjUEn6KqhGOHfJN3pu6Fvm5Qv%2F3zrIZEchjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2Po3M4sdTc0GWMnHpYsmUkgRHm9k8cyuwRAsSKm7WlJcKg6GZhbOk9CFujh1XEXiv1%2B1zTuQZ0atCiPGmF3o0xav3CUBRbGJ0DJbTm4OsMbCt3oFiq5jhEzDOXN1c6jCb2v7M13HsMXNLiZY3omTHo0s4ALkcaTXJoPzCKO9tr1FtlNzdJFgkoR1MOL3Zb6EWFjupZyJ71dhQMs7koWPTu0oYLzcx1fZ1%2FVeNt1ESw0Ybke%2FVP%2BgM94BPZkP5YJ%2Bex&nvMid=62082332829&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 9100 PRO 1TB MZ-VAP1T0BW",
+    "image": {
+      "file": "samsung-9100-pro-1tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-vap1t0bw/gallery/au-9100-pro-nvme-m2-ssd-mz-vap1t0bw-544968575"
+    }
+  },
+  {
+    "name": "9100 PRO M.2 NVMe 2TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-VAP2T0BW",
+    "series": "9100 PRO",
+    "released_on": "2025-03-18",
+    "summary": "읽기 최대 14,700MB/s 의 삼성 첫 PCIe 5.0 PRO SSD",
+    "description": "삼성 5nm 컨트롤러를 쓴 PCIe 5.0 NVMe SSD 입니다. 최신 메인보드의 Gen5 M.2 슬롯에서 제 속도가 나오며, 고부하에서는 방열판이나 메인보드 히트싱크를 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,700 / 13,400MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4X DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 14700,
+      "seq_write_mbs": 13400,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1000000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1000000,
+          "title": "삼성전자 내장 SSD 9100 PRO 2TB MZ-VAP2T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2FTAB6inM99b2bgBueaN9a%2F%2F%2F%2Fw%3D%3DsAyXvK6lVn4bOX%2B6%2FauR5eVI%2B1AJBwGHM0vBvFLW%2FwqZoKpxV5B8b3KMWFpGbtn3RAQ8ufyRHD7mS6q7o84NygyYneMR5%2FblZNOPYQBQ792kNcEgs%2BouQzWNicSzxF8pbjZwh%2F%2B5DAAttnS1prgC70%2FOjA0EtuzpRgcVMZ6cefFU0jDedeEDDLrddZQfm6x7mS4b%2BJwVjer2EZ2Ouj36fFFX4pjU2LihwHArMxy2qHSWHcwDV%2BKMRa9%2BkcP5aMPhLX7AmuGTNb9DfOJy07GCdvBSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyMJ4gYS5MvhGIw4oG3c%2FoxpRqbeUrFtXya5XzItmUZiAt%2FiuVdhvZEJrGj9MWUC%2FxqVOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MD1vo1PQfhcUmUn5lxVHKffjKXG%2Bu8VrMjYErJ8VKUvDD2F8fzexXzE1%2F1diJBMaB9i0HSnjXtu7eZlnjJQ5XyngqnbkkY3S7%2BlTIsPmTxcTTCxe%2BtWrpKZXMEFFJZDLL%2B%2BfpudJBSsn8vBprB1bP0esc4RGEgNRMCvl3Hxj9O3qD%2B1GzYyCQAVsDO6ulMSblravuf7t%2FtRuD64Lxazvyrvt61Ow38uhbdW0U2p6Lsj1Ptyq2bizBbdd%2BRb6CktSSYKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=89232019150&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 9100 PRO 2TB MZ-VAP2T0BW",
+    "image": {
+      "file": "samsung-9100-pro-2tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-vap2t0bw/gallery/au-9100-pro-nvme-m2-ssd-mz-vap2t0bw-544968592"
+    }
+  },
+  {
+    "name": "9100 PRO M.2 NVMe 8TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-VAP8T0BW",
+    "series": "9100 PRO",
+    "released_on": "2025-09-02",
+    "summary": "읽기 최대 14,800MB/s 의 삼성 첫 PCIe 5.0 PRO SSD",
+    "description": "삼성 첫 8TB NVMe 소비자용 SSD 로, 두께가 두꺼운 PCI-SIG D5 규격입니다. 장착 전에 메인보드 M.2 슬롯의 높이 여유와 히트싱크 간섭을 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "8TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,800 / 13,400MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "4,800TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4X DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 8000,
+      "seq_read_mbs": 14800,
+      "seq_write_mbs": 13400,
+      "tbw": 4800,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 3975000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 3975000,
+          "title": "삼성전자 내장 SSD 9100 PRO 8TB MZ-VAP8T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2BF8czdOxQ20FtVhAwMZtMP%2F%2F%2Fw%3D%3Ds4Y9bdgCUVcXD2a2LVAwCKD9Z%2BMTKAnm7FYyAMKbae0xoKpxV5B8b3KMWFpGbtn3RTW5sqAiq6JjefRXQei5TH0avjo%2Forg%2B1DFcX6BBStHKqX%2F%2Fe20mra%2FRkUcll5ipreWHTyykRyY%2Ftwd37VN%2F%2FK5TCBupXJMg9gXON5B2bFXmJMZ1se%2BpOdDxINJ9x5fApS4b%2BJwVjer2EZ2Ouj36fFCPf%2BgTaQqunUDfh1VLoARC%2Bn2atKIRJPCcIoHyfYEjuX7AmuGTNb9DfOJy07GCdvBSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyIIluUN6eP2Fn3GWYkC20OFRqbeUrFtXya5XzItmUZiAt%2FiuVdhvZEJrGj9MWUC%2FxqVOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MFS3%2FbpQyj9S%2FbFdqreJVWQ9YKCTNZlann9N9zg9C%2BSiD2F8fzexXzE1%2F1diJBMaB9i0HSnjXtu7eZlnjJQ5XyntqnOqfYzG95b6CtGL6VkkJ%2BwWy7%2FGuxIWlcsQ1m53l3oTMCja41ZPioK36S0DDhY0dikboopXrAtTU0z4EwDXD%2B1GzYyCQAVsDO6ulMSblravuf7t%2FtRuD64Lxazvyrt2VKKU8Q7j31nk8g7uWwiSckdOvwrCv%2BAOFu9EL%2FHAiIKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=90009308817&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 9100 PRO 8TB MZ-VAP8T0BW",
+    "image": {
+      "file": "samsung-9100-pro-8tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-vap8t0bw/gallery/au-9100-pro-nvme-m2-ssd-537091-mz-vap8t0bw-548619550"
+    }
+  },
+  {
+    "name": "980 M.2 NVMe 1TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-V8V1T0BW",
+    "series": "980",
+    "released_on": "2021-03-09",
+    "summary": "DRAM 리스 설계로 값을 낮춘 PCIe 3.0 NVMe SSD",
+    "description": "PCIe 3.0 메인보드에서도 제 성능을 내는 보급형 NVMe SSD 입니다. 사무용·게임용 부팅 드라이브로 무난하고, 5년 또는 600TBW 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 3.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "3,500 / 3,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 3.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 3500,
+      "seq_write_mbs": 3000,
+      "tbw": 600,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 389000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 389000,
+          "title": "삼성전자 내장 SSD 980 NVMe PCIe 3.0 1TB MZ-V8V1T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=k588MuzIZuLPLrrItv6lwP%2F%2F%2Fw%3D%3DsnXP8fXlGUp8WXaroX5loCy96z5Ts%2B%2FoHHlmC9g16y%2BBoKpxV5B8b3KMWFpGbtn3RlY08pGnSdFN%2B3zNF31G4fnGml%2F%2Frw7BL%2FJoSbFK7eNMDwZvsUuZ%2FuV0%2F5adh8GSdcDzY06huOfYLjVC1Z8GmqI2H%2BtAmUswSjynxHIF4w2onF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskS%2FJrvTHn8rXZ%2Buj2Y7Cggnpqfyn%2FSJFQwsB1cPwWTCm76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFn4nkKZrnZoqHEJLr8hsCiLTQfKYn20PDjucDHqlB2CNpcQ9JNInFJ3gONrE6ztrcNAPdPSPQ6YgfN9IEll52A4dJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FCaWlUU%2FdXyB88cw4545hDBmVuOxVXFLwxDSNh7iG1T%2B7kM5FL2DbDbcCrnzpPVOtjgHkioNO9o%2Bxk5aDHjco4g3yGHsTcfixsuUnm8g2KtzQfSTJWTidQusBtgfIDVNNt2UQ2knQTK9ue%2FuqlipkaqpSQ5e%2BpbdbuPeaMp4sFrva1jS8Ua1hwiaLnWMxworxl6xzi7PrdjGYRiN%2Fqq3SMpqAKVh5n2lYLci6Wi2ox7nZ6JdX2MELFElZNSvHB4mXMtVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=88787374582&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 980 1TB MZ-V8V1T0BW",
+    "image": {
+      "file": "samsung-980-1tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-v8v1t0bw/gallery/au-980-nvme-m2-ssd-mz-v8v1t0bw-390936920"
+    }
+  },
+  {
+    "name": "870 EVO SATA 250GB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-77E250BW",
+    "series": "870 EVO",
+    "released_on": "2021-01-19",
+    "summary": "오래된 PC 업그레이드에 알맞은 2.5형 SATA SSD",
+    "description": "SATA 포트만 있는 데스크톱·노트북의 하드디스크를 바꾸기 좋은 2.5형 SSD 입니다. 속도는 SATA 한계(읽기 560MB/s)라 NVMe 보다 느리지만 호환성이 가장 넓습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "2.5형"
+      },
+      {
+        "label": "인터페이스",
+        "value": "SATA 6Gb/s"
+      },
+      {
+        "label": "용량",
+        "value": "250GB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "560 / 530MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "150TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "SATA",
+      "form_factor": "2.5형",
+      "capacity_gb": 250,
+      "seq_read_mbs": 560,
+      "seq_write_mbs": 530,
+      "tbw": 150,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 164100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 164120,
+          "title": "삼성 870 EVO MZ-77E250 SSD 내장형 SATA 2.5인치 250GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=YQPvmThr7DDvQsEwhoJjPv%2F%2F%2Fw%3D%3Dsp%2BvPWyRS2vZRZ7SKc5imJ4qascBJopomh8ulT8jICpcSNdTlJT%2FoSOEDc%2B9B6FjVSLUxRV7lvX0hcTlNWfpzySZweuFpm5i6UppyUTGrsxv%2BDhJFG%2FK58wfAvdlqPDVq9pLUuzBD8FD0X%2F2K5yWWMz0jJQkaQU6Gv7npzfGLNSJRThlH6yATwFOS64CYiWE3vODkui2Jtlaz3oVo5bv6d44%2FShgVuvWRA99Hg9g1xpA%2FnERBrHXMJYLOuJ0zkmKVPWArAWFeeWWgqqfex3sIAQlffNBsS082ZOfWfHe5e9DDpmNu2Rs3tEPrV0ZTODsbWqyaFa2xLbpwGCJChqMDqrccw9%2FcE0%2BVRetqeTb8GN7zA4mEVbAXhWllUWO%2BukvxdOOMXfd8W0smlm2hXCzKdgvpz95zqRa%2FYCDEaaqKhb%2BBjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfN%2BkrC4wRXEG%2BX0UJdB7PlhK%2Fsf7MAM7%2BUMjIuMwlGXHCg%2BNxmEqzvebvjR9sZc50Hs5EhxH%2FRJurb9ieRLc4qHdKrDOSb0xbwvYZqa2AyeMfWaNUZ1PX9mEzt%2BlMrTL8LaG7VnuuBQtmqB994R0SNl%2BDbjFXbe06fbk1yZa5lUHQA%2BJCMgEZWb8UT1sYL4Nm5AJTisD2oQhMmHfRPpWpo5XIgA74u1DQNkTL%2BpTS749vx7Udy%2BlaAyfbKkAfIghNygv5ZRjRlImpLVqySHLVksdHI8FZtQVGFZJxOyBDKc%2B&nvMid=91218420075&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 870 EVO 250GB MZ-77E250BW",
+    "image": {
+      "file": "samsung-870-evo-250gb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-77e250bw/gallery/au-870-evo-sata-3-2-5-ssd-mz-77e250bw-366976512"
+    }
+  },
+  {
+    "name": "870 EVO SATA 500GB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-77E500BW",
+    "series": "870 EVO",
+    "released_on": "2021-01-19",
+    "summary": "오래된 PC 업그레이드에 알맞은 2.5형 SATA SSD",
+    "description": "SATA 포트만 있는 데스크톱·노트북의 하드디스크를 바꾸기 좋은 2.5형 SSD 입니다. 속도는 SATA 한계(읽기 560MB/s)라 NVMe 보다 느리지만 호환성이 가장 넓습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "2.5형"
+      },
+      {
+        "label": "인터페이스",
+        "value": "SATA 6Gb/s"
+      },
+      {
+        "label": "용량",
+        "value": "500GB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "560 / 530MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "300TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "SATA",
+      "form_factor": "2.5형",
+      "capacity_gb": 500,
+      "seq_read_mbs": 560,
+      "seq_write_mbs": 530,
+      "tbw": 300,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 284900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 284900,
+          "title": "삼성전자 정품 SSD 870 EVO 500GB 당일발송 MZ-77E500B/KR 안전포장",
+          "url": "https://cr.shopping.naver.com/adcr?x=xjvx51TPmeRdvua%2B4cTngP%2F%2F%2Fw%3D%3DsSTqNE3lktkcumVLJmJFSc40DgHyDdapVnkhXgcwaaCYmxTuovQirO6JNG1KjnPHwz35O%2FcHHq0kCuw2LcztgOiM%2BvV%2F%2BgcY5Ut5OChRN4npqw%2Fm4V%2BeFuZLwPKQ6QZ7kn5WKi42oHydxSGGv1RxBOr7yEJlE%2FtIXxATzZ9Un4DlazrhErLzJqFbe3pfsio%2Br5rQ7ZNfsYgNlbd17y%2BNTzMCJBOANacGmdczcA6TNzEMt1CNne4n4k7Eg2S%2FqLGEEX7AmuGTNb9DfOJy07GCdvBSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyCPoCkg5Q53C8QlmwOZPXEmiddc2gmMTv5sblTBXifWNmMkmCDqyiPyygR1lQ6EW7y6trS6bJ7AbexTXoEJhTKamjZjbs4zEKFHV5nEjgJ0B8vzGvMCb8%2F1cx3qt0wt2Z%2F%2BHgIHVZTgRVJQR%2FMwuU1JmthHLgC8eOPBpfSKstztccz5b1RT411ovy46Jx2%2B%2BUiDbahtkrvn19SlGl1ENn8oKobD7P%2FMFmUZxaz%2BomETtHee%2BoPxud7Ht1yJ7%2BfpY5UtRuS%2FCYqbIT8zoTUH84solowCfHx36vl5dB4OyIXHxh5%2Fm2qebuzyYA5558%2FBvyR8Cb90xt3h80BEAriOUqgMVEsyETTnoic7ayRnYc9IyWLEUYmCVOwAJTWsPMCNwIvO%2FFwRC8dDAyq623rJWtSxjtEEnHZo%2B%2FVuCJHvsmHjrDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=82978048510&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 870 EVO 500GB MZ-77E500BW",
+    "image": {
+      "file": "samsung-870-evo-500gb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-77e500bw/gallery/au-870-evo-sata-3-2-5-ssd-mz-77e500bw-366976593"
+    }
+  },
+  {
+    "name": "870 EVO SATA 1TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-77E1T0BW",
+    "series": "870 EVO",
+    "released_on": "2021-01-19",
+    "summary": "오래된 PC 업그레이드에 알맞은 2.5형 SATA SSD",
+    "description": "SATA 포트만 있는 데스크톱·노트북의 하드디스크를 바꾸기 좋은 2.5형 SSD 입니다. 속도는 SATA 한계(읽기 560MB/s)라 NVMe 보다 느리지만 호환성이 가장 넓습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "2.5형"
+      },
+      {
+        "label": "인터페이스",
+        "value": "SATA 6Gb/s"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "560 / 530MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "SATA",
+      "form_factor": "2.5형",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 560,
+      "seq_write_mbs": 530,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 419000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 419000,
+          "title": "삼성전자 내장 SSD 870 EVO SATA 2.5인치 1TB MZ-77E1T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=S81BIQ%2FHmit6DbZPGoA1Kv%2F%2F%2Fw%3D%3Ds6F9ylEemWDFy7RhQR3ttgGaXyLyei0YHXAxlwo1GR94mxTuovQirO6JNG1KjnPHwgXvSYfhpT5DnaXe9qKwtU6%2FwEzJISDk4I5x1VrMm2kESf5GXljX0Kxax4dqWRPg6dMsDS%2BmH7PqtvBl4Jikv1StpHqzubp3tI1HZ3zr2HPYwFsBRMuERzOt%2Bjqj4UJgn2SgNmFlPITY%2BonMsYDjA7gfCZhZeEuFzXBPY6bEMt7MZA4tVZzUWn%2FMdEl7svQfQgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSeg3daKsOqx6K3ayhcL9exMzq%2BlPPRkO%2FIGWiBaKQdoHrENIzn2g3RoDj0vNkRdwEz35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAJiD4Hj9G5Vta%2F%2BrnicuHttzVtOsmcs9dXMHQ3xuZLacNUunT4pDTL0K1bB0DrTS3QH7npyrFfeOiaTluSqKGXyQhypzWo885kGJPnmsbYZatwSxnGRVS%2FxcspRwhG9Tv801dlgQpLIcPkvWLJdd9G69EF%2FC%2BfcDojQNXsGWIVz0Vod9aouCLw6NnyeULZjMYd%2BIb8f7hDGtHmgr6kzFqtcXmIETS1OV90EhqF3I5S4TPu56Qme5elYLPoS4lMo2ZG9TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=88768907774&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 870 EVO 1TB MZ-77E1T0BW",
+    "image": {
+      "file": "samsung-870-evo-1tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-77e1t0bw/gallery/au-870-evo-sata-3-2-5-ssd-mz-77e1t0bw-551461770"
+    }
+  },
+  {
+    "name": "870 EVO SATA 4TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-77E4T0BW",
+    "series": "870 EVO",
+    "released_on": "2021-01-19",
+    "summary": "오래된 PC 업그레이드에 알맞은 2.5형 SATA SSD",
+    "description": "SATA 포트만 있는 데스크톱·노트북의 하드디스크를 바꾸기 좋은 2.5형 SSD 입니다. 속도는 SATA 한계(읽기 560MB/s)라 NVMe 보다 느리지만 호환성이 가장 넓습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "2.5형"
+      },
+      {
+        "label": "인터페이스",
+        "value": "SATA 6Gb/s"
+      },
+      {
+        "label": "용량",
+        "value": "4TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "560 / 530MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,400TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "SATA",
+      "form_factor": "2.5형",
+      "capacity_gb": 4000,
+      "seq_read_mbs": 560,
+      "seq_write_mbs": 530,
+      "tbw": 2400,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 2003300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2003280,
+          "title": "삼성전자 870 EVO 4TB MZ-77E4T0BW 병행수입 SSD",
+          "url": "https://cr.shopping.naver.com/adcr?x=Tp5USP714FXlMfHUmeyjiP%2F%2F%2Fw%3D%3DsvEUU6fANgiwYpk6W2y3Pq%2FKQo6q0s43MK10JIKwCfagmxTuovQirO6JNG1KjnPHw2LryFkGcBBscvZTBuOf6I9YdBaZG4BOHArlreYF1UxBs92atTrBEQLPTZ245fJHUBN%2FSk02%2FtfPDDjWZ%2BKFSXPvVXcC6%2Fc54IDAECD5rkDIwFsBRMuERzOt%2Bjqj4UJgn2SgNmFlPITY%2BonMsYDjA7pI0lFben0VWG31JT96kVS3JeIQm%2BPzjP02DNvg5UtKm90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdJPRIZ8MIfsUhmCXbcYAY3pV7DJX3slKqMBpeCNaoqn1cLeydLLrSXPJdPMDbhlI6v8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hZ5bKPE2KxqCh2uXeikFSGlDu2wgB9LTFCcYj5vXsSwtHBNe8Ur74xgJiCl16Jd8QQDy9LSSbhRERiml0qNVo8uF13cMnGiOz9E79lWlBMN1EJkH2sxEL13K6ONYBCS5fX5X%2FOQ%2BxYq%2B4TZ4900AH8TmtqMqRD47rZJt7ZI9aZLysQocLEGGa0wsleHc2pFkrdlegYCXp9a8JLFDcL1NoZpXtK%2BIRX00jPgjbLxXWHWSvtOHRzeGmnmZB0Of7HcozYVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=83872834471&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 870 EVO 4TB MZ-77E4T0BW",
+    "image": {
+      "file": "samsung-870-evo-4tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-77e4t0bw/gallery/au-870-evo-sata-3-2-5-ssd-mz-77e4t0bw-366976566"
+    }
+  },
+  {
+    "name": "870 EVO SATA 8TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-77E8T0BW",
+    "series": "870 EVO",
+    "released_on": "2026-04-01",
+    "summary": "870 EVO 라인에 2026년 새로 추가된 8TB 대용량 SATA SSD",
+    "description": "2.5형 SATA SSD 가운데 가장 큰 8TB 모델로, 8GB LPDDR4 캐시를 갖췄습니다. 사진·영상 보관이나 NAS 가 아닌 PC 의 대용량 자료 드라이브로 알맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "2.5형"
+      },
+      {
+        "label": "인터페이스",
+        "value": "SATA 6Gb/s"
+      },
+      {
+        "label": "용량",
+        "value": "8TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "560 / 530MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "4,800TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "SATA",
+      "form_factor": "2.5형",
+      "capacity_gb": 8000,
+      "seq_read_mbs": 560,
+      "seq_write_mbs": 530,
+      "tbw": 4800,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 4575000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 4575000,
+          "title": "삼성전자 내장 SSD 870 EVO SATA 2.5인치 8TB MZ-77E8T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=gmizLiZI%2BbZ5F0NMNuz1NP%2F%2F%2Fw%3D%3DsumyK0ZUuR3oit3TNEh3cAW8%2FtWzdGSrXq2uCZyYnwFAmxTuovQirO6JNG1KjnPHwOYKZ74BjC26CCqc%2FxYYV%2BlAL7kspGSjZ3Bhs0lRzSttp%2BlazYUKRtu4WqDq0SYp8h37aLWdD3SQ07v%2Bx6%2FDF9KGjOf0ZBDbMCi%2FmH2RKq5cwFsBRMuERzOt%2Bjqj4UJgn2SgNmFlPITY%2BonMsYDjA7jtLgWcNL05DxQ6uKXWnTO4Pje8pczizZYyzHv2DTZIugy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSevaqyyTTcb2pGVkl8z0pqmbq%2BlPPRkO%2FIGWiBaKQdoHrENIzn2g3RoDj0vNkRdwEz35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seALpTqEusXIjkfNCMqhTzldZzVtOsmcs9dXMHQ3xuZLacNUunT4pDTL0K1bB0DrTS3QH7npyrFfeOiaTluSqKGXyQhypzWo885kGJPnmsbYZadSaJDFgE5us5K85fnRQyyc01dlgQpLIcPkvWLJdd9G7BO2xmKyWV59Hm7WC%2BgYi6gLJ8g6i8o3secaMNf4BPYHINeNvMVFibfQeNb0I7pVXS5kXj2oibRBlhKVZkHeC163J%2BsJxFAK1JJncQLywJU2wi41qlR%2B%2FiSWmZZkhRjRgGruH08DlKshetxY8KUEZb&nvMid=90719777508&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 870 EVO 8TB MZ-77E8T0BW",
+    "image": {
+      "file": "samsung-870-evo-8tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-77e8t0bw/gallery/au-870-evo-sata-3-2-5-ssd-370547-mz-77e8t0bw-551513915"
+    }
+  },
+  {
+    "name": "Platinum P41 M.2 NVMe 500GB",
+    "brand": "SK하이닉스",
+    "category": "storage",
+    "model_code": "SHPP41-500GM-2",
+    "series": "Platinum P41",
+    "released_on": "2022-05-11",
+    "summary": "읽기 최대 7,000MB/s 의 SK하이닉스 PCIe 4.0 고성능 SSD",
+    "description": "176단 4D 낸드와 자체 컨트롤러를 쓴 PCIe 4.0 NVMe SSD 입니다. 전력 효율이 좋아 데스크톱과 노트북 모두에 어울리며, 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "500GB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 4,700MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "500TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 500,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 4700,
+      "tbw": 500,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 338500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 338530,
+          "title": "SK하이닉스 Platinum P41 NVMe SSD  500GB Platinum P41",
+          "url": "https://cr.shopping.naver.com/adcr?x=C06Ruv0s2ni%2BGrA1OKIBUP%2F%2F%2Fw%3D%3Dsd1bw%2BFreXqSEKZN9lfTX0ktaiNF7wUzCwiPyHm%2B1xNskkShzx5DdPDONGSbI5wKwJCetEfY7nlNK0LgjHYVP%2BjgZTcT%2BitebYl3dcA8p0m2dPqN%2F8s7m8w1OQpatmNSEgMDq2IB%2BWfVWK2Y%2FpoUc4L%2F2UFI557qNFpJ0Ks86FJLRJ3RbPNu0cIKxeHDhJEg4e36fvcXoXclwtMEdzMDGitDVhnd7aK%2BVS8tvdef1Q31Sg38VvXqFzDZEkkI%2F7WBEwPIh6TH0WK7y5LfKCf2PQ9fSD1xLbCca%2FEy4NygojGGbscuhTy0Am8W%2B00DlPB25DdP7gYOug9HNjx1uG3UhUBVfpJ%2BTAAsqkviH0xc2usUiW2fk7E1QXP9BtBStJQIFgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSejQRsZdoIMTKAXycvtUpj1tAW7ixYLpcsqjM1QROR6OxENIzn2g3RoDj0vNkRdwEz35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seAN39ZafZAy2JaOKbenF7KdhzVtOsmcs9dXMHQ3xuZLacJuAhAWZ3FCoTC0PIEZ%2FBpCik1%2Fk2U7so6J3CwJ%2FvFLdMlMGX%2FwzaG%2BsbzB2bb5hpq%2FF0fmQXb1Z8F%2BsJWRdixmRaHlkudM606nBMoX%2FWB%2FR1YkbbASIfoNM7ZAA1WTCDtfY97wxviQ%2FoonTt98LxqHR9INs9ZpxiOekV5%2FkbMXEASuJKQkeAnx99APAGDzdweCR32IFPJlMzj8W3GN58RlaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=58402800170&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 Platinum P41 500GB",
+    "image": {
+      "file": "skhynix-platinum-p41-500gb.webp",
+      "source_url": "https://ssd.skhynix.com/wp-content/uploads/2021/07/p41_1080.jpg"
+    }
+  },
+  {
+    "name": "Platinum P41 M.2 NVMe 1TB",
+    "brand": "SK하이닉스",
+    "category": "storage",
+    "model_code": "SHPP41-1000GM-2",
+    "series": "Platinum P41",
+    "released_on": "2022-05-11",
+    "summary": "읽기 최대 7,000MB/s 의 SK하이닉스 PCIe 4.0 고성능 SSD",
+    "description": "176단 4D 낸드와 자체 컨트롤러를 쓴 PCIe 4.0 NVMe SSD 입니다. 전력 효율이 좋아 데스크톱과 노트북 모두에 어울리며, 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,500MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "750TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6500,
+      "tbw": 750,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 506000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 506000,
+          "title": "SK하이닉스 SK하이닉스 Platinum P41 M.2 NVMe TLC SSD 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=KhGmaNXubx%2BrD8s2DDyNBv%2F%2F%2Fw%3D%3Ds4yjFw9Dmk2A6xasDU2AYDt2EKDqrtkm%2BnsZNaqGYs%2FpWWkM3t2kSoasXDuHbiZjRmTj9hx%2FPDiaFcyqAO54%2BIr77JE2TuDSNOAGluX2ZF%2FJSkWeMtJjkvpVHn58QOTq30HcrNcWPjOEguIPetPjWj7OQsAM0E2VwYC%2B9jxcZqPyhNLTGeAtDZSYchhBH4kBcgUdGKbSWdzBeQ%2BP8Ii%2FrjImAvkHB6LVHPkX0k5ayTkGxlqWh1dFsEkUn8T%2BJnHpBkQewkQylq6JDs%2BSfRv9u%2F3LoNqi0gG3EY%2FV5uAzUx7oWaPuOCz8CaX3cPkeGF%2BoQhRklcRSf6Q9IljjQx8Mx%2FH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUUhswDJ65frPzOgJgGOa%2BPIM%2BhoRPxaO9PiCLreIUT5Ads4D7D1Y%2Fry%2FNZ63CKXBRgF8E4a%2Bu9wsoZL66VCZhvX%2BsGoVgB2WnOEUm0bPcRmbHklCsTFo%2FhttN9IZm8DFFsaVSXEXtEUrU8fLiYM2uATwuzWY1eJYW%2FQJ0Ms8%2BlE%2BNhiDwBlBtJ7skQv1L3%2B7XVT1WoLosT61jnzSHjekiMGvGwqirAu9qIa14CnOOEhDCyPOQfQCUyw3p8wC7Nlie%2BYKtnSOOSvtcX92Hlm93yxiHJEzzYH%2FRTtoMITA%2FHwPafO19k9hM5IW1Ee%2B2BMjFwpHdgqUP2oYCXqBf0e9k7u6YI7I5Jr0ah2HIcy%2Fklaq%2Bqv%2FB0oGuwwitGq91UPvaV3OdHgSE8LoEjTx9zpNPbFaRsOtQUnaEEbxBoHxZXOc%3D&nvMid=60676484490&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 Platinum P41 1TB",
+    "image": {
+      "file": "skhynix-platinum-p41-1tb.webp",
+      "source_url": "https://ssd.skhynix.com/wp-content/uploads/2021/07/p41_1080.jpg"
+    }
+  },
+  {
+    "name": "Platinum P41 M.2 NVMe 2TB",
+    "brand": "SK하이닉스",
+    "category": "storage",
+    "model_code": "SHPP41-2000GM-2",
+    "series": "Platinum P41",
+    "released_on": "2022-05-11",
+    "summary": "읽기 최대 7,000MB/s 의 SK하이닉스 PCIe 4.0 고성능 SSD",
+    "description": "176단 4D 낸드와 자체 컨트롤러를 쓴 PCIe 4.0 NVMe SSD 입니다. 전력 효율이 좋아 데스크톱과 노트북 모두에 어울리며, 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,500MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4 DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6500,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 620600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 620600,
+          "title": "SK하이닉스 Platinum P41 M.2 NVMe 병행수입 (2TB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=zT8oX1ZloT36Iy0HhVLm9f%2F%2F%2Fw%3D%3Ds8dlbC%2F9LskWQWmyrvxsKA4scebWOSYi4ElKTrBrR9IdWWkM3t2kSoasXDuHbiZjRyaPcc4YK36xDOaSi9Kx5Wfhkw%2BZWW4kY2dhlZWdhhLn6jN%2FlBoNdAflKS2fUFT8Kf7lw0EDzE29EA60zkicMoP%2Btyuzm0UW7lVRnllremwdSgFBEbcY%2FGgPFBEwdMZls%2BUYz9TfG0NrBTdiYbZ28itaaihJhqgfkwyfWoVaL6Jl0NQjwb0Sb1blhCcXorqJ476RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFX7%2FR%2BxKmeFeW54N6GNUERxrkaz6U4kLFj0ZGqWxRBHFdrU9gBvTOY8XVxGgpGxxdpKR8oowAXcvsRoxARa7%2B0grbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLu%2BxmXIo9zgIxcO7rsQsr8qPfsyCK5CPme%2FHz9kP5c24kdObG%2Fe1Y7AVSdkMr0w2SCk6%2F2mvESFV%2BJEHBz1zwIcMQWNXoe2jlNFLJyvgBs6TYRjjYzH3urx4SZoFNLdIQkjPvAgviFQ%2F6v6lpTlHv%2B4LOnpbXmcud35rwks7%2FFO6ZTc3SRYJKEdTDi92W%2BhFhTRMHb85BZ7o8%2BpI4FS1WwALfuhv4YFvk0hEo9x2XTaw5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=58340508209&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "SK하이닉스 Platinum P41 2TB",
+    "image": {
+      "file": "skhynix-platinum-p41-2tb.webp",
+      "source_url": "https://ssd.skhynix.com/wp-content/uploads/2021/07/p41_1080.jpg"
+    }
+  },
+  {
+    "name": "9100 PRO M.2 NVMe 4TB",
+    "brand": "삼성전자",
+    "category": "storage",
+    "model_code": "MZ-VAP4T0BW",
+    "series": "9100 PRO",
+    "released_on": "2025-03-18",
+    "summary": "읽기 최대 14,800MB/s 의 대용량 PCIe 5.0 PRO SSD",
+    "description": "삼성 5nm 컨트롤러를 쓴 PCIe 5.0 NVMe SSD 의 4TB 모델입니다. 게임과 영상 작업 파일을 한 드라이브에 넉넉히 담을 수 있고, 발열이 커서 방열판이 있는 Gen5 M.2 슬롯에 다는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "4TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,800 / 13,400MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,400TB"
+      },
+      {
+        "label": "캐시",
+        "value": "LPDDR4X DRAM"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 4000,
+      "seq_read_mbs": 14800,
+      "seq_write_mbs": 13400,
+      "tbw": 2400,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1694400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1694370,
+          "title": "삼성전자 삼성전자 9100 PRO 4TB M.2 NVMe SSD DRAM MZ-VAP4T0BW",
+          "url": "https://cr.shopping.naver.com/adcr?x=EkDz0XujpYv4s2AsG1Nt3f%2F%2F%2Fw%3D%3DszAlwmkC36VP4SJmr2Ik7ZXkUhZ0NSGugw81aV%2FoP4x9dnX2%2B%2B4dnX9hiUYDRVIsNUDtXI772SASZ3g2wvSDK9O8hooWJP%2BupGNcgCxhGriHKEB39QQR70P8Iax1id6KV783qfaJVzdiTTQhZ3mpqjudW6IYVx6%2F%2BM624XUtL6WqvBiiQG4sv9m68s9D7Ft%2FVR0jrn1grls0Q0f0bBBpM4VQvJ0%2FW3cm7960%2FmJXklUcKlFjIx5YvtL9aLgrw%2FZjnVY6URxJaZjqQpJK02hSNFIJT0l6aAMscjfmPQUbK2iNyg7lqPwT1zZvNm%2BbIS9Tl90BQRW5P45jG3LZwSFRAbVu9XAIv%2FTzGnUlzv47TVPGk6v2w9jBqMGR4TTsgYaQnlII%2ByYYqWVu3SSXxcjEJdFG6wysT6eLX%2FFQ6kgBoozXHvY%2FUzN94OzIr5wG3PfiAZwzPFpjECKtmWt0IhdYWmM0GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtgzTgFwF6SMnCBa2L7wvQjpKKE5QhRBpjC1g4bQjQtDv7B2OIhhl6y50OEFJdl30zaZLow93TzKodW2SO1qAnKDvAdRaCgrBYwW0BT0jPxZlL%2FxcIsQ3fEbKj5HxZw%2BK0fRF2hjIyETdwTH9HqX8gZc01dlgQpLIcPkvWLJdd9G6YDrAE00DboAKC68s7%2FNU8klo6Lu7RVPwZZX6%2BvJsS6svTtug4vCjEvohqOyQz59k06LC2SVpGuMnN5HOLj9EO%2BL2VPBKxQIzm0VTWOsvuwWhopkeKUdu5q4dSKA0zkoA%3D&nvMid=61981531060&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "삼성전자 9100 PRO 4TB MZ-VAP4T0BW",
+    "image": {
+      "file": "samsung-9100-pro-4tb.webp",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/mz-vap2t0bw/gallery/au-9100-pro-nvme-m2-ssd-mz-vap2t0bw-544968592"
+    }
+  },
+  {
+    "name": "WD_BLACK SN850X M.2 NVMe 1TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS100T2X0E",
+    "series": "WD_BLACK SN850X",
+    "released_on": "2022-08-01",
+    "summary": "게임 모드를 지원하는 PCIe 4.0 NVMe SSD",
+    "description": "부팅 드라이브나 게임 전용 드라이브로 쓰기 좋은 1TB SSD 입니다. WD_BLACK Dashboard 의 게임 모드를 지원하고 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,300MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6300,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 300000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 299990,
+          "title": "WD SN850X NVMe 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=goqfysOAe1zzZfbvRdvE3%2F%2F%2F%2Fw%3D%3DscllXXMCZB0GeVPA%2BFQuc5QFJJpSADCpdjVe11rZduAARWxkF%2FmKLpVBferzpNwhaxaxG1%2FGMpR9Jb7Ri3Hy5w9JR7S%2FDgmRtMYK5CrO8dbZjB89ro6IoxJLCMV0pvxmD8CSM%2BHLLEbr3nWzXFU8F9B4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnUqpO27L9rvz92vMvAiAmEodqzkFWYaFOOuwr90gK%2B6gw9DvEyihNq3DDSr1H80lEVCr2pPIJop4L409816aw%2F%2B%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhVsuinp0cBKKXgmAvnDxJemCn6%2BfvNeco9FwATgzX%2FnPZCKbS5IZXjkbKBm9wVCukKSkfKKMAF3L7EaMQEWu%2FtIK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi5vy69tJi9kpc4Cqzhr1knPgkLGAzMmgOg2Xv7sz9MuOQW7NTvhfrrIpqVCFIFRIKcuQ96RtGKexNAX6%2FbJ6TIHu5qZYXayGZEAqSC0SK6Ye7YqeKCpEJAJhYm7rqNfqy5WcvI6zUL8%2F5KoPiLpc9iUEaThcwm2jOjlPe7qD4n465xdSWQrbKc2Ox6qdjS7h6PmwKpTyjrFZMl%2BmKXn7ujgzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=51929365757&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN850X 1TB",
+    "image": {
+      "file": "wd-black-sn850x-1tb.webp",
+      "source_url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/internal-storage/wd-black-sn850x-nvme-ssd/gallery/wd-black-sn850x-nvme-ssd-front.png"
+    }
+  },
+  {
+    "name": "WD_BLACK SN850X M.2 NVMe 2TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS200T2X0E",
+    "series": "WD_BLACK SN850X",
+    "released_on": "2022-08-01",
+    "summary": "게임 모드를 지원하는 PCIe 4.0 NVMe SSD",
+    "description": "WD_BLACK Dashboard 의 게임 모드로 로딩을 줄여 주는 게이밍 SSD 입니다. 방열판이 없는 모델이라 메인보드 M.2 히트싱크와 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,600MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6600,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 575300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 575260,
+          "title": "샌디스크 WD BLACK SN850X M.2 NVMe 2TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=LueALFTF1sObp%2FcZ9W0eR%2F%2F%2F%2Fw%3D%3DsX6RZlWhiN2r1pNglevMN56Bn0ZVKLfLP7aPsWGf33uQRWxkF%2FmKLpVBferzpNwha7HGc3KKg9QSa8fOxjtA8wiYghQHNHYovnbjuDAA%2FUrIvW7IkJDHpwe3q6PM08IbaO9QdYqlXn%2BKID%2BPRoOeJEh4pza8ebIOIXPrPsGGS95ek6v2w9jBqMGR4TTsgYaQnq%2B6iAyn6K%2FFA%2Bd1V6NTYt10%2BLvAdDeDqANYu788POYQw9DvEyihNq3DDSr1H80lEV01rexd%2FWYVVqfxPcEIblu%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhVsuinp0cBKKXgmAvnDxJemNe1tcxTOxrX5g3ffs9iuhZCKbS5IZXjkbKBm9wVCukKSkfKKMAF3L7EaMQEWu%2FtIK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi4zj9MvDtbTQL2egu64USAvgkLGAzMmgOg2Xv7sz9MuOVhApOpFEQT4GAA9Olk3ggD1v%2FPwnBsySEJ9sXHhcuwIhaRAOwIndaihBpo19PhPOtO15o7HtU1VDOCWVhrOMBzJehIO07YgsVejpiOY7lu%2BEvF0H8kxXQK3P%2BrRyGfwTPoLRdeTzJJo5DQ5ovPMjEURQ4um4A0Et1OPPdDeiZhOWmqdbVpLjfRv4RYDgmU2CYVsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=51929051470&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN850X 2TB",
+    "image": {
+      "file": "wd-black-sn850x-2tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD_BLACK SN850X M.2 NVMe 4TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS400T2X0E",
+    "series": "WD_BLACK SN850X",
+    "released_on": "2022-08-01",
+    "summary": "게임 모드를 지원하는 PCIe 4.0 NVMe SSD",
+    "description": "WD_BLACK Dashboard 의 게임 모드로 로딩을 줄여 주는 게이밍 SSD 입니다. 방열판이 없는 모델이라 메인보드 M.2 히트싱크와 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "4TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,600MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,400TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 4000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6600,
+      "tbw": 2400,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 614000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 613990,
+          "title": "Western Digital WD BLACK SN850X NVMe 게이밍 SSD 4TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=duCkHcNrVUtUwKhz8xCGj%2F%2F%2F%2Fw%3D%3Ds9k9mcDPsum0qHGM2gF8KKlxCDXk8o2O711OGW5U%2FKC4RWxkF%2FmKLpVBferzpNwha1N9YERxg1v5GJWeeRvkfx3F%2BWVizmvOOUPJt03G3wESaoixvpbe0n4lBhArZaw3%2BGZa4tEMYr3Oq8STUSe%2BJ8cu1rI7y%2Bnxga7qkc20jAaEHS16Mm4swTlRWNG5xgFwbingk1yU9gmIrjDKUQ5S%2FIHPwenNrNkkipAUS9mMymVL3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0Q0IK59O2TX%2FOVgjwjdDMqgDqO4YNCw%2FP%2FmHU1bW9gHoQ0jOfaDdGgOPS82RF3ATPfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AfDEtRgr1gKNR7xqGWJNmG3NW06yZyz11cwdDfG5ktpwCSDhuWjM0inaXFocpx%2BwPPcR6eBR4BDtmJNMaCB4fa1wANgCeTfpprz%2Bqe1%2BhKhgifQ9APHcZ8CD1DRB67x7uyjc2uibtXzvpIjZnSL0YrB9k91oxBBqe8dHhuXu6KxMphM4Xkqwer6KAYBzWkB5n7ti%2Fy5Nu8p7iQmQ%2B7TxHzcW5kH4PQmLJkrG75TN0VWik2m3hQoUuZI1rB05of%2BJDaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=91372820167&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN850X 4TB",
+    "image": {
+      "file": "wd-black-sn850x-4tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD_BLACK SN850X M.2 NVMe 8TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS800T2X0E",
+    "series": "WD_BLACK SN850X",
+    "released_on": "2024-07-16",
+    "summary": "2024년에 추가된 SN850X 의 8TB 대용량 모델",
+    "description": "게임을 여러 개 설치해 두기 좋은 8TB PCIe 4.0 NVMe SSD 입니다. 다른 용량보다 조금 두꺼워 노트북·콘솔 장착 전에는 여유 공간을 확인해야 합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "8TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,200 / 6,600MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "4,800TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 8000,
+      "seq_read_mbs": 7200,
+      "seq_write_mbs": 6600,
+      "tbw": 4800,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 3114000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 3114000,
+          "title": "Western Digital WD BLACK SN850X M.2 NVMe (8TB) (정품)",
+          "url": "https://cr.shopping.naver.com/adcr?x=InQxV61xNjrBc6AtDM6Fov%2F%2F%2Fw%3D%3DslDKOc5ep3QDQb5jg2wnixof480fkYQJnDYolJIQ%2FvWIRWxkF%2FmKLpVBferzpNwharCCleJ%2FysAMnq3kUHUH7V8UKqoxKxPMVR9Rmbh6ukBneAICpd35I1rCoPzxHoyom27bEPhO6frSGtzhQHW74ccu1rI7y%2Bnxga7qkc20jAaEHS16Mm4swTlRWNG5xgFwbaynaVUv4Do1Herd6mNb7ZZCiUNQm81FafLo04snqmiv3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0uWVyq6GEh88Y6C4gO12GUh%2Buul55TRvmTtp5VpGpPyi3%2BK5V2G9kQmsaP0xZQL%2FGpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwA3KNh0u7SMuiqwhOsrl4xT1goJM1mVqef033OD0L5KJ8koChvdAOZqroCYnf3RPKupNgSrB1C5ixVRgOCCTCf12yfeczrNsV%2B7jC5lnZmbsk4%2FmXxlEmhId04MNKH9oB9AbEHDO3X0lD4pC41pyfD8Js7ocwqAcPiw%2BCb6ezXtWjrgWQ%2F0JBsjHud4pzo5y1erYm5uABy1azEYo7a8MGogxPqxqVZvtR2z98I4fHefkQPnA1JE5Vk1nA%2BPciLKpR5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=90882447537&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN850X 8TB",
+    "image": {
+      "file": "wd-black-sn850x-8tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD_BLACK SN7100 M.2 NVMe 1TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS100T4X0E",
+    "series": "WD_BLACK SN7100",
+    "released_on": "2024-11-21",
+    "summary": "DRAM 리스지만 읽기 7,250MB/s 를 내는 고효율 PCIe 4.0 SSD",
+    "description": "저전력 설계로 데스크톱과 휴대용 게임기·노트북에 두루 쓰기 좋은 NVMe SSD 입니다. 최근 판매 페이지에서는 SanDisk 브랜드로 표기되기도 합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,250 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7250,
+      "seq_write_mbs": 6900,
+      "tbw": 600,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 331500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 331500,
+          "title": "Western Digital WD BLACK SN7100 M.2 NVMe 1TB (정품)",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2Bgo7NTYK2setKj6cnTzF5v%2F%2F%2Fw%3D%3DsX1l90XQGI58ErF4I9Qhx2z5pg84dImG24rkw68tpPeuMvJlmjFWu7fT%2F9X1at4vbsBFQ4MeAWX1Vu%2BLcP668VVJbFxnGsSAalckygE8ZJzytHAkM%2BU%2F5yubNF3HL23l%2FkstVbSauHy7qU4zWx3E9Isu1rI7y%2Bnxga7qkc20jAaEHS16Mm4swTlRWNG5xgFwb%2Fj1msWW879Xwaqbr2NqLs2UNtddrF1LYA1lmbyRrUgX3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0vb2e2NZuHafV5c%2F46vJwqB%2Buul55TRvmTtp5VpGpPyi3%2BK5V2G9kQmsaP0xZQL%2FGpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwhpaAsm2KSJ1fznaWxQxSPwqUq1WvNuNnG6Hv%2B8WJT398koChvdAOZqroCYnf3RPKupNgSrB1C5ixVRgOCCTCf%2F2o4DApOP%2FhfV5WPMZHDXTtv0EmYLYRyA%2BUySJFuhnbFR2Z982QjVm3JJeqqS2t92zCG5AesPrP8kEVgEwMhfUphM4Xkqwer6KAYBzWkB5nnPlrMHWBtV3AtZ36mo4n2r3S0jdU6pK8T7t4RZMU7ngEkm3OR46km0bwpP8%2B%2B75daGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=91269809148&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN7100 1TB",
+    "image": {
+      "file": "wd-black-sn7100-1tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD_BLACK SN7100 M.2 NVMe 2TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS200T4X0E",
+    "series": "WD_BLACK SN7100",
+    "released_on": "2024-11-21",
+    "summary": "DRAM 리스지만 읽기 7,250MB/s 를 내는 고효율 PCIe 4.0 SSD",
+    "description": "저전력 설계로 데스크톱과 휴대용 게임기·노트북에 두루 쓰기 좋은 NVMe SSD 입니다. 최근 판매 페이지에서는 SanDisk 브랜드로 표기되기도 합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,250 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7250,
+      "seq_write_mbs": 6900,
+      "tbw": 1200,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 475100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 475110,
+          "title": "WD BLACK SN7100 2TB NVME SSD GEN4 PCIE 2280 최대 25",
+          "url": "https://cr.shopping.naver.com/adcr?x=QMVZMKeG6x3GHmv8sK35jv%2F%2F%2Fw%3D%3DsZdlpWEch5nSz1TgulG3QaYgktzIgSvGqkvKDsm7d81KMvJlmjFWu7fT%2F9X1at4vbueCKF%2BnMelMRTyoPALkDWC0s2NuJQyMVpTOKheiNM%2B77s5eUIDtKV8AVyejm0z27oJ1nAe9uMSctDuiuRZllU8u1rI7y%2Bnxga7qkc20jAaEHS16Mm4swTlRWNG5xgFwbRI9LNjCfKjZyBD%2FtRxlh0D2W54dvTduJTRqLPhdTQ7X3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0%2Fqj0UYzu58ELkcxWvpXXZLMHm1SOoLCllQXm8MCkb1m3%2BK5V2G9kQmsaP0xZQL%2FGpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwrp5Jgy%2BlxqNi%2FTsFfuiwYz1goJM1mVqef033OD0L5KJ22iAVjH47rTfgsteLOYvGEmyVb3P%2BuzvhL0hdXKF%2FpQ9aCAkxN3BFfK1BhZ3RM99Cf8cJn1eJWyEs2DklohQf9gIADuPU7EN%2Fj99LGd2uwy3Lg3FuSojsrsveSoOhn%2FIphM4Xkqwer6KAYBzWkB5nuvUDQYEth1IY6vOD3Pnnz7yinXKdU1qdP%2BbeXOu9HOx658CD6Jht%2BVL%2FDrSyxMIXzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=91079262207&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN7100 2TB",
+    "image": {
+      "file": "wd-black-sn7100-2tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-7100-internal-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD_BLACK SN8100 M.2 NVMe 2TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS200T1X0M",
+    "series": "WD_BLACK SN8100",
+    "released_on": "2025-05-30",
+    "summary": "읽기 최대 14,900MB/s 의 WD_BLACK 첫 PCIe 5.0 SSD",
+    "description": "PCIe 5.0 x4 대역을 거의 다 쓰는 하이엔드 NVMe SSD 입니다. 발열이 낮은 편이지만 Gen5 슬롯 히트싱크와 함께 쓰는 것을 권장합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,900 / 14,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 14900,
+      "seq_write_mbs": 14000,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 793800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 793800,
+          "title": "Western Digital WD BLACK SN8100 M.2 NVMe 2TB (정품)",
+          "url": "https://cr.shopping.naver.com/adcr?x=yTQJhfKChssBxsN0VVywHP%2F%2F%2Fw%3D%3DsyKbyB9gsgsCqVHXccamOE9a48D2JVuMcdoHctjmQRBsz%2B646ulgeYNsQRPGzFJBRoeT%2FR%2FtOrkJb%2BVsb%2BBXF0GlnreF8FMGuHxhVGQA8GREoII4Tu38dIX%2Bf6aV9McH4gL7LdIqMjcOHmpXS4C92IMu1rI7y%2Bnxga7qkc20jAaEHS16Mm4swTlRWNG5xgFwbfqvGa6cvnInAoTi5MlVjKCD3Q%2BB66EEYoFZZEMdNSQv3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0MWMLvP0%2BkjD%2FAwdjDCBLd0yEIwnc5wimsIr3stVAOq23%2BK5V2G9kQmsaP0xZQL%2FGpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwkgUrk83xcRd3Wnuho0kfiUpJVHcNN4VYyUJzofZvTit8koChvdAOZqroCYnf3RPKupNgSrB1C5ixVRgOCCTCf5icj9lw%2FttrN5G2ZjmHwZvtv0EmYLYRyA%2BUySJFuhnbyjc2uibtXzvpIjZnSL0YrKwhfD2heJkuecmjK9YYWh4phM4Xkqwer6KAYBzWkB5ntpEcxPFlCAkBftCikpfSgyJnzPeqyjnHZHDGkpmpeast35IcWlxjwurWGbY%2BBRayzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=91381973961&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD_BLACK SN8100 2TB",
+    "image": {
+      "file": "wd-black-sn8100-2tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/sandisk-optimus-gx-pro-8100-internal-nvme-ssd"
+    }
+  },
+  {
+    "name": "WD Blue SN5000 M.2 NVMe 1TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS100T4B0E",
+    "series": "WD Blue SN5000",
+    "released_on": "2024-06-21",
+    "summary": "일상 작업과 가벼운 게임에 알맞은 보급형 PCIe 4.0 SSD",
+    "description": "부팅 드라이브나 보조 저장장치로 쓰기 좋은 WD Blue NVMe SSD 입니다. 값이 합리적이고 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "5,150 / 4,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 5150,
+      "seq_write_mbs": 4900,
+      "tbw": 600,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 292000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 291970,
+          "title": "샌디스크 WD BLUE SN5000 M.2 NVMe 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=V%2F6h6fcp8wQpU5yXZgG8TP%2F%2F%2Fw%3D%3Ds7UHKOra%2BmJLz46EptWRei0%2FUAWSh56r9XLa0xkCTO9gAUb9UsG5YRhc6Ihy1fQZ2iMv8UqdweryK91gBWkkBPX7zsYZ7ajNTLTpR%2B3HhkZWYylSMZVAM6S8g%2FnBFAn7QB%2BB9fJoVBJFiLZBqUrrN30ls1M9xucXxkPPt7QTmSRFr6kdrp7BvT8OlwZ7P37YymZtm%2BiihlqidmNTwRru6TXwExbmE07oKyLjcteb1SM4Hch5UofplTeDXXZYlwgXTVCr2pPIJop4L409816aw%2F%2B%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhVx1PqzZE3ZOTr8KfuhpgqRchHjucHtFBgSaFSHVwjEkZCKbS5IZXjkbKBm9wVCukKSkfKKMAF3L7EaMQEWu%2FtIK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi5QKn8uamChwnYaXVrp1%2BkrgkLGAzMmgOg2Xv7sz9MuOYmecdbAI2l5F1KMQQTsbE%2BLc72RqxZtUWARcf5CXgcjdXRTMZM4ep%2Fn%2FVBUwExOPTOU%2FMM9K7WvXuZld666epWppC6YGyEUEYFkYwAZBrmy8rD5B1yy4pXMDgcyRB4gu7%2BGBoyQkiFtSLwcV09cBvc7k1G5w5zWFmlfFMP%2FstydPtefGu1jxdMSWpXb1PdCtA4SwcLvxUEucVmH%2BcOht40%3D&nvMid=51929018416&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD Blue SN5000 1TB",
+    "image": {
+      "file": "wd-blue-sn5000-1tb.webp",
+      "source_url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-sn5000-nvme-ssd/gallery/wd-blue-sn5000-nvme-ssd-500gb-front.png"
+    }
+  },
+  {
+    "name": "WD Blue SN5000 M.2 NVMe 2TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "model_code": "WDS200T4B0E",
+    "series": "WD Blue SN5000",
+    "released_on": "2024-06-21",
+    "summary": "일상 작업과 가벼운 게임에 알맞은 보급형 PCIe 4.0 SSD",
+    "description": "부팅 드라이브나 보조 저장장치로 쓰기 좋은 WD Blue NVMe SSD 입니다. 값이 합리적이고 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "5,150 / 4,850MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "900TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 5150,
+      "seq_write_mbs": 4850,
+      "tbw": 900,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 545000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 545000,
+          "title": "Western Digital WD Blue SN5000 M.2 NVMe 2TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=kYaQpMBCGMlDJQ%2F5uIrnPf%2F%2F%2Fw%3D%3DswJcSfFquG3H9qDW8WRcywJr3ipjg8UQpNFjP4kVWFEcAUb9UsG5YRhc6Ihy1fQZ23Iy09QvecTsSCGSG7rREbmR40w3PYkW9MeVDvKdoHXCnlgFia6G2hi%2F0YUpa4pBRpV5Nj5RRPNBtmsUHjQOVDgY7th%2Fb5X%2Fu%2F1YFVAUnhxaK4j5MTwF45Ni1%2FMJqrSg0q1C9I3ES9yzkvUDpYNvo6ifz1Pd3%2Bka5%2Bcp0YmGBsA8n67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7pNqNZ3Xw%2Ffmtrjv%2FmPHDSGKfc9fm9tbKi2hkcbYeLVZwt7J0sutJc8l08wNuGUjq%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniF1psgyiUyluBFX7wAoZSpRUO7bCAH0tMUJxiPm9exLC32%2FHNPQ6SMY8hMHj96vMHb0RPINJ7FBy2fYQAMuNUsaJnPmbcunYibCy5hYKFoWxsclIIVMTWiFzIId1DNq7nlNWoUMPZs8ALIJIFUnAsatTzUaLji1QUfW5FQpucBI9BjxuFEBOdOpctIrUBexoRe3P%2FGQz5NRxCRdw7CA9RzBhXiz54lGCR9TZaLAHAacApXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=91322997872&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "WD Blue SN5000 2TB",
+    "image": {
+      "file": "wd-blue-sn5000-2tb.webp",
+      "source_url": "https://www.sandisk.com/products/ssd/internal-ssd/wd-blue-sn5000-nvme-ssd"
+    }
+  },
+  {
+    "name": "P3 Plus M.2 NVMe 1TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT1000P3PSSD8",
+    "series": "P3 Plus",
+    "released_on": "2022-08-25",
+    "summary": "읽기 5,000MB/s 의 입문형 PCIe 4.0 QLC SSD",
+    "description": "QLC 낸드로 용량 대비 값을 낮춘 PCIe 4.0 NVMe SSD 입니다. 일상 작업과 게임 설치용으로 무난하지만 장시간 대용량 쓰기에는 약합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "5,000 / 3,600MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "220TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 5000,
+      "seq_write_mbs": 3600,
+      "tbw": 220,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 295000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 295000,
+          "title": "마이크론 Crucial P3 PLUS M.2 NVMe (1TB) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=mol0ialFKMg3j79eaK7z0v%2F%2F%2Fw%3D%3DsE25tPRaK0A6WQn3CoK%2FdDcW07LZ6E8t6qENQmpll3HtjRUrezh7CrFl7ruxe3338yawKFYEFJ%2FzHWDTOsqalJpPb2jbs1Rm%2FHeNd3mRyySoMQqoJWIwaNfVT8jLUSXCmOuw5QzNWILPRENY%2F%2BZR1lHCTXEWUAgCeunth1lU30eUnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69Wskcln7p2mI71Kq3%2FLaAPxxx1KBnYdFaJBZecH2uTeqiIt76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFXHU%2BrNkTdk5Ovwp%2B6GmCpAw17pV1o%2Bjv9XF6FAAzOSAtMmRcpWGLT1Ydu8RIBzjPjKQFOHIRnJxFCQIFxwuPRgZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKfx3oMYFmCjqOl965Oi%2BKNItjRrFSRJIMuZIIEwJwjlZVshILHitqxA9mZqFNYq%2FOwABiTbMzkGX5eTTZ3M2o05chdaWCReGjC3UwowgkD%2BYeNYtcBZWWC7Dr0s4nIK52q8mxoYD7ABGRIShbx5ss7WxCZWZg5aQN2JjfxtQj8qQkAlOKwPahCEyYd9E%2Blamjuv1Wd%2FiJA%2F9NWPwM86ZpL5edvHR%2BA0tzzErnlooPTWPBmHLcI0y2gMmsh6cbN1N4h0cjwVm1BUYVknE7IEMpz4%3D&nvMid=91171580669&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial P3 Plus 1TB",
+    "image": {
+      "file": "crucial-p3-plus-1tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:7f5fc122-7774-417e-9806-59baf7d2569f/renditions/transformpng-640-640.png/as/crucial-p3-plus-ssd-flat-front-image.png"
+    }
+  },
+  {
+    "name": "P3 Plus M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000P3PSSD8",
+    "series": "P3 Plus",
+    "released_on": "2022-08-25",
+    "summary": "읽기 5,000MB/s 의 입문형 PCIe 4.0 QLC SSD",
+    "description": "QLC 낸드로 용량 대비 값을 낮춘 PCIe 4.0 NVMe SSD 입니다. 일상 작업과 게임 설치용으로 무난하지만 장시간 대용량 쓰기에는 약합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "5,000 / 4,200MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "440TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 5000,
+      "seq_write_mbs": 4200,
+      "tbw": 440,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 380000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 380000,
+          "title": "마이크론 Crucial P3 PLUS M.2 NVMe (2TB) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZZeci8R3MLQUkPBJM5%2Fhn%2F%2F%2F%2Fw%3D%3DsqXnEaAwt4owteMt%2BagfVIWF9k%2F4BoGOT5IgC3D8HzEdjRUrezh7CrFl7ruxe3338y1FdNFrjXXXGhWkR3h6Lp4S5dcLF34WDhJwn9NRogdbX67n%2BuAV5a3gGe0Wf7r3iI1MM%2ByyATgYglZCNE%2FFjRjxgMllHfZtNVOuU7M70jzwnF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69Wskclh7x%2FXX60dUDNJnYx1XKRK5ohW6mc4YwaiuxPM4Xtl76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFVpr5PihDD5%2BgWcDDizNkCE2gKdSsKgk4OLoreHXIU7ubOPoieZHHaYlccXQk7pECxb5JONMzo%2FFd7rUl1lnXcy5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAhzaC65zG9FtNmC42h8KFz0NKtGa0HN2Phla3qjVjC0Ednq63mzm4nU9WtYZBOa2%2FI7E7B%2FPT8kriQ%2BqamIvVJJb5AQYyeT0CrXWiMCPI0BVHco39y6HaQaMnRsfN%2Fp1bPiGWZCXvfDdg0s2WuitiUsnCXwde5of3Cls07DeuldKbD%2B1GzYyCQAVsDO6ulMSbllBccO%2F5ZRD6CjXEzyK34kTPL5Ob9yYVHt1bp83h2Ktnx75LElGGgQDsHr2q8k76doKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=91103538856&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial P3 Plus 2TB",
+    "image": {
+      "file": "crucial-p3-plus-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:7f5fc122-7774-417e-9806-59baf7d2569f/renditions/transformpng-640-640.png/as/crucial-p3-plus-ssd-flat-front-image.png"
+    }
+  },
+  {
+    "name": "P5 Plus M.2 NVMe 1TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT1000P5PSSD8",
+    "series": "P5 Plus",
+    "released_on": "2021-08-03",
+    "summary": "마이크론 자체 컨트롤러를 쓴 Crucial 첫 PCIe 4.0 SSD",
+    "description": "DRAM 캐시를 갖춘 PCIe 4.0 NVMe SSD 로 쓰기 성능이 꾸준합니다. 게임용 PC 와 PS5 확장용으로 쓰기 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "6,600 / 5,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 6600,
+      "seq_write_mbs": 5000,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 199200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 199200,
+          "title": "마이크론 크루셜 P5 Plus NVMe M.2 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=7aFl1HVKJIhSArUtpCTCxf%2F%2F%2Fw%3D%3DsnPyUjvdVgAG6TxpwjoJPvII6Su4wVzYkkojGjPBjUOVjRUrezh7CrFl7ruxe3338QhzCXcio4e9TVaXIh9sOMOzPi2QEUNeyuCeJJgI6PmohIpG2cJowJ5fK5FabSGZrK01OkTDbbP67Lbp7VUbwg6Sy48rk8%2FWCFZzZesliBfbchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAQhdpT78j995KDxrEp23XtNprqXkNan5fk0FifipZ4tmUB8RiUQ4bgSIMFiYZEzodQZBdi3KAf71N1v3k4FQ24YQZiMBJfJhrUT%2BMTPnszM2zJcwc0QW9KWBObNpDeBemcQS306tF3S%2F11r9aHq8GshzH5EdZEZ%2Bauu7VS%2BLxdpRgGwmPNX%2Fe%2BXkuZ30duRQYj%2FN1gL%2FBgCKENDMCz1nm%2F1B81s8XuXGPO0ayVS1nlBcs2i6N2KI17kCTL3WmfiP8rf4rlXYb2RCaxo%2FTFlAv8alTqLITxruBswxmwMlFfmscDtbWD0X2t1Q0x%2BunXfUupkUTDSyoq3RSBDAUyujNDAJjpMF0VC%2FWdgSgWzriH8NCpSrVa8242cboe%2F7xYlPf%2FrZyIGKxoeIAWxIPy%2BWpuIe219wV1MQMiY2tR52Qc3F73OkGDfldgJVDo85H4yihq7AVCFdP8Jq9IvtqElTrONULUVrZCkZon65tKFtdUsii11zTNMRcTATGiUscGRLd3s3T4qzSBIVN2HAysFdoOQyHuXQVyLJA%2FofrDkiYQTFEIFDnGpOWZmvL7En2va3mYKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=51929189238&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial P5 Plus 1TB",
+    "image": {
+      "file": "crucial-p5-plus-1tb.webp",
+      "source_url": "https://web.archive.org/web/20250909191357id_/https://content.crucial.com/content/dam/crucial/ssd-products/p5-plus/images/products/crucial-p5-plus-ssd-flat-front-image.psd.transform/medium-png/image.png"
+    }
+  },
+  {
+    "name": "T500 M.2 NVMe 1TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT1000T500SSD8",
+    "series": "T500",
+    "released_on": "2023-10-31",
+    "summary": "읽기 7,300MB/s 의 PCIe 4.0 최상위급 SSD",
+    "description": "232단 TLC 낸드와 DRAM 캐시를 갖춘 PCIe 4.0 NVMe SSD 입니다. 게임과 영상 편집에 알맞고 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,800MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "600TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6800,
+      "tbw": 600,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 380000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 380000,
+          "title": "마이크론 크루셜 T500 히트싱크 M.2 NVMe 대원씨티에스 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=qx1wZoUE0ML1p6EkdlVy1P%2F%2F%2Fw%3D%3Ds%2F28J0JA9lRLWVfDj4KJQvaVqbwlVOCoTIyFOqdFEua5jRUrezh7CrFl7ruxe3338aPvUDRkoN8KiSweSjKglli0D3AtkRoM7qIslD5s1CCtoXVjmk0D7N0Ashb0vbGG6ERl83FpFKDnL3KC%2BBWzyyVkm1do0e33y9QoQy7REbHGGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0HkSGy6KirXERAWRAyCltbIsh1fEo7k2pPsTNnvGqAep2Ydtm1vpEgol23TcojxhI8sUyCvugdIynU3QUTpfFuuFaaSOtlOMdXUd4IjiziVwG1RZGZ25Kl71VgFybLpVz1vtJfrhBLLfdFLfVu2CEIAzKs188hB20tl4c%2FW%2FNsEoisext5K2yYkF868rsMDqibOljmAqz%2B1eYhn56iIdn83kWl28SuEGvi%2FITgKnnjirSo0adg%2FaZAYXCXaj0Al5E1fqUo3F7gYyEovMwptqX9jYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqUEiLxScSoEjfz8U9aWzvD%2F7cITrKfE56P0GmL1%2BSAXapycwKrPKO50xgwXlD%2Bara%2BE73nqGDdFU%2FKPUsqBmTgo%2FELx8BbcpOUE30Ut6FFvNBwtkYX0Aq%2BD1x%2BBcBxU2vR%2FQuqIVZCpOroHJgCrAW9JcVWkCPPvhH0FivpoLMu4vCBkSXvEWNBbga%2BcRksQOCnjWPlavTYVxnhGqbH3tPRkRpOFzCbaM6OU97uoPifjr%2BCBYY1gZJCetFX3hry53%2B98lfRfZo1xtMhyb9kmrY2PNjqh%2FZemCCOboDhnweAmG&nvMid=51929499146&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial T500 1TB",
+    "image": {
+      "file": "crucial-t500-1tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:d7a2c5ff-b9ff-4a6a-b511-4481a20ebddc/renditions/transformpng-640-640.png/as/crucial-ssd-t500-topdown.png"
+    }
+  },
+  {
+    "name": "T500 M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000T500SSD8",
+    "series": "T500",
+    "released_on": "2023-10-31",
+    "summary": "읽기 7,400MB/s 의 PCIe 4.0 최상위급 SSD",
+    "description": "232단 TLC 낸드와 DRAM 캐시를 갖춘 PCIe 4.0 NVMe SSD 입니다. 게임과 영상 편집에 알맞고 5년 제한 보증을 제공합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,400 / 7,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7400,
+      "seq_write_mbs": 7000,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 668800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 668750,
+          "title": "마이크론 크루셜 T500 히트싱크 M.2 NVMe 대원씨티에스 2TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=ixpZQJgfUcyc5CGzFrQw%2Ff%2F%2F%2Fw%3D%3Dsa7Tnr8bhl%2BjC01SX5QV1L2uSUymgv5Wra15mQz1o%2BUEzAA9tj84unEiNIU%2FNN1BJ4mv9EfGeX2ssnohPm1avG3iSXosQxDosy%2BF4jnlKxeYdz%2B%2FAKTN1NcZRVOxfL7%2BfD2qTTJVsqST9s5E6jonLCNEFDlAyjonFZDbBHX3fEwzaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUXKzHMtIXoAFTZInkJmDK3jJ%2FvoOptehZfX2I39Xtz%2FwpIyKhw2NtAK6PWrMIT8N94JCJIUF0eO432Hv6%2B%2B3G7KRiF7HU25ll1FPovJAM1M5V01rexd%2FWYVVqfxPcEIblu%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhUQ6cpKTqlmYGalnAZlcEQ3WqtKUzutrBqRc74naGGaMOiSHso0SSRvAEEo5QU4QSjQD3T0j0OmIHzfSBJZedgOHSSD6CHWHDjU5z8k4rV370kOHBt8ETLCcCqKWGT7DLOIwo9o2FPx9Epr35vJOaPxekGAhAo1tMLkaXs6km6D4LK0y6o2dz1RPCHxWbaCjCa0zmjkQy8DICCM%2Bl9RlH0cq96liy9QRN2KDUyLexgLB%2BkMtcR%2BK75VAKXcYnZpO2QTxpZU%2B5dfJ0GL76%2FQUhXUbcsWuXhSOcCFnbmygSxdP00pUfAag1%2Bzsaa%2B9LAOPHTdts1j0NUaeefdy%2B%2FLgoCENauEcRynSn%2F8orOK7nc90grg0N4Xrvrckwc6sRQhXJHg9R2is%2FFNNmZ9HkvtsrlVXc50eBITwugSNPH3Ok09sVpGw61BSdoQRvEGgfFlc5w%3D%3D&nvMid=51929499147&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial T500 2TB",
+    "image": {
+      "file": "crucial-t500-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:d7a2c5ff-b9ff-4a6a-b511-4481a20ebddc/renditions/transformpng-640-640.png/as/crucial-ssd-t500-topdown.png"
+    }
+  },
+  {
+    "name": "T700 M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000T700SSD3",
+    "series": "T700",
+    "released_on": "2023-05-30",
+    "summary": "읽기 최대 12,400MB/s 의 초기 PCIe 5.0 NVMe SSD",
+    "description": "Phison E26 컨트롤러를 쓴 1세대 PCIe 5.0 SSD 입니다. 발열이 커서 방열판(메인보드 히트싱크)이 꼭 필요합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "12,400 / 11,800MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 12400,
+      "seq_write_mbs": 11800,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 387000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 387020,
+          "title": "마이크론 Crucial T700 SSD 2TB Gen5 M2",
+          "url": "https://cr.shopping.naver.com/adcr?x=91egDPbgUUCN6bgZ8lXbC%2F%2F%2F%2Fw%3D%3DsV7qAGuOV5tnu%2BwUmV1Gl4Bul8nfhxcLUAlgyw%2BMMK4RjRUrezh7CrFl7ruxe3338BMWXQEWGRbLXuhhq%2FqcEFWcJ2OdnSku82zsiAz2FQCcHScLEj7%2B%2BqQFkr4Az1wv3%2Be1O1rJz3xFluGiLSxAI8L2mBVW9rvpQSDbqS38v0W0vmMXAMUJ6Ap1Md44yIjiC3AHWQ4XFDUIWH%2BGe57v1xteo5CbryKmZCPIz27NV5KsCCronUR2UGowPVqVqkQkPQqi%2BC6%2BrWNHmFutNIKvBAe0NeTgDL3YS6mR898p53jnvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4WfieQpmudmiocQkuvyGwKISF3nAs0y4XvUqnph%2FL%2Bt9l2tT2AG9M5jxdXEaCkbHF2kpHyijABdy%2BxGjEBFrv7SCtvMmZOEv7L0LUwPzEaJN6oRz194RG52FSKsBASUq7nQOus%2BUAohTUS%2F5QGdyw4udcuDu9IgWsKyM87amjXSxo9%2BzIIrkI%2BZ78fP2Q%2FlzbhddnHBpQh%2BCbH%2FKy%2FX%2FwLVrxTWGgTJhQ7poSLz1ZcgFTx%2BKO9dHyFCQvrobtH%2BHEAURSG74eAaeXTutr5tFdBO6sms6CkBeiNNtCcua3GgqXR9INs9ZpxiOekV5%2FkbMXHBUPfVuuJb8tAcbWYAOHVrp3FAQFUSE4HDjtCYKoVM1FaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=60615761300&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial T700 2TB",
+    "image": {
+      "file": "crucial-t700-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:ad073935-d58a-4d87-88c9-d5db972ed81f/renditions/transformpng-640-640.png/as/crucial-ssd-t700-top.png"
+    }
+  },
+  {
+    "name": "T705 M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000T705SSD3",
+    "series": "T705",
+    "released_on": "2024-03-12",
+    "summary": "읽기 최대 14,500MB/s 의 고성능 PCIe 5.0 SSD",
+    "description": "T700 의 후속으로 속도를 높인 PCIe 5.0 NVMe SSD 입니다. 발열이 커서 방열판과 함께 써야 하며 Gen5 M.2 슬롯이 필요합니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,500 / 12,700MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 14500,
+      "seq_write_mbs": 12700,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 617500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 617500,
+          "title": "마이크론 크루셜 T705 M.2 NVMe 대원씨티에스 2TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=Iv21dIipZ%2BnxEPR69vsJF%2F%2F%2F%2Fw%3D%3DsFhHbQ0suQfWYrNVpgO8MjE4XBmhuquA38EoYtuecJBJjRUrezh7CrFl7ruxe3338kArEGbUiZ3eJV3XS%2B3w6KRL3nsbByBIJDG91kJwEzL720IC858aQKl7g%2FnLAjVcNHpu9KYTT6J3uSCW%2F4CmC1nTJi0uemJxbCaAntme1A7KGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0AClRlUBmH9hI3kJtXUlOlssh1fEo7k2pPsTNnvGqAep2Ydtm1vpEgol23TcojxhI8sUyCvugdIynU3QUTpfFutqRTvIysCml3Sice99sI5TG1RZGZ25Kl71VgFybLpVz1vtJfrhBLLfdFLfVu2CEIAzKs188hB20tl4c%2FW%2FNsEoisext5K2yYkF868rsMDqiU4nHJVR6SxBstpGzFz%2FJH5meTLCgjiQCo2HLSARejGnSo0adg%2FaZAYXCXaj0Al5E1fqUo3F7gYyEovMwptqX9jYQe9oVVUnfX4Df4cCTzk0XZYlV1ajqoz9M6Bq%2FvXPqUEiLxScSoEjfz8U9aWzvD%2FoXTruyq0ylD0KZ%2F%2F3GrfWpycwKrPKO50xgwXlD%2Bara9YodGGsR6lWo1PHZp6eJ8z6Qy1xH4rvlUApdxidmk7ZBPGllT7l18nQYvvr9BSFdW3AwkdGgsyscs%2FWT92nh5nR2dOhE6A9MthyCshHalHEYj2fCVhMZVq6N4d07MRk5w1q4RxHKdKf%2Fyis4rudz3SyjwW7Y%2BFYsbauk0iZVERG8mcByeGfZZdhvQ%2BMwchdNFdznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=51929032152&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial T705 2TB",
+    "image": {
+      "file": "crucial-t705-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:bc55fd78-4106-46b1-898e-ff39ee3122a1/renditions/transformpng-640-640.png/as/crucial-ssd-t705-topview.png"
+    }
+  },
+  {
+    "name": "T710 M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000T710SSD8",
+    "series": "T710",
+    "released_on": "2025-07-01",
+    "summary": "G9 낸드와 SM2508 컨트롤러로 효율을 높인 PCIe 5.0 SSD",
+    "description": "읽기 최대 14,500MB/s(2TB)에 발열과 전력을 줄인 2세대 PCIe 5.0 NVMe SSD 입니다. Gen5 M.2 슬롯이 있는 메인보드에서 제 속도가 납니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,500 / 13,800MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 14500,
+      "seq_write_mbs": 13800,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 780000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 780000,
+          "title": "마이크론 Crucial T710 M.2 NVMe (2TB) (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=5bOzxZxH5Zw7xrRzSVVLeP%2F%2F%2Fw%3D%3DstcjPEhSimvmm67b8IpVjFLCEXfhmsv4O6S%2BEztWehxSViB85AXi%2BcvjiZ7AU3zWXNHBri51rvzjTYJOFTD32KqI%2BZmdJNjaEoEjBH3Wbhbt2D5aZ3MbCZ1UpFZNeUmC4wLsFe5leBA7QQ0simggoP6PSSPTEUhPjfqxH40kGKBREvqK7Ss30A1gReRlfyn6hISb95YyaO%2FVVSKY%2Bv5t1jr%2BEfrWiijmVi14M%2BemXZG9egvP3tP%2F31ShI3wdAf9huiihiyGhqlFINUaA6lib2D99%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4tGr%2FLYflDigtPRhM7bNESSxYfSDqks%2B%2BZWWvN9FP7GFXfqiCwBtPYYwEdSt6i2JA5BrwJGdtLJoOGSuSyCxE8J46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1SGAqgRDEHMSgP8Z21fnxKphP35vxpO08VTMr4QHO4MN83TdR1AvnzDA3zI2EcyjuU5Iz3GrGCtsFnwdjJz%2BlEIVAn2Vj4Mm4DGCrNfxbrt2uU0f3E3LHKXsQJa1zNM1MhYo8qAssbJ9jurC%2FNxqZRZm7mmsSU4NqBovdxty7iuWjrgWQ%2F0JBsjHud4pzo5y13Du45J4oNt7pulamNZKk5t52sI%2FJs%2F2VtTNAR9QsuszJd%2BZlsPwKrSW29TI3%2BZDP5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=91122029934&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial T710 2TB",
+    "image": {
+      "file": "crucial-t710-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:b6294cce-3ed4-4d9b-ba88-c9dd02d9f47e/renditions/transformpng-640-640.png/as/crucial-ssd-t710-isolated-front.png"
+    }
+  },
+  {
+    "name": "P310 M.2 NVMe 1TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT1000P310SSD8",
+    "series": "P310",
+    "released_on": "2024-09-17",
+    "summary": "저전력 QLC 로 값을 낮춘 보급형 PCIe 4.0 SSD",
+    "description": "읽기 7,100MB/s 를 내는 보급형 NVMe SSD 입니다. QLC 낸드라 대용량 연속 쓰기에서는 속도가 떨어질 수 있습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,100 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "220TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7100,
+      "seq_write_mbs": 6000,
+      "tbw": 220,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 218000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 218000,
+          "title": "마이크론 크루셜 P310 M.2 2280 대원씨티에스, 500GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=EfVoufsBwI2xNGF7OYOvLf%2F%2F%2Fw%3D%3Ds2GASVMv2%2FT6UltrLj%2BlXmC5WCZd6S%2F%2Fc2AYrgnqPUaRjRUrezh7CrFl7ruxe3338ZQi7ZpMYXeg%2FzimdTAov1nO1BpCUpuCSSsbK96zoG%2FdtGeZiQ9xI3%2FiUYa0ETvWJoX%2BuY02zzZ4ivJ7Z5F6VaAq7l2CryijfOKJqHqiS8UxJbNTPcbnF8ZDz7e0E5kkRa%2BpHa6ewb0%2FDpcGez9%2B2Mg0oK6vEAHerqapw7fkv0GGsRk4V05Xy7xfkypcCMon2czHFPCF7DtlXE8Jw68t511sUZa64FsZHgpyMpcu%2BCEbsPsj1otwdEFlebFQXPb43llQb9fpjrBGTuU1POs5%2ByvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SkmF1vcFGay0S5nW6mP9Kckq7%2Bc4aV86L%2BNGzZZiaC1b9c0rkTRFrZEK1lDbUlud2%2FIfdIGZiZRQY7mLR39b3SDy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE9h8lyZ1j3OVQLK%2BE9SrvtpuwtejG%2BTCY4WRgx1skrK%2BN3W1AGuZ%2B%2Bpe26ui7dc2Sat98BvDFhAnXcYGQnwUQmx4%2BWoYpsSxEpC7J%2FmbQBpxJ%2FYdq%2FLljmYH8sAJcXZjpJpWGHBn%2BTzcP8PpbuTN%2FJTwCuV0MP5MxpVlraF%2BratfeQh9n2l4VTNGwKyer%2BelAISzxwVRNV%2FYRemZK5z1sCEKZoV6pKCHDwcgfnAZ9abahohcUA2EuFbP8tsexDXYPpoaKZHilHbuauHUigNM5KA&nvMid=59966851951&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial P310 1TB 2280",
+    "image": {
+      "file": "crucial-p310-1tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:5ff98c77-5e37-47fb-bc6c-3d0fef464665/renditions/transformpng-640-640.png/as/crucial-ssd-p310-2280-isolated-front-view.png"
+    }
+  },
+  {
+    "name": "P310 M.2 NVMe 2TB",
+    "brand": "Crucial",
+    "category": "storage",
+    "model_code": "CT2000P310SSD8",
+    "series": "P310",
+    "released_on": "2024-09-17",
+    "summary": "저전력 QLC 로 값을 낮춘 보급형 PCIe 4.0 SSD",
+    "description": "읽기 7,100MB/s 를 내는 보급형 NVMe SSD 입니다. QLC 낸드라 대용량 연속 쓰기에서는 속도가 떨어질 수 있습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,100 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "440TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7100,
+      "seq_write_mbs": 6000,
+      "tbw": 440,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 585000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 585000,
+          "title": "마이크론 Crucial P310 M.2 NVMe (2TB) (정품)",
+          "url": "https://cr.shopping.naver.com/adcr?x=tKxXBduEcZn1Mh8NP6anXf%2F%2F%2Fw%3D%3DsZDREeTCLxcVO3E1Z5P%2FYYEOe%2BGcP8yW%2BlMKC5blOf6FjRUrezh7CrFl7ruxe3338tI48tUgKg1mQQB4zZnLBG2yQzLa3qH2c2pSWnILL8mLQNQBli4NZvqFbasCcEZZ4j2hZbiSUw%2B0IJ%2BGUxZjfv7VgXcx1jEndTL87T2%2FvHrcGO7Yf2%2BV%2F7v9WBVQFJ4cWiuI%2BTE8BeOTYtfzCaq0oNH%2B4ebZZ6iTa7PlxhcqSHe6%2FihhzoyjjbTxQo2TXgP66J%2Bu%2Fsl%2FCf03EFoK0xT3xNpiIjedY5oRJDvI5MTAUyfxr6kdrp7BvT8OlwZ7P37YyZp%2FuhVWf5tMOyu5R2EADu9QP4ohCDop%2F%2FCCY2Ln7csFin3PX5vbWyotoZHG2Hi1WcLeydLLrSXPJdPMDbhlI6v8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hWeZGRneoKVkDU9udUCvGWdDu2wgB9LTFCcYj5vXsSwtPsUXToErBeS2NHQCzuS%2Fu8kYTo8BVolW3IEyDXnJXj8n1vOnjyfvMfc5BtiVFpfbOoj3jbkK4UBWm%2BpBbBGjBn5LyHQhezvuOBauq6n3wbH3QLna%2FUfbiDB0LWouLQG5rBr0mWZyQNskAlQQa9x8QX0ed75U5G2OFTd%2BNPIwBM6IsH%2ByP1jWsT9iG%2FuEUzulBXCNC2V7NHmxb4LFbWbH9EHQIiXcF4qwUXZ2sX76wW8%3D&nvMid=90987489305&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "마이크론 Crucial P310 2TB 2280",
+    "image": {
+      "file": "crucial-p310-2tb.webp",
+      "source_url": "https://assets.micron.com/adobe/assets/urn:aaid:aem:5ff98c77-5e37-47fb-bc6c-3d0fef464665/renditions/transformpng-640-640.png/as/crucial-ssd-p310-2280-isolated-front-view.png"
+    }
+  },
+  {
+    "name": "P44 Pro M.2 NVMe 1TB",
+    "brand": "Solidigm",
+    "category": "storage",
+    "model_code": "SSDPFKKW010X7X1",
+    "series": "P44 Pro",
+    "released_on": "2022-10-18",
+    "summary": "SK하이닉스 P41 과 같은 플랫폼의 PCIe 4.0 고성능 SSD",
+    "description": "SK하이닉스 자회사 솔리다임의 PCIe 4.0 NVMe SSD 입니다. 읽기·쓰기 성능과 전력 효율이 고르게 좋아 게임용 부팅 드라이브로 알맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,500MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "750TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6500,
+      "tbw": 750,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 462800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 462800,
+          "title": "SOLIDIGM P44 PRO 1 TB 솔리드 스테이트 드라이브 NVMe 2280 내부 SSDPFKKW010X7X1",
+          "url": "https://cr.shopping.naver.com/adcr?x=oiH3C5PbK1SW72R2AiMgPP%2F%2F%2Fw%3D%3DsUeaLOuHUNK%2Fw0K9Ap1jz8VdrQ1FGKPFBmwZVnncUvR0cXixKoTktVMvPJ%2BHpOBc7ORvgzzlIi0ck0rwPNme9Rpc0g9FcbAqG59gYMCmr%2BF1J7XrWJFhjdI%2BPN43H2OVH5crymqNTaVWuG9xx1ltMtFOnSSHUYv%2B6GXe8cKYwU6iWvGP9J79idsi0y9qBeSpS3rRUPmCXsomuOGbgisc%2FphAfkAnej1zHSAD0MqoqdVCRNKQ9FyfhlB5%2BvUbu05vl%2BMk9VdESwkNK2JibXjfQi16C8%2Fe0%2F%2FfVKEjfB0B%2F2G6KKGLIaGqUUg1RoDqWJvYP334rL%2BbR36BhYe0R%2FrUmjgBSTS1sRv49oBHxm%2Bxq6Hh0ihbcPKMDt9WBin3g7c%2FuB5HIExIF93rviL7AC4uo%2B3TjjF33fFtLJpZtoVwsynYL6c%2Fec6kWv2AgxGmqioW%2FgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXydxXYsNTM%2BQQUWL7MhsKwXB1ods4Mm9DjDePe5rXzt4gpfXzN3q%2F6MkBNvTe6ZeBhwvMj8CM%2F0J3VvBm28aBe7Rk9abHDCA7jMKFNxvxgMNNaao%2BHZ6L%2FLpjWpDPyXI4CZ%2F6mcegy3vRsM1G7NI9%2Bh%2B3oW5%2FpgYbBz7718L%2FZS2XRVMjvglkL4eE9uFMUq7n2tQiMfSKLO%2Bb65rqVW1f7kCdjKVkVLMHf9QPaomQnuINmVVgsMQmmcjxwXoIw9IhYPt3gkgNUJyALEBJnXbmQE66%2FnDUhcpf9WEteVeb8X7Q4SwcLvxUEucVmH%2BcOht40%3D&nvMid=62087147109&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "솔리다임 P44 Pro 1TB",
+    "image": {
+      "file": "solidigm-p44-pro-1tb.webp",
+      "source_url": "https://d21buns5ku92am.cloudfront.net/69634/images/447049-Hollywood%20Beach%20P44%20Pro%202TB_16-9_Label_00004-5fb875-large-1665421963.png"
+    }
+  },
+  {
+    "name": "P44 Pro M.2 NVMe 2TB",
+    "brand": "Solidigm",
+    "category": "storage",
+    "model_code": "SSDPFKKW020X7X1",
+    "series": "P44 Pro",
+    "released_on": "2022-10-18",
+    "summary": "SK하이닉스 P41 과 같은 플랫폼의 PCIe 4.0 고성능 SSD",
+    "description": "SK하이닉스 자회사 솔리다임의 PCIe 4.0 NVMe SSD 입니다. 읽기·쓰기 성능과 전력 효율이 고르게 좋아 게임용 부팅 드라이브로 알맞습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,500MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,200TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6500,
+      "tbw": 1200,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 735000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 735000,
+          "title": "솔리다임 P44 Pro M.2 NVMe 벌크 (2TB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=%2FJ934c%2BX4aUta8Ivs0K39P%2F%2F%2Fw%3D%3Ds1j4ndiFBNU7RBEt%2FzIRR834dmMT9OdIlJjS27T78emy6pc7htrCe5oSi5CNaocHppI3Tc%2BA%2FwoEe6ePfNq9uinsBOYIcS1yEGG8iY7MCDbFq3mkfNjq1mMKf6%2BCAzbBIlYAusP5TCMj1P1feDpdyZ5akRTEKAvAWFAO7VjqlPMu7lcNxnWgwL8Q0owt3J7dmf9tprPlvE4kEDc%2FzhzDBRTVaXBKtLN3oJaNxjV15YePzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEp4zVlWQYz2RWTO8ADOuWF9jqwKq%2F7IK51Gth1IWJVV7h%2FlLnJwMa7Bt8R2%2FUDqQrCV%2BpSjcXuBjISi8zCm2pf2NhB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2Bp%2FBWDjY%2BDDIxWTIr7ULazUMWRPJS9hFexLoaS3Vtpi8PaUQtuLAGE7F05ELS9K3wUeddXUYm0TCqLHl7e5liMpVF3xuEV8oiZbf006LvNOYFvC%2FAwXv6bwnq64vcKSTlIt0pg5yggSNaJ1QGglgFvoeBrJHmN13GykbiVUv5KedN0fSDbPWacYjnpFef5GzFx%2BxUEUgnrD1ajytMI1EpFvMQLl3zx2a4GS1e6ahk8av1QeEKeXKcK7S%2FY5GxiKwZmhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=91332633303&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "솔리다임 P44 Pro 2TB",
+    "image": {
+      "file": "solidigm-p44-pro-2tb.webp",
+      "source_url": "https://d21buns5ku92am.cloudfront.net/69634/images/447049-Hollywood%20Beach%20P44%20Pro%202TB_16-9_Label_00004-5fb875-large-1665421963.png"
+    }
+  },
+  {
+    "name": "FireCuda 530 M.2 NVMe 1TB",
+    "brand": "Seagate",
+    "category": "storage",
+    "model_code": "ZP1000GM3A013",
+    "series": "FireCuda 530",
+    "released_on": "2021-06-24",
+    "summary": "TBW 가 높아 오래 쓰기 좋은 PCIe 4.0 게이밍 SSD",
+    "description": "Phison E18 컨트롤러를 쓴 PCIe 4.0 NVMe SSD 로 수명(TBW)이 같은 급에서 높은 편입니다. 데이터 복구 서비스(Rescue)가 함께 제공됩니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,275TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6000,
+      "tbw": 1275,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 428400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 428420,
+          "title": "Seagate FireCuda 530 1TB M.2 PCIe Gen4 NVMe SSD - 7300MB/s PS5 호환 1275TBW 3년 구조",
+          "url": "https://cr.shopping.naver.com/adcr?x=Efo%2B0o2Bli3x2qzUFP9Arf%2F%2F%2Fw%3D%3Dsy%2FOcGObFFxWx14NeoDBSFN7u4OrEcNyncQWMBsyy%2BEDUeR%2FL2f5tqD0YCYmGdY7R%2FW7301g%2BvdZvMYjXXtW9Bjr3IWzDL6NST2KUZ6TS6OfaCEQwzhpmNVVZ6AanUmCcvEB9c7lXfmnsgMxtsvGJAkkVGFq%2B%2BYF%2Fm5xA1eCOHCT2tABekMpExV%2B%2BB39WmhKV%2BsUKRENc5gpOOUeTD4f9aQ%2FB067AZQSQ02u80aguvzx5eXk56Hu6Whhm0r6BxxTQ7g76nAT2Vew3MrRh0r1IMM7KoRNpeYkXK5gNC9Qft10n67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7FhcTilzULUYMdyr01p1JJ6EBIWbpAxIcX9Ro4DQQ6vDFvkk40zOj8V3utSXWWddzLl9TScfDmiIEG6m4%2Bq%2ByycDdto4hIR%2F9iiDVoyEp4XRef7HTJ7z9QsSoQtMlxICHuQxxnD%2FbcBbcB%2Fe1CVMSpEq0ZrQc3Y%2BGVreqNWMLQR3D%2BkKsgEfSZIy7WDGquIHXUOlx8kZMeeE1FxO%2Figq7kl26ETr%2FI%2FGqfKQpEvVVT%2Buq%2Bx2scvLJhd1zFeAnTDe7HJSCFTE1ohcyCHdQzau55QAcKwaCJaGLXJ1r3Z0MoLlHqkOHbOGaNYAdNluJiRCZbt6b0KYQ8ZPmecxmuF1ci%2FxFDxy7yxXLf%2FBvcMRZWsvZnugNzywRfO7CHW5VBWSSHRyPBWbUFRhWScTsgQynPg%3D%3D&nvMid=62065368712&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "씨게이트 FireCuda 530 1TB",
+    "image": {
+      "file": "seagate-firecuda-530-1tb.webp",
+      "source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/ssd/firecuda-530-ssd/images/firecuda-530-ssd-270x270.png"
+    }
+  },
+  {
+    "name": "FireCuda 530 M.2 NVMe 2TB",
+    "brand": "Seagate",
+    "category": "storage",
+    "model_code": "ZP2000GM3A013",
+    "series": "FireCuda 530",
+    "released_on": "2021-06-24",
+    "summary": "TBW 가 높아 오래 쓰기 좋은 PCIe 4.0 게이밍 SSD",
+    "description": "Phison E18 컨트롤러를 쓴 PCIe 4.0 NVMe SSD 로 수명(TBW)이 같은 급에서 높은 편입니다. 데이터 복구 서비스(Rescue)가 함께 제공됩니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,900MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,550TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6900,
+      "tbw": 2550,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 507100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 507120,
+          "title": "Seagate FireCuda 530 2TB 내장 솔리드 스테이트 드라이브 - M.2",
+          "url": "https://cr.shopping.naver.com/adcr?x=PMGIec5v0QVGFBbgBLo1TP%2F%2F%2Fw%3D%3DsbOQ5VrZo0sFvrPnGw7Yf04AxNCZTTul796tXeuHs8X3WWSrp7PxeXQb25BwXx6MhASsa%2Fn2aY6HcMNg1vKRxIS3bZQ%2FgVlLbwDEALWWoO3Mhaf5feOgjwUz2N0m5Mnhdbv9fD%2BYN9Lnbj6eHW2j%2BYvvyhHAxI6SGn9C%2FBkXMOzDJrHFGbgfwdxgOLQHcHeJCZ9BPu5bC%2FF3Pycy%2BFcIoXQZuuiFTHxRLNNhAOyKMAnAWaPuOCz8CaX3cPkeGF%2BoQhRklcRSf6Q9IljjQx8Mx%2FH4sYEKGQGXsI23S4Wd6wZ0lXTdy6Sn%2F2yromYu89VyUpF4VlLMn5ZsXhJjfbAzUX5Qsx%2Bs0Ivkk5tcmvjgpfc9drU9gBvTOY8XVxGgpGxxdpKR8oowAXcvsRoxARa7%2B0grbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLuom6fDXG4mBWwf8n%2BJmtaSPfsyCK5CPme%2FHz9kP5c24CmJAt%2FsIBb18V%2BK6eYBTKgbRgQmUn1p7uDhd6v46z8ULNi2buvwQoZkezAKhJOTtrjdYESlKcinx3UZsfqYnEOwbxZSEe%2FVTZ1xn%2FMzAannNiA1e5zTKZqns0%2B0dMQPignx67cB7zmo24X6typ%2BJK7EKHCxBhmtMLJXh3NqRZK1%2F%2FedcUx%2FVclvnv5D8l8Vbik%2BB1gMb0CjI%2FqbxLaV7wCsD5xe4RuZWulLihrmX3B3LVWGr8fvvH1mWvUgXPK6j&nvMid=91024462464&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "씨게이트 FireCuda 530 2TB",
+    "image": {
+      "file": "seagate-firecuda-530-2tb.webp",
+      "source_url": "https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/ssd/firecuda-530-ssd/images/firecuda-530-ssd-270x270.png"
+    }
+  },
+  {
+    "name": "FURY Renegade M.2 NVMe 1TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SFYRS/1000G",
+    "series": "FURY Renegade",
+    "released_on": "2021-11-15",
+    "summary": "읽기 최대 7,300MB/s 의 킹스톤 FURY PCIe 4.0 게이밍 SSD",
+    "description": "Phison E18 컨트롤러와 DRAM 캐시를 갖춘 PCIe 4.0 NVMe SSD 입니다. 방열판이 없는 모델이라 메인보드 M.2 히트싱크와 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 6000,
+      "tbw": 1000,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 839000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 839000,
+          "title": "[Kingston 공식스토어] 킹스톤 FURY RENEGADE G5 M.2 NVMe 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=rXg8tm%2FU5nuGXDzg7Us8jv%2F%2F%2Fw%3D%3DsIaOK3YHVF7K6Ec%2FVp2QYZCXlZRJgKaeFczOFhFrT%2FXCX5%2B12ogbQS5b9WyJuSzRDCb9xlty0JXA4Ck0cR05ilQiELmmrrXSBliLtLs6WmJcKF9ppGEx76PbMXgNZCa4u1zy5cqyfzk2NR1b4V1Q0x2x1ZlVL2jxiZvkysLhHFD6sVE34szXIkCvvyTKOZB65Vq8WhBmKgdA0HOBXo0FYDsZ0hDL7MCHAV6YAWSP7xTTboex7KDIMt4CCWTmkfuZrIXVB6BNKWzJN4es4mFVxYxDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27ZC%2BSXUxwyLUckntucAABteHQHDU0mx9IOQhsYGn0cMz7Pr9xb9a%2BJ%2F%2BruuO0miAXxb5JONMzo%2FFd7rUl1lnXcy5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh%2BYIaPjzMk%2BfhuoZNakEzYNKtGa0HN2Phla3qjVjC0Ed%2FCbuVK1HAeE9D9r4Bq1yTFgnOckThHUvm1oLQP7iNQ0TwDfPWTsU470yVo85QHra%2BUl52fdg6XejOZhHs0K34OXRfRZmTHzOzTt4gAMgQQyKvllUzI0Efm%2FoZRr7zznusDhGgHtHRE6AmOHaNzEOUnR9INs9ZpxiOekV5%2FkbMXHc1xJNSpkDyp3A88QcATVpv6%2BOF2W9BYnqpB7oRtg9LBAjlvSb72qHlpEvQ4cBZgoOEsHC78VBLnFZh%2FnDobeN&nvMid=89878196397&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Renegade 1TB SFYRS",
+    "image": {
+      "file": "kingston-fury-renegade-1tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SFYRS_1000GB_hr.jpg"
+    }
+  },
+  {
+    "name": "FURY Renegade M.2 NVMe 2TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SFYRD/2000G",
+    "series": "FURY Renegade",
+    "released_on": "2021-11-15",
+    "summary": "읽기 최대 7,300MB/s 의 킹스톤 FURY PCIe 4.0 게이밍 SSD",
+    "description": "Phison E18 컨트롤러와 DRAM 캐시를 갖춘 PCIe 4.0 NVMe SSD 입니다. 방열판이 없는 모델이라 메인보드 M.2 히트싱크와 함께 쓰는 것이 좋습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,300 / 7,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7300,
+      "seq_write_mbs": 7000,
+      "tbw": 2000,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1209000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1209000,
+          "title": "킹스톤 FURY Renegade G5 M.2 NVMe (2TB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=fFi%2Bu9qHut6Www4XQHw3HP%2F%2F%2Fw%3D%3DsIQOFEdsDRTk2FXaoCDkXEFabYTvSIFXL%2Bd0kPN1HbAWX5%2B12ogbQS5b9WyJuSzRDXCeXWidJKTCmZp6U7%2FDaNKGgr7jhgpule8OTG4%2F6VGX9IOR0z1PcAeBPMjMLCSW9eLiVsKZrE5OejkqRbPmeJqebmJwSU%2BC5EofK07DtSdCVSBA7%2BVvPpSr63GNY1Frr4jguUBTTmHhVdtMh4NOB%2F2Qt2nSqjx4aHHBdSnl8eO0T56PNPIX9h82SbnIv0hl8X7AmuGTNb9DfOJy07GCdvBSO0Wkq25c1MDdyCURI2vS54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyJaSgcb4GilgA%2FH4TJgRaCJyoUbtA0Lmoc71otAgLdF7t%2FiuVdhvZEJrGj9MWUC%2FxqVOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MAzGEVcwove5cN0EDh5wt5XjKXG%2Bu8VrMjYErJ8VKUvDXqO6HnMeT4yFQ1iS46qP1D3g96Ts3re6bzpJZrGt7tTHy0z6Gt9s1vOA7QpjWTpBHJSCFTE1ohcyCHdQzau55SgdzD5XzM9AbUJ%2FRKBvtO8phM4Xkqwer6KAYBzWkB5n27A%2Fy9Wcz7EU72Pz6EEGPfaS9PMHlrZ%2BOIusDYus1BY6HJZQgjI8VSlbO1R88zJ2DVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=62176891380&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Renegade 2TB SFYRD",
+    "image": {
+      "file": "kingston-fury-renegade-2tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SFYRD_2000GB_hr.jpg"
+    }
+  },
+  {
+    "name": "NV3 M.2 NVMe 1TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SNV3S/1000G",
+    "series": "NV3",
+    "released_on": "2024-09-03",
+    "summary": "입문용 PC 에 알맞은 킹스톤 보급형 PCIe 4.0 SSD",
+    "description": "읽기 최대 6,000MB/s 의 보급형 NVMe SSD 입니다. 값이 저렴해 사무용·입문용 PC 의 부팅 드라이브로 많이 쓰입니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "6,000 / 4,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "320TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 6000,
+      "seq_write_mbs": 4000,
+      "tbw": 320,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 259200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 259210,
+          "title": "킹스톤 NV3 1TB M.2 2280 NVMe SSD PCIe 4.0 Gen 4x4 SNV3S",
+          "url": "https://cr.shopping.naver.com/adcr?x=OAIMuyVuvDJnrjzk0seIhv%2F%2F%2Fw%3D%3DsYls1Sx1DXHPjOOikv9iFlF%2B%2Bq5kjVCVVXcDhhspfpYF%2B4NqIeGCqjrmI2MPn%2FdAFnUUfhBwUihWI9kw9evJyN6WxFE3a8PfsR3MuhcthuTGjS4x%2BGhV2tLAzbkXKjQsCsg6j%2B317P9PYw45RbvcqvW5srVPY9U07JjGRQ0XuWUkwfkwbhlhDY1OeKmakH1S254d9KTY%2Bn9Q%2BdEKUXOE9a49ZFBitipL6%2BGdxBW6hWqGKKbcWfhVJUeL2zJwtDSx27XTXG%2BITbm%2B3ROwcKPcVwzlPZdZHLVyy94FbYXItxTiL0YdhLylOXzAivwIo38xrumu5MYNf82adD%2BYNiroM4%2BaRqYiJDzyVgAPFHYW1YIxzbksIE8WXaoZWfX7tjxtEDNbAxZ9e0vxMflcAjfXIOPW3F%2Bi1L%2BJ6CopTe1U1QwSKlMPXCi3j019NTH4tgwEiwSKXmhfi8BHjkmy75Dh50etfpYoAc2DsCOtDcf1YOmFRg29Vd6vQHwTVhwSBYuTPWdP%2BctRyCLDFGocM15A1YQez%2FY8eSma9aMvarLWce5sXdQaPojMofFNuFc6x6%2Bqq4fPkOB4fymVZhWjlEZwQ41lq%2Fmzcz%2ByW7sVI1xfc%2F12MpAU4chGcnEUJAgXHC49GBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopACnq6OiXKXUKOhgJUqKS5i2NGsVJEkgy5kggTAnCOVklcMqeTtY7BcKCQrKFPGpzmgM8hdIBwkoPVo%2B39EGr6WldlJcFEFrowmkAAe%2BMMU454xUO4BGE7OOUD7NpthESqn%2B2QQOIj%2FTpFStFrZsOE49ZFBitipL6%2BGdxBW6hWqF13r388ZFFuRuj3lcgcpEYsQocLEGGa0wsleHc2pFkrakulbovb9HMQZ2rLPtLEzgGkgreu0mc2difqOrIrFzCVoWd0jB03C5aYq3HUc1IKtSSLJQZncWk8e8Ttfjz6Fs%3D&nvMid=60749384887&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 NV3 1TB SNV3S",
+    "image": {
+      "file": "kingston-nv3-1tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SNV3S_1000GB-lg.jpg"
+    }
+  },
+  {
+    "name": "NV3 M.2 NVMe 2TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SNV3S/2000G",
+    "series": "NV3",
+    "released_on": "2024-09-03",
+    "summary": "입문용 PC 에 알맞은 킹스톤 보급형 PCIe 4.0 SSD",
+    "description": "읽기 최대 6,000MB/s 의 보급형 NVMe SSD 입니다. 값이 저렴해 사무용·입문용 PC 의 부팅 드라이브로 많이 쓰입니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "6,000 / 5,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "640TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 6000,
+      "seq_write_mbs": 5000,
+      "tbw": 640,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 586200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 586160,
+          "title": "Kingston NV3 2TB PCIe 40 NVMe M2 내부 SSD 6000Mb s SNV3S 2000G",
+          "url": "https://cr.shopping.naver.com/adcr?x=b%2BwYv9tz%2BQKZfMyRZfsA%2Bf%2F%2F%2Fw%3D%3Dsz6kp1HMrQIvYbGlZCtTI62D2%2BjFLA4rgtUxdsT2Xyz7neMbzLVlg0hTvVR%2BI2Ua6x6COLTZe8Xtw3w2Quae8OK37bCZn3ZP4lw4%2BTfgFm4wUuINUk4lfTXE92pJ%2FhIxsx34ROEHp%2BevErN9YE4B%2FrXUCrTX06OOFrdZW0zZNsshIMkJsiFdIIXQRzJJtpcniKt70vqYWdkVJoGnjHAjj8rf6V7Qmx6rRpM0E45aNj5T6HvhQkztvR13O7nV%2B2%2FG%2BM0TmFmIBbm2lcAP4GyAtyfPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SmQYDthPj22p7xPkMyYzqtF8awyfa5WOfJ5t%2F3AOyU0rtc0rkTRFrZEK1lDbUlud2%2FIfdIGZiZRQY7mLR39b3SDy904cmykyOX3kYU1s0uhBparw6%2BWg0e2%2Fi6%2BZuG8hE99X%2BRCmaXQBTFwW81y2MCz%2BL9wF6QxXGJL6PozhFQGQJG3GXiyR9aj3AHQK%2FMeBiDLoNrQRwuL52j1hfrTkWGdFGFmsif9LwEfxDjfmvJYvxGxbrAXuvR9nuXXbbH2PhHZwRq%2FUKUfsftXMeOSDJc6DYl2Shwx0ynlSTwUjL8Jho%2Fqamyv1MYvCgLaTr0ZpVKxChwsQYZrTCyV4dzakWStcWMeqmQzSZpsYUXNfVDp9mpuCxGuG7ggBsiwOlHt1wIDfkLIyuldBS3f8m8e6nLmzUhNzs2VE%2B%2Bisqs3JAEppg%3D%3D&nvMid=62130856870&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 NV3 2TB SNV3S",
+    "image": {
+      "file": "kingston-nv3-2tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SNV3S_2000GB-lg.jpg"
+    }
+  },
+  {
+    "name": "FURY Renegade G5 M.2 NVMe 1TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SFYR2S/1T0",
+    "series": "FURY Renegade G5",
+    "released_on": "2025-05-12",
+    "summary": "읽기 최대 14,200MB/s 의 킹스톤 FURY PCIe 5.0 SSD",
+    "description": "SM2508 컨트롤러를 쓴 PCIe 5.0 NVMe SSD 로 Gen5 치고 발열이 낮은 편입니다. 최신 메인보드의 Gen5 M.2 슬롯에서 제 속도가 납니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,200 / 11,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 14200,
+      "seq_write_mbs": 11000,
+      "tbw": 1000,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 839000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 839000,
+          "title": "[Kingston 공식스토어] 킹스톤 FURY RENEGADE G5 M.2 NVMe 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=r960UnJb15uimAYEJNqcsf%2F%2F%2Fw%3D%3Ds5ARDfqdJB2ZzW9DUnIvYfSXlZRJgKaeFczOFhFrT%2FXCX5%2B12ogbQS5b9WyJuSzRDbiQNZSlICR4E%2BINqdY6QzDZEgDAaDHLbO4knGzMaIr%2FCnWzINoi2NYIFLmGvLMNb%2FajYBfris1yvNzaDtbzE5%2FbKwES3y3PWHOINs7oWeoKGWIMCNn7ONF0fxEavxjcn1iuH4ld%2FdYcimzc4005jSGdq7LU4KbNsXsEzISv6ClFrFwib%2FN3aqbbUe7jBLeYBW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJixt0b1I%2BBbhVg35BtW5nOoMRsitWWpTwyRFK86YDHd1drU9gBvTOY8XVxGgpGxxdpKR8oowAXcvsRoxARa7%2B0grbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLtYQzqJ0ZELpOmmyZsPxEqWPfsyCK5CPme%2FHz9kP5c24hyonDsrd8npbpKgPv7lkmDue6DL577S8L5RMxIkJB3NBmGMzPE8syDLxuJ6jjiVN1sBbl386jufn19OnkiD%2FFFMPQnF9wogkcZi49Tyk%2By0huIVvjgeBlktagqJ%2FJaZt%2F%2F7BdDJFExGFxcrBlaQlL6wa9JlmckDbJAJUEGvcfEHX5Pn8GlSciLY5Rw3US6cnLtINA6KYkNrXYtiL0ougMLUTMb5CrCQlrHn5hJQK0NJB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=89878196397&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Renegade G5 1TB",
+    "image": {
+      "file": "kingston-fury-renegade-g5-1tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SFYR2S_1024GB-lg.jpg"
+    }
+  },
+  {
+    "name": "FURY Renegade G5 M.2 NVMe 2TB",
+    "brand": "Kingston",
+    "category": "storage",
+    "model_code": "SFYR2S/2T0",
+    "series": "FURY Renegade G5",
+    "released_on": "2025-05-12",
+    "summary": "읽기 최대 14,700MB/s 의 킹스톤 FURY PCIe 5.0 SSD",
+    "description": "SM2508 컨트롤러를 쓴 PCIe 5.0 NVMe SSD 로 Gen5 치고 발열이 낮은 편입니다. 최신 메인보드의 Gen5 M.2 슬롯에서 제 속도가 납니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 5.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "14,700 / 14,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "2,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 탑재"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 5.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 14700,
+      "seq_write_mbs": 14000,
+      "tbw": 2000,
+      "dram_cache": true
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 1209000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1209000,
+          "title": "킹스톤 FURY Renegade G5 M.2 NVMe (2TB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=fPg5PAwZTtc8hScuY92L%2Bv%2F%2F%2Fw%3D%3DsUfczOjYCKNU%2FwIKEdzDKtq6UowjLLQkKbk2qQgpI92V4AnWRLOOxoqtpI1s8F5UV%2FfR13KT7%2BsY0Y2UFATNiAxKJL2bRHy%2BOO3UwUT%2Bjd3qlYB%2BkoEwoudc%2F%2B%2BaAkGboGVG9OzxtFyagvTmEa66EqFzgv58lp27o94KKU1JEB%2FLEFZoTDWExLH9XT3yF8WtDRwX8XL0zlw1k9f9A5Xy%2BIf%2Fc%2BTwJg%2Ft8oQJDrKSwrNAiA1dKIhpXGgQMa37Ok2Dn76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFOFq6ft86gd6y8VolUjKS%2BuxxesT0WxBt8NNGOo6ULWFdrU9gBvTOY8XVxGgpGxxdpKR8oowAXcvsRoxARa7%2B0grbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLmZcaAyBy%2FZuPkYmBH11PWSPfsyCK5CPme%2FHz9kP5c24dhPLnWbehFPWWN5S4tUtF8GQW7QPPHQzb2HQcAPxahcyn3way0teluDLHvzFCqclBKG0ZS9E%2BIi938NjVZfEsq9h7FaMBOGMmpfDzhknqDMugiDh5S8n%2B7Rc0MeNuzgdRXI5J5l%2FFROaoERl8qYIk3BxhguukNAHdQJoJtYSWdrHICEQpPL7Rm%2B2fyhjEhHR&nvMid=62176891380&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "킹스톤 FURY Renegade G5 2TB",
+    "image": {
+      "file": "kingston-fury-renegade-g5-2tb.webp",
+      "source_url": "https://media.kingston.com/kingston/product/SFYR2S_2048GB-lg.jpg"
+    }
+  },
+  {
+    "name": "MP44 M.2 NVMe 1TB",
+    "brand": "TeamGroup",
+    "category": "storage",
+    "model_code": "TM8FPW001T0C101",
+    "series": "MP44",
+    "released_on": "2023-04-26",
+    "summary": "그래핀 방열 스티커를 붙인 가성비 PCIe 4.0 SSD",
+    "description": "DRAM 없이 SLC 캐시로 속도를 내는 PCIe 4.0 NVMe SSD 입니다. 얇은 그래핀 방열 스티커가 붙어 있어 노트북에도 넣기 쉽습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "500TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6000,
+      "tbw": 500,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 329000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 329000,
+          "title": "팀그룹 MP44 SLC Cache Gen 4x4 M.2 2280 1TB",
+          "url": "https://cr.shopping.naver.com/adcr?x=AnV8bY5Dc6QhRYTJsbfeDv%2F%2F%2Fw%3D%3DsR8AjEBmZh2%2BAAT8AwZFZ2YQ5ljV20xUm4VW6%2F1C0Ii1kt1yo5DF3zBoKGGN8ozO08iSo%2BFoOs%2BqR0Y6e1NVDhOyuuw1UaK9JfSnXwIfzIO2QnBfmqWj9KTLC%2FacN9k6ILmB%2BIonJEgfm85CUCoFOngY7th%2Fb5X%2Fu%2F1YFVAUnhxaK4j5MTwF45Ni1%2FMJqrSg0QfT8YDTYFpVX%2BB%2Ft%2FSf7P6tOvdlCa3JurBC3kZi0oUAn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7FZFXXPL6WIbCNjm4qOYChcAhO%2BWDpTUH5VmAuJtaxlUQ0jOfaDdGgOPS82RF3ATPfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4A8g5kPwGO4hc0EEm94oENR3NW06yZyz11cwdDfG5ktpzQ3M5BOXufsVBbCxW7c2995kgzXSUboRowyf4Tpj9BGGRoVkBk6%2F%2Boj1gnlw4BZ1035%2BVIlhAGZKT0Q3MCqSdeneHNpdIbSul5f5sAFfY4ZrnfOhULnDZ%2Fh5UMyFGibmRZ8CzcwGOWDGOfAtvAjEfa2tn2vjWzDjIY%2F6qdBRdARTmrO2SZ54i19pCu%2FsUq%2F5dMuC%2FjoHnjKc44Qz9kW4pQQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=88066590255&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "팀그룹 MP44 1TB",
+    "image": {
+      "file": "teamgroup-mp44-1tb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/ssd/m2/mp44/1tb_01.jpg"
+    }
+  },
+  {
+    "name": "MP44 M.2 NVMe 2TB",
+    "brand": "TeamGroup",
+    "category": "storage",
+    "model_code": "TM8FPW002T0C101",
+    "series": "MP44",
+    "released_on": "2023-04-26",
+    "summary": "그래핀 방열 스티커를 붙인 가성비 PCIe 4.0 SSD",
+    "description": "DRAM 없이 SLC 캐시로 속도를 내는 PCIe 4.0 NVMe SSD 입니다. 얇은 그래핀 방열 스티커가 붙어 있어 노트북에도 넣기 쉽습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "2TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,000 / 6,000MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "DRAM 없음"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "seq_read_mbs": 7000,
+      "seq_write_mbs": 6000,
+      "tbw": 1000,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 503200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 503230,
+          "title": "팀그룹 MP44 2TB SLC Cache Gen 4x4 M.2 2280 PCIe 4 NVMe 3D NAND SSD",
+          "url": "https://cr.shopping.naver.com/adcr?x=v0Evap8vSpldJFFtEMQq1P%2F%2F%2Fw%3D%3Ds9MXHnK51iM7xTxz%2BMr2jiNd1abChIxk4RiNjbl9wq5smHrJ1XVwVY9A0ZLoX51fhNktg9AqF4nqDzWsNTWmwofau9CY%2F%2FRU8P13T0AaCeb9IjLyAE2MEsziLRP0bQSXNZbXYBe%2BYbaHPoRYLB9TLv9b0gccntl6szrPryNlyfZpyhmzhZlvStEI%2FaZVGXG6Q8QTrFXygkX9ynMyRZWBGmp3CHOpmSI264sSC3pt6O35wBwiT867WAf%2FtayYLoGqQPK4wozR9cV3tf%2Bb%2FUUFiVTUm9CpBAD0%2F8zSsjx6Kz3iVVEl7Rs43nSf4hS6ldX%2BPm5x%2BEiosJahg0J23fFeJszTm0md86c9NHBcBIe01vkkCLVeYAeEKjPxgth0BZcZRQjGa7rercn09mVfTx0JLjhfJbLn2n9IBeyjZMeMqhSRne4%2F8cZ3QwK82rcJREFwcbhpXDJCA2xyjYG%2FLxzSNwfPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4Smq3sxU7kqwyrLIupbY1xhIrcF5BkWfkCXlTgDpf57Zqld%2BqILAG09hjAR1K3qLYkDkGvAkZ20smg4ZK5LILETwnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbWtqEuQfb0pWhgAIEz7bHzkDDN8bw0lVD98JqoJue%2FhkMPDF6O%2FDewiusI2oRE9rEc6rhDSLiZSUB0%2BHStDdTo667772EWb898tFbpgYhncP83jAm8VeDtLWRPoQZ8UQ3Yg%2FMaNh661Z4IAosAaOssMHJSCFTE1ohcyCHdQzau55XzZpW%2B6XIchKDHADJPJvTEMeuwHtqaC3YLA5ElnQgSv05%2FiL3MWsFcTbnjz%2FZLXrWp%2BR1MRtm3DsQ3ZRBzFykxG3nSzmS3Yp5pWyre72DyCjBu1lEFWJTH1CbOg7xygRgau4fTwOUqyF63FjwpQRls%3D&nvMid=58894520171&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "팀그룹 MP44 2TB",
+    "image": {
+      "file": "teamgroup-mp44-2tb.webp",
+      "source_url": "https://images.teamgroupinc.com/products/ssd/m2/mp44/2tb_01.jpg"
+    }
+  },
+  {
+    "name": "NM790 M.2 NVMe 1TB",
+    "brand": "Lexar",
+    "category": "storage",
+    "model_code": "LNM790X001T-RNNNG",
+    "series": "NM790",
+    "released_on": "2023-05-25",
+    "summary": "DRAM 리스지만 읽기 7,400MB/s 를 내는 가성비 PCIe 4.0 SSD",
+    "description": "Maxio 컨트롤러와 232단 낸드를 쓴 PCIe 4.0 NVMe SSD 입니다. 값 대비 속도와 수명(TBW)이 좋아 게임 저장용으로 인기가 많습니다.",
+    "specs": [
+      {
+        "label": "폼팩터",
+        "value": "M.2 2280"
+      },
+      {
+        "label": "인터페이스",
+        "value": "PCIe 4.0 x4 NVMe"
+      },
+      {
+        "label": "용량",
+        "value": "1TB"
+      },
+      {
+        "label": "순차 읽기/쓰기",
+        "value": "7,400 / 6,500MB/s"
+      },
+      {
+        "label": "TBW",
+        "value": "1,000TB"
+      },
+      {
+        "label": "캐시",
+        "value": "HMB (DRAM 없음)"
+      },
+      {
+        "label": "보증",
+        "value": "5년"
+      }
+    ],
+    "attributes": {
+      "interface": "PCIe 4.0",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "seq_read_mbs": 7400,
+      "seq_write_mbs": 6500,
+      "tbw": 1000,
+      "dram_cache": false
+    },
+    "benchmarks": [],
+    "price": {
+      "krw": 300000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 300000,
+          "title": "렉사 Lexar NM790 M.2 NVMe (1TB)",
+          "url": "https://cr.shopping.naver.com/adcr?x=dw2iRLe8LR8BVVwk%2B3Vsc%2F%2F%2F%2Fw%3D%3Dsx4xPFBfTkZULxq%2FoxyQPDMu9bjlgtLNxa7jdfktscJtH9bwTOW8tP4JcekHpGqW4Qm%2FlynhrOvTFQI2xhsgSMhMwPYbYLUFt4WRSm%2FAeVzxGYL7CFR06ntmGn%2Bc65ak6L8RGvJ0EWqTsIlcyqiGjggY7th%2Fb5X%2Fu%2F1YFVAUnhxaK4j5MTwF45Ni1%2FMJqrSg0Sn2%2FEE%2BR3PwkfirO5YPU44uZGFYhxesrNi0ZqaJMUekn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7dk6uLD22auPij6QpRgRQw6bgw6f1GfnYJPe1FMfu0dAQ0jOfaDdGgOPS82RF3ATPfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4A0hgF9DWhpV9h0%2BCDMTbhPXNW06yZyz11cwdDfG5ktpyC1YAnxbfrfmWkE23KSBEI5qdmtUajUVcSNPzEqlqtqbUYE33FN5Dtascv%2FTWyD9u3EBfSSR0OMFRkoItLIbh6v6BKghSL3xs%2BHH3mJDRRNZAJTisD2oQhMmHfRPpWpo5MtpRSYU%2Bu78PEQWxPZp6HcuYsxkSaD4C%2FdSt6qwsDd6vmcbaGmj5MTcWxlw2Dp%2B8dHI8FZtQVGFZJxOyBDKc%2B&nvMid=91261874841&catId=50001617"
+        }
+      ]
+    },
+    "search_query": "렉사 NM790 1TB",
+    "image": {
+      "file": "lexar-nm790-1tb.webp",
+      "source_url": "https://www.lexar.com/product/lexar-nm790-m-2-2280-pcie-gen-4x4-nvme-ssd/"
+    }
+  }
+]

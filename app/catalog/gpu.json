@@ -1,0 +1,3726 @@
+[
+  {
+    "name": "지포스 RTX 5090 GAMING TRIO OC D7 32GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G5090-32GTC",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-01-30",
+    "summary": "4K·AI 작업용 최상위 RTX 5090 32GB GDDR7 그래픽카드",
+    "description": "32GB GDDR7 을 갖춘 RTX 50 시리즈 최상위 칩으로 4K 고주사율 게임과 AI 작업에 알맞습니다. 트라이프로져 4 트리플 팬 쿨러를 쓴 길이 359mm 의 대형 카드라 케이스 장착 공간을 먼저 확인해야 합니다. 1000W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5090"
+      },
+      {
+        "label": "메모리",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2482MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "575W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "1000W"
+      },
+      {
+        "label": "길이",
+        "value": "359mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5090",
+      "vram_gb": 32,
+      "memory_type": "GDDR7",
+      "board_power_w": 575,
+      "length_mm": 359,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 1000
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 38996,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5090&id=5725"
+      }
+    ],
+    "price": {
+      "krw": 7061100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 7061060,
+          "title": "MSI Gaming GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 그래픽 카드 RTX 5090 32G GAMING TRIO OC",
+          "url": "https://cr.shopping.naver.com/adcr?x=A4fJv2dGUzhvXbVdrGMCvv%2F%2F%2Fw%3D%3DsukRYES2iaQkglZZgn8W4cjafcef0pGkWP045DhrE3P5zw%2FyzGDwRzqG5cfgh2cmiw9F%2Bq91yzuLB9md9FtKEg8uMgYYEnvOwVkNztWnmcHHYzaywrc%2BgOgFqo1TyBfgTZuefr8GAggn6RHKjM8ZXlVgVgsi9nOqEwUsBD2jEK1VuSKXY9C%2F9QzUjJcLrELAhlJBocsx7ojPfqPyr7e2ZI%2B84yZv%2F3wprY3aJa0hfvUEpY%2FtM6gbI6JPo7mKTcRDsXjGrDJTlKIvAHL3bFBwf9RbD9IpkvSaWd9NNYHWfZTcPVCZ%2FaB76u5%2BkI7ubqIVDphdi87z38r2pQut7c%2BTY5eGEIQRMGp0le6HT%2F%2Ft7%2Bj38FmPRmYkTMNa5bddsPevYieJ%2B44345cm11w%2F%2Fpg3hWE2htrtFSz4%2BXODgugRzmL73nu8xjEvh8opK%2BrnlzH%2FNIXVB6BNKWzJN4es4mFVxYxDjEdx9TYj6LXbmx2EioVQQhkkHXK4%2FmSRy5icYE%2F27BW36r4QZshREfg%2B3vq7RNrAgZFBsUp%2F9GveKKP8FcKByK7gAWZ%2F%2BU0iwsYOxFaXxK6R3JeRGy9EaMZGsQvfhM%2F8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hUT8TQqUjtxft2oq%2FDK46PlDu2wgB9LTFCcYj5vXsSwtvXfA5JItG%2BYlFtcHVIqggl8IyqGxJ5E%2BPhAy5pvnB0GGSiMCclCYXdCuE13Ztaimcw76KybNEoDSSAuOSuN3BkdkC9ZK7QwoCDwOKz7E5A7XufyjcNBzbBWcbnFMsMY9nXAcSFVdMesKtEqRy1xJt3wJeXbnU6mZaLN%2BXPYoRZy3UJsUexFUNmIrD3ZrcAEAfZDaf4b%2F7PlWhTDBhrWpfWhopkeKUdu5q4dSKA0zkoA%3D&nvMid=62227740259&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5090 GAMING TRIO OC",
+    "image": {
+      "file": "msi-rtx5090-gaming-trio-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1737081391df0edd81daeead5bd52c24e71abeae13.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5090 ROG ASTRAL OC D7 32GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "ROG-ASTRAL-RTX5090-O32G-GAMING",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-01-30",
+    "summary": "4K·AI 작업용 최상위 RTX 5090 32GB GDDR7 그래픽카드",
+    "description": "32GB GDDR7 을 갖춘 RTX 50 시리즈 최상위 칩으로 4K 고주사율 게임과 AI 작업에 알맞습니다. 쿼드 팬 ROG Astral 쿨러를 쓴 플래그십 카드로 길이 357.6mm, 두께 3.8슬롯입니다. 1000W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5090"
+      },
+      {
+        "label": "메모리",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2610MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "575W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "1000W"
+      },
+      {
+        "label": "길이",
+        "value": "358mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5090",
+      "vram_gb": 32,
+      "memory_type": "GDDR7",
+      "board_power_w": 575,
+      "length_mm": 358,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 1000
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 38996,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5090&id=5725"
+      }
+    ],
+    "price": {
+      "krw": 7363700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 7363670,
+          "title": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC 에디션 ROG-ASTRAL-RTX5090-O32G-GAMING DLSS 4.0 PCI Expre",
+          "url": "https://cr.shopping.naver.com/adcr?x=Q%2FGIcK1pDNsBN0RlFmD7ZP%2F%2F%2Fw%3D%3DskPbcxC4TQFPJAI4up9BCUz4Lr5%2FlGn79FVcAUif%2FhmzMNeJdyLhR1f41nk4bWwMKStH23XFxGqAoyQv4al6c6kjNK3%2FUUVzIGZ7yfRV%2FXI5%2Fjx2CS03sMr6Bs5o2Uci6cOL66vCnow8sTi13sVSwpavl1ZvXJGPLwWFmGTG28Fkri4bta6uhOTdSIDUnaeMf6w1odAlGX9KW94vYAPuhhpuGrJfH2TfJcIIwtQS6h7N39drRARjxnul52EeVvyGn1MwE5Hil5v7KiFetZBG%2BbzplhFWJLN3m%2BwPf1cDvdliFygGUJ9i4pl2W3J0quADqP9cMWod9UeDdIAgyqpWScLtwmL7DcPig9KtDp3rDGSYu7r9Sa6vWQUrZs16lo2RRRL9VjUTjs8QWdAbu1fAE8Ivn09FbfJR8UQWX2P%2FIltg1YoSun0%2FDNc9CdN0XogJhgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSejWI4yBuUXd%2BI6KkY1lb2ZjVSavZJzl23pVEkHXNC4fM55loiFhLyQd%2BqHBDaxl0FoY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNj9894%2FUjuwzbQlI5%2FaFJzfLN9NVWAEjB7bggS7UEkTLglZ7OGitkgmcbD0yDzY2TVvFKuxZmIkA6hcivEYr6ZsQ6lmalDP8VDuRC64UpgAn7Wh4yuJzMLqHjKQzOlkkD4YtzRyiB%2B%2F0V4ZYMLP6d%2B%2BGeBhqQdfwa48sLbPB9FfLoObFQcHklPz0pgNGg5dcVXS6CIOHlLyf7tFzQx427OB3GGY%2BgDHQD3F61izpaJixqdsL1xFGFokCL8b%2Fqz0NfvscgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=60703246825&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS ROG ASTRAL RTX 5090 O32G",
+    "image": {
+      "file": "asus-rog-astral-rtx5090-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/128A96DB-DA90-4C45-A7A7-2A56F9F4F48A"
+    }
+  },
+  {
+    "name": "지포스 RTX 5080 TUF Gaming OC D7 16GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "TUF-RTX5080-O16G-GAMING",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-01-30",
+    "summary": "4K 게이밍용 RTX 5080 16GB GDDR7 그래픽카드",
+    "description": "4K 게이밍을 노리는 RTX 50 시리즈 상위 칩으로 DLSS 4 멀티 프레임 생성을 지원합니다. 내구성을 강조한 TUF 트리플 팬 카드로 길이 348mm, 3.6슬롯 두께입니다. 850W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5080"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2730MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "360W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "348mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5080",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 360,
+      "length_mm": 348,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 35650,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5080&id=5721"
+      }
+    ],
+    "price": {
+      "krw": 2721000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2720980,
+          "title": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition TUF-RTX5080-O16G-GAMING PCI-Express 5.0 DLSS",
+          "url": "https://cr.shopping.naver.com/adcr?x=EwXE0wO6WDgYLHWChjJwA%2F%2F%2F%2Fw%3D%3DsggxDzDcmBfs9URYKK0a8njqk%2FOfvL3lnfdEd6hL2Y9ZbspPiUGHyk0C%2BDFApEhPXnjrjsNh%2F7PbaG7t3kE9qUBFkYMhAUjagj1DW4dVl5pPtlswpXJv2nws0o3ma39K3G%2B%2F6sqz9NcZohtWZDdRX8M3LS4fDV%2BNPUwbDiAN4989isiZAZaMqKmoGFR8nadspuYBsfVEnwG95ROY7Oit2SJT3Az00GJUCUKisjowNpi099ORFd0XLXYf%2Fzh%2FRV35v2K5xOhs4nkKKT0CoF6sP1MVh9sQiH4yd5CkDNN2hkkzCFp5EpWAjMI%2BAHOHpqlI3H7GCpat8bf57SqNs5mXv%2FmrMpXueHEIgBEueJGZ%2Bo1xm3OXRnMymFP7pGLfgzH%2F2%2FLomeYsu0g%2BkZhyGdccTg7Fbo4WqXyxZJ8m%2FPU3k2sZegvP3tP%2F31ShI3wdAf9huiihiyGhqlFINUaA6lib2D99%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4yqvcsR7IdjVCnmNDWDjv0BAHkEoxrpB5H2CU3S0H%2FQB%2FlLnJwMa7Bt8R2%2FUDqQrClwSnDprQQkYN0b8VBvFWAdhB72hVVSd9fgN%2FhwJPOTRdliVXVqOqjP0zoGr%2B9c%2BpErq7Nfr0B5nCMKRJz5JiVBJDl6Xc5ydGP4urwsg5snOfCzWURTRASLTlqJOBZ6eMBbMYLV%2FOCJ5bNTr4DYV754rPPxhoD7k%2BGfjECd3jT1oX4JrKxxVeUMfTWVwOzIsQedZaIbqYe4dLJYI9bbOzc5zJ2n8LxoTqBlpqYOI%2BJIBghLXVp22gs%2FtLlFWQmyj8LoIg4eUvJ%2Fu0XNDHjbs4HazWmgfGCdIdGkTMVv11i8n%2B3iRjygo7DYggYKXM0fOuzY6of2Xpggjm6A4Z8HgJhg%3D%3D&nvMid=60703247139&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF RTX 5080 O16G",
+    "image": {
+      "file": "asus-tuf-rtx5080-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/7bb494af-8636-46a3-93ee-3cff60d30624/"
+    }
+  },
+  {
+    "name": "지포스 RTX 5080 WINDFORCE OC SFF D7 16GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N5080WF3OC-16GD",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-01-30",
+    "summary": "4K 게이밍용 RTX 5080 16GB GDDR7 그래픽카드",
+    "description": "4K 게이밍을 노리는 RTX 50 시리즈 상위 칩으로 DLSS 4 멀티 프레임 생성을 지원합니다. NVIDIA SFF-Ready 규격의 트리플 팬 카드로 길이 304mm 라 작은 케이스에도 넣기 쉽습니다. 850W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5080"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2670MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "360W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "304mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5080",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 360,
+      "length_mm": 304,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 35650,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5080&id=5721"
+      }
+    ],
+    "price": {
+      "krw": 2939700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2939690,
+          "title": "기가바이트 지포스 RTX 5080 WINDFORCE OC V2 SFF D7 16GB 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=LWTfqARqknOzPXah73w03%2F%2F%2F%2Fw%3D%3DsK6DKcjD0DJAQzCKGt82awRswb%2BDpenolu2rE5IwJ1bvYhPlt8IulkiI8GGWqHq3Bqct%2FPjhVja2vLgvRQfYTer9SpK%2Fr0W5f%2FXSDdTJG1Z8zqSlDsKF6jbNwA1XUi2XDBvPeaE6iQWlxzxPZVDvGPCSM8MAqMxkkIoONui6KilIaaPYK%2Fp5CuD1h7vjlKtUcy%2F6MHZ6u%2F5n6uuzlUc6JNCAYTv5lq0qN%2FmER%2FVdy2QohyD8JVhwQA6PEv%2BHTZiKEhbQPmUo13lw716itxf4V%2BKxFigiOplEAWXW8ZgBdOw0ZY1lo4IcOCb1xzTI%2BWM64CTbuOleeqCkPlhqPJde4%2FMNslqJO2FNbsX8d4hkd2z9cIUZ6crj%2F1RbtMKtI5ba176RSsWtFBjnOsBQh0S9ABT1AJRaNr8sXogxp3QhG9Zi54J8UO7LDGXdPU9Do8oyMXmq0wb8nQ9S1CNyVqQgAyBvyn%2FJsHb8aVSuZQUgPQhoVjQCpIk5kx4sJW2hrRfnKlTyrzrEeoO%2FKj41%2FwtU%2BF35eM%2FyXoFgayThKQjUFuInU2CFESHbEOeRzMrJFnNBIxmJNkBVb5pfQtor0B0seACjYkQJjoC7uG6IWyWV8VdZzVtOsmcs9dXMHQ3xuZLac4jkRqfqFyMQ7bK%2BK7Jz7DanodxDOI2gla3QE4Z1Jg9AnHYOevk1IXSnPLwGrcv1XmoZyMwDEpXLqyL41lDrR5VJf2lrsnueDa3K2VD8e6crz6M9UwOAMO7aVcIZSEA8cdhL0RW7FhPzIoeT39OIxi5TL3ruaVJreZl%2BplMuLoOqm5aY9SfiiYO2Fx34mLkQa4fcEx3RgeRVoMmXaKs0%2FSQOnbzhw5Ealyzslb9PB6UlB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=61403715321&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 5080 WINDFORCE OC SFF",
+    "image": {
+      "file": "gigabyte-rtx5080-windforce-oc-sff.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/e8e31cfdc173217befca72718f4560e3/ProductRemoveBg/43887"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 Ti 벤투스 3X OC 16GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G507T-16V3C",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-02-20",
+    "summary": "QHD·4K 게이밍을 위한 16GB GDDR7 그래픽카드",
+    "description": "16GB GDDR7 로 QHD·4K 게임을 넉넉하게 돌리는 RTX 50 시리즈 상위 중급 칩입니다. 트리플 팬으로 조용하게 식히는 VENTUS 3X 카드로 길이는 303mm 입니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2482MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1b x3"
+      },
+      {
+        "label": "보드 전력",
+        "value": "300W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "303mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 300,
+      "length_mm": 303,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 32333,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Ti&id=5878"
+      }
+    ],
+    "price": {
+      "krw": 2630000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2629950,
+          "title": "MSI 지포스 RTX 5070 Ti 벤투스 3X OC D7 16GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=pMJ%2Bk0LWmQfM37oKLrOqDf%2F%2F%2Fw%3D%3DsJRtkG9Wm5NH2Ueo2mKxT%2FEOhmFXVv4iCT1ztLPq0iZuJxMaTz17y5nhXeih8FyFMPl7B%2FvqRCFuwHC6zQ8SZPljoiseh5%2Fz0gTeKkBf0CCXX%2Bt6A5LR8m4kNbOk2MmIe8Zm%2FbB7jjtd02%2BAsZq2AfM9XRL2mOamyW5ON9BB7o4FIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFI%2FcGwU5iO5vZEYZzp1aCNLlrpQ%2Ft505Ptcq%2Bi7oTlY5s1dBSEUALptP1H%2BJjxVLQyvRCrSloP6Yi4Cy3U5Z%2BzHDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8FmEcWDqvfX3m2g6NNFF1klbHxhtVocyZH%2Fi0FfiXVw1XfqiCwBtPYYwEdSt6i2JA52IvCrHY3I6p3G3X95twZp46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1OLx1lnqgRq%2B0yAXbLtoTe6k83giPkD5GBpYhfIyQmnXQ%2FShsnF5%2BtiwY8AnUYn%2FduBm1fAWG6B0qJini%2FFZ8CJG5RT%2FeaRQ75moIm2cvJhnvTLBBNqO1gc%2Fvxva2u4lP00kJt7fARnFAPogPy0DPew6Y8DYPNU%2Fp9dQZ4TU4us1UJDk%2BJBXgm452c51hi9gMNPEZCOoHOBW4sxDXzviqnRGk4XMJtozo5T3u6g%2BJ%2BOtsCKTdOMkbEUD7JAtz9fCr6yQ2k8aexQvK12EgAE%2BFts2OqH9l6YII5ugOGfB4CYY%3D&nvMid=59603590549&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5070 Ti VENTUS 3X OC",
+    "image": {
+      "file": "msi-rtx5070ti-ventus-3x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17375373017f070971309d34e5db4a0cbeed1e55b1.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 Ti PRIME OC D7 16GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "PRIME-RTX5070TI-O16G",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-02-20",
+    "summary": "QHD·4K 게이밍용 RTX 5070 Ti 16GB GDDR7 그래픽카드",
+    "description": "16GB GDDR7 로 QHD·4K 게임을 넉넉하게 돌리는 RTX 50 시리즈 상위 중급 칩입니다. 2.5슬롯 두께의 SFF-Ready 트리플 팬 카드로 길이는 304mm 입니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2527MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "300W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "304mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 300,
+      "length_mm": 304,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 32333,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Ti&id=5878"
+      }
+    ],
+    "price": {
+      "krw": 1950000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1949990,
+          "title": "ASUS PRIME 지포스 RTX 5070 Ti OC D7 16GB 코잇",
+          "url": "https://cr.shopping.naver.com/adcr?x=WSYnQ0lI8xv6RA7hsrz85f%2F%2F%2Fw%3D%3Ds2SOLX%2FZUYzzYp8pgzVBL84Esi95UFEsH1PCkkF%2FuWyCScnTV%2BTdDAO%2FbfiOgvgrYLc%2BTjBVorofsi9CV1xE8lqB2vAzqEqlOgkcVK7WlXava5Uz%2B2MV467ELyWvJ2NFr8yzlXA5sE8tG8%2BedDO9JBd3XCXiyurxGdOLB%2F0vCZzPffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy02mslJvUfTrx1UaZTvvZrOl2o1vWzADg4%2Boi74hndtHymjO8cCXyqy1Ioc4EC71G6G4xqLatDbAyQVyT8VlOGnEEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9E9zAIwItEm7sZvV0DVWj3LNoujdiiNe5Aky91pn4j%2FKq44QCC3ybP5P1lHuX0ovNpU6iyE8a7gbMMZsDJRX5rHA7W1g9F9rdUNMfrp131LqZFEw0sqKt0UgQwFMrozQwegwTtO7il%2BbATIKpdkxlhJqZLeVmvTKc045H3dBLsrD62ciBisaHiAFsSD8vlqbi9DxOm9h5N%2Fci7Ye2VWUW9KKSfFnkdP7shkDUYdy5kTM2q5RqxFxghJktYZEOJyoQ6GyX5c8bYH2tqBPjO7XBHKpbLoO6fIzYu058CMNMopmuCbRIsDvXC9qHlDjnC8gviA3%2FU2AzguC84AnoS7Lq%2BU4rEO10CrIO7tNmeBZrYr3g%2F7hX9JlJ0eyLynId5dpF5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=60828685953&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS PRIME RTX 5070 Ti O16G",
+    "image": {
+      "file": "asus-prime-rtx5070ti-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/11a24dd6-9a6b-415a-9131-afad0064b16c/"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 VENTUS 2X OC D7 12GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G5070-12V2C",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-03-05",
+    "summary": "QHD 게이밍용 RTX 5070 12GB GDDR7 그래픽카드",
+    "description": "QHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 중급 칩이며 DLSS 4 를 지원합니다. 듀얼 팬 VENTUS 2X 카드로 길이 236mm 라 미들타워·미니타워 모두 넣기 쉽습니다. 650W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2542MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "250W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "236mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070",
+      "vram_gb": 12,
+      "memory_type": "GDDR7",
+      "board_power_w": 250,
+      "length_mm": 236,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 28679,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070&id=5940"
+      }
+    ],
+    "price": {
+      "krw": 1281000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1280960,
+          "title": "MSI 지포스 RTX 5070 벤투스 2X OC D7 12GB MSI코리아, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=2yknpasSawkiQYRPvDXN9%2F%2F%2F%2Fw%3D%3DsF0SQf8MR%2BeTjXCRZIomcUnGWNZWZzrR94pXEhmwxR92JxMaTz17y5nhXeih8FyFMSxET%2BeWmTP4aKge9dkBdJ3svgxKlQ0LqFCiNc3lDDZ5UPhrBarIcTS4ed5LY%2BCGZwAgy8qcZ9ly%2FuLgqJLabuphXPsaqwLQ4C9%2FXfaX5XATffisv5tHfoGFh7RH%2BtSaOQjXJSsLy8gP8rP%2Fxzz2oy0EeQweFEICWyCT7v6iPMbCWiVjZWJOv3Y2T0IVhCXL3J1Xg7xIdD4AxeaabJELkUrsD5s1OLqc1qiZ92L38RquDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6Yn6uG8kE0FULgeX6zPmV9xWNAKkiTmTHiwlbaGtF%2BcqVPKvOsR6g78qPjX%2FC1T4Xfl4z%2FJegWBrJOEpCNQW4idTYIURIdsQ55HMyskWc0EjGYk2QFVvml9C2ivQHSx4AAO6swm7AOUVVyPKH0uTBGXNW06yZyz11cwdDfG5ktpziORGp%2BoXIxDtsr4rsnPsNb6bPNnhifKNk9H8sBoCBg7x16hzBZvCyDBQgaOo8ZB%2FKxH7B0MK1ng4JrgLa%2FyJcTQ3Y0HkPaj0u6ZXaZAIN3YZJfkDWOogtDTVGh6JC8Zj45jFi%2BZxLCpiJ4PjLORWlQ1rj7r6d2RNTw%2FBYzGO%2Ff4gN%2F1NgM4LgvOAJ6Euy6vncfzfj6WIm0J5aYtQRxzItnQdJlcR80zT2UV%2FzkPhbQ8cgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=60488204027&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5070 VENTUS 2X OC",
+    "image": {
+      "file": "msi-rtx5070-ventus-2x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_173761452833d396c93379ad1ffbfe5367935dd6c2.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 WINDFORCE OC SFF D7 12GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N5070WF3OC-12GD",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-03-05",
+    "summary": "QHD 게이밍용 RTX 5070 12GB GDDR7 그래픽카드",
+    "description": "QHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 중급 칩이며 DLSS 4 를 지원합니다. SFF-Ready 트리플 팬 카드로 길이는 282mm 입니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2542MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "250W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "282mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070",
+      "vram_gb": 12,
+      "memory_type": "GDDR7",
+      "board_power_w": 250,
+      "length_mm": 282,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 28679,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070&id=5940"
+      }
+    ],
+    "price": {
+      "krw": 949000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 949000,
+          "title": "GIGABYTE 지포스 RTX 5070 WindForce OC SFF D7 12GB 그래픽",
+          "url": "https://cr.shopping.naver.com/adcr?x=ycgY6PK3n4F6N21N%2BaUWO%2F%2F%2F%2Fw%3D%3DsNc3vOHtuGKp7UE%2BdTDVA%2FhwirJYybd3quzG2fkbfVOTYhPlt8IulkiI8GGWqHq3BC6Ww85QTNhWV03BF3%2BsCBb9SpK%2Fr0W5f%2FXSDdTJG1Z9u6pjva%2B%2Bq8pZxZiAzHfEZ3KbglpK7m2yR7qroLcR5DJnHRMti%2Fu4fkkanS7vvPwgCqEHXpfwO%2BbxX8p1qO5JdxUiFRNirYnXAXhdwoPYA5aQ4Ddlq14b9jx4rHBfUTQ3C4keIu9%2Bzdpx9xAm738ZwO9zGgXK2RaqhnNsroHt0f%2Fr%2Bs3mVJSaUkv6WDkqJy10zKs188hB20tl4c%2FW%2FNsEoisext5K2yYkF868rsMDqiZ3QN6%2FcYtm0brv8J5uPi%2FzL4zVODMJpTJQyKo4gUjfJx72P1MzfeDsyK%2BcBtz34gATOzfDlPKb74YtsJ78zYN%2FNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrU09tIFrjijUikBdc234qEgHlfaQ9HgI9U05ttvk8ynmgjtXJZYmZm6%2F2WPbOHeNp1ToYxPCSVFn1eQEAVCScAr4ugSOSN1nIKdEXFIn9e9MGblvo7S%2B3qjFZJe2Nu0Rxl2kVKlRGNtYWuI9wXJ7Xrb6tDLgv1KOIyvoPIYfhJ%2BxlwPORuRKdn9Y%2FAgJtfAtXDYhYCKekPCDvbTMF%2FwJQpfui6WEMjTzMASigzVazqGnzWELPx0CTHpuRBOZJQkOos4XKcQeC8TvRfTDW5RALBjHICEQpPL7Rm%2B2fyhjEhHR&nvMid=89271523480&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 5070 WINDFORCE OC SFF",
+    "image": {
+      "file": "gigabyte-rtx5070-windforce-oc-sff.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/fec51e21bd64062ee924ec3c72d7ccff/ProductRemoveBg/44240"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 EX Gamer 1-Click OC D7 12GB",
+    "brand": "GALAX",
+    "category": "gpu",
+    "model_code": "GeForce RTX 5070 EX Gamer 1-Click OC",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-03-05",
+    "summary": "QHD 게이밍용 RTX 5070 12GB GDDR7 그래픽카드",
+    "description": "QHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 중급 칩이며 DLSS 4 를 지원합니다. WINGS 3.0 트리플 팬과 ARGB 를 갖춘 EX Gamer 카드로 길이는 322mm(브래킷 제외) 입니다. 650W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2557MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "250W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "322mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070",
+      "vram_gb": 12,
+      "memory_type": "GDDR7",
+      "board_power_w": 250,
+      "length_mm": 322,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 28679,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070&id=5940"
+      }
+    ],
+    "price": {
+      "krw": 1369700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1369730,
+          "title": "GALAX 지포스 RTX 5070 EX GAMER BLACK OC D7 12GB 갤럭시코리아, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=T%2FFW5%2FWrPzYSHbQRXMJOXP%2F%2F%2Fw%3D%3Ds4XrtF1g94AJCfZwXD4l7NQJDNpAp8QSzY04nyp9ERLHSwTsskinLVNIMV4bNavQVeosedRfZlk4hXYd9WUn5dt9nm6r2b8bSgQDNeCirGcUnAcNoSlu6DxFJIonU87QV9o6TwqMOKD9s%2Bfm1XWF0qJlYO7uRyct%2FxpIh0XPhoq%2FL%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCmIPaf5TdBFidrW%2BBCYIKpIDQ2F1Mxbw1hwcyeLEX3r8WNODOw2RJKbHws3MXqBe3kaiKScSfg4c20c7BqekYp6XxVYCAuqDlbgR00a7EUdZgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSeoHwrutb9bpecnFlDJFojchQvCL0vjT7BDyew%2BppTYv%2BYNuCSZ2S5d%2BYlwIWYLVA6C5fU0nHw5oiBBupuPqvssnA3baOISEf%2FYog1aMhKeF0Xn%2Bx0ye8%2FULEqELTJcSAh4OvQeErKXRz6DJ31luKSX5KtGa0HN2Phla3qjVjC0EdPA70Ts1kqVoYTV%2Bpx50mOGeV%2FXAzttqJNTfxHdtdivMvTw4QVwGJf1SJJsy9TaIlx%2BdiX6OJI%2Fa9V97Rl9gUzJmtA2ky2IQPdIBE27P7JHc8t7F1l0XGDf4G%2FgoQbWiMEt9hhfElTtYXW86tZsEsPNUs3d8hr%2F84njCQFzL%2BeePC0hiHfmfzmAI0X1cC502KDmbhZ1mZ2WDP1%2B8Zb3YzVsMCnuTUyNdG%2F9poO7F%2FcTO9LIB22Y8UgpXhdVwygNcTBq7h9PA5SrIXrcWPClBGWw%3D%3D&nvMid=59616948962&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "갤럭시 RTX 5070 EX GAMER",
+    "image": {
+      "file": "galax-rtx5070-ex-gamer.webp",
+      "source_url": "https://galax.com/wp-content/uploads/2025/01/UKR_7012-Gx-3.png"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 Ti VENTUS 2X OC PLUS D7 16GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G506T-16V2CP",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-04-16",
+    "summary": "QHD 입문용 RTX 5060 Ti 16GB GDDR7 그래픽카드",
+    "description": "16GB 메모리로 QHD 와 고해상도 텍스처 게임에도 여유 있는 RTX 50 시리즈 보급형 상위 칩입니다. 듀얼 팬 VENTUS 2X 카드로 길이 227mm, 8핀 보조전원 1개만 쓰면 됩니다. 600W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2602MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "180W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "600W"
+      },
+      {
+        "label": "길이",
+        "value": "227mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 180,
+      "length_mm": 227,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 600
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 22636,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060+Ti+16GB&id=6160"
+      }
+    ],
+    "price": {
+      "krw": 917600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 917600,
+          "title": "MSI GeForce RTX 5060 Ti 16G Ventus 2X OC 플러스 카드",
+          "url": "https://cr.shopping.naver.com/adcr?x=D6VO9BAvLOEjQxqJi5614P%2F%2F%2Fw%3D%3DsQOSXbUlLeiP%2BhddkpV9yIbgTHMVLt0ND4CYODGLGh0aZx64kMWMpW%2FciOx8WP739WPwBt0jsts6VQJKeJf%2B1ILNtYFTGveiVCgGyRWmwwNn%2FK9%2FgL3PfQijo6wfnZm%2FTHdA99%2B1PwFe8wKkhoV8E1XSIKx0FFIPw9rIM04OkeQ5MfHS1NYaM9RbqeFrVPNsh5rQ7ZNfsYgNlbd17y%2BNTzLJBp4d8B8dw9hCa9DS0ab0PIpo6VOBxNcLVc3sOf0m8xBLfTq0XdL%2FXWv1oerwayHMfkR1kRn5q67tVL4vF2lGAbCY81f975eS5nfR25FBiP83WAv8GAIoQ0MwLPWeb%2FbukL1hJrY4ZZeUFzY40JGMlwBclFiUOlAn89BR%2BKCx5hK6ge2VvVBlKO7IzKiwXVoBfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRT6or8q%2Fzt9RJSo%2BWyhcejkoFW6Kez9L8sKQFp9mN2mgVKCH93AMmqKtPv3NKXMD8gr1B0r0mneC9twWIUxIE7Q5O7UY%2BNgHcaQls33UFLWPGEnHQywYC97gYI0LEpnNApx4BedFthPtdb7kgZuqK43RwPSMUsq5hnUo1OlORI5D2TZySItYPUrhr9H5Tr9Q365t2pZbpL3DWfiCjM0TzH2jD1t8H5ARNe%2FPJohexQQ1jt2OTdlqIpyo82d%2Fvc8mvlrJefoOJbmkO4BD9YMbmM0NUJgJp6CUXauCvW7Y5AjN&nvMid=90997458387&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5060 Ti VENTUS 2X OC PLUS 16GB",
+    "image": {
+      "file": "msi-rtx5060ti-16g-ventus-2x-oc-plus.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17446978705c4a377c05bc723aca53c3674ee61c1a.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 Ti DUAL OC D7 16GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "DUAL-RTX5060TI-O16G",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-04-16",
+    "summary": "QHD 입문용 RTX 5060 Ti 16GB GDDR7 그래픽카드",
+    "description": "16GB 메모리로 QHD 와 고해상도 텍스처 게임에도 여유 있는 RTX 50 시리즈 보급형 상위 칩입니다. 2.5슬롯 듀얼 팬 DUAL 카드로 길이는 229mm 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2632MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "180W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "229mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 180,
+      "length_mm": 229,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 22636,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060+Ti+16GB&id=6160"
+      }
+    ],
+    "price": {
+      "krw": 968600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 968650,
+          "title": "ASUS DUAL 지포스 RTX 5060 Ti OC D7 16GB WHITE 인텍앤컴퍼니",
+          "url": "https://cr.shopping.naver.com/adcr?x=OJFmNHiy5Et%2B7yJKYEpzRP%2F%2F%2Fw%3D%3Ds2wgrzIIG9PzjZv0JYRtiTR5Qo49txgIK70eMBQz8C3DYDmUf8BgMkupEJFcYKKfNof61dlsvMvX5G8ARrqyKxGnzfJF70Hg%2F855ydh2qgIZ6DPMY4srXmQtigAX%2BGydfL90%2BccE9%2Bwb7CUuDl59%2Fj5wAuOm9IsY%2BbLc0n%2BNiDM9D4P%2Bj2CVvS6QkrpszyaIoiPWmcluIYQoJnK7EIVhlhrz9T7zUVDI6HY%2FalkMzfcr358AWC8J%2FmeZOkHYhSEg1nz7p%2BBi7jwI1H%2B13r1Nzpqh%2BYBYpt1cECCDEacLLZpaDLUVC5nats27RG7eq4e6MhcrmIR9UCnViYLiyCJxdAD9rXyqENDUD8omnd%2BAEOivf3Vb8LXDlJWzaxi1N0VJ6CjBC9kmpS4SyEPSfLyJjZWovNxFWzA781dOsDXmXgY0rpHcl5EbL0RoxkaxC9%2BEz%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFpMXgYso1gkR1QcLeZ5dmmEO7bCAH0tMUJxiPm9exLC10oaLOGy%2FfP58jDIag2p%2BwIu5D9FE75dycHQFm99yy0BLCkM0tZJ65Kc6s%2FuquBJntQeCJDiBZvyxcLzeDlmHICsy6WDyqNLEol86Xj%2F6EIx3ygIBD6zH80lwVs8P%2BQWv12v%2BB3NkRNo51mq1OJCjv9GNpqqkFPvXNHUnL4xHPI0%2Fg8w8cKe509NmMZFQPeJTbsD%2FL1ZzPsRTvY%2FPoQQY9lAdmgqB1yyQz9zHlOmgT4jocllCCMjxVKVs7VHzzMnYNUJgJp6CUXauCvW7Y5AjN&nvMid=56368213797&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS DUAL RTX 5060 Ti O16G",
+    "image": {
+      "file": "asus-dual-rtx5060ti-oc-16g.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/d9408583-9a6f-4a2b-b721-c09f1fe8cf99/"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 Ti VENTUS 2X OC PLUS D7 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G506T-8V2CP",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-04-16",
+    "summary": "FHD·QHD 게이밍용 RTX 5060 Ti 8GB GDDR7 그래픽카드",
+    "description": "FHD·QHD 게이밍용 RTX 50 시리즈 칩으로, 16GB 모델보다 메모리가 작은 대신 값이 쌉니다. 16GB 모델과 같은 듀얼 팬 VENTUS 2X 설계로 길이는 227mm 입니다. 600W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2602MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "180W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "600W"
+      },
+      {
+        "label": "길이",
+        "value": "227mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060 Ti",
+      "vram_gb": 8,
+      "memory_type": "GDDR7",
+      "board_power_w": 180,
+      "length_mm": 227,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 600
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 21841,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060+Ti+8GB&id=6441"
+      }
+    ],
+    "price": {
+      "krw": 756600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 756640,
+          "title": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=56qr6jr%2FWWBHAqvvVezeqv%2F%2F%2Fw%3D%3Dsa3nG%2Bgg5HYSZMolXu0ATEjrVjd6LM6yrcvtJ8%2B859HK0yC6KOi3AGIG2Aj7Xoe2%2FgHjDvVmgR11R9Y1P56Mg4lFRrvMH5lbJvnxYAxW6rzaqLsxlV8edbCZUCWThcQadVscxeiri7A7GgKr4%2BqDYcarPI1mYn02RR%2FxhLAYJhhe0yntSnG02UHnGm3EHgaXCVV3pn6Znl%2B9MAtsEE%2BZ8onjX4jP%2Bx6T%2BKRO8VTdrl3VYf1Trr2%2BWZXUvtEQKj01F0F6FP5I2o9W9TK5WEmty6yGEYtDRUQr2csWrZyQ0taEqmDRxJODn6DABL7YCNVKqPbsUNbWe7zfqxibtB8zEyCfrv7Jfwn9NxBaCtMU98TaYiI3nWOaESQ7yOTEwFMn8a%2BpHa6ewb0%2FDpcGez9%2B2Mmaf7oVVn%2BbTDsruUdhAA7s%2FW1RARaSuagz6Sb8h9IjNULwi9L40%2BwQ8nsPqaU2L%2FmDbgkmdkuXfmJcCFmC1QOguX1NJx8OaIgQbqbj6r7LJwN22jiEhH%2F2KINWjISnhdF5%2FsdMnvP1CxKhC0yXEgIcYnW1p4xOs79lyaTrQndLOSrRmtBzdj4ZWt6o1YwtBHTwO9E7NZKlaGE1fqcedJjhUdJ%2BPJ5TN%2FIbeRJIs%2BNmv9Iwb7GTXF%2Bd9J09OB3I%2BrXSkKbrczbOM0TW%2BlkYs4WctAFHfT9jCcy769s55NzZSqo5GVBWp7Q4CYwyArj28FRyytESrOg51EFMXKhfZ2NUSxOWpuPkxia113Bi6qNehjr%2Fvhuz%2FM2bOeEg7k3nONassJOL%2B0YgysVbd7Pk8FsD3%2F%2Bbg5t82Azm93C3w0trsy1Vhq%2FH77x9Zlr1IFzyuow%3D%3D&nvMid=59492608734&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5060 Ti VENTUS 2X OC PLUS 8GB",
+    "image": {
+      "file": "msi-rtx5060ti-8g-ventus-2x-oc-plus.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1744697971ba7f065fc218997c4c088d58b9222c2f.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 VENTUS 2X OC D7 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G5060-8V2C",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-05-19",
+    "summary": "FHD 고주사율용 RTX 5060 8GB GDDR7 그래픽카드",
+    "description": "FHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 주력 보급형 칩입니다. 길이 197mm 의 짧은 듀얼 팬 카드라 미니 ITX 케이스에도 잘 맞습니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2527MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "145W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "197mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060",
+      "vram_gb": 8,
+      "memory_type": "GDDR7",
+      "board_power_w": 145,
+      "length_mm": 197,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20592,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060&id=5602"
+      }
+    ],
+    "price": {
+      "krw": 689000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 688990,
+          "title": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=Tzb6%2B655oU%2FO01%2BEregAEf%2F%2F%2Fw%3D%3Dsm%2Fk9EWVkSqrMQh4w5g9k57KrOWdMcjLLyVu%2Fzk1qfhEaYceyQzLjp87ZDfPLYjEucvp1Rh%2FX%2Bw5O8eauC56zUl0TDQFZcDkimS8Xb9NTxsHP4wKk3sPZsTeJGqXIsaZNfauGfJ3%2BglYm9GSsgvBAfNpcDhUiUeBKNOFqCySWOb3L%2Fowdnq7%2Fmfq67OVRzok0IBhO%2FmWrSo3%2BYRH9V3LZCkhQVuxYmWTkw2oW59n3p9DeR326ZBCMo1fSvMRF%2BP4Pbvh1yzYxD8%2FwZa%2BxbIdoyQ7csoEHBLyq6%2FJeDW2NgdEn67%2ByX8J%2FTcQWgrTFPfE2mIiN51jmhEkO8jkxMBTJ%2FGvqR2unsG9Pw6XBns%2FftjJmn%2B6FVZ%2Fm0w7K7lHYQAO7GxRWWT%2BodYPsFib4ExXzRdRC%2BzwYer6Ps69Q2%2FK%2BLLFfH1MIeuU0QeiApNxQ8INiBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0XgkopnbRklTfGfw2cAa1YfaqZAS2NGsVJEkgy5kggTAnCOVmjVDnqzbu2u6%2BJSlT1Qd6t2veMfFDrhkMe%2BpvTJbHsCV5tNQom9SO9eTJuvR6eRSHYPxdzsyV71HtMktgxUu%2FzklnyuKJ7%2FWM%2B%2BPl7Dz8Rw6qHtab%2BaHxFUGAPs6C8taN8Zc2AND5xhfrqHmfVJmiiEaThcwm2jOjlPe7qD4n46xU9Ft%2F%2Fn350DCnURn5f89gRJzCgVeVIsyDJ3sI7IMYZaGimR4pR27mrh1IoDTOSgA%3D%3D&nvMid=59492527278&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5060 VENTUS 2X OC",
+    "image": {
+      "file": "msi-rtx5060-ventus-2x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17452877802adc1ee82075afaeea7d2a2dcf366cb9.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 WINDFORCE OC D7 8GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N5060WF2OC-8GD",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-05-19",
+    "summary": "FHD 고주사율용 RTX 5060 8GB GDDR7 그래픽카드",
+    "description": "FHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 주력 보급형 칩입니다. 길이 199mm 의 컴팩트한 듀얼 팬 WINDFORCE 카드입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2512MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "145W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "199mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060",
+      "vram_gb": 8,
+      "memory_type": "GDDR7",
+      "board_power_w": 145,
+      "length_mm": 199,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20592,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060&id=5602"
+      }
+    ],
+    "price": {
+      "krw": 709200,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 709250,
+          "title": "기가바이트 지포스 RTX 5060 WINDFORCE OC D7 8GB 제이씨현",
+          "url": "https://cr.shopping.naver.com/adcr?x=BxHE8apY45BWCnCmbYKDOP%2F%2F%2Fw%3D%3DsBLrLopXx3NmHX8%2FwgqaQ7PXcgu4lCGi6gf%2FwmCtEf%2FgCX939b9dPNKPNwaBb84BqouDHBo3bxwB%2BaT5Ji6QUVn8pdDbcRz0qHc8ArxaGCGfKbfV9%2BL2cmffp3wUhU96sbv1H3fsj8En19tOrzdjd6DxFVoE9SorpVuY%2FEkS24Q6RRXKRqh5oXIqgZn%2Fp038P334rL%2BbR36BhYe0R%2FrUmjkI1yUrC8vID%2FKz%2F8c89qMs3zus3LrURK0tCVrxgDB89ZGgjkDkd%2BVBsW%2BG0EUO998k2JFcWdPG5oSou0sckfmlY8CfQkm0RNzXQt03r5402YIXTopCY%2B59BaZutcRLXIXThS8iVa4pJb9bn2X6fxY09uxQ1tZ7vN%2BrGJu0HzMTIJ%2Bu%2Fsl%2FCf03EFoK0xT3xNnuwbhOZE8JdYJZsejwZg7hVXemfpmeX70wC2wQT5nyi5pxiwDZPU40LYzhHX%2FcRv8Poz5zcUkZr16%2BBzryNYnw9Z0SeMqENQcl4GV2BeGrF55loiFhLyQd%2BqHBDaxl0FoY3I6ohqE8SqneVKxYG67X%2BUAf4Rz5XuoMGnKAgyhjOCpZ3n5RjmDcHKzoNFwbNjwAC8d28qM600ef53i3w3xq5mk%2BMZZNyc5VkiyrcZRhVae3z85rrp%2BEU98rU2pNPlfKFTZX8O%2FdahuJnod6mNqBvyRT8wdhN9knBdhUcQjF%2BSw9YsX6o7dXViKpASw3eEZbOfebnexo7hl0OrUAqWxz2mtsm8yF%2FFCP2uQjmearNdWSnCartzsPXkemsOY79oA1q4RxHKdKf%2Fyis4rudz3TumCOyOSa9GodhyHMv5JWqwtBOqU43m1RrIUq9GdD4GldznR4EhPC6BI08fc6TT2xWkbDrUFJ2hBG8QaB8WVzn&nvMid=60190187059&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 5060 WINDFORCE OC 8GB",
+    "image": {
+      "file": "gigabyte-rtx5060-windforce-oc.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/e7fb2772ccda002c0bf67fd9599ec065/ProductRemoveBg/44960"
+    }
+  },
+  {
+    "name": "지포스 RTX 5060 EX D7 8GB",
+    "brand": "GALAX",
+    "category": "gpu",
+    "model_code": "GeForce RTX 5060 EX",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-05-19",
+    "summary": "FHD 고주사율용 RTX 5060 8GB GDDR7 그래픽카드",
+    "description": "FHD 고주사율 게이밍에 맞춘 RTX 50 시리즈 주력 보급형 칩입니다. 102mm WINGS 3.0 듀얼 팬을 쓴 SFF-Ready EX 카드로 길이는 255mm(브래킷 제외) 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5060"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2535MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "145W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "255mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5060",
+      "vram_gb": 8,
+      "memory_type": "GDDR7",
+      "board_power_w": 145,
+      "length_mm": 255,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20592,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060&id=5602"
+      }
+    ],
+    "price": {
+      "krw": 696000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 695990,
+          "title": "갤럭시코리아 GALAX 지포스 RTX 5060 EX BLACK OC D7 8GB 갤럭시코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=1Q62In%2FSwXbL4n86kCp58P%2F%2F%2Fw%3D%3Dst2JA7zVguCNSFdeC%2FtXH%2FSFMmuvBcNx93FSosvo%2BSx8USPzGOyny26wjB9hPHf%2F7LrlseVhIHSop0vGLKTSjJIzgfWWz73x%2BcVVsSczPYNLJLIxAj%2Bi%2FP%2B8Mosl5yBNu4TIcoXthgIpDFEWp44U1ZdckXOT%2F3LAxl9LO8wQZPi254J8UO7LDGXdPU9Do8oyMXBPPrphJYaupvBi2PoJNcDgLkYA42M1OEE75XZb8aSnYg5R7qaeWfh4GVhSKNa6rCKksBTTDp5iRq4wa8pjlXlo3XixqHiYPuB3PxxcRKio9YCsBYV55ZaCqp97HewgBCV980GxLTzZk59Z8d7l70MOmY27ZGze0Q%2BtXRlM4OxtarJoVrbEtunAYIkKGowOqdf6sRW772%2BDdEa2MDhZlaT1nRJ4yoQ1ByXgZXYF4asXnmWiIWEvJB36ocENrGXQWhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2Py65yvo08ETKQPE8MphfN8arDlDlupDJHfVdV02K6y8Jp7fPzmuun4RT3ytTak0%2BV8oVNlfw791qG4meh3qY2oOjc7b7yxX06Ss3xurUXTKI2HBq88r52HUvBvhWMu0dTlTk9pKBAXJG%2BNnPTdGNl4oHTSqjPGqfv1NBt96KYzi7dCtQTdBDVOcgrS3PfdTbbiA3%2FU2AzguC84AnoS7Lq%2BbJj4ISB0kmZam%2B7nDRbo%2B%2BEUxmxvYnJg7CWn9JzCsup5Hv1T%2FoDPeAT2ZD%2BWCfnsQ%3D%3D&nvMid=59645142719&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "갤럭시 RTX 5060 EX",
+    "image": {
+      "file": "galax-rtx5060-ex.webp",
+      "source_url": "https://galax.com/wp-content/uploads/2025/04/UKR_7497-Gx-1.png"
+    }
+  },
+  {
+    "name": "지포스 RTX 5050 VENTUS 2X OC D6 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G5050-8V2C",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-07-01",
+    "summary": "FHD 입문용 RTX 5050 8GB GDDR6 그래픽카드",
+    "description": "RTX 50 시리즈 입문형 칩으로 FHD 게임과 DLSS 4 를 저렴하게 쓸 수 있습니다. 길이 197mm 의 짧은 듀얼 팬 카드로 첫 게이밍 PC 나 업그레이드용으로 알맞습니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5050"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2602MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "130W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "197mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5050",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 130,
+      "length_mm": 197,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 16714,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5050&id=6668"
+      }
+    ],
+    "price": {
+      "krw": 575000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 575000,
+          "title": "MSI 지포스 RTX 5050 벤투스 2X OC D6 8GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=nw2dolgQw7y%2FSWUmBWvbmP%2F%2F%2Fw%3D%3Ds4btAUmt2woXLKUyrPgvUYoj1S9%2BgPIU6kVqU4c7RoetJtDK1XsFJFatNbl4uQ3gTAfWeJXj5v%2FlH99tfXduRgco2wKGO04qDgdSZ8HXdzhcrdsQx6zVbT%2FJbO8MtzINf7J9pR5ycupg247PvIi6RnJqfmTCkgMiIlc%2BfxxFF6dJhRFffAnwMIv4KbDg9X0Ogs25%2FKPRa3hyXjUNwwZZc92UiZx2KPK%2FxaOtJtoczUEcBMd08utobDGS01HANwraB5P6owTcLX%2BFhdH0MfE8yIlVd6Z%2BmZ5fvTALbBBPmfKLmnGLANk9TjQtjOEdf9xG%2FWDPLDnAl5UV%2BzGiZ1vsNjFWHK%2FeGA4NfXlBL2FzbcdXnmWiIWEvJB36ocENrGXQWhjcjqiGoTxKqd5UrFgbrtf5QB%2FhHPle6gwacoCDKGM4KlneflGOYNwcrOg0XBs2PwfSfrOUAsreDPvmEmVIx2%2FM1FD1heja%2FzzcYcWob2Gj9%2FlM2yLN2smbU1G%2BxjslETARCRYqpuB369JoYjMZAHF5tNQom9SO9eTJuvR6eRSGsxAz3OOe6kCzTXRhr9khmYZ0t4Y4%2BMbYrpex2cixMYmlxi9xuLc6wGh3A9Fpp%2FfWsGvSZZnJA2yQCVBBr3HxBRQsHoQwSbw29G4ibJhuwE4F5Y2EbRAzrcelCe%2B%2FAn%2BLYOw47uE0loB7OyRqV2L1cQdAiJdwXirBRdnaxfvrBbw%3D%3D&nvMid=91280164381&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5050 VENTUS 2X OC",
+    "image": {
+      "file": "msi-rtx5050-ventus-2x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_17507572669b07fa60658ab594055e169d6d6fa74f.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 4080 SUPER VENTUS 3X OC D6X 16GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 4080 SUPER 16G VENTUS 3X OC",
+    "series": "GeForce RTX 40",
+    "released_on": "2024-01-31",
+    "summary": "4K 게이밍용 RTX 4080 SUPER 16GB GDDR6X 그래픽카드",
+    "description": "4K 게이밍에 알맞은 RTX 40 시리즈 상위 칩으로 16GB GDDR6X 를 갖췄습니다. 트리플 팬 VENTUS 3X 카드로 길이는 322mm 입니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4080 SUPER"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2580MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "320W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "322mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4080 SUPER",
+      "vram_gb": 16,
+      "memory_type": "GDDR6X",
+      "board_power_w": 320,
+      "length_mm": 322,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 34211,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080+SUPER&id=4984"
+      }
+    ],
+    "price": {
+      "krw": 2959800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2959840,
+          "title": "MSI 지포스 RTX 4080 SUPER 벤투스 3X OC D6X 16GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=QpSAkbF3dwmNxoyMb0aTDP%2F%2F%2Fw%3D%3DswbIreOB25wNgo2sd7oJV7oOHFEMh6Ys8amsdfEeCq1YRW1XUu4qdbpmQcKXsQ2pEnSDUW1Y1Mb7GnKYSaVdvj7adUvEYY7ubh97Gw6f9sOPRaMfxIAYDV6uqGq73HMPW5N1uSCSmb9d9FhctV4TEuzCrquHaBqF2mhOVymhlqiqGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0M9eeD01MUUqYLBE3aWP5PoAbBuUdcj5bN20cTtquGSxXgY5OZZDMcZlXAE7cdFNXymB7d7yEXvZP1mvVwdydzRr7kjSpovSNFVmQA%2BEq6BoW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJrGVkKbQlUK2tNTHnR3hheitWQ4KxX8aqNzLZfy3edVtXfqiCwBtPYYwEdSt6i2JA52IvCrHY3I6p3G3X95twZp46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1w5Tvj7SrPugr48B9DPZmuc%2B1iVq2d%2Blzgg%2BgeCT5VwDQ%2FShsnF5%2BtiwY8AnUYn%2FduBm1fAWG6B0qJini%2FFZ8CCjTr1ovSZYleGMOqDpDy3z3HhQL7HvOtPIL6KkRwIM75DMdCL0aaIpZhVVbWtWSgONBQ8jGsFBNXnTXFyvAtIoeuaLUUuZu96HFElc8MvW2zCZTMvRSRtwHZfY8UyqoNZ1KU85kE3pXnhNMvq7%2FMWzRGwoZY3TA7SCUMEn5Zo4U0SbX%2FlB3%2BptNfwtqe5GqKlaFndIwdNwuWmKtx1HNSCrUkiyUGZ3FpPHvE7X48%2Bhb&nvMid=45652190620&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 4080 SUPER VENTUS 3X OC",
+    "image": {
+      "file": "msi-rtx4080-super-ventus-3x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1704700391c0ff70dde2655cc06ad6ccc5737c84bf.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 4070 Ti SUPER WINDFORCE OC D6X 16GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N407TSWF3OC-16GD",
+    "series": "GeForce RTX 40",
+    "released_on": "2024-01-24",
+    "summary": "QHD·4K 게이밍용 RTX 4070 Ti SUPER 16GB GDDR6X 그래픽카드",
+    "description": "16GB 메모리와 256비트 버스로 QHD·4K 를 아우르는 RTX 40 시리즈 칩입니다. 트리플 팬이지만 길이 261mm 로 짧은 편이라 장착이 쉽습니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4070 Ti SUPER"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2625MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "285W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "261mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4070 Ti SUPER",
+      "vram_gb": 16,
+      "memory_type": "GDDR6X",
+      "board_power_w": 285,
+      "length_mm": 261,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 31846,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+Ti+SUPER&id=4980"
+      }
+    ],
+    "price": {
+      "krw": 2580000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2580000,
+          "title": "기가바이트 지포스 RTX 4070 Ti SUPER WINDFORCE OC D6X 16GB 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=gj%2B%2F4DCJ9HFuh6peDH%2BF5v%2F%2F%2Fw%3D%3DsZxxueF5mxoNfeuObSHPOjS20o6BIUUhb4ysBfBNa5zMCX939b9dPNKPNwaBb84BqKmxlpySzziac5q8s7LZQkwl3TZf6U%2FWYKqYj3D%2BKlj95edOfd8D9VBGJXqFIqL1AvEffyB%2BKzXKNs5nAJ%2FYMADSUJJHkL7D4kQvO7b6bSSIVBQTV%2FW%2F4akFjWjY4mcU03IZpKv7R1G7ftbswwgHg0WT0ijqJmgB8QFB%2BxuSEEwFWx6fhaLI2xR7MtxErmnge8DIE%2FlPYEU7xfRCRcacKjIGfGqhBorhMPpMRkiSbAWBaNw41s9e5XzZu8AiobjhVJ0MNnl9xuDSORuOXo5zWQOpJLB5S3Xax02luXfG%2Fudw3a30xSnzqtnV%2FvQDYz7%2B%2Ba%2B5I0qaL0jRVZkAPhKugaC1YvvnMPtGwQtI%2BDFPCcStZd4ALK%2F%2F0ZKFV95e00DtYpOr9sPYwajBkeE07IGGkJ5SCPsmGKllbt0kl8XIxCXTJK3AKJ0XbR5J%2FonbmbKrkai83EVbMDvzV06wNeZeBjSukdyXkRsvRGjGRrEL34TP%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIWDQkseSywQm2kp1x2uvGDyQ7tsIAfS0xQnGI%2Bb17EsLXFca2Ksij%2BWbDsOX1k3IsQ0HvBFl25r5rAyMUwGJ71CDHQYeziE8JcHh6XhU1FTVdTSGOKp1OL6puwiKwbMkTNiqmFZ9ZMoq6qt1wRHJ1rNUuvfaSD7COQhiErEiKTbiNWA2zBA1%2BinShoh%2FXHQZpHRDVo9%2BwXCQTlxS4nyWrIIPNRouOLVBR9bkVCm5wEj0Hs3T4qzSBIVN2HAysFdoOTOzBjsZ%2BNIeJhadp20Qm0lPnK%2BZ6PK87GrC2%2FGtrtF7YKoDr6us%2BRKRCOTdsWr9TI%3D&nvMid=45542336618&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 4070 Ti SUPER WINDFORCE OC",
+    "image": {
+      "file": "gigabyte-rtx4070ti-super-windforce-oc.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/88366f8b8e43ca0066a14728a35e5d28/ProductRemoveBg/39125"
+    }
+  },
+  {
+    "name": "지포스 RTX 4070 Ti TUF Gaming OC D6X 12GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "TUF-RTX4070TI-O12G-GAMING",
+    "series": "GeForce RTX 40",
+    "released_on": "2023-01-05",
+    "summary": "QHD 고주사율용 RTX 4070 Ti 12GB GDDR6X 그래픽카드",
+    "description": "QHD 고주사율에 강한 RTX 40 시리즈 칩으로 12GB GDDR6X 를 갖췄습니다. TUF 트리플 팬 카드로 길이 305mm, 3.25슬롯 두께입니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2760MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "285W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "305mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4070 Ti",
+      "vram_gb": 12,
+      "memory_type": "GDDR6X",
+      "board_power_w": 285,
+      "length_mm": 305,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 31511,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+Ti&id=4699"
+      }
+    ],
+    "price": {
+      "krw": 1559800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1559840,
+          "title": "ASUS TUF 게이밍 엔비디아 지포스 RTX 4070 Ti 카드PCIe 4.0 12G",
+          "url": "https://cr.shopping.naver.com/adcr?x=KHLvygOzH0mGGlhYs7FjlP%2F%2F%2Fw%3D%3DsD7JBMxW2UyvkeY3SEtKxiYM4%2B4OZvOpwuv1VnFPsqD4VLxMUIeqTsRs6zcd3VccrvXYRGV97cyWZjmonFA30al6Dtqx5LczCxz%2Fc%2FR9zg3z7ZtVB%2F%2Ftxpk%2BcJO%2FFCSgfkgjCb%2FK87ebA5RWKIlTHTfEGnx0%2BjgjhUEfV3TUsgTZEvqK7Ss30A1gReRlfyn6hISb95YyaO%2FVVSKY%2Bv5t1jgjT7GuUYvEVStXWfWfHlidegvP3tP%2F31ShI3wdAf9huiihiyGhqlFINUaA6lib2D99%2BKy%2Fm0d%2BgYWHtEf61Jo4AUk0tbEb%2BPaAR8Zvsauh4TdhLU7zb0TG7OFvvdf%2FRBnJBUS52zQrZFiYcpxvgPD%2FHvY%2FUzN94OzIr5wG3PfiABM7N8OU8pvvhi2wnvzNg380GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtqLKdV8JMmWQKtSOzGNANvAwTqTDpPPsmBvtPYCpvmJdCB8nBJtyJn2dhpQaDfwBITJS7dhKajLwH0Gft1Om3woJxNLdUN8H4M7Cx3kOdi2HOrpGTN71zczAvbUQxZPiFFP7BoPJ8SUCyRH6SisJT1Vz026PQLMQwvTXBnf3hznHGwwyKC6rNjs8%2BDg3XkyxpE%2BymGvdtm4jdmH1inToQQnR9INs9ZpxiOekV5%2FkbMXEsxRquE4JHXpqW5c0M443FbgfD4QlfnHJFv0rCubG9me2WURatlnaBbKTuBceXGpGFbDf4gHI5rSMJU1BWcIOg&nvMid=90997495010&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF RTX 4070 Ti O12G",
+    "image": {
+      "file": "asus-tuf-rtx4070ti-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/d3362bcc-5368-4e1e-a5a8-4bc1806ebf91/"
+    }
+  },
+  {
+    "name": "지포스 RTX 4070 SUPER VENTUS 2X OC D6X 12GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 4070 SUPER 12G VENTUS 2X OC",
+    "series": "GeForce RTX 40",
+    "released_on": "2024-01-17",
+    "summary": "QHD 게이밍용 RTX 4070 SUPER 12GB GDDR6X 그래픽카드",
+    "description": "QHD 게이밍 가성비가 좋은 RTX 40 시리즈 칩으로 전력 효율이 높습니다. 듀얼 팬 VENTUS 2X 카드로 길이 242mm 라 작은 케이스에도 들어갑니다. 650W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4070 SUPER"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2505MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "220W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "242mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4070 SUPER",
+      "vram_gb": 12,
+      "memory_type": "GDDR6X",
+      "board_power_w": 220,
+      "length_mm": 242,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 29939,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+SUPER&id=4973"
+      }
+    ],
+    "price": {
+      "krw": 1811700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1811700,
+          "title": "MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC용 GPU GDDR6X",
+          "url": "https://cr.shopping.naver.com/adcr?x=8cLF1ozABbsWrizjkno%2B%2FP%2F%2F%2Fw%3D%3Ds1rTUu%2F%2BLsaLo2YrDai5vnMtixyfptVV%2BG1aZnALhk9s4NQF2pJZlG3kNiyxPSIeVK555ftbunu1KggCMVOngtNp7XwsVTh0VL4%2F3NyQ4vYEVBk6ZfENR%2BzBb0mJitTFMbWKrWp%2B2R1%2BOBYDy8Ro5iNpHZA56KAcRx6jeRCpwlf0vmMXAMUJ6Ap1Md44yIjiC3AHWQ4XFDUIWH%2BGe57v1xteo5CbryKmZCPIz27NV5Ks5mPKU9v0jZJaloaABQAZexr04WkRUZmiKolLdDmh1Be0NeTgDL3YS6mR898p53jnvpFKxa0UGOc6wFCHRL0AF21yQbl0%2BopCZmymTLdSOAMHPv45Edr5fvvv%2FlTzZa4WkslpIZW3Jh%2FAnOsRzqMXHnxZa9D6E68KDKuLKN5eBtse9j9TM33g7MivnAbc9%2BIAEzs3w5Tym%2B%2BGLbCe%2FM2DfzQYPIZ7tfUx%2B%2BifFr68LwifLJQmaMbhEIWMuPDXM0a2DNOAXAXpIycIFrYvvC9CO1k4%2FjElZz68f%2FfpvkvzRbVFHKNgTK4KuNYqCRoH6xiOp%2FEV7h%2BeTltTB76%2FEW76IZ68bebWNU1DqBnG34g5%2BP2EuUqncF%2Ba8AHZxhkAV92Fvx%2Bai00RZaRMK7F1crDiVKA%2BdOPd87KVfTdtPwdXZxdD6RAIIyYWbuos1fDS3m8l0fSDbPWacYjnpFef5GzFx7op7jdm2tZAQiFeSb%2F63HUmbPBTd9w26wc3CdBPReSlWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=61362265626&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 4070 SUPER VENTUS 2X OC",
+    "image": {
+      "file": "msi-rtx4070-super-ventus-2x-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1704699649413398d807686f322a7a562d15b205df.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 4070 DUAL OC D6X 12GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "DUAL-RTX4070-O12G",
+    "series": "GeForce RTX 40",
+    "released_on": "2023-04-13",
+    "summary": "저전력 QHD 게이밍용 RTX 4070 12GB GDDR6X 그래픽카드",
+    "description": "200W 의 낮은 전력으로 QHD 게임을 돌리는 RTX 40 시리즈 칩입니다. 듀얼 팬 DUAL 카드로 길이는 267mm, 보조전원은 8핀 1개입니다. 650W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4070"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2550MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "200W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "267mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4070",
+      "vram_gb": 12,
+      "memory_type": "GDDR6X",
+      "board_power_w": 200,
+      "length_mm": 267,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26851,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070&id=4795"
+      }
+    ],
+    "price": {
+      "krw": 1522600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1522550,
+          "title": "ASUS DUAL 지포스 RTX 4070 O12G EVO OC D6X 12GB 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=mB0SOF9t6cboH9jdT0JWjv%2F%2F%2Fw%3D%3Dst2%2F0vNGShodSZ7VobgILTdqCi8AU91dqX5SLqhy0IsLYDmUf8BgMkupEJFcYKKfNk98FrPZfqbYzu0dOCt8kDpeqnoNhpiOGITOeHw2hedJtKVoC1%2FrZZOv5zevP9IDIuhj%2Bn3TfQ24axj%2FYkcP2yh2Hj9zfwRMgQtoNDe%2BFJ6NVXemfpmeX70wC2wQT5nyi9lCIVq04af6TNqpjr5pOHd5UJdvtsxeoeYdIE0BDONrTHJoIVErdJUrF095XzmNPYZEq7bbcDwRnLdrDovyNH8M4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jwF3SgzweLns0Qvdn9qQWcyrocObVowXcIXBqimBszJkMIBwxuOOA%2BnmtCjWPmM%2BdPEFC3dRVjsyvUAJXVSKdE46GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjk73iGSJhbAJLIMR8BrUJw%2FQ5yxALqBZjZKGlalgYSRM%2F3fNbHqARZwHmWnhk13yeYc9MInffC%2FjCJyqRJUa4Yw%2FaymWZZWIvmRgo76hzgGiLVVVf7MuhBR9YyA8B%2B3sEprbtCithcpFa20fvfxjOq5kJfbn0dyFvPMZOMCq5pKFvvWNTD0PKv030e1O%2BTPKFjCVSUNVmoqY2Y3sfrAXPmDDz8HaaTggRnwiGyILl3%2F8mJxyHBE3CYnzhPLG%2BOCDMWp6u5DcSzwVwsOmDYzJQWihHrnFkirKQoa60RtxxD8kscgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=49890945622&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS DUAL RTX 4070 O12G",
+    "image": {
+      "file": "asus-dual-rtx4070-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/e409251a-db1e-4d5d-ac26-44081e7dd2a2/"
+    }
+  },
+  {
+    "name": "지포스 RTX 4060 Ti VENTUS 2X BLACK OC D6 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC",
+    "series": "GeForce RTX 40",
+    "released_on": "2023-05-24",
+    "summary": "FHD 고주사율용 RTX 4060 Ti 8GB GDDR6 그래픽카드",
+    "description": "FHD 고주사율 게이밍용 RTX 40 시리즈 칩으로 DLSS 3 프레임 생성을 지원합니다. 길이 199mm 의 짧은 듀얼 팬 카드입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4060 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2565MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "160W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "199mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4060 Ti",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 160,
+      "length_mm": 199,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 22594,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Ti&id=4827"
+      }
+    ],
+    "price": {
+      "krw": 751300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 751310,
+          "title": "MSI GeForce RTX 4060 Ti Ventus 2X 블랙 8G OC 그래픽 카드 - NVIDIA RTX 4060 Ti, 8GB GDDR6 메모리, 18Gbps, PCIe",
+          "url": "https://cr.shopping.naver.com/adcr?x=85%2Bs%2FY9W1FoRP%2F%2FeLvUnc%2F%2F%2F%2Fw%3D%3DsAQyd6WCTW0lEUYactfk6Px13PtObJtlNGIKWFqi5Lc%2FoKsXYzVVBtqhdyKOdlAMNsCeW20yZTiwxtPUgYysMwTV%2BCYo7H3OrlNx220KiuONPTFwqu2ThTIwpR6ioAGE%2FjNntQOazuSDFkEXeWLIAkE4kEdv%2FrNamZWW%2B0a8PQtQwFsBRMuERzOt%2Bjqj4UJgn2SgNmFlPITY%2BonMsYDjA7pvc3QyDH6e3LJi4o0DfOEl099obUOv7Qym%2F14NOEIWYgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSetBd9NO8LzfJkHzBA3t2wfBuxd2cjnMRpfKJc%2B3lqEhKquOEAgt8mz%2BT9ZR7l9KLzaVOoshPGu4GzDGbAyUV%2BaxwO1tYPRfa3VDTH66dd9S6mRRMNLKirdFIEMBTK6M0MOcr4ZRuiAWZvzKqRtOfjSE9YKCTNZlann9N9zg9C%2BSiQH1o49NO4yYD%2Bd%2BwH4sMz9xM85ctszMj87M8i2oknhXNkDNO%2FjiMDnSS4TwXzWVbjiIoQpQg95vV6TwAAxKwT51zgbaMbzMcZSeCStx6wpYUpulwLA3wDq9g0fjLGIE8N29YZteKxHgI0NbjiFBcuE%2B5%2BGqyruZkhZuHsMG6bLDPycAwEd2mVFppYr4kkSwZG%2BambqH0YXIm0CzwGRIroAmkdrgnhoDtuw%2BA2Kd8mFpWhZ3SMHTcLlpircdRzUgq1JIslBmdxaTx7xO1%2BPPoWw%3D%3D&nvMid=90190827617&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 4060 Ti VENTUS 2X BLACK OC 8GB",
+    "image": {
+      "file": "msi-rtx4060ti-ventus-2x-black-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1684388309f60246f6be0d4cac5d4beb1106192066.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 4060 VENTUS 2X BLACK OC D6 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 4060 VENTUS 2X BLACK 8G OC",
+    "series": "GeForce RTX 40",
+    "released_on": "2023-06-29",
+    "summary": "저전력 FHD 게이밍용 RTX 4060 8GB GDDR6 그래픽카드",
+    "description": "115W 의 낮은 전력으로 FHD 게임을 돌리는 RTX 40 시리즈 보급형 칩입니다. 길이 199mm 의 짧은 듀얼 팬 카드로 저전력 FHD 게이밍 PC 에 알맞습니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4060"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2490MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "115W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "199mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4060",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 115,
+      "length_mm": 199,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 19477,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060&id=4850"
+      }
+    ],
+    "price": {
+      "krw": 882100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 882140,
+          "title": "MSI 지포스 RTX 4060 벤투스 2X 블랙 OC D6 8GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=rK09ITIe9LIneyhFW%2FgYwP%2F%2F%2Fw%3D%3DsBHiJ%2Fp4wdKh4qc3fR12w6ZTOmk312cXyC%2B5IBE7P6JpBnh%2FTWSzrThZaJGPKRNCH3QILiK6heJL5WsrzotD1tlC0oyVwBtkNiwWwGtTl2V5hxcyWUhRAc3vvt0e%2FpYtqhe2eza31%2FyGGaelNVUukKZr9ZeSsN114BdLKLbi9t0raH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmURW6kDFQEAOMr84xIlT%2BGxViTmC4TUjqvBUstRZQVjjnpK%2FXCScEkJ6GEl2czxixE%2BxydFyrfAdSOfxb9x4KMtZ9Ndix%2F2qfm%2BlWMgJbQwmq76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFDRWc3jkDoiJJf2JRlt%2FPJVfhgJE5Ywd1Vs%2FkTWK9tNJkIptLkhleORsoGb3BUK6QyBSnjzMKQ2hh3z4kF6vBtgrbzJmThL%2By9C1MD8xGiTeqEc9feERudhUirAQElKu50DrrPlAKIU1Ev%2BUBncsOLuZg78VUCFXLuUSv3roKHtOCQsYDMyaA6DZe%2FuzP0y45P9IDPiGaKP2Vjbpy%2FSr8v%2FZ2HcOteTycGksKT2PQtkQ39m0boIR3YKIbA3sdvPIVOkIQm2isTqFQQczrjEP1k6NwXuRKntgG68LDpoAfq8HqARr%2FijPeGbnCp1r8%2BFdJ6iQEvzJX8%2F%2F4MeeBNuV7SQGE2Dqk7%2F7DptJHBb9246TbPu58FB1AO389t6I6mV3DFDII0Zvs9iC9CfiKc9ny3wN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=59470371483&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 4060 VENTUS 2X BLACK OC",
+    "image": {
+      "file": "msi-rtx4060-ventus-2x-black-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1689728820bee4166c12b53c656c39ab1b81888843.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 4060 EX 1-Click OC D6 8GB",
+    "brand": "GALAX",
+    "category": "gpu",
+    "model_code": "GeForce RTX 4060 EX 1-Click OC",
+    "series": "GeForce RTX 40",
+    "released_on": "2023-06-29",
+    "summary": "저전력 FHD 게이밍용 RTX 4060 8GB GDDR6 그래픽카드",
+    "description": "115W 의 낮은 전력으로 FHD 게임을 돌리는 RTX 40 시리즈 보급형 칩입니다. 듀얼 팬과 ARGB 를 갖춘 EX 카드로 길이는 251mm(브래킷 제외) 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 4060"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2565MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "115W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "251mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 4060",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 115,
+      "length_mm": 251,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 19477,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060&id=4850"
+      }
+    ],
+    "price": {
+      "krw": 550000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 550000,
+          "title": "갤럭시 GALAX 지포스 RTX 4060 EX WHITE OC V2 D6 8GB (벌크)",
+          "url": "https://cr.shopping.naver.com/adcr?x=TzB2yaXLOiXUpIHcrBZjFP%2F%2F%2Fw%3D%3DsjWZZoRgHNVTye6SYVRfYaWehDpYXC7ozkG7KhyIXWpIUSPzGOyny26wjB9hPHf%2F79Ug3JbRTlvKbxgRMHyL9DKE0lJKQAE3%2BR%2BSt8KySXwU%2BHZp4FC1%2FI%2B78Id2bjCvz5HTc5hmuxr%2BaHRV1K9SHGuQnYPxrC87%2F3jpJdVLu6t4nF9gFKvFT4dzyv6PJfGk5EN9IMG9GQFp3192c69WskQ%2FXrdxQZF827LM1J5Tmk6c6GLCjj6qdf2PCu0yfXRTT76RSsWtFBjnOsBQh0S9ABdtckG5dPqKQmZspky3UjgDBz7%2BORHa%2BX777%2F5U82WuFVpr5PihDD5%2BgWcDDizNkCFr30zdJsN%2F6kU9%2BQH%2FlVqYGIq9EAM91at3ZJJdVodgQ72aEnfYfhmaPQjxAQTxV04dJIPoIdYcONTnPyTitXfvSQ4cG3wRMsJwKopYZPsMs4jCj2jYU%2FH0Smvfm8k5o%2FB4JI2YLclYvzsqVtUWaaFpmVuOxVXFLwxDSNh7iG1T%2BOQe2dAoRTycim7PxM7q9VU9SLM42us5XJPJRJRAsm8Q7jwULFGTLrh9TrP8kw2mTvkxElyC62dbiR2bAIQ4w63ZlTYww3c5ZrAYDfMJotBOjZ4uAJqEQR1lplO92EJCwyHMbaPgHXocFspRLDgiocwco%2BL5THEsUEOa8TxKIEBOnIOhEZh07hd4vaqwI1ValFwCvDqFebI%2BnMfF2PQdZw29TZjqEQTAbFzUBl8432wvhVEAf6wwM5tqtSh0bB5Hx&nvMid=91380741697&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "갤럭시 RTX 4060 EX 1-Click OC",
+    "image": {
+      "file": "galax-rtx4060-ex-1-click-oc.webp",
+      "source_url": "https://galax.com/wp-content/uploads/2024/12/DSC3819-Gx.png"
+    }
+  },
+  {
+    "name": "지포스 RTX 3080 Ti TUF Gaming OC D6X 12GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "TUF-RTX3080TI-O12G-GAMING",
+    "series": "GeForce RTX 30",
+    "released_on": "2021-06-03",
+    "summary": "QHD 게이밍용 RTX 3080 Ti 12GB GDDR6X 그래픽카드",
+    "description": "12GB GDDR6X 를 갖춘 RTX 30 시리즈 상위 칩으로 지금도 QHD 게임에 충분한 성능을 냅니다. TUF 트리플 팬 카드로 길이 299.9mm, 보조전원은 8핀 2개입니다. 850W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 3080 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "1785MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "350W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "300mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 3080 Ti",
+      "vram_gb": 12,
+      "memory_type": "GDDR6X",
+      "board_power_w": 350,
+      "length_mm": 300,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26728,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Ti&id=4409"
+      }
+    ],
+    "price": {
+      "krw": 2414000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2414000,
+          "title": "에이수스 TUF Gaming 지포스 RTX 3080 Ti D6X 그래픽카드 12GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=xJfDrL0qPflvEPR914h8uP%2F%2F%2Fw%3D%3Ds7c%2BGjTkwYEft43%2BcqNo2r5vDf%2F4%2FbYHFjhLxUDJslPtl0UV4Ox4IVK4mkIk%2FErM65z%2BvJc08ncbb1TMEGMLOqFBU%2BdNSu%2FKlnaJoL%2BJmVbnxL6fWGXj06%2F4Wkp8C6npQiEX%2FFlqGxYwKdrG5vIKGldPX0f7ZWbLmNsIuwrFxGKfFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDWLXNVXL12PaZydOouB0gTM73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMYF5Y7EdSCALhBZD%2BxLhfOE3xET6w3bB56eA2N5kX9zKzCAcMbjjgPp5rQo1j5jPnTxBQt3UVY7Mr1ACV1UinROOhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5s0FrfNJiRKVh5OK26e%2ByPD%2F3Px7lpPmuwkjWUSwpnOyFwo2T1vU%2FWTYOEfEg2QM1GwfH6UpI%2Fqy74dKAxNzO4JEq%2F%2BWgFWFd%2BYxZwR%2FiK5ZjpAwzpuoAZ1hnIMd7XWoHC2Yx3v%2BhxGs%2Ff6xYs%2F7I894xdQIhCWJbTmOcJMO%2BIP7yafcypvaf%2B0Y2RqkxbQy89Kdxt5ghskQct%2BIEkBpYkIks4kXFXwnblmB6kz%2FDmyWOuRuuemQR1NdGhdV3BHs31aahl%2BONsATE7RYZ1tlrWOQFflV4w6X6AF16j7KFbzIGruH08DlKshetxY8KUEZb&nvMid=90409353219&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF RTX 3080 Ti O12G",
+    "image": {
+      "file": "asus-tuf-rtx3080ti-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/2282bc16-00bc-48f3-9fc1-efd146cd3fb7/"
+    }
+  },
+  {
+    "name": "지포스 RTX 3070 Ti GAMING OC D6X 8GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N307TGAMING OC-8GD",
+    "series": "GeForce RTX 30",
+    "released_on": "2021-06-10",
+    "summary": "FHD·QHD 게이밍용 RTX 3070 Ti 8GB GDDR6X 그래픽카드",
+    "description": "8GB GDDR6X 를 갖춘 RTX 30 시리즈 칩으로 FHD·QHD 게임에 알맞습니다. WINDFORCE 3X 트리플 팬 카드로 길이는 320mm 입니다. 750W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 3070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6X"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "1830MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "290W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "320mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 3070 Ti",
+      "vram_gb": 8,
+      "memory_type": "GDDR6X",
+      "board_power_w": 290,
+      "length_mm": 320,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 23158,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Ti&id=4413"
+      }
+    ],
+    "price": {
+      "krw": 786000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 786000,
+          "title": "기가바이트 RTX 3070 Ti Gaming OC D6X 8GB 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=tqGKQyQ1nWxMz5lj9bXRZv%2F%2F%2Fw%3D%3Dsu1nJsPOfuPa1YOI%2B9%2BNoVyKkzOhO6mtCEQRQf%2BTHBaACX939b9dPNKPNwaBb84BqmJNkmItvY5a%2Bns8Bp260z59OZbfFvnoAPfKXIQ2hlSmvKtd2LSKsHaBFygRrTH7rA6yyYecddq5WOWrvyOm2Ey%2BrALsEYodKO60F5OSFztfEh7vrqo53z23IhJ9QbEQ%2B334rL%2BbR36BhYe0R%2FrUmjkI1yUrC8vID%2FKz%2F8c89qMslsgYRABbrA4l3ACfHUCB%2FZGgjkDkd%2BVBsW%2BG0EUO998k2JFcWdPG5oSou0sckfmlY8CfQkm0RNzXQt03r5402JKv11CBLU3jlH0gLOFTp5qTqYQqtg%2B4NCQqCnF2S9ASt9BNUwnFFg65j19U3Y1vdgy1FQuZ2rbNu0Ru3quHujCRZgNy6wzqP4V8HgaW8NtrL%2Fowdnq7%2Fmfq67OVRzok0S5SJNLgIdS1XFCtZ5GETGLP2lKVyoagdXAf8BoOOZJzZvSWutNwMSAXLRMzCaz6JHr1%2BlFsdsXRpPsxY%2FVESzVb6tdstMKeBksHhRmW3C5fL3ThybKTI5feRhTWzS6EGlqvDr5aDR7b%2BLr5m4byET%2F4fwLwG2VQGPNxhS7ikNt%2Fhz%2FWEoeOCwXffXlXbOL%2BP3dbUAa5n76l7bq6Lt1zZJoGpD3sePt7vtmoEc6tmmcE50rI1sFWbCfylWbXwam%2BWrKuhs06QeSpvnLhd3CX29SvUqnyhO2QECKGw9e1kxBbk83czUy8gGYnbO9y6xDrUT67wwYrr%2F%2Fmhor63i6Vkab%2BGBoyQkiFtSLwcV09cBvfR%2BYYaXmpiXjf6EusY%2Fgvb1bQtf0HpyUL9f6FI2usxhg4SwcLvxUEucVmH%2BcOht40%3D&nvMid=59748028775&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 3070 Ti GAMING OC 8GB",
+    "image": {
+      "file": "gigabyte-rtx3070ti-gaming-oc.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/dced19176ae75b59836df35bb1884bbf/ProductRemoveBg/28954"
+    }
+  },
+  {
+    "name": "지포스 RTX 3060 VENTUS 2X OC D6 12GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 3060 VENTUS 2X 12G OC",
+    "series": "GeForce RTX 30",
+    "released_on": "2021-02-25",
+    "summary": "FHD 게이밍용 RTX 3060 12GB GDDR6 그래픽카드",
+    "description": "12GB 메모리를 갖춘 RTX 30 시리즈 보급형 칩으로 FHD 게임과 입문용 AI 작업에 많이 쓰입니다. 듀얼 팬 VENTUS 2X 카드로 길이는 235mm 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 3060"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "1807MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "170W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "235mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 3060",
+      "vram_gb": 12,
+      "memory_type": "GDDR6",
+      "board_power_w": 170,
+      "length_mm": 235,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 16697,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060+12GB&id=4345"
+      }
+    ],
+    "price": {
+      "krw": 539000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 539000,
+          "title": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=Q3rwJ69XNox%2Fskae0RvQ0v%2F%2F%2Fw%3D%3Dsw%2BXTk6c8g%2FDtD8pd%2FxDGEzJ%2FZ9VXuDBlXeMFCqbVNf1s0GJmUJbQNJKU68oSxFaeIgniaNDKZtT0rhbJg%2FG%2Bltz0aCWiaIh5hVtUlgX3dupsTtfOg0dM6PoHRNnLH0eYS8s49KYeBPPTwQit76sz7chdEA%2FbIitFCVBs%2FymTtO%2FaH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUXXJuOIhYYMlyoZhw0YgDz8bxvmKF5WT%2FSQxzTAlYeUlZuZ60vK0I%2B5wAPp9cAr0EIEvRCMEsPA6nIUtx5400Ixr7kjSpovSNFVmQA%2BEq6BoW%2B0l%2BuEEst90Ut9W7YIQgDMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJz3kWoMpXMHdHvvkAgRwpL4VfZTKwhLVH04ZRIIg7x5j1QQzCLreNp8sjPDBjStixBM7N8OU8pvvhi2wnvzNg380GDyGe7X1Mfvonxa%2BvC8InyyUJmjG4RCFjLjw1zNGtnPDyMdPNH%2F8XW4nDrXxO7Xg9BMQvT6cLXotvarOXqxbuvs7juqwqts%2Fh5j4Ws15mLVMTBs1VDS%2FUWS4FEKVpWqpehy5DU4obLjHg%2B3ilc37C0zF6OXEDzk5ibCV8UCFBdlg0%2FLJtwKMvQ%2FvlNGPw3wl2CDABF5aItSZbXBuE13Y7W%2F4x5twajmw823Zeal0ZsZ2wImqryvKiNA5wK3vTX46%2F74bs%2FzNmznhIO5N5zjXFs5mkjQPpwuQMdikqGVt%2BzgXnTpHGXvuok%2BFg%2Fv4BoMtVYavx%2B%2B8fWZa9SBc8rqM%3D&nvMid=59561195420&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 3060 VENTUS 2X 12G OC",
+    "image": {
+      "file": "msi-rtx3060-ventus-2x-12g-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1610443907b48feb29b4a49834f4b19e35c5511db6.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 3050 VENTUS 2X OC D6 8GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "GeForce RTX 3050 VENTUS 2X 8G OC",
+    "series": "GeForce RTX 30",
+    "released_on": "2022-01-27",
+    "summary": "FHD 입문용 RTX 3050 8GB GDDR6 그래픽카드",
+    "description": "RTX 30 시리즈 입문형 칩으로 FHD 캐주얼 게임과 레이 트레이싱 입문에 알맞습니다. 듀얼 팬 VENTUS 2X 카드로 길이는 235mm 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 3050"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "1807MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "130W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "235mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 3050",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 130,
+      "length_mm": 235,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 12455,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+8GB&id=4495"
+      }
+    ],
+    "price": {
+      "krw": 409000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 408990,
+          "title": "MSI 지포스 RTX 3050 벤투스 2X XS OC D6 8GB MSI코리아",
+          "url": "https://cr.shopping.naver.com/adcr?x=G3wCp30N%2BeyFw0klcu5Yl%2F%2F%2F%2Fw%3D%3DstSbHMq7Oe3ssqzMEeSgfB9bEZux%2FZYVgoerdTYZPrL9azeX4qcU1IzFIx63ncKSTEY3u1yhStDM8%2FBNpUYpYx%2BKpBIVSMIDZ%2BgmiWifpvipezN212Spp4OstSXy0g6DvN0qV%2BLwOd%2BUdDVm1QnrieOoQf0Q8UVJ8ChmebjmzJaZIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFLqCsKN4WCqRbdfG%2BErIaBDlrpQ%2Ft505Ptcq%2Bi7oTlY5520pH0K5ZyndHoh53O5viu7CZKhU3dXRb7LIwuoZJgTDOKokWk2dqoIL0fiEUY9dyWOy0kZy2%2FiP2yBL98vXqqsJF1TG8DXvuOXRWh2aiSE1QmeK3ZPITzKHcbEnR%2BI8sp3BiF605CNjkDpam6njgfP0hQmMtMVgkbaVcG2LOGVXfqiCwBtPYYwEdSt6i2JA52IvCrHY3I6p3G3X95twZp46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1OLx1lnqgRq%2B0yAXbLtoTe0IKeVqas4AmiaRt89wYThPQ%2FShsnF5%2BtiwY8AnUYn%2FduBm1fAWG6B0qJini%2FFZ8CIWBN0dF3d%2Fpmc00weIIFcfHFN5eVXON5%2FDCM%2F%2Byu5Qk4OqgWMwps30DlLxD06%2FTmMOxdbGgR2PS1a%2BcwbLjD3LdauAaxXgWUUu3U8YUCDQvTN%2Fg63yKNvhSD%2FLc8bn9Lo6%2F74bs%2FzNmznhIO5N5zjWiwZBWF1UnQQYYugicZu%2FYIVP7D47eNkanQz%2Fr0zdzI4VsN%2FiAcjmtIwlTUFZwg6A%3D&nvMid=59645524486&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 3050 VENTUS 2X 8G OC",
+    "image": {
+      "file": "msi-rtx3050-ventus-2x-8g-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1641349912be17d37c241611c69dbccce97e6e3bfe.webp"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT PULSE 16GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11348-03-20G",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "RDNA 4 기반 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. 가격 대비 성능이 좋은 PULSE 트리플 팬 카드로 길이는 320mm 입니다. 750W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2970MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1a x2"
+      },
+      {
+        "label": "보드 전력",
+        "value": "304W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "320mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 304,
+      "length_mm": 320,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1320000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1320000,
+          "title": "SAPPHIRE 라데온 RX 9070 XT PULSE D6 16GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=lFCOTnsTN2h15rYme5synv%2F%2F%2Fw%3D%3Ds639v3JsLYOMD3%2BOed3K%2BDmhYwMGQpBdgTrjvWKxgECXWlJ4tygSSOWKdJH4Wr14S3NkxZ4u0WxJyEKU0I30gRJxT%2BPXkEXY8xiRrDraOdoDpoGsO4AB1toUcfrSWvn3JKoInpcN4%2Bm9qVtVWUqvB8XQZHafR9QwWjbNkUFCYbxCGZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0ItRTq%2FwegMlkXMY%2BF67DJZWMcoXnAFL8eJIft8qptTJEnWQ%2Fnrae%2FMiQy1oIYGJlI6frxfMnm7I%2BSySRoNgE%2F1n%2BncMMTU4TkwUpXZp0NldhfGbFg97wq9u%2FHSoEqqF%2FO%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhd0VRXaMNP42bNwQzdo3BdacyoZCVZ9Pipta4DZb%2FXU%2FZCKbS5IZXjkbKBm9wVCukNJh2T%2FLdJdvDS27%2Br5v3FkK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi5%2Bpcn9OHdOZRLK22kDPuatgkLGAzMmgOg2Xv7sz9MuOReMUluAdYYRlgzl3ODX%2BVsH0gGii1LTFTSWuuRcFJCRmviot6TXq1GlmV15r0Ywvmu5AqyNQxPehmEBfU3Nyj1i7ez600m4VQEHD%2FvMq7X%2BcHomCtf18N55ORsAxe4b98LSGId%2BZ%2FOYAjRfVwLnTYrYAoLvEx%2BiBEyPSEfiSCl3gon9aAKjqA0fnk8MvXWn3kveGxICeq%2F%2F2zXb8AddrikGruH08DlKshetxY8KUEZb&nvMid=59674175929&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 9070 XT PULSE",
+    "image": {
+      "file": "sapphire-rx9070xt-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11348_03_rx9070xt_pulse_16ggddr6/sapphire-pulse-amd-radeon-rx-9070-xt-photos02.ashx?v=7bd347a0c22d4deebf09a49235db097b"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT NITRO+ OC 16GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11348-01-20G",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD·4K 게이밍용 RX 9070 XT 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. 12V-2x6 커넥터를 백플레이트 안쪽에 숨긴 NITRO+ 카드로 길이는 330.8mm 입니다(3x 8핀 변환 케이블 포함). 850W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3060MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "330W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "331mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 330,
+      "length_mm": 331,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1497300,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1497300,
+          "title": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=0MT%2BNwgQ1BQA%2BkTDBISOOv%2F%2F%2Fw%3D%3Ds%2BbGvUTziXw%2FF3EX5GP31lxcPVSG%2B%2Bmf%2BLGmCJBVkob3WlJ4tygSSOWKdJH4Wr14SZtXFHiVBfLVDfcDjFlFOknZ4L5OvLl4o0xhXE9ld1dZ1PLWH5GJTQPdLoWndGRFsgsMm9m22avrw0tylfcKlGEYvu71XnZMd0mPjsEOIgLxIAJ%2FJQ9vsa4G5awamMD3VroPvbIwO6x3XjC5GPsCDFKqxuCaQ7rEGfA2%2FgXGQ9eU8zVbfOS1T9Ys7abj4FYz2KSHPTybsiBBALcpQRwUPlifUsrfUNx33EyNavygTUlhXjFOJ1qjVdjJOO2%2B2iAcdSe%2F19rLg1OgZbNtDfaqoVoMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnqEkTW9clWcF4MxL1h1urz8ai83EVbMDvzV06wNeZeBjU0gIMKkNknyTl6ow8gKX8X%2FKnP%2FNqtO73c1IDAWjFQTj7DunF%2FWxnYN5CM3o5sVE5fXVTOK%2BJYVqxbJID4ueIVSZVnfq815CgUj5y4pyPVRQ7tsIAfS0xQnGI%2Bb17EsLVXQXfTR3DKHTiDR1zRVc2HHSEADfXg9WzDVcMvgrQlr97ryr3o7Qgx2yWsyYGN1J9NJCbe3wEZxQD6ID8tAz3uKEXipVVsuRZHGAJiAbhf33JeQJ6ksBmgCjI4FUDX5ICggoYB%2B8%2B4R1N1IlKnPWCERpOFzCbaM6OU97uoPifjrWdEJSJStiHPonT8gfh8RARBuUqhnXPV0LKZx%2FJxSrvbNjqh%2FZemCCOboDhnweAmG&nvMid=59571818839&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 9070 XT NITRO+",
+    "image": {
+      "file": "sapphire-rx9070xt-nitro-plus.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11348_01_rx9070xt_nitro_16ggddr6/rx9070xt_nitro_photo_c01_800x500.ashx?v=e3320692facb41c28e8340c1b01686e9"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT Hellhound OC 16GB",
+    "brand": "PowerColor",
+    "category": "gpu",
+    "model_code": "RX9070XT 16G-L/OC",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD·4K 게이밍용 RX 9070 XT 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. 트리플 팬 Hellhound 카드로 길이는 327mm, 두께는 2.5슬롯입니다. 800W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3010MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "304W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "800W"
+      },
+      {
+        "label": "길이",
+        "value": "327mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 304,
+      "length_mm": 327,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 800
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1380100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1380070,
+          "title": "파워칼라 라데온 RX 9070 XT Hellhound D6 16GB 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=45o%2BToXW9OnQDsAJSXIB3f%2F%2F%2Fw%3D%3Dsmk1%2BdDXDiwTGCAQRGcVre4qxtvJzKKwSMCuSW%2FgDSAnipGYmhRIkRhZvXDjs86%2BLFITSOyY02Z5eb4aOfNuA%2BwtlNJwrKNd165SQaIj1qceAxqlW8STu54%2BB5hqcRO6vsFES4jhUDMXk2OZQScHCdo2TrUqRwb6njF%2BY%2FQ6TLHceKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ%2BXvzq2L%2By2LNbqsYAWwPRpbS2l2h7rdLOjoU5z2S6zAntDoNt1M%2F19WyI7PlG4HAew402gkSQjgCg3Gaoyf5gaQ6p2JKGwjvWu3i9HjXS6gEYi1Y4Rf7TvFif7QzGN5hvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SkZYks7qkvS4sIPYCT5irY1WmUsdNMTrQrc7SAkOshDOdMnPssEsxiLl4Eai5xKG2qX8Ahy090fLtdrIMTzBwPOgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXwPzyFR4GleR%2B%2FXCkgS%2BiSzVdR9bRa1MBPEj8TlzkTVzk0Pts7iiMM17QpKJBk%2Fy0MrKAgd6hszI03PO4lwNlEyn4MOInyOi3rQL1KWGwgxwv5SWgaXucTKNOL1dCkcSQ3on5USzZoiZ3xzm58dBMaz7GgjjA1zkmdoCbgB3ya25deviMRyWUOb4jJHZqHyNXZP4PMPHCnudPTZjGRUD3iURnRm%2B4ETj6EtlaSATui%2FvKi%2B3M8SW0K73uioT3pGYTE%2BbZXZYuPSgt%2B%2B1dICr2M%2BDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=59603431363&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "파워컬러 RX 9070 XT Hellhound",
+    "image": {
+      "file": "powercolor-rx9070xt-hellhound.webp",
+      "source_url": "https://www.powercolor.com/Upload/202501/product_2025011411544005.webp"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT TUF Gaming OC 16GB",
+    "brand": "ASUS",
+    "category": "gpu",
+    "model_code": "TUF-RX9070XT-O16G-GAMING",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD·4K 게이밍용 RX 9070 XT 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. TUF 트리플 팬 카드로 길이 330mm, 보조전원은 8핀 3개입니다. 850W 이상 파워와 3x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3080MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "304W"
+      },
+      {
+        "label": "보조전원",
+        "value": "3x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "330mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 304,
+      "length_mm": 330,
+      "power_connector": "3x 8-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1233600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1233600,
+          "title": "에이수스 ASUS 에이수스 TUF 게이밍 16G 그래픽 카드 PRIME RX9070XT O16G AMD RADEON",
+          "url": "https://cr.shopping.naver.com/adcr?x=UPVMa1U5fNk%2F8NCAYnkI9f%2F%2F%2Fw%3D%3DsAXEh%2FaSLtQiVr%2FB8jWczVJ929ozvaSFWf2LcwUfcTZOb2%2F%2FbI8E78x4d0JSZvBXb0satAloDr89Qx1XUGyg0zrR3WrlbigoYxF1mghPIPk6Me%2FGEk9%2FPG2Ewr2gvPbJBvlnP9sq4DnhM6w%2BJ%2FXyGCCu8N92YX9zRdvNRNVV%2FEnHechyUR%2Fvezq%2FmYnVEYbmCD1CKJfwFy2RPOV2wwFR8CynJI0t8OQBTHq4o1qQUz3aJ4sefEv1wWYVXVo2%2BDsLu8dGhKqOrWEfyCRlV3EcinsvitNhEMhuS3lhxFizPqQ3EEt9OrRd0v9da%2FWh6vBrIcx%2BRHWRGfmrru1Uvi8XaUYBsJjzV%2F3vl5Lmd9HbkUGI%2FzdYC%2FwYAihDQzAs9Z5v9%2F2czJODI6RK3VIb%2FuP%2B0oE%2BVVvzBkgZKdASh8RxWJwd2Q1l6YVxCOsGcqrxX16WJBnqOzC29mOl30v8Pe8qXBBo5JwC7VHosxLM4Eb9q3lmkUANRD%2BLWCL6rfq0Xgkoph972Gbtlkb3o3rn%2BinS0%2BC2NGsVJEkgy5kggTAnCOVkwE8Utt2%2B4jEP1U9mBEjcDIojv%2B6TBOq7fMteKj0inRbFYrTCVtHKLouNIVQhKhxBPRYoo54FkaMFVM8jk%2F7K29zB%2BgAlgJDBpXVAt%2FWNBLPEK3YPAZ5puICCMoVvjnYUWipjxgDhJA7eT1k50bW674DeL57G7SRnZOtgcb2UMl6OuBZD%2FQkGyMe53inOjnLUmudTFhwnlJHvtlihLkWqV3AikfiPnRd%2BUvgAYvujWHg3K8C3OEkPx1G74YnkY%2FVgdHI8FZtQVGFZJxOyBDKc%2B&nvMid=53858556111&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "ASUS TUF RX 9070 XT O16G",
+    "image": {
+      "file": "asus-tuf-rx9070xt-oc.webp",
+      "source_url": "https://dlcdnwebimgs.asus.com/gain/aa54c1c4-67ba-427d-9b40-488646ae3ed5/"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT GAMING OC 16GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-R9070XTGAMING OC-16GD",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD·4K 게이밍용 RX 9070 XT 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. WINDFORCE 트리플 팬 카드로 길이는 288mm, 보조전원은 8핀 3개입니다. 850W 이상 파워와 3x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3060MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "304W"
+      },
+      {
+        "label": "보조전원",
+        "value": "3x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "850W"
+      },
+      {
+        "label": "길이",
+        "value": "288mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 304,
+      "length_mm": 288,
+      "power_connector": "3x 8-pin",
+      "recommended_psu_w": 850
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1197000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1197000,
+          "title": "GIGABYTE 라데온 RX 9070XT GAMING OC 16G 그래픽카드 AMD 그래픽",
+          "url": "https://cr.shopping.naver.com/adcr?x=O7Z61gZSWx5jVyYbbj76mP%2F%2F%2Fw%3D%3DsC4uGVzgAZ03eGGx8ixfnKYjKkRQe9opb8cNLGnkr%2Fs7YhPlt8IulkiI8GGWqHq3BC7PJ0y%2Fk2nhRlXcyxiF8jBMmDx%2Fw7UHkuOumCObJJhJG58nvgMXFF3bfNCvMPMFeLO0ujq%2Bs354ac0WwWEBEkRTojQUT65y3DzgvpiPO1UwwFsBRMuERzOt%2Bjqj4UJgn2SgNmFlPITY%2BonMsYDjA7qaNkfyfceEw7tqyklAM0rjC3mz5c%2BFrZYTGiGKYzwPKgy1FQuZ2rbNu0Ru3quHujCRZgNy6wzqP4V8HgaW8NtrL%2Fowdnq7%2Fmfq67OVRzok0S5SJNLgIdS1XFCtZ5GETGMAiX3TCfJ3ckVD3gy3M8Xe4myL%2BHynim6M1oA2evvcnHr1%2BlFsdsXRpPsxY%2FVESzU%2FyjCLEswmZrOBBCKd0JNrL3ThybKTI5feRhTWzS6EGlqvDr5aDR7b%2BLr5m4byET2paF4b332s5K05OwOk7bIPskKcAIvzJr3r5byAVYbkRAsUYqvNflhfKFjPuET9C4DUXsRaKa7M1g2A02Nxv4qQDgIApR7jrnOvhGZm9EkjTX9a25xN4LGaotxap0%2B7vEn5ibDZ693qTspZkCindwKBq2gfq0m%2BqD%2FCq1ReGS81djTjOE5zvUy1hk4dEiV5ufn71re6gW2YEq2j5z9KuOXiJOve0%2FHE1q6Q1c1cmOge7k%2FlF%2BXaHIj1agYjGLUTnB7fCTuh1nkzBqR%2FthhAZj7U6HJZQgjI8VSlbO1R88zJ2DVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=89242808298&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RX 9070 XT GAMING OC",
+    "image": {
+      "file": "gigabyte-rx9070xt-gaming-oc.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/66783da65984230650f1241875f506f9/ProductRemoveBg/44351"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 PULSE 16GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11349-03-20G",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD 게이밍용 RX 9070 16GB GDDR6 그래픽카드",
+    "description": "RX 9070 XT 보다 전력이 낮은 RDNA 4 칩으로 QHD 게임에 알맞습니다. PULSE 트리플 팬 카드로 길이는 280mm 입니다. 650W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2520MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "220W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "280mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 220,
+      "length_mm": 280,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 25378,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070&id=5958"
+      }
+    ],
+    "price": {
+      "krw": 1969000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1969000,
+          "title": "SAPPHIRE 라데온 RX 9070 PULSE D6 16GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=7omTV3LhXD%2BxJYlDD9BY5P%2F%2F%2Fw%3D%3Dsn0mJCer2JkmARc2jdj%2F0eZ%2BZ4T2f5AtePsQHpI%2FklodelYcoIHewSJJMsJFyDlMNg7ASp3vqDkUP4Aiz2XGs2eKGI8%2FFe7Jsvy7WuQMrOebGoNlfEa0fu%2BigWWdvEgqcFNLQJ6VFZCozqHJGD4gegukxBkwpq8TugtiqKKHHX3WAbCY81f975eS5nfR25FBi03xybQraz38WDKZW%2B%2B9UW4af%2Bxl1MnVWnTXcraGMfoGkB9ln8TjXslw7M5IhiDW9d7xr4EwQZWW15zWHjJ684Yle1QRkYl3mi4QD6R9Ti2zVZkAt3esJ3YIzS3dPOutBgy1FQuZ2rbNu0Ru3quHujIXK5iEfVAp1YmC4sgicXQA%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSenmOFTJm0cql%2Fv1unildHbnUQvs8GHq%2Bj7OvUNvyviyxdkNZemFcQjrBnKq8V9eliQZ6jswtvZjpd9L%2FD3vKlwQaOScAu1R6LMSzOBG%2Fat5ZpFADUQ%2Fi1gi%2Bq36tF4JKKdsWI8dGyeZHZF0FIJvgTz8tjRrFSRJIMuZIIEwJwjlZmqkmhrHF9rWhb62xn4ZsTsD5EbtEJmAzKW2hrzLpvCYhGKDehjbcCj8XhPfnAOSo%2B8fNNN6alaL4DvSIzMGlxVM9UE%2BbnlvKSJk0dzI4zTzvzcdexjgjZ%2FJrSAtCqFSZT%2BDzDxwp7nT02YxkVA94lBzjTcXwoVM8lrhL6igy83Kqh51xKMKkvUzhBE4vbNwRY7RBJx2aPv1bgiR77Jh46w1QmAmnoJRdq4K9btjkCM0%3D&nvMid=59618945444&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 9070 PULSE",
+    "image": {
+      "file": "sapphire-rx9070-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11349_03_rx9070_pulse_16ggddr6/rx9070_pulse_photo_c01_800x500.ashx?v=51b7d77b198b4083a5ce21af531a6630"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 GRE PULSE OC 12GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11354-01-20G",
+    "series": "Radeon RX 9000",
+    "released_on": "2026-06-02",
+    "summary": "QHD 입문용 RX 9070 GRE 12GB GDDR6 그래픽카드",
+    "description": "12GB GDDR6 를 갖춘 RDNA 4 칩으로 RX 9060 XT 와 RX 9070 사이를 채우는 QHD 입문형입니다. 중국 전용이던 칩이 2026년 6월 세계 출시됐습니다. PULSE 트리플 팬 카드로 길이는 280mm 입니다. 650W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 GRE"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2920MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "240W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "280mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 GRE",
+      "vram_gb": 12,
+      "memory_type": "GDDR6",
+      "board_power_w": 240,
+      "length_mm": 280,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 23330,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+GRE&id=6421"
+      }
+    ],
+    "price": {
+      "krw": 968800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 968850,
+          "title": "SAPPHIRE 라데온 RX 9070 GRE PULSE OC D6 12GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=BTpr8F8UP9DPxXynmkYibf%2F%2F%2Fw%3D%3Dsc90r2NqHhcSPoVSOGylkvebvapn4j104AQj8%2BT9ldUjtEvr9oNTpw1dfJNgNEfCuO8xXI8movM5uj7CIHEMvof4IQdQ9kfb%2BlBlw67UE54WxHxJlvJZT94GoRcVMCowOEGdJ2SOxrCY8Bf3vuYLrraCT51Wo0Zebr6wey4HN7w%2FIt9ELSj9ZgOwWGT6cXiS3sVr2X3traHZiX5qWza156gU2XGTkRm0pr4EyxWHT4WRfg5Xqv20hP%2FYyWl5J14ARcXzaq%2Bale9qcg%2FMfyZKFLBmOB%2FYF2QDG2%2BzopWqbnEPewZ4u11oOFMAWVOSWG9ZnhfGbFg97wq9u%2FHSoEqqF%2FO%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhS8opGqE5rkUGn0NSR5ICodtH%2Bbo3uQkywX7i1ES0H%2FS9UEMwi63jafLIzwwY0rYsWwVN%2FB%2FmAzO6HOapxjzDifNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrYM04BcBekjJwgWti%2B8L0I45%2BEp5G%2FJPpmvGyftyzcRc7r7O47qsKrbP4eY%2BFrNeZv5pye9mPhPmcdcGtrCwm581Vv4kJpgXx9kSQEmgqRY4oQsaExGJPG%2FsxxXWEprTxAj7WjBOde7pOGuIsYxSeT25XZhuYModz%2FsC2omCAQ%2BK6P7NnskezzI%2B5AJFYFaDyXU5Z%2B3dPd2ZaKpjPt3%2B9mFW1Ik0iksMHUM%2B%2FBfeOdoyd1RQbRHnS5hhLcrLWMCYIFvq9IdBCw9CSHAiNmKdJjodHI8FZtQVGFZJxOyBDKc%2B&nvMid=60355036904&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 9070 GRE PULSE",
+    "image": {
+      "file": "sapphire-rx9070gre-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11354_01_rx9070_gre_pulse_12ggddr6/rx9070_gre_pulse_photo_c01_800x500.ashx?v=f89bba92d2284909baabd9c66d5bd294"
+    }
+  },
+  {
+    "name": "라데온 RX 9060 XT PULSE OC 16GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11350-03-20G",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-06-05",
+    "summary": "FHD·QHD 게이밍용 RX 9060 XT 16GB GDDR6 그래픽카드",
+    "description": "16GB 메모리를 갖춘 RDNA 4 보급형 칩으로 FHD·QHD 게임에 알맞습니다. 길이 240mm 의 듀얼 팬 PULSE 카드로 8핀 1개만 쓰면 됩니다. 450W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9060 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3290MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "170W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "450W"
+      },
+      {
+        "label": "길이",
+        "value": "240mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9060 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 170,
+      "length_mm": 240,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 450
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20130,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9060+XT+16GB&id=5957"
+      }
+    ],
+    "price": {
+      "krw": 821900,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 821920,
+          "title": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=ZuccCTUrcGBduFjr3e8lRf%2F%2F%2Fw%3D%3Dsn07xGGdOg7TGTmWlCnH33QiW2ezvzsOhsRlu3fSaHT7WlJ4tygSSOWKdJH4Wr14Sdrth4EO9X%2Fe0CmHBK8HD3lsbDMAH2cARukiANaHF%2BWo5SWKxOhNVFANx2h5TfFqWtRxn7GdIoGbp7MAoA9Y%2BtrxBnjOh3Jn269Scu%2FEPIOpJbNTPcbnF8ZDz7e0E5kkRa%2BpHa6ewb0%2FDpcGez9%2B2MqQbGi9r%2BhkvHSnzX5U77koXUQBJNNM8rf9B8JMBQ9IZgns%2Bsc49jSxq8NtW%2F7oUBIpjHuTclBHG5N3eVzfHhmBMDc3uBUbDGGAIfqaKNv9mL9jMIMO6ZbA5CEhy9tj71sM4qiRaTZ2qggvR%2BIRRj13JY7LSRnLb%2BI%2FbIEv3y9eqqwkXVMbwNe%2B45dFaHZqJITVCZ4rdk8hPModxsSdH4jwJNRdnKXFkxVVF4v%2BahO23OVXoZwccbj%2Bv6dTKkoqbv8IBwxuOOA%2BnmtCjWPmM%2BdNwYF%2FchguSdWJZGcOt5fhy6GoHPIj12cQBsuaqrLZv0c6JBZXL4CjKocY4ibpOhjlmzXDld6qYtbtFeQkl9cigmfrIHwI8jb%2BhO2oDr%2BhFKP3fNbHqARZwHmWnhk13yeYQB5Veq0GCO%2BrAr7JmB00k9xLtY0LGQRWbQ%2Bq4%2BV7X9kCpu4qe6eanl1N6PCmJOSdlSaUXjCi0d828Wzsynik1AG%2FTPxBA9FnEalkV9oFOjOFHiqXz49iowzOoOyXngypRN64mBm9G8QruBkLDcHT6kr4jCIL8x2do773NAwpuJvhaLhQ%2BZ%2BjKYr3N8nBqWghvU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=59943093656&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 9060 XT PULSE 16GB",
+    "image": {
+      "file": "sapphire-rx9060xt-pulse-16g.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11350_03_rx9060xt_pulse_16ggddr6/rx9060xt_pulse_16gb_photo_c01_800x500.ashx?v=a513c6c1e3224d2f9d27eb34c56e355d"
+    }
+  },
+  {
+    "name": "라데온 RX 9060 XT GAMING OC 16GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-R9060XTGAMING OC-16GD",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-06-05",
+    "summary": "FHD·QHD 게이밍용 RX 9060 XT 16GB GDDR6 그래픽카드",
+    "description": "16GB 메모리를 갖춘 RDNA 4 보급형 칩으로 FHD·QHD 게임에 알맞습니다. WINDFORCE 트리플 팬 카드로 길이는 281mm 입니다. 450W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9060 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3320MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "160W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "450W"
+      },
+      {
+        "label": "길이",
+        "value": "281mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9060 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 160,
+      "length_mm": 281,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 450
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20130,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9060+XT+16GB&id=5957"
+      }
+    ],
+    "price": {
+      "krw": 769000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 769000,
+          "title": "기가바이트 라데온 RX 9060 XT Gaming OC D6 16GB 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=z3XVDD1WqdsHvTycjNH5d%2F%2F%2F%2Fw%3D%3Dsyt7w99fV8Jgj333ASaGrWZEtkLUJg76iDBHOAyx1ZDcCX939b9dPNKPNwaBb84Bqa04cjImfSNRTDtuh%2Bu1yL3mtyOPnFlebtuCBiW4TMoNSPgUBWvBiPhLNYuXYDhN%2B0Lixe6IVq5GonERtviSB8opvSMOulOszYvS5ms5cKqIiA3CncI4L8BU%2FbNafUk2j334rL%2BbR36BhYe0R%2FrUmjkI1yUrC8vID%2FKz%2F8c89qMvPFRdA8hBTEMM7Yo%2BAsKv5ZGgjkDkd%2BVBsW%2BG0EUO998k2JFcWdPG5oSou0sckfmlY8CfQkm0RNzXQt03r5402F9TJnU64epxt0WF%2BzJuhUV2n0H9az6plRhp99eoYEG8DTEuJy9bIGYD5JmO19kpYgy1FQuZ2rbNu0Ru3quHujCRZgNy6wzqP4V8HgaW8NtrL%2Fowdnq7%2Fmfq67OVRzok0S5SJNLgIdS1XFCtZ5GETGPZBUfYSRYxZeLC4F2iTEdNG6nhMDZr%2Bwdrrd763w%2B0pHr1%2BlFsdsXRpPsxY%2FVESzU%2FyjCLEswmZrOBBCKd0JNrL3ThybKTI5feRhTWzS6EGlqvDr5aDR7b%2BLr5m4byETyQ8%2FgIY7Q4Z729DWF%2BeQHyZrma2b3flKidsmpW%2FpKFa3dbUAa5n76l7bq6Lt1zZJtnzoxdFc0Khp3SMx7BlG2TLql3T9yjL8qkvSzQE6ugw9AuE1gh%2FxIXuKPoDRV93nW0cUjHAA2IhyrXEatqAx5mem%2BDaQjXAbTrMmNBEFKJu5fRCUEBztw4haCl4dIAJ7wGE2Dqk7%2F7DptJHBb9246SpLpW6L2%2FRzEGdqyz7SxM4P10sY5zUgk88MgLoo65KfAN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=59505225966&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RX 9060 XT GAMING OC 16GB",
+    "image": {
+      "file": "gigabyte-rx9060xt-gaming-oc-16g.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/3daa6a41d31bed31c0b1330330e4fd00/ProductRemoveBg/45406"
+    }
+  },
+  {
+    "name": "라데온 RX 9060 XT Hellhound OC 8GB",
+    "brand": "PowerColor",
+    "category": "gpu",
+    "model_code": "RX9060XT 8G-L/OC",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-06-05",
+    "summary": "FHD 게이밍용 RX 9060 XT 8GB GDDR6 그래픽카드",
+    "description": "FHD 게이밍용 RDNA 4 보급형 칩으로 16GB 모델보다 값이 쌉니다. 트리플 팬 Hellhound 카드로 길이는 310mm 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9060 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "3310MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "150W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "310mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9060 XT",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 150,
+      "length_mm": 310,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 19702,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9060+XT+8GB&id=6575"
+      }
+    ],
+    "price": {
+      "krw": 693700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 693720,
+          "title": "amd 8 gddr6 8gb 9060 기가바이트 rx radeon hellhound powercolor xt 1 9060 XT 8GB Hellhound",
+          "url": "https://cr.shopping.naver.com/adcr?x=pV0HueK%2FAP%2BG7L18o%2FPfI%2F%2F%2F%2Fw%3D%3DsUuOrfx2fsg4wpEKivb%2FU%2Br1KNcv%2B1tXg1xMd26sI6KbipGYmhRIkRhZvXDjs86%2BLOZ5FAARk%2Fb5V0%2FlAC6iASK2WjwnqlX1oA81qNLPvG9AkzSLAhdscbqVivj67K3ugR8KpF9kgYc4FrusYnxy6zTDa%2BhOxC1il9PVUIl7H0IGhTLyiETOrSJmb2ZVlRzjYYURX3wJ8DCL%2BCmw4PV9DoLNufyj0Wt4cl41DcMGWXPeabMUqiaZQX1aeY%2Bfq3ar%2BATHdPLraGwxktNRwDcK2geT%2BqME3C1%2FhYXR9DHxPMiJVXemfpmeX70wC2wQT5nyi5pxiwDZPU40LYzhHX%2FcRv0DJ29CghiCxHseZ0y%2BxQ7HalWRntI211SCCL%2BaQCSBR0yc%2BywSzGIuXgRqLnEobapfwCHLT3R8u12sgxPMHA86BjtYJ3%2FD7Bq8jp6jBSMgicrAw9YpH35hYS%2BM1sFglfOMRM%2BGgHVM1FXY6bB74hHPucorlwMydXJyaHfduMXQljyniVkXLxMhGfXHxXPJc2H7mrXc0XcIj955tbPyRIsUaJcV6DEwLlnpOWtGrOwShcabdN%2Bh%2Fog7cZcDxMyHNOFn%2BMzGLGREywO0yjLtSv2wBvmMiQ%2Bdmd8DpU63aRfD6eeHf1AgThCHMTlZAodkeiuuPjpqlqPIVNNrGjnBe9jTL7I40Fz4YCOUalq1MXfZ%2FpHlQkCVd1lrkSkefdI16bS%2F1P2Md97j36eZVzf%2BcR95vU2Y6hEEwGxc1AZfON9sL4VRAH%2BsMDObarUodGweR8Q%3D%3D&nvMid=90526891334&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "파워컬러 RX 9060 XT Hellhound 8GB",
+    "image": {
+      "file": "powercolor-rx9060xt-hellhound-8g.webp",
+      "source_url": "https://www.powercolor.com/Upload/202505/1748498004_00f6f898899628aa.webp"
+    }
+  },
+  {
+    "name": "라데온 RX 7900 XTX NITRO+ Vapor-X 24GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11322-01-40G",
+    "series": "Radeon RX 7000",
+    "released_on": "2022-12-13",
+    "summary": "4K 게이밍용 RX 7900 XTX 24GB GDDR6 그래픽카드",
+    "description": "24GB GDDR6 를 갖춘 RDNA 3 최상위 칩으로 4K 래스터 성능이 높습니다. 베이퍼 챔버를 쓴 NITRO+ 트리플 팬 카드로 길이는 320mm, 보조전원은 8핀 3개입니다. 800W 이상 파워와 3x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7900 XTX"
+      },
+      {
+        "label": "메모리",
+        "value": "24GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2680MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "420W"
+      },
+      {
+        "label": "보조전원",
+        "value": "3x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "800W"
+      },
+      {
+        "label": "길이",
+        "value": "320mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7900 XTX",
+      "vram_gb": 24,
+      "memory_type": "GDDR6",
+      "board_power_w": 420,
+      "length_mm": 320,
+      "power_connector": "3x 8-pin",
+      "recommended_psu_w": 800
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 31474,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+XTX&id=4644"
+      }
+    ],
+    "price": {
+      "krw": 2536000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2536000,
+          "title": "Sapphire 11322-01-40G Nitro+ AMD Radeon RX 7900 XTX Vapor-X 게이밍 그래픽 카드 24GB GDDR6 RDNA 3",
+          "url": "https://cr.shopping.naver.com/adcr?x=yT99hXjmGgQxNlWG5GB2pv%2F%2F%2Fw%3D%3DsJoWZXcoxBAR0dPYnyQTU7qR7uCFqUrm%2BvvkaR3uuJnTWlJ4tygSSOWKdJH4Wr14STOiI7RIj2sgRzXNP7f64lNBrdLr9etM2fG3PsxtV8fawPjLB7ymd3uJSJxFdHtWZYAlZuJKkXUn99yOOS35C9xVpt8wvri7NVFnUTtQOah%2BMkyK6gXiSAD%2Fe31zwThlTipUBMrp5iOZspSzrRYvAZC%2FUyUZzKeUJVGS%2BGBhcbAL9n7%2FV%2FPo8JD33NdlY1hwhI%2BVsbnFLZpgSXZVSLZhgCiySESbS81ZjnnNwJnKaUv65WmE7Ymlm3tQySkP9XG6ZATHdPLraGwxktNRwDcK2gQNgbN%2BuG5KAhmhnR%2FR%2FMIWrCRdUxvA177jl0VodmokhNUJnit2TyE8yh3GxJ0fiPNnKGrEpNr6%2FTbqV2qx383vXCyLONS7F9OMADLhgI8WEsIsJED7iM6XZRGQCW89KC4BfBOGvrvcLKGS%2BulQmYb1%2FrBqFYAdlpzhFJtGz3EZmx5JQrExaP4bbTfSGZvAxRePsBw%2BlxF0NMKHMN1%2FnrwnrWXHNbyEaFaYqzYN7X8%2BzjiUm%2Byb9qTyk9InfBC0DjQFG%2FpYkTc2IL%2FyoxF2gon9UZwBtPNOpa2iUNt5VzdSSwgpXsc4aaijKexzYWry64QTgPwxII%2BqPWxM6GUi5wtpoE1hV5gG77C5%2FoF48QprUQs%2FuNhnxHo%2BQuIc6QgLp7S6CIOHlLyf7tFzQx427OB3iq%2BsHW1IbeVdILcW0bx1brY0pp10GAwB94e%2BqvRpXzMcgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=62223501527&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 7900 XTX NITRO+ Vapor-X",
+    "image": {
+      "file": "sapphire-rx7900xtx-nitro-plus-vapor-x.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11322_01_rx7900xtx_vaporx_nitro_24gddr6/11322_01_rx7900xtx_nitro_24ggddr6_c01_800x500.ashx?v=f722e1e0d11a43acb24528c53b8d8f7a"
+    }
+  },
+  {
+    "name": "라데온 RX 7900 XT PULSE 20GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11323-02-20G",
+    "series": "Radeon RX 7000",
+    "released_on": "2022-12-13",
+    "summary": "QHD·4K 게이밍용 RX 7900 XT 20GB GDDR6 그래픽카드",
+    "description": "20GB GDDR6 를 갖춘 RDNA 3 상위 칩으로 QHD·4K 게임에 알맞습니다. PULSE 트리플 팬 카드로 길이는 313mm 입니다. 750W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7900 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "20GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2450MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "331W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "313mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7900 XT",
+      "vram_gb": 20,
+      "memory_type": "GDDR6",
+      "board_power_w": 331,
+      "length_mm": 313,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 29122,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+XT&id=4646"
+      }
+    ],
+    "price": {
+      "krw": 1688700,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1688710,
+          "title": "SAPPHIRE 라데온 RX 7900 XT D6 20GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=78zPRyUrzNx55uOJqsrxb%2F%2F%2F%2Fw%3D%3DsY8iN79GKz%2F84lhVFRyN8likhpDiegQWFcmXHH9Wms5vWlJ4tygSSOWKdJH4Wr14S7FFhSmoUKpOx68KIWAvXM3GbiSyCiwjZEhrgsHY5GLx1sD7RBnTJ%2FKBndJ605nUwVZcudS9lsiJNHzjCmVgerx5eX4l4qtv6EFg7sEhYdC6GZ5a0ma%2FDwz3QQr7PLlrXXicR3Ch%2BK2FIXOUsbxrP0HZOBWblPN%2B1BL%2B%2F95Eq0XtWMcoXnAFL8eJIft8qptTJEnWQ%2Fnrae%2FMiQy1oIYGJlI6frxfMnm7I%2BSySRoNgE%2F02qj8pXRWMPjcNsOCWx6kMhfGbFg97wq9u%2FHSoEqqF%2FO%2BkUrFrRQY5zrAUIdEvQAXbXJBuXT6ikJmbKZMt1I4Awc%2B%2FjkR2vl%2B%2B%2B%2F%2BVPNlrhZ%2BJ5Cma52aKhxCS6%2FIbAohcPx%2FFC8lWsQqUNY%2ByboK7ZCKbS5IZXjkbKBm9wVCukNJh2T%2FLdJdvDS27%2Br5v3FkK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi6Llb7K9zft4VCQOKCw2gbZgkLGAzMmgOg2Xv7sz9MuOReMUluAdYYRlgzl3ODX%2BVsahhDxg1DXBaXRz5s2Ox7yW0SVc0324KhNAxShFrP7499pxbxBpPzf6IGZWHuSgZtC%2Fcff4PfkmcWlwCHmrWaLhtr8o7WII0i%2BBXPWThD93YgN%2F1NgM4LgvOAJ6Euy6vnedrCPybP9lbUzQEfULLrMF4RVNQBUK16ruG%2FLHFQBQeR79U%2F6Az3gE9mQ%2Flgn57E%3D&nvMid=36541384621&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 7900 XT PULSE",
+    "image": {
+      "file": "sapphire-rx7900xt-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11323_02_rx7900xt_pulse_20ggddr6/11323_02_rx7900xt_pulse_20ggddr6_c01_800x500.ashx?v=edfc3c4ed51f4bf589737a9ed7f1f8ca"
+    }
+  },
+  {
+    "name": "라데온 RX 7800 XT Hellhound OC 16GB",
+    "brand": "PowerColor",
+    "category": "gpu",
+    "model_code": "RX7800XT 16G-L/OC",
+    "series": "Radeon RX 7000",
+    "released_on": "2023-09-06",
+    "summary": "QHD 게이밍용 RX 7800 XT 16GB GDDR6 그래픽카드",
+    "description": "16GB 메모리로 QHD 게임을 넉넉하게 돌리는 RDNA 3 칩입니다. 트리플 팬 Hellhound 카드로 길이는 322mm 입니다. 750W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7800 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2520MHz (OC 모드)"
+      },
+      {
+        "label": "보드 전력",
+        "value": "263W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "322mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7800 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 263,
+      "length_mm": 322,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 24484,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7800+XT&id=4917"
+      }
+    ],
+    "price": {
+      "krw": 1343600,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1343650,
+          "title": "파워칼라 라데온 RX 7800 XT Hellhound D6 16GB",
+          "url": "https://cr.shopping.naver.com/adcr?x=r08p%2FkEMyp9oyuhxEODI9%2F%2F%2F%2Fw%3D%3DsG%2FDs4gVPqfUrInZeBTLutFjTh24STvfQbccme6yBYM3ipGYmhRIkRhZvXDjs86%2BL9%2FtoLa2J3l5cW173k3Sjd%2BCu2QezB8KocEza7sPdKZlTUHaK70vdO8UkRJG4gakYfnaGYaEhWpofJAarim6TaOVloOhsBO9oHpOFKWN4piEeKc2vHmyDiFz6z7BhkveXpOr9sPYwajBkeE07IGGkJ7SZ6hudjMmQ4vZI7Z8xBRRVP7JjdmH2L9up%2BfY%2BLXnUntDoNt1M%2F19WyI7PlG4HAew402gkSQjgCg3Gaoyf5gbIKsYSSDdKvpuDoEvjvKLxEYi1Y4Rf7TvFif7QzGN5hvPOeJMuqt1K7AsbIyYggCdzGTD%2F41zH6vuyv32Cw%2Ff4Q%2BD%2Fo9glb0ukJK6bM8miKArsK1DNlYuW6vX8WB7j4SmENsf4BGCRktRBgUR9N4LUl%2B3%2FRNrQAEcbQqOGGQlEUtMnPssEsxiLl4Eai5xKG2qX8Ahy090fLtdrIMTzBwPOgY7WCd%2Fw%2BwavI6eowUjIInKwMPWKR9%2BYWEvjNbBYJXypgXZ3BMAI8cY%2Fqgsr13kB4jOHeAbpyAQmjjd%2Bt3pPjk0Pts7iiMM17QpKJBk%2Fy0MrKAgd6hszI03PO4lwNlEyPCliOHaphvM0EKtP0hEKk%2F5SWgaXucTKNOL1dCkcSQ1WWGlFmzeQJ4fvQKPRhPgrvckjVYLvyJpSFIzc9oCv3L2oDpNghAsSlU6qE8KetDBP4PMPHCnudPTZjGRUD3iURnRm%2B4ETj6EtlaSATui%2FvBPXr%2FJ2gvsjwlwG4w4g87Tzp644WWpjEZbfG2bPvrGxDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=43208023618&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "파워컬러 RX 7800 XT Hellhound",
+    "image": {
+      "file": "powercolor-rx7800xt-hellhound.webp",
+      "source_url": "https://www.powercolor.com/Upload/202407/product_2024073009541105.webp"
+    }
+  },
+  {
+    "name": "라데온 RX 7700 XT PULSE 12GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11335-04-20G",
+    "series": "Radeon RX 7000",
+    "released_on": "2023-09-06",
+    "summary": "FHD·QHD 게이밍용 RX 7700 XT 12GB GDDR6 그래픽카드",
+    "description": "12GB 메모리를 갖춘 RDNA 3 칩으로 FHD·QHD 게임에 알맞습니다. 듀얼 팬 PULSE 카드로 길이는 280mm 입니다. 700W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7700 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2544MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "230W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "700W"
+      },
+      {
+        "label": "길이",
+        "value": "280mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7700 XT",
+      "vram_gb": 12,
+      "memory_type": "GDDR6",
+      "board_power_w": 230,
+      "length_mm": 280,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 700
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 22778,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7700+XT&id=4919"
+      }
+    ],
+    "price": {
+      "krw": 1208400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1208400,
+          "title": "사파이어 펄스용 GPU 그래픽 카드 AMD RADEON RX 7700XT 게이밍 OC 12GB GDDR6",
+          "url": "https://cr.shopping.naver.com/adcr?x=wgEyzc1shsWq1qhQdDpDEP%2F%2F%2Fw%3D%3DsP%2Bj4AqpvKc3KoPc6TOxu0JBemapNDhgZJUIxht5bEM3tEvr9oNTpw1dfJNgNEfCuPYrLemK21lqkw06fzQf%2F7E4Lp92PTcAr9O5cH1HbsEJxFdikGlDqWi3pPoMdkdM%2FAsbaj5dW1M9X6bq%2BK4z6cvMLAuP1IxdOl8g%2Bc6gscqZ%2FYwb0Be%2FC%2B4u6Zy%2BBdWYzDWi6POXuh2u%2B2kOEP6e7Egqt4iqi4%2FkVk95C1TF%2FE12G%2FPwaF4VZiDr7HLOWsr1utBPEDZ%2FAktBE%2FOW8NTWFpmsXCJv83dqpttR7uMEt5gFb7SX64QSy33RS31btghCAMyrNfPIQdtLZeHP1vzbBKIrHsbeStsmJBfOvK7DA6omT1D0RZ9k5qUqZaJc2HfIVy0qSlA2JSFW9zdrZYP5sNVd%2BqILAG09hjAR1K3qLYkC5VvdwvLYTiNAQtqlvpRUQnjoGSkjv6TMHVxSxcRWrnvuXTpfChrnlOSxJEvxfGbVR1fJM%2Buv7767O%2FblrJzp21wuHr%2F8LCDHrDyE8jVq8eurR0VIZE%2FL5ssqtQ2IUft0M1nWnizQ0g8UzL9kJFirckLFGrugjBLr5%2BllS39RsZlfXZmg5MRS7gM%2B0eXDmxgE9W9wiFEWPGDqzqpM2K%2FVbSNDMjA069Pm2Uu79LaJbOAIkVFUtYwCddGWyw1%2FmK9EYYOM1sDjnFwUubd4mXEA55BpanLHrNDuD3uBGf6wCGC6CIOHlLyf7tFzQx427OB0zDQVMhq6YKvY2vgSV3mPCApuZtdiI2vYgJ7m2PFxU1ccgIRCk8vtGb7Z%2FKGMSEdE%3D&nvMid=61362262727&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 7700 XT PULSE",
+    "image": {
+      "file": "sapphire-rx7700xt-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11335_04_7700xt_pulse_16gddr6_dual-fan/11335_04_rx7700xt_pulse_12ggddr6_c01_800x500.ashx?v=ecb86bd7f0e245e99cae1c8b740649ba"
+    }
+  },
+  {
+    "name": "라데온 RX 7600 XT PULSE 16GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11339-04-20G",
+    "series": "Radeon RX 7000",
+    "released_on": "2024-01-24",
+    "summary": "FHD 게이밍용 RX 7600 XT 16GB GDDR6 그래픽카드",
+    "description": "16GB 메모리를 갖춘 RDNA 3 보급형 칩으로 FHD 게임에 알맞습니다. 듀얼 팬 PULSE 카드로 길이는 250mm 입니다. 600W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7600 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2810MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "192W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "600W"
+      },
+      {
+        "label": "길이",
+        "value": "250mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7600 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 192,
+      "length_mm": 250,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 600
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 17366,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600+XT&id=4982"
+      }
+    ],
+    "price": {
+      "krw": 1167000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1167040,
+          "title": "사파이어 11339-04-20G 펄스 AMD 라데온 RX 7600 XT 게이밍 그래픽 카드(16GB GDDR6 RDNA 3 포함)",
+          "url": "https://cr.shopping.naver.com/adcr?x=Zglk47%2B5fautRIM29ssflP%2F%2F%2Fw%3D%3DsxUxmLbbRz6Qa%2Fwd1gO6lkMSktXUh1d78rvVAzkTzR0FelYcoIHewSJJMsJFyDlMNElZ7e31oJ%2BbQxDyY%2FtF523VDzbXsuVCLmhZ2adoj%2BsFw57Nl28mQrrmL05lEtfuq%2FhYuINTaWgpYHi6QdrvcOVtnjf3c%2F6c%2FDeLW4chcK9bFSIVE2KtidcBeF3Cg9gDlpDgN2WrXhv2PHiscF9RNDZn%2FxffRmwe%2FfFNjbcS0PUk73MaBcrZFqqGc2yuge3R%2FkwiUH%2FQyFqu5OJoXzYbX%2Fcv%2BjB2erv%2BZ%2Brrs5VHOiTRLlIk0uAh1LVcUK1nkYRMY6If0ngquMq3rYTxw8%2Benx06C9Q3JHNydztVAfT7eB5EevX6UWx2xdGk%2BzFj9URLNxzAsvLu%2BgLBTfwgbNmdpucvdOHJspMjl95GFNbNLoQaWq8OvloNHtv4uvmbhvIRPKpwx9gFV7G%2F4RpX%2Bdu5gkx0tG1w0Hk94TGdBmcsIiSd4jrTe27dKC5SeRy27DC8iEqj6tNzfBnlo6WUoDtC5%2BG3eetPR1DkjAnOiBOe5w0HmtD50fRwYklCrOieMaXbgstM6SyCdwJds%2FbkQd%2BQYFekwRbD1g4J1HtTVgvND20iu5WcEfTLWmvpM9QJ325RVvmkYEAE4Q1kBmly%2FcI1GOuPZVAEzZbVsCNCa93tim%2BWxChwsQYZrTCyV4dzakWStJsXXxTuMsagBPSE45NJsqqKDxZtnF%2Fh%2BsDh3aEFK90ePPgBZC%2FFgjNo10H97E%2B%2FyhWw3%2BIByOa0jCVNQVnCDoA%3D%3D&nvMid=90756128396&catId=50003105"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 7600 XT PULSE",
+    "image": {
+      "file": "sapphire-rx7600xt-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11339_04_rx7600xt_pulse_16ggddr6/11339_04_rx7600xt_pulse_16gbgddr6_c01_800x500_r.ashx?v=1814cfe2b75d4461ab7f39e7ecd3b6c3"
+    }
+  },
+  {
+    "name": "라데온 RX 7600 PULSE 8GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11324-01-20G",
+    "series": "Radeon RX 7000",
+    "released_on": "2023-05-25",
+    "summary": "FHD 게이밍용 RX 7600 8GB GDDR6 그래픽카드",
+    "description": "FHD 게이밍용 RDNA 3 보급형 칩입니다. 듀얼 팬 PULSE 카드로 길이는 240mm 입니다. 550W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 7600"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2755MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "185W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "550W"
+      },
+      {
+        "label": "길이",
+        "value": "240mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 7600",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 185,
+      "length_mm": 240,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 550
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 16425,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600&id=4832"
+      }
+    ],
+    "price": {
+      "krw": 483400,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 483400,
+          "title": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB 이엠텍아이엔씨",
+          "url": "https://cr.shopping.naver.com/adcr?x=Gtc4%2BlixKt%2FyhMhAaqQbx%2F%2F%2F%2Fw%3D%3DsW2Ms49r7OutQ68WsMhWHinq96QdBSF6C4eICuG4Ox2kWbc5oW6cl9pWwUObAxR%2FHKJpaG8Yjm%2BTZH13g1n2ZzME7PtmGxQgwZWTwUozibC4dASQpKArCKN8woroKlPB%2FUmrbAsjFoMoilxZCUOxGQlKzeHBmcN9O69A5qj%2F4Pibchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAQ2JCum1b6NZdyJ%2BMXfy8AK8MRx4Qlb3ZzKpUqn5p5kdbz9GkDtlDQFaqap%2FxNdavqnpe%2FZfmScT%2B3ZofSyNtdzBMGd9GbIl5CPUWHwKcTmZe5Q6goi5k4L64WKgkEvfIIMtRULmdq2zbtEbt6rh7oyFyuYhH1QKdWJguLIInF0AP2tfKoQ0NQPyiad34AQ6K9%2FdVvwtcOUlbNrGLU3RUnqTPNuTsWoeWA8wN0Y%2FeILZFY0AqSJOZMeLCVtoa0X5yoY1rileVERZO5UdV%2BJExb5%2BXjP8l6BYGsk4SkI1BbiJ1NghREh2xDnkczKyRZzQSMZiTZAVW%2BaX0LaK9AdLHgAaEpjUGavjNdT5Xq6AmPR1c1bTrJnLPXVzB0N8bmS2nC75xwPDVjoF2sWNRKEXKfDmtD50fRwYklCrOieMaXbgvLRXEzH8xAjyn8hmsGv42BmOVxVA5P%2Bct7bpC1zSVwNECJ0bYCetnp9o7tVXsd5gORjTm5mOC8IEk2ieyw8F3okS65ZFYkf62nUDMBZs7757N0%2BKs0gSFTdhwMrBXaDkyMv6T%2B6JDCUVhT3tXbjIZa5FA0unejh0zEdERbq7ihaCqA6%2BrrPkSkQjk3bFq%2FUy&nvMid=59943506757&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 7600 PULSE 8GB",
+    "image": {
+      "file": "sapphire-rx7600-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11324_01_rx7600_pulse_8ggddr6/11324_01_rx7600_pulse_8gbgddr6_c01_800x500.ashx?v=31857520491e4c678d9292bbd095cfc7"
+    }
+  },
+  {
+    "name": "라데온 RX 6750 XT PULSE 12GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11318-03-20G",
+    "series": "Radeon RX 6000",
+    "released_on": "2022-05-10",
+    "summary": "FHD·QHD 게이밍용 RX 6750 XT 12GB GDDR6 그래픽카드",
+    "description": "12GB 메모리를 갖춘 RDNA 2 칩으로 FHD·QHD 게임에 알맞습니다. 듀얼 팬 PULSE 카드로 길이는 280mm, 보조전원은 8핀과 6핀입니다. 650W 이상 파워와 8핀 + 6핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 6750 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2618MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "250W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀 + 6핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "280mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 6750 XT",
+      "vram_gb": 12,
+      "memory_type": "GDDR6",
+      "board_power_w": 250,
+      "length_mm": 280,
+      "power_connector": "8-pin + 6-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 20701,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6750+XT&id=4543"
+      }
+    ],
+    "price": {
+      "krw": 874800,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 874760,
+          "title": "사파이어 SAP-PULSERX 6750 XTOC-12GB / 11318-03-20G [그래픽보드 PULSE 라데온 RX6750 XT GAMING OC 12GB GDDR6]",
+          "url": "https://cr.shopping.naver.com/adcr?x=Y3PKK4uYSQlhMy0SV5mcvv%2F%2F%2Fw%3D%3Ds89cfaxdi9rcvXixII49FJeueAnmZ2oG2U70bj7FGKytMNs1xqdEQuF%2FKTNLgdjTNCjJCoJMzUpiRNx3O81vtPpDhbYXG5zK6B7HDvl94CS3jGur3XmENyUMji%2BjYi9iSuIE49F378SPcCYxuunoD9zAWwFEy4RHM636OqPhQmCfZKA2YWU8hNj6icyxgOMDuIzE%2FT%2BlLwnUaX%2B9Yljx331KoX98ymP3cgM6Niii3%2BAj3QFBFbk%2FjmMbctnBIVEBtW71cAi%2F9PMadSXO%2FjtNU8aTq%2FbD2MGowZHhNOyBhpCeUgj7JhipZW7dJJfFyMQl0Gj%2Bz7gCXncW%2BjKJdwIhpTHD1yixxiaTtYnMfpvRlSqJNICDCpDZJ8k5eqMPICl%2FF%2Fypz%2FzarTu93NSAwFoxUE4%2Bw7pxf1sZ2DeQjN6ObFROX11UziviWFasWySA%2BLniFnxvA1nk6b7wTV%2F%2BGtklCZEO7bCAH0tMUJxiPm9exLC0HVG4Jq96gidCYdnbDFtceTtsoxK%2BgDayR%2F21CwFYvNRz%2F%2FROeverDXqCfDMMJBYmJ%2FcgYO%2F42efcjBHgi5iJNKZLXIvRxGTiBYlvyXSbOyhmUfLyujYnHM7CvXAHoXMGKbqkCGVr2LVt7Upzdtn7Rljnta3YlVrDs5qqfeAouJpYzkz0WAQO%2B14oouU6MAKy0W5vUoyuyIXJxTr0DksMhLrVivgRS8QDmceYWaipyNQN%2BQsjK6V0FLd%2Fybx7qcubNSE3OzZUT76KyqzckASmm&nvMid=84837383504&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 6750 XT PULSE",
+    "image": {
+      "file": "sapphire-rx6750xt-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11318_03_rx6750xt_pulse_12ggddr6/11318_03_rx6750xt_pulse_12gbgddr6_hdmi_3dp_c01_800x500.ashx?v=d63dfdfe65d04acca612925563729a09"
+    }
+  },
+  {
+    "name": "라데온 RX 6600 PULSE 8GB",
+    "brand": "SAPPHIRE",
+    "category": "gpu",
+    "model_code": "11310-01-20G",
+    "series": "Radeon RX 6000",
+    "released_on": "2021-10-13",
+    "summary": "저전력 FHD 게이밍용 RX 6600 8GB GDDR6 그래픽카드",
+    "description": "낮은 전력의 RDNA 2 보급형 칩으로 FHD 게임에 알맞습니다. 길이 193mm 의 짧은 듀얼 팬 PULSE 카드입니다. 500W 이상 파워와 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 6600"
+      },
+      {
+        "label": "메모리",
+        "value": "8GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2491MHz"
+      },
+      {
+        "label": "보드 전력",
+        "value": "140W"
+      },
+      {
+        "label": "보조전원",
+        "value": "8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "500W"
+      },
+      {
+        "label": "길이",
+        "value": "193mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 6600",
+      "vram_gb": 8,
+      "memory_type": "GDDR6",
+      "board_power_w": 140,
+      "length_mm": 193,
+      "power_connector": "8-pin",
+      "recommended_psu_w": 500
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 15030,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600&id=4465"
+      }
+    ],
+    "price": {
+      "krw": 709100,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 709100,
+          "title": "사파이어 라데온 RX 6600 펄스 게이밍 그래픽카드 8GB GDDR6 11310-01-20G",
+          "url": "https://cr.shopping.naver.com/adcr?x=cWbRJXE9FtSIR7NYSeuEEf%2F%2F%2Fw%3D%3Ds1JBiccLyXBmmjDe32LI46GFWzJttZccGtEOMWkKoo5bWlJ4tygSSOWKdJH4Wr14SWakpCquH3q9IyOqzBrTDGZs2%2BhzBZl1zkyIcTBcyeHIy23lpLy5U2CeWC9Fw8NyW2mD9WOOg0gVHJ57DTx6yQOgzGm%2BlqDsDpfbO87AKkJa7lcNxnWgwL8Q0owt3J7dmf9tprPlvE4kEDc%2FzhzDBRd9IAX6N5QV8gIGvJmOzTWfzzniTLqrdSuwLGyMmIIAncxkw%2F%2BNcx%2Br7sr99gsP3%2BEPg%2F6PYJW9LpCSumzPJoigK7CtQzZWLlur1%2FFge4%2BEpNLb%2BfIHzyK%2F3ZjSkrx9eqr8t%2Bki10XcdzI%2BB4MjXtBRXfqiCwBtPYYwEdSt6i2JAuVb3cLy2E4jQELapb6UVEJ46BkpI7%2BkzB1cUsXEVq577l06Xwoa55TksSRL8Xxm1Oitjczs%2BjzEIfDNoED4%2FOCLOQVJQIawZR7FTdVqGG2Tq0dFSGRPy%2BbLKrUNiFH7dqU2Fc7cdrU4kqxrLM23B91edTcwsalggoKWvOo9SpSjC%2FeR29%2BA5%2BwcHxCmA4wrPrX6j7dlT8kI4rNITx0zjSX8od0QrQqxY8sbv1anf7zTUgY%2FIR8L%2BlE%2Bcjq2reOo6o1cy2TCZ3IWllIg8hVV1p6roQwKLSQlqr8JPHuoXhYGW%2FTvK9vLBmSN5Irmk7w0nRY1Im2OpxC84PUjJa4%2BNEmN%2FBINhWn%2Fz0el8HJXRmn1jtEEnHZo%2B%2FVuCJHvsmHjrDVCYCaeglF2rgr1u2OQIzQ%3D%3D&nvMid=91381844817&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "사파이어 RX 6600 PULSE",
+    "image": {
+      "file": "sapphire-rx6600-pulse.webp",
+      "source_url": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11310_01_rx6600_pulse_8ggddr6/11310_01_rx6600_pulse_c01_800x500.ashx?v=2c60ec1fcf4c4d3787cefd9cc8e14558"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 Ti GAMING OC D7 16GB",
+    "brand": "GIGABYTE",
+    "category": "gpu",
+    "model_code": "GV-N507TGAMING OC-16GD",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-02-20",
+    "summary": "QHD·4K 게이밍용 RTX 5070 Ti 16GB GDDR7 그래픽카드",
+    "description": "16GB GDDR7 로 QHD·4K 게임을 넉넉하게 돌리는 RTX 50 시리즈 상위 중급 칩입니다. WINDFORCE 트리플 팬을 쓴 GAMING OC 카드로 길이 342mm, 두께 70mm 라 케이스 장착 공간을 먼저 확인해야 합니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2588MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1b x3"
+      },
+      {
+        "label": "보드 전력",
+        "value": "300W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "342mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 300,
+      "length_mm": 342,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 32333,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Ti&id=5878"
+      }
+    ],
+    "price": {
+      "krw": 1910000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1910000,
+          "title": "기가바이트 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+          "url": "https://cr.shopping.naver.com/adcr?x=8ZcqSXHCRY4NoCBhZnUl3v%2F%2F%2Fw%3D%3Dsvfo%2Fn93iBEhdzdAfSGU3tfAxNSuT%2BD9SYtId7TByrZnYhPlt8IulkiI8GGWqHq3B39LZUrGyxdpkf6zAN4RYw3mtyOPnFlebtuCBiW4TMoPDno038uyVxlrvg1g0zHPZze3RBd4DAvziKsvY4PxttVz95mfAo23gyV1MZurHU0I%2BkRO31LZb6UIxvH3Sv9QgQ%2BD%2Fo9glb0ukJK6bM8miKIj1pnJbiGEKCZyuxCFYZYZzMUGj0IJD4b2TnpzwP0InR1uDCwnlJBIDw3H1kaZ7cnMZa5N9YqAZeRI2Q6btG5LDKZ1e4w8sg%2F4GZXH9%2BPfPymjO8cCXyqy1Ioc4EC71GxgUIhX7XswwI7iJi2H5418DTEuJy9bIGYD5JmO19kpYAm6Ga7o9vkDd%2B%2FVAu0W3op9I6a4%2Bp4cUtNY4n4q3w6c%2Fa18qhDQ1A%2FKJp3fgBDor391W%2FC1w5SVs2sYtTdFSempKh%2BrJcYKulJ75Ulwvy%2FVqLzcRVswO%2FNXTrA15l4GNK6R3JeRGy9EaMZGsQvfhM%2F8qc%2F82q07vdzUgMBaMVBOPsO6cX9bGdg3kIzejmxUTl9dVM4r4lhWrFskgPi54hVk4P1BxpIymV5BQljCg1LBDu2wgB9LTFCcYj5vXsSwtcVxrYqyKP5ZsOw5fWTcixDqO3Qz5nO15cjoO0NNYz6y8l1ZHxyeF6CF9p7ms%2Bo49E7f7upOE3WRPgejp4rKT0aWdkQim1Mh0b11PZFNzlBsQ7m0ZrUAL4oxbFUOXXk0V6apsspfdR%2FCMDo0wXX0B0sLSGId%2BZ%2FOYAjRfVwLnTYoOZuFnWZnZYM%2FX7xlvdjNWxaJ4qoB3Q4%2BpqOZjxikVzxFbRoet6Ds2%2BUbR5MEJhawGruH08DlKshetxY8KUEZb&nvMid=59492869148&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "기가바이트 RTX 5070 Ti GAMING OC 16GB",
+    "image": {
+      "file": "gigabyte-rtx5070ti-gaming-oc.webp",
+      "source_url": "https://static.gigabyte.com/StaticFile/Image/Global/46cacef1ceb451ec13fc102e95f2afdd/ProductRemoveBg/44083"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 XT Reaper 16GB",
+    "brand": "PowerColor",
+    "category": "gpu",
+    "model_code": "RX9070XT 16G-A",
+    "series": "Radeon RX 9000",
+    "released_on": "2025-03-06",
+    "summary": "QHD·4K 게이밍용 RX 9070 XT 16GB GDDR6 그래픽카드",
+    "description": "RDNA 4 기반 16GB 칩으로 QHD·4K 게임과 FSR 4 를 지원합니다. 2슬롯 두께에 길이 289mm 인 작은 트리플 팬 Reaper 카드라 작은 케이스에도 넣기 쉽습니다. 750W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 XT"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2970MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1a x3"
+      },
+      {
+        "label": "보드 전력",
+        "value": "304W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "289mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 XT",
+      "vram_gb": 16,
+      "memory_type": "GDDR6",
+      "board_power_w": 304,
+      "length_mm": 289,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 26928,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+XT&id=5956"
+      }
+    ],
+    "price": {
+      "krw": 1299000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 1299000,
+          "title": "파워칼라 라데온 RX 9070 XT Reaper D6 16GB 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=twgAwoQ7ZpV9QJ%2BY8uAT3P%2F%2F%2Fw%3D%3DscwxDoiG2qva2JhtjCC4oJ7chjz1oxLjfKG8edPWOOoO1gP9taPwcZXuUKboZTcVoJuVXPXLLbo%2FhJvzDjJcnEQfzjpSkLaOiWP4RqgK3CjacELOsD6MvmXCXtEgutgvJr66gLKnbk35qmVc%2BxdSrmG0TXEPi4%2FquQ5Hd263%2FgnDchmkq%2FtHUbt%2B1uzDCAeDRZPSKOomaAHxAUH7G5IQTAQeC8EPrelVOh0ijGE49MR3f5kR178hXYF4w3irANDYqE04RWzXpr5tUWOAzYdhwD0aymrgz6CB%2FfqUM9dek7zdLgebRKNvJscd6PtHzn4c7eogGK54PK143W5WnUfZaP3IGkllvS%2B7BmSPOC3FvvB5Z0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7m%2F1h2BNvXNnwZA90M08Ngd6bLCgRk72DBc8GqBQZWokPZCKbS5IZXjkbKBm9wVCukNJh2T%2FLdJdvDS27%2Br5v3FkK28yZk4S%2FsvQtTA%2FMRok3qhHPX3hEbnYVIqwEBJSrudA66z5QCiFNRL%2FlAZ3LDi7nBj1%2FpFzna1n6e1K%2FoTUIgkLGAzMmgOg2Xv7sz9MuOReMUluAdYYRlgzl3ODX%2BVu4vOYR%2FPyo4SFGNScgN58xt4XB7sBRZEKuwuMbdqlGeSnRG2JJzz0iX45owi4%2ByjgO2lNb02AWb8%2B4cZAxl6B1qxvvoF37hvMtRSEp9ji5rJTL3ruaVJreZl%2BplMuLoOq2k%2BBBQEGhvEplrOhVpAiGlqRZKI%2Bu9rv5hzHTMbBmitf74HdtrPsVHFjPsf1zJjRB0CIl3BeKsFF2drF%2B%2BsFv&nvMid=59573536703&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "파워칼라 RX 9070 XT Reaper",
+    "image": {
+      "file": "powercolor-rx9070xt-reaper.webp",
+      "source_url": "https://www.powercolor.com/Upload/202501/product_2025011413405805.webp"
+    }
+  },
+  {
+    "name": "라데온 RX 9070 GRE Reaper 12GB",
+    "brand": "PowerColor",
+    "category": "gpu",
+    "model_code": "RX9070GRE 12G-A",
+    "series": "Radeon RX 9000",
+    "released_on": "2026-06-02",
+    "summary": "QHD 입문용 RX 9070 GRE 12GB GDDR6 그래픽카드",
+    "description": "12GB GDDR6 를 갖춘 RDNA 4 칩으로 RX 9060 XT 와 RX 9070 사이를 채우는 QHD 입문형입니다. 기본 클럭으로 동작하는 2슬롯 두께, 길이 289mm 의 작은 트리플 팬 Reaper 카드입니다. 650W 이상 파워와 2x 8핀 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "Radeon RX 9070 GRE"
+      },
+      {
+        "label": "메모리",
+        "value": "12GB GDDR6"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2790MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1a x3"
+      },
+      {
+        "label": "보드 전력",
+        "value": "220W"
+      },
+      {
+        "label": "보조전원",
+        "value": "2x 8핀"
+      },
+      {
+        "label": "권장 파워",
+        "value": "650W"
+      },
+      {
+        "label": "길이",
+        "value": "289mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "AMD",
+      "gpu_chip": "RX 9070 GRE",
+      "vram_gb": 12,
+      "memory_type": "GDDR6",
+      "board_power_w": 220,
+      "length_mm": 289,
+      "power_connector": "2x 8-pin",
+      "recommended_psu_w": 650
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 23330,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+9070+GRE&id=6421"
+      }
+    ],
+    "price": {
+      "krw": 942500,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 942510,
+          "title": "파워칼라 라데온 RX 9070 GRE Reaper D6 12GB 대원씨티에스",
+          "url": "https://cr.shopping.naver.com/adcr?x=qNS12%2BfZM989H9meneYA2v%2F%2F%2Fw%3D%3DsvsG1hkwC4hE7adGl95FMp3kYXh9%2Fao%2BcE%2Bd8JhdVuKrUhqgZ0GmTnPg2ws3fkyOQtemWax9gWJK8SZHmpi4Mfc3KETxIkoBrqg2KOtXmScDrhSsWkhFZs5%2F%2Bn2ZKxLcsZ6MeLb9WCBcKuD%2BY3UnS6ncPJ%2BTVMDikCPbgPPfL%2FVraH%2Bo1uYx3c%2F20TmNqYJspC4gHydx16Fpi8tNWatsmUZb0c2LqeM2eLU9afXc%2BCyDC4LkGk7%2Brm4ueFvbmYnlosy%2BCG1kVrETM88e%2BnrpBApxqU7R%2B7aS1QwW9c6%2FMoRzcBu4YGw356KD081Cvswb%2FeogGK54PK143W5WnUfZaP3IGkllvS%2B7BmSPOC3FvvB5Z0%2F5y1HIIsMUahwzXkDVhB7P9jx5KZr1oy9qstZx7mzMQcIK7OPP2BcVc8e9LKpHEnEE%2BfDIZl3v2kfRBIC0e9UEMwi63jafLIzwwY0rYsWwVN%2FB%2FmAzO6HOapxjzDifNBg8hnu19TH76J8WvrwvCJ8slCZoxuEQhYy48NczRrYM04BcBekjJwgWti%2B8L0I77wmxvdL%2FNkuwkZThcS%2F8g7r7O47qsKrbP4eY%2BFrNeZv5pye9mPhPmcdcGtrCwm588SJBiBD0I6ljcb2%2BMJSiKMAs1KJdc0m%2FVPLIIC%2BULRK4B6Fb0H2%2B4KxyeDicnaxFbxR%2B6uGb5%2FUwP7ed5ResHohNzyFRAfH9CvO9rpuPljMLSGId%2BZ%2FOYAjRfVwLnTYrYAoLvEx%2BiBEyPSEfiSCl3zlYY84DLutPBd6HfiWuY0uQFflV4w6X6AF16j7KFbzIGruH08DlKshetxY8KUEZb&nvMid=62176055962&catId=50003103"
+        }
+      ]
+    },
+    "search_query": "파워칼라 RX 9070 GRE Reaper",
+    "image": {
+      "file": "powercolor-rx9070gre-reaper.webp",
+      "source_url": "https://www.powercolor.com/Upload/202605/1780019426_cefaa54a61279c73.webp"
+    }
+  },
+  {
+    "name": "지포스 RTX 5070 Ti GAMING TRIO OC D7 16GB",
+    "brand": "MSI",
+    "category": "gpu",
+    "model_code": "G507T-16GTC",
+    "series": "GeForce RTX 50",
+    "released_on": "2025-02-20",
+    "summary": "QHD·4K 게이밍용 RTX 5070 Ti 16GB GDDR7 그래픽카드",
+    "description": "16GB GDDR7 로 QHD·4K 게임을 넉넉하게 돌리는 RTX 50 시리즈 상위 중급 칩입니다. 트라이프로져 4 트리플 팬 쿨러를 쓴 GAMING TRIO OC 카드로 길이 338mm, 두께 50mm 라 케이스 장착 공간을 먼저 확인해야 합니다. 750W 이상 파워와 16핀(12V-2x6) 보조전원을 권장합니다.",
+    "specs": [
+      {
+        "label": "GPU",
+        "value": "GeForce RTX 5070 Ti"
+      },
+      {
+        "label": "메모리",
+        "value": "16GB GDDR7"
+      },
+      {
+        "label": "부스트 클럭",
+        "value": "2572MHz"
+      },
+      {
+        "label": "출력",
+        "value": "HDMI 2.1b x1, DP 2.1b x3"
+      },
+      {
+        "label": "보드 전력",
+        "value": "300W"
+      },
+      {
+        "label": "보조전원",
+        "value": "16핀(12V-2x6)"
+      },
+      {
+        "label": "권장 파워",
+        "value": "750W"
+      },
+      {
+        "label": "길이",
+        "value": "338mm"
+      }
+    ],
+    "attributes": {
+      "chip_maker": "NVIDIA",
+      "gpu_chip": "RTX 5070 Ti",
+      "vram_gb": 16,
+      "memory_type": "GDDR7",
+      "board_power_w": 300,
+      "length_mm": 338,
+      "power_connector": "16-pin",
+      "recommended_psu_w": 750
+    },
+    "benchmarks": [
+      {
+        "name": "passmark_g3d_mark",
+        "score": 32333,
+        "source_url": "https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070+Ti&id=5878"
+      }
+    ],
+    "price": {
+      "krw": 2099000,
+      "collected_at": "2026-11-01",
+      "sources": [
+        {
+          "site": "naver",
+          "krw": 2099000,
+          "title": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4 MSI코리아, 블랙",
+          "url": "https://cr.shopping.naver.com/adcr?x=pMo%2BCntUtbrIGk54ZlAwk%2F%2F%2F%2Fw%3D%3DsJb2uyYsx0biafhJC%2BeyVWbA%2B3empOrtW0Y7s0ic0rGpsBTZCBNz1arIeGv5Qn66fzwfYNxuiHSynHACzXRg5LWgUFUw6mWYE5XI%2BqLTQI6A59j6q2N%2BKZ%2B5Q%2FuvsmS2efnMnS39MJR0FZN4raNohdgUZh4Yqfyck2Y8eUTgw%2B0pJbNTPcbnF8ZDz7e0E5kkRa%2BpHa6ewb0%2FDpcGez9%2B2MvdU%2Bshx4JW8ox7V31YfA%2FdYvDCY7SqPmid2QM3Vl6h%2B1o9cwjVeduavdf%2B7ObM9Tdr4Bgu27SSWPxM0J%2BZRH0JynlYzOfa7UKdfBQQGMJko6UFyHeASnCC0%2BaZ5DQeMCgqtBvxBX5GZGbRpX0LegdFeXAU%2Bkzp7%2FDNYZSrSvVOu%2Bv6zeZUlJpSS%2FpYOSonLXTMqzXzyEHbS2Xhz9b82wSiKx7G3krbJiQXzryuwwOqJEdZ0ZzieWAEiruiqo6oA5r2RPjlMtY3P98vNwAEEUgfCAcMbjjgPp5rQo1j5jPnTxBQt3UVY7Mr1ACV1UinROOhqBzyI9dnEAbLmqqy2b9HOiQWVy%2BAoyqHGOIm6ToY5azF5to35K86jLSnksgvRuZeOeZ8CH3VZ5g3JE3i8hSz93zWx6gEWcB5lp4ZNd8nm3fU20eYzaKcd9gO3AuhTMdYk4acQnLbqob7dsSoz9e3M%2FevzIPjkbwmQOjKkze1fI7roGjLmN2kVoaxl%2FbpHCSdmC1YDu8jcl436Vu25Fw0ODyg0yuFLRkr%2Ff6pMiZz%2BA7e%2FICwzFOGbCM9ljeKaM8XIlu6F6S44WWgtzAe73eWvusOuAw0sY4LYqnjH9ZQQT%2BDzDxwp7nT02YxkVA94lEZ0ZvuBE4%2BhLZWkgE7ov7w8SfOIWhD7IEYF2pdb7wYbATQoBoZyaGMgPFeI9gEXDQ1QmAmnoJRdq4K9btjkCM0%3D&nvMid=59588540706&catId=50003104"
+        }
+      ]
+    },
+    "search_query": "MSI RTX 5070 Ti 게이밍 트리오 OC",
+    "image": {
+      "file": "msi-rtx5070ti-gaming-trio-oc.webp",
+      "source_url": "https://storage-asset.msi.com/global/picture/product/product_1738567494b5a1a4c58600a87f33be548bb80e081d.webp"
+    }
+  }
+]

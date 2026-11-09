@@ -1,0 +1,279 @@
+/* 커뮤니티(커뮤니티 홈·질문·자유·견적 게시판) 화면이 같이 쓰는 클래스. 접두사 cm-. 색은 style.css 의 :root 토큰만 쓴다.
+   모양은 디자인 시안(MOA Parts "COMMUNITY")을 따른다: 카드(면 surface, 선 line, 모서리 16px), 알약, 주황 강조 버튼.
+   왼쪽 게시판 메뉴는 components/CommunityShell.vue. 본문 칸이 컨테이너(cm-main)라서 목록·폼 모양은 화면 폭이 아니라 본문 폭(@container)으로 바꾼다.
+   질문 게시판에만 있는 모양(답변 수·관련 부품·채택·첨부 이미지·업로드)은 questions.css(q-). */
+.cm-page { display: flex; flex-direction: column; gap: 20px; min-width: 0; }
+.cm-page > * { margin-top: 0; margin-bottom: 0; }
+.cm-page :is(a, button, input, select, textarea):focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+
+/* 버튼·링크 */
+.cm-button { display: inline-flex; flex-shrink: 0; align-items: center; justify-content: center; gap: 7px; min-height: 40px; padding: 0 16px; border: 1px solid var(--brand); border-radius: var(--radius-sm); background: var(--brand); color: var(--brand-ink); font-size: var(--text-sm); font-weight: 800; line-height: 1.4; text-decoration: none; white-space: nowrap; cursor: pointer; transition: background-color .18s ease, border-color .18s ease, color .18s ease; }
+.cm-button:hover:not(:disabled) { border-color: var(--brand-strong); background: var(--brand-strong); }
+.cm-button svg { width: 16px; height: 16px; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.cm-button--secondary { border-color: var(--line); background: transparent; color: var(--ink); font-weight: 600; }
+.cm-button--secondary:hover:not(:disabled) { border-color: var(--brand); background: transparent; color: var(--brand-strong); }
+.cm-button--danger { border-color: color-mix(in srgb, var(--danger) 45%, transparent); background: transparent; color: var(--danger); font-weight: 600; }
+.cm-button--danger:hover:not(:disabled) { border-color: var(--danger); background: var(--danger-soft); }
+.cm-button--compact { min-height: 36px; padding: 0 12px; font-size: var(--text-sm); }
+.cm-button:disabled { opacity: .55; cursor: not-allowed; }
+.cm-text-link { color: var(--brand-strong); font-size: var(--text-sm); font-weight: 650; text-underline-offset: 4px; }
+.cm-back { display: inline-flex; align-self: flex-start; align-items: center; gap: 4px; min-height: 32px; color: var(--muted); font-size: var(--text-sm); text-decoration: none; }
+.cm-back svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.cm-back:hover { color: var(--ink); }
+
+/* 알약(답변 N · 견적 N개 · 견적 대기): 받은 것이 있으면 주황, 없으면 테두리만. 글자가 상태를 말하므로 색만으로 구분하지 않는다 */
+.cm-pill { display: inline-flex; flex: none; align-items: center; padding: 3px 9px; border: 1px solid var(--line); border-radius: 999px; background: transparent; color: var(--muted); font-size: var(--text-xs); font-weight: 700; line-height: 1.4; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cm-pill--on { border-color: var(--brand-line); background: var(--brand-soft); color: var(--brand-strong); }
+.cm-kicker { color: var(--brand-strong); font-size: var(--text-xs); font-weight: 700; }
+.cm-avatar { display: inline-flex; flex: none; align-items: center; justify-content: center; width: 30px; height: 30px; border-radius: 50%; background: var(--surface-3); color: var(--ink); font-size: var(--text-sm); font-weight: 800; }
+
+/* 상태(로딩·오류·없음·빈 목록) */
+.cm-state { display: grid; justify-items: center; gap: 12px; padding: 48px 18px; color: var(--muted); font-size: var(--text-body); line-height: 1.8; text-align: center; word-break: keep-all; overflow-wrap: anywhere; }
+.cm-state h1, .cm-state h2 { margin: 0; color: var(--ink); font-size: 18px; letter-spacing: -.02em; }
+.cm-state p { margin: 0; }
+.cm-state--compact { gap: 10px; padding: 28px 18px; font-size: var(--text-sm); }
+.cm-state__actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px; }
+.cm-error { margin: 0; color: var(--danger); font-size: var(--text-sm); line-height: 1.7; overflow-wrap: anywhere; }
+.cm-notice { margin: 0; padding: 10px 14px; border: 1px solid color-mix(in srgb, var(--success) 40%, transparent); border-radius: var(--radius-sm); background: var(--success-soft); color: var(--success); font-size: var(--text-sm); }
+.cm-empty { margin: 0; padding: 28px; border: 1px dashed var(--line); border-radius: var(--radius-md); background: var(--surface); color: var(--muted); font-size: var(--text-body); line-height: 1.7; text-align: center; word-break: keep-all; }
+
+/* 게시판 머리: 이름(h1)·한 줄 설명·글쓰기 버튼 */
+.cm-board-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px; }
+.cm-board-head h1 { margin: 0; color: var(--ink); font-size: 26px; font-weight: 800; line-height: 1.3; letter-spacing: -.02em; }
+.cm-board-head p { margin: 6px 0 0; color: var(--muted); font-size: var(--text-body); line-height: 1.6; word-break: keep-all; }
+.cm-board-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; min-height: 36px; margin-bottom: -8px; }
+.cm-board-total { margin: 0; color: var(--muted); font-size: var(--text-sm); }
+.cm-board-total strong { color: var(--brand-strong); font-weight: 750; font-variant-numeric: tabular-nums; }
+
+/* 커뮤니티 홈: 주황 배너 + 게시판 미리보기 카드 */
+.cm-banner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; padding: 18px 20px; border: 1px solid var(--brand-line); border-radius: var(--radius-md); background: linear-gradient(135deg, color-mix(in srgb, var(--brand) 16%, transparent), color-mix(in srgb, var(--brand) 4%, transparent)); }
+.cm-banner__title { margin: 0; color: var(--ink); font-size: 15px; font-weight: 800; }
+.cm-banner__text { margin: 3px 0 0; color: var(--ink); font-size: var(--text-sm); line-height: 1.6; opacity: .82; word-break: keep-all; }
+.cm-home { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.cm-preview { display: flex; flex-direction: column; min-width: 0; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-preview--wide { grid-column: 1 / -1; }
+.cm-preview__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 18px; border-bottom: 1px solid var(--line); }
+.cm-preview__head h2 { margin: 0; color: var(--ink); font-size: 16px; font-weight: 800; }
+.cm-preview__more { display: inline-flex; align-items: center; gap: 4px; min-height: 32px; color: var(--muted); font-size: var(--text-sm); text-decoration: none; }
+.cm-preview__more:hover { color: var(--ink); }
+.cm-preview__body { flex: 1; }
+.cm-preview__list { margin: 0; padding: 0; list-style: none; }
+.cm-preview__list > li { border-bottom: 1px solid var(--line); }
+.cm-preview__list > li:last-child { border-bottom: 0; }
+.cm-preview__row { display: flex; align-items: center; gap: 10px; min-width: 0; min-height: 48px; padding: 12px 18px; color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.cm-preview__row:hover { background: var(--surface-2); }
+.cm-preview__row--build { flex-wrap: wrap; gap: 6px 12px; }
+.cm-preview__title { flex: 1 1 auto; min-width: 0; overflow: hidden; color: inherit; font-size: var(--text-body); text-overflow: ellipsis; white-space: nowrap; }
+.cm-preview__row--quiet .cm-preview__title { color: color-mix(in srgb, var(--ink) 80%, var(--muted)); }
+.cm-preview__title--strong { flex-basis: 200px; font-weight: 600; }
+.cm-preview__count { flex: none; color: var(--brand-strong); font-size: var(--text-xs); font-weight: 700; font-variant-numeric: tabular-nums; }
+.cm-preview__author, .cm-preview__purpose { flex: none; max-width: 120px; overflow: hidden; color: var(--muted); font-size: var(--text-xs); text-overflow: ellipsis; white-space: nowrap; }
+.cm-preview__budget { flex: none; color: var(--ink); font-size: var(--text-body); font-weight: 800; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cm-preview__date { flex: none; color: var(--muted); font-size: var(--text-xs); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 용도 필터 칩(견적 게시판) */
+.cm-filter { display: flex; flex-wrap: wrap; gap: 6px; }
+.cm-filter__chip { min-height: 36px; padding: 0 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink); font-size: var(--text-sm); font-weight: 700; white-space: nowrap; cursor: pointer; transition: border-color .18s ease, background-color .18s ease, color .18s ease; }
+.cm-filter__chip:hover { border-color: var(--brand); }
+.cm-filter__chip[aria-pressed="true"] { border-color: var(--brand); background: var(--brand); color: var(--brand-ink); }
+
+/* 목록 카드: 줄마다 링크 하나 */
+.cm-board { overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-board__list { margin: 0; padding: 0; list-style: none; }
+.cm-board__list > li { border-bottom: 1px solid var(--line); }
+.cm-board__list > li:last-child { border-bottom: 0; }
+
+/* 자유 게시판 줄: 제목 [댓글] | 글쓴이 | 날짜. 제목 칸은 내용만큼, 남는 폭은 빈 칸(.)이 가져가 [댓글] 이 제목 바로 뒤에 붙는다 */
+.cm-board-row { display: grid; grid-template-columns: minmax(0, max-content) auto minmax(0, 1fr) auto auto; grid-template-areas: "title count . author date"; column-gap: 12px; align-items: center; min-height: 52px; padding: 14px 18px; color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.cm-board-row:hover, .cm-build-row:hover { background: var(--surface-2); }
+.cm-board-row__title { grid-area: title; min-width: 0; margin: 0; overflow: hidden; color: inherit; font-size: var(--text-body); font-weight: 600; line-height: 1.5; text-overflow: ellipsis; white-space: nowrap; }
+.cm-board-row__count { grid-area: count; margin-left: -8px; color: var(--brand-strong); font-size: var(--text-body); font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cm-board-row__meta { display: contents; }
+.cm-board-row .cm-board-row__author { grid-area: author; max-width: 140px; overflow: hidden; color: var(--muted); font-size: var(--text-xs); text-overflow: ellipsis; white-space: nowrap; }
+.cm-board-row__date { grid-area: date; color: var(--muted); font-size: var(--text-xs); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 견적 게시판 줄: 상태 | 제목과 "글쓴이 · 선호" | 용도 | 예산 | 날짜 */
+.cm-build-row { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto auto; grid-template-areas: "status subject purpose budget date"; column-gap: 12px; align-items: center; min-height: 60px; padding: 14px 18px; color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.cm-build-row__status { grid-area: status; padding: 4px 10px; }
+.cm-build-row__subject { grid-area: subject; min-width: 0; }
+.cm-build-row__subject .cm-board-row__title { display: block; }
+.cm-build-row__sub { margin: 2px 0 0; overflow: hidden; color: var(--muted); font-size: var(--text-xs); text-overflow: ellipsis; white-space: nowrap; }
+.cm-build-row__purpose { grid-area: purpose; color: var(--muted); font-size: var(--text-xs); white-space: nowrap; }
+.cm-build-row__budget { grid-area: budget; color: var(--ink); font-size: 15px; font-weight: 800; text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 번호 쪽 이동 + 검색(목록 아래) */
+.cm-pager { display: flex; align-items: center; justify-content: center; gap: 4px; }
+.cm-pager__button { display: inline-flex; align-items: center; justify-content: center; gap: 4px; min-width: 40px; min-height: 40px; padding: 0 8px; border: 1px solid transparent; border-radius: var(--radius-sm); background: transparent; color: var(--muted); font-size: var(--text-sm); font-weight: 600; font-variant-numeric: tabular-nums; cursor: pointer; transition: background-color .18s ease, color .18s ease; }
+.cm-pager__button:hover:not(:disabled) { background: var(--surface-2); color: var(--ink); }
+.cm-pager__button[aria-current="page"] { border-color: var(--brand); background: var(--brand); color: var(--brand-ink); font-weight: 800; }
+.cm-pager__button:disabled { opacity: .4; cursor: default; }
+.cm-pager__step { padding: 0 12px; color: var(--ink); }
+.cm-pager__gap { display: inline-flex; align-items: center; justify-content: center; min-width: 24px; color: var(--muted); font-size: var(--text-sm); }
+.cm-board-search { display: flex; gap: 8px; width: min(100%, 440px); margin: 0 auto; }
+.cm-board-search input { flex: 1; min-width: 0; height: 40px; padding: 0 14px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--ink); font-size: var(--text-sm); }
+.cm-board-search input:focus { border-color: var(--brand); outline: none; }
+
+/* 글 상세(질문·자유·견적 요청): 카드 안에 게시판 이름·알약, 제목, 글쓴이 줄, 본문, 목록·수정·삭제 */
+.cm-post { display: flex; flex-direction: column; gap: 14px; min-width: 0; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-post__head { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.cm-post__kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0; }
+.cm-post__title { margin: 0; color: var(--ink); font-size: 24px; font-weight: 800; line-height: 1.3; letter-spacing: -.02em; overflow-wrap: anywhere; }
+.cm-post__byline { display: flex; flex-wrap: wrap; align-items: center; margin: 0; color: var(--muted); font-size: var(--text-sm); }
+.cm-post__byline > * + *::before, .cm-post__meta > * + *::before { margin: 0 6px; content: '·'; }
+.cm-post__meta { display: flex; flex-wrap: wrap; align-items: center; color: var(--muted); font-size: var(--text-sm); }
+.cm-post__author { color: var(--ink); font-weight: 700; overflow-wrap: anywhere; }
+.cm-post__count { color: var(--ink); }
+.cm-post__body { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.65; white-space: pre-wrap; overflow-wrap: anywhere; }
+.cm-post__actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; padding-top: 14px; border-top: 1px solid var(--line); }
+.cm-post__owner { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; min-width: 0; }
+.cm-post__owner--confirm { flex: 1 1 100%; }
+.cm-owner-confirm { flex: 1 1 100%; min-width: 0; }
+
+/* 견적 요청 카드: 예산·용도·모니터·선호 4칸 + 요청 내용 */
+.cm-request__facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin: 0; }
+.cm-request__fact { min-width: 0; padding: 14px; border-radius: 12px; background: var(--bg); }
+.cm-request__fact dt { margin: 0; color: var(--muted); font-size: 11px; }
+.cm-request__fact dd { margin: 6px 0 0; color: var(--ink); font-size: 16px; font-weight: 700; overflow-wrap: anywhere; }
+.cm-request__fact--budget dd { margin-top: 4px; color: var(--brand-strong); font-size: 22px; font-weight: 800; letter-spacing: -.01em; font-variant-numeric: tabular-nums; }
+.cm-request__fact--prefs dd { font-size: var(--text-body); line-height: 1.4; }
+.cm-request__subtitle { margin: 0 0 -8px; color: var(--muted); font-size: var(--text-xs); font-weight: 400; }
+
+/* 섹션 머리(받은 견적·댓글·답변) */
+.cm-section-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 10px; }
+.cm-section-title { margin: 0; color: var(--ink); font-size: 18px; font-weight: 800; }
+.cm-section-title span { color: var(--brand-strong); font-variant-numeric: tabular-nums; }
+.cm-section-help { margin: 0; color: var(--muted); font-size: var(--text-xs); line-height: 1.7; }
+
+/* 받은 견적 카드: 머리(아바타·글쓴이·예산 배지) → 합계·예산 사용 → 호환성 → 부품 줄 → 설명 → 담기·비교 */
+.cm-quotes, .cm-comments { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.cm-quote-list { display: grid; gap: 14px; margin: 0; padding: 0; list-style: none; }
+.cm-quote { display: flex; flex-direction: column; min-width: 0; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-quote__head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding: 18px 20px 0; }
+.cm-quote__head .cm-gap { margin-left: auto; }
+.cm-quote__summary { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; padding: 14px 20px 0; }
+.cm-quote__total { display: flex; flex-direction: column; margin: 0; color: var(--muted); font-size: 11px; }
+.cm-quote__total strong { color: var(--ink); font-size: 26px; font-weight: 800; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.cm-usage { flex: 1 1 200px; min-width: 0; }
+.cm-usage__labels { display: flex; justify-content: space-between; gap: 8px; margin: 0 0 6px; color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.cm-usage__track { height: 8px; overflow: hidden; border-radius: 4px; background: var(--bg); }
+.cm-usage__bar { display: block; height: 100%; border-radius: 4px; background: var(--success); }
+.cm-usage__bar--over { background: var(--danger); }
+.cm-quote__compat { padding: 14px 20px 18px; border-bottom: 1px solid var(--line); }
+.cm-quote__summary + .cm-quote__parts { margin-top: 14px; border-top: 1px solid var(--line); }
+.cm-quote__body { margin: 0; padding: 16px 20px 0; color: var(--ink); font-size: var(--text-body); line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; }
+.cm-quote__edit { padding: 16px 20px 20px; }
+.cm-quote__cart { display: flex; flex-direction: column; gap: 10px; padding: 14px 20px; }
+.cm-quote__buttons { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.cm-quote__buttons .cm-button { min-height: 42px; }
+.cm-quote__cart-guest { margin: 0; color: var(--muted); font-size: var(--text-sm); line-height: 1.7; }
+.cm-quote__cart-guest .cm-text-link { margin-left: 4px; }
+.cm-quote__cart-result { margin: 0; padding: 10px 14px; border: 1px solid color-mix(in srgb, var(--success) 40%, transparent); border-radius: var(--radius-sm); background: var(--success-soft); color: var(--success); font-size: var(--text-sm); line-height: 1.7; overflow-wrap: anywhere; }
+.cm-quote__cart-result .cm-text-link { margin-left: 6px; white-space: nowrap; }
+.cm-quote__cart-error { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 14px; border: 1px solid color-mix(in srgb, var(--danger) 45%, transparent); border-radius: var(--radius-sm); background: var(--danger-soft); color: var(--danger); font-size: var(--text-sm); }
+.cm-quote__cart-error p { flex: 1 1 200px; min-width: 0; margin: 0; line-height: 1.7; overflow-wrap: anywhere; }
+.cm-quote__owner { display: grid; gap: 8px; padding: 0 20px 18px; }
+.cm-quote > :last-child:not(.cm-quote__owner, .cm-quote__cart, .cm-quote__edit) { padding-bottom: 18px; }
+.cm-gap { display: inline-flex; align-items: center; padding: 4px 10px; border-radius: 999px; font-size: var(--text-xs); font-weight: 800; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cm-gap--under { background: var(--success-soft); color: var(--success); }
+.cm-gap--exact { background: var(--brand-soft); color: var(--brand-strong); }
+.cm-gap--over { background: var(--danger-soft); color: var(--danger); }
+
+/* 댓글 카드(견적 게시판·자유 게시판) */
+.cm-comment-list { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; }
+.cm-comment { display: flex; flex-direction: column; gap: 8px; min-width: 0; padding: 16px 20px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-comment__head { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; color: var(--muted); font-size: var(--text-xs); }
+.cm-comment__author { color: var(--ink); font-size: var(--text-body); font-weight: 700; overflow-wrap: anywhere; }
+.cm-comment__body { color: var(--ink); font-size: var(--text-body); line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; }
+.cm-comment__actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
+
+/* 쓰기 상자(견적 보내기 · 댓글) */
+.cm-send { display: flex; flex-direction: column; gap: 10px; min-width: 0; padding: 18px 20px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-send .cm-section-title { font-size: var(--text-body); }
+.cm-send--plain { gap: 0; }
+.cm-comment-form { display: grid; gap: 10px; min-width: 0; }
+.cm-comment-form fieldset { display: grid; gap: 12px; min-width: 0; margin: 0; padding: 0; border: none; }
+.cm-comment-form__label { display: block; color: var(--ink); font-size: var(--text-sm); font-weight: 700; }
+.cm-comment-form__label span { margin-left: 6px; color: var(--muted); font-size: var(--text-xs); font-weight: 400; }
+.cm-comment-form textarea { display: block; width: 100%; min-height: 96px; margin-top: 8px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--ink); font-size: var(--text-body); line-height: 1.5; resize: vertical; }
+.cm-comment-form textarea:focus { border-color: var(--brand); outline: none; }
+.cm-comment-form--inline textarea { margin-top: 0; }
+.cm-comment-form__foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; }
+.cm-comment-form__buttons { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-left: auto; }
+.cm-login-box { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; padding: 14px 16px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--muted); font-size: var(--text-sm); }
+.cm-login-box p { margin: 0; }
+
+/* 글쓰기·수정 폼: 이름(label)이 입력 위에 있는 카드 */
+.cm-editor { display: flex; flex-direction: column; gap: 18px; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface); }
+.cm-editor fieldset { display: flex; flex-direction: column; gap: 22px; min-width: 0; margin: 0; padding: 0; border: none; }
+.cm-field { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.cm-field__label { margin: 0; color: var(--ink); font-size: var(--text-sm); font-weight: 700; }
+.cm-field__label span { margin-left: 4px; color: var(--muted); font-weight: 500; }
+.cm-field__control { display: grid; gap: 8px; min-width: 0; }
+.cm-field__control > :is(input, textarea, select), .cm-budget input { display: block; width: 100%; min-height: 44px; padding: 0 14px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: var(--bg); color: var(--ink); font-size: var(--text-body); }
+.cm-field__control > select { padding: 0 10px; }
+.cm-field__control > textarea { min-height: 160px; padding: 12px 14px; line-height: 1.5; resize: vertical; }
+.cm-field__control > :is(input, textarea, select):focus, .cm-budget input:focus { border-color: var(--brand); outline: none; }
+.cm-field-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.cm-field-grid--single { grid-template-columns: minmax(0, 1fr); }
+.cm-range { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
+.cm-range__input { flex: 1 1 240px; min-width: 0; height: 32px; margin: 0; accent-color: var(--brand); cursor: pointer; }
+.cm-range__value { min-width: 110px; margin: 0; color: var(--brand-strong); font-size: 24px; font-weight: 800; text-align: right; font-variant-numeric: tabular-nums; }
+.cm-range__scale { display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; }
+.cm-budget-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; }
+.cm-budget { display: flex; align-items: center; gap: 8px; width: 170px; }
+.cm-budget input { flex: 1; min-width: 0; font-weight: 700; font-variant-numeric: tabular-nums; }
+.cm-budget > span { color: var(--muted); font-size: var(--text-sm); white-space: nowrap; }
+.cm-presets { display: flex; flex-wrap: wrap; gap: 6px; }
+.cm-preset { min-height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--ink); font-size: var(--text-xs); font-weight: 700; cursor: pointer; transition: border-color .18s ease, background-color .18s ease; }
+.cm-preset:hover:not(:disabled) { border-color: var(--brand); }
+.cm-preset[aria-pressed="true"] { border-color: var(--brand-line); background: var(--brand-soft); color: var(--brand-strong); }
+/* 용도(라디오)·선호(체크박스) 칩: 입력은 칩 안에 두고 보이지 않게 한다(키보드·스크린리더는 그대로) */
+.cm-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.cm-chip { position: relative; display: inline-flex; align-items: center; min-height: 38px; padding: 0 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--ink); font-size: var(--text-sm); font-weight: 700; cursor: pointer; transition: border-color .18s ease, background-color .18s ease, color .18s ease; }
+.cm-chip:hover { border-color: var(--brand); }
+.cm-chip__input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.cm-chip:has(.cm-chip__input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 2px; }
+.cm-chip--solid { border-color: var(--brand); background: var(--brand); color: var(--brand-ink); }
+.cm-chip--on { border-color: var(--brand-line); background: var(--brand-soft); color: var(--brand-strong); }
+.cm-chip--on::before { margin-right: 6px; content: '✓'; }
+.cm-count { margin: 0; color: var(--muted); font-size: var(--text-xs); text-align: right; font-variant-numeric: tabular-nums; }
+.cm-help { margin: 0; color: var(--muted); font-size: var(--text-xs); line-height: 1.7; }
+.cm-form-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 12px; padding-top: 18px; border-top: 1px solid var(--line); }
+.cm-form-actions__note { flex: 1 1 260px; margin: 0; color: var(--muted); font-size: var(--text-xs); line-height: 1.6; }
+.cm-form-actions__buttons { display: flex; gap: 8px; margin-left: auto; }
+.cm-form-actions .cm-button { min-height: 44px; }
+
+/* 본문 칸이 좁을 때(태블릿·모바일) */
+@container cm-main (max-width: 620px) {
+  .cm-board-head h1 { font-size: 22px; }
+  .cm-board-row { grid-template-columns: minmax(0, max-content) auto minmax(0, 1fr); grid-template-areas: "title count ." "meta meta meta"; row-gap: 4px; padding: 13px 16px; }
+  .cm-board-row__meta { grid-area: meta; display: flex; flex-wrap: wrap; align-items: center; min-width: 0; }
+  .cm-board-row__meta > * + *::before { margin: 0 6px; content: '·'; }
+  .cm-build-row { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "status purpose budget" "subject subject subject" "date date date"; row-gap: 8px; padding: 14px 16px; }
+  .cm-build-row__purpose { overflow: hidden; text-overflow: ellipsis; }
+  .cm-build-row__subject .cm-board-row__title { white-space: normal; overflow-wrap: anywhere; }
+  .cm-preview__row { padding: 12px 16px; }
+  .cm-preview__author, .cm-preview__purpose { display: none; }
+  .cm-pager { gap: 2px; }
+  .cm-pager__button { min-width: 34px; padding: 0 6px; }
+  .cm-pager__step { padding: 0 10px; }
+  .cm-pager__step-label { position: absolute; overflow: hidden; width: 1px; height: 1px; clip: rect(0, 0, 0, 0); white-space: nowrap; }
+  .cm-post, .cm-editor { padding: 18px 16px; }
+  .cm-post__title { font-size: 21px; }
+  .cm-request__facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .cm-request__fact--budget { grid-column: 1 / -1; }
+  .cm-quote__head, .cm-quote__summary, .cm-quote__body { padding-left: 14px; padding-right: 14px; }
+  .cm-quote__compat, .cm-quote__cart, .cm-quote__edit { padding-left: 14px; padding-right: 14px; }
+  .cm-quote__owner { padding: 0 14px 16px; }
+  .cm-quote__head .cm-gap { margin-left: 40px; }
+  .cm-quote__total strong { font-size: 22px; }
+  .cm-quote__buttons .cm-button { flex: 1 1 100%; }
+  .cm-comment, .cm-send { padding: 14px 16px; }
+  .cm-comment-form__buttons { flex: 1 1 100%; }
+  .cm-comment-form__buttons .cm-button { flex: 1 1 100%; }
+  .cm-range__value { min-width: 0; font-size: 22px; }
+  .cm-budget { width: 100%; }
+  .cm-form-actions__buttons { flex: 1 1 100%; }
+  .cm-form-actions__buttons .cm-button { flex: 1; }
+  .cm-post__body { font-size: var(--text-body); }
+}
